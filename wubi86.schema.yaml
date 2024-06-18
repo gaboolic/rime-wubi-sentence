@@ -3,20 +3,15 @@
 # https://github.com/gaboolic/rime-shuangpin-fuzhuma
 
 schema:
-  schema_id: flypy_flypy
-  name: 五笔整句
+  schema_id: wubi86
+  name: 五笔86整句
   version: "2024-04-24"
   author:
-    - Functoreality
-    - Dvel
     - gaboolic （裁缝)
   description: |
     五笔整句 https://github.com/gaboolic/rime-shuangpin-fuzhuma
   dependencies:
-    - reverse_moqima
-    - radical_flypy
     - stroke
-    - zrlf
     - emoji
     - easy_en
     - jp_sela
@@ -52,7 +47,7 @@ speller:
 
 
 user_dict_set:
-  dictionary: flypy_flypy.extended
+  dictionary: wubi86.extended
   initial_quality: 0
   enable_completion: false
   enable_sentence: false
@@ -68,7 +63,7 @@ user_dict_set:
 # 自定义词典加词(ac引导)
 add_user_dict:
   tag: add_user_dict
-  dictionary: flypy_flypy.extended
+  dictionary: wubi86.extended
   initial_quality: -1
   user_dict: user_ff.custom.dict
 # ↓ 用户词典格式，tabledb（文本） 或 userdb （二进制）。
@@ -87,7 +82,7 @@ add_user_dict:
   tips: "〔自造词〕"
 
 translator:
-  dictionary: flypy_flypy.extended
+  dictionary: wubi86.extended
   initial_quality: 10000
   enable_completion: false
   ##  默认为不超过 2 个字的候选项显示输入码；将 2 改为 0 可关闭编码提示，
