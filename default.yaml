@@ -4,7 +4,7 @@
 config_version: '0.40'
 
 schema_list:
-  - schema: flypy_flypy # 五笔整句
+  - schema: wubi86 # 五笔整句
   
 
 switcher:
