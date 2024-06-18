@@ -1,6 +1,5 @@
 # 说明
 
-开发中
 
 修改自墨奇音形<https://github.com/gaboolic/rime-shuangpin-fuzhuma>
 
