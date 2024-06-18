@@ -53,7 +53,8 @@ def update_missing_encodings(file_path, write_file_path, dict_data):
             
             encode_left = encode[0:2]
             encode_right = encode[2:]
-                
+            if len(encode_right) == 1:
+                encode_right = encode_right+'z'
                 
             clean_character = character.replace("·", "")
             character_encoding_pre = clean_character[pinyin_index]
