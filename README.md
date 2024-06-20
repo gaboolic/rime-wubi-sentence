@@ -4,11 +4,17 @@
 
 尝试一下五笔是否可以智能整句输入。
 
+五笔：
+
 ![各个国家](readmeimg/wb-gggj.png)
 
 ![充满希望](readmeimg/wubi-cmxw.png)
 
 ![醉洛阳](readmeimg/wb-zly.png)
+
+虎码：
+
+![虎码整句](readmeimg/tiger-gggg.png)
 
 ### 鸣谢
 
