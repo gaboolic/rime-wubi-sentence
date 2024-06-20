@@ -159,6 +159,10 @@ with open('program/tiger.dict.yaml', 'r', encoding='utf-8') as dict_file:
             #     continue
             character = params[0]
             encoding = params[1]
+            if len(encoding) == 2:
+                encoding = encoding + encoding[-1]+ encoding[-1]
+            if len(encoding) == 3:
+                encoding = encoding + encoding[-1]
             dict_data[character] = encoding
 
 
