@@ -16,6 +16,8 @@
 
 ![虎码整句](readmeimg/tiger-gggg.png)
 
+![虎码整句](readmeimg/tiger-zhusheye.png)
+
 ### 鸣谢
 
 五笔词库 <https://github.com/mrshiqiqi/rime-wubi>
