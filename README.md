@@ -2,7 +2,7 @@
 
 修改自墨奇音形<https://github.com/gaboolic/rime-shuangpin-fuzhuma>
 
-尝试一下五笔是否可以智能整句输入。
+尝试一下五笔是否可以智能整句输入。词库基于雾凇词库调整：https://github.com/gaboolic/rime-frost 
 
 五笔：
 
