@@ -27,3 +27,5 @@
 虎码官网 <https://www.tiger-code.com/>
 
 墨奇音形 <https://github.com/gaboolic/rime-shuangpin-fuzhuma>
+
+雾凇词库 <https://github.com/iDvel/rime-ice>
