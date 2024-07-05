@@ -109,7 +109,7 @@ with open('./program/wubi.dict.yaml', 'r', encoding='utf-8') as dict_file:
 
 for file_name in file_list:
     # File paths
-    cn_dicts_path = "cn_dicts_wb"
+    cn_dicts_path = "cn_dicts_temp"
     yaml_file_path = os.path.join(cn_dicts_path, file_name)
     write_file_path = os.path.join('cn_dicts_xh', file_name)
 

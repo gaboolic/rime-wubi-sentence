@@ -49,7 +49,7 @@ def updateFile(fileName):
     # sorted_char_freq_list = sorted(char_freq_list, key=lambda x: x[1], reverse=True)
 
 
-    write_file = open(os.path.join("cn_dicts_wb", fileName), 'w', encoding='utf-8')
+    write_file = open(os.path.join("cn_dicts_temp", fileName), 'w', encoding='utf-8')
     write_file.write(f"""# Rime dictionary
 # encoding: utf-8
 #
