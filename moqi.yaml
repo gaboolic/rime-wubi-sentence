@@ -297,17 +297,17 @@ guide:
       uppercase: "^[A-Z].*$"
       punct: '^/([0-9]|10|[A-z]+)$'
       ## 拆字、笔画、仓颉: 
-      reverse_moqima: "^amq[A-Za-z]*$" # "[[]b[a-z]*'?$"
-      reverse_chaizi: "^az[a-z]*'?$" # "[[]b[a-z]*'?$"
-      reverse_stroke: "^ab[A-Za-z]*$"
-      reverse_cj: "^acj[A-Za-z]*$"
-      reverse_zrlf: "^alf[A-Za-z]*$"
+      reverse_moqima: "^AMQ[A-Za-z]*$" # "[[]b[a-z]*'?$"
+      reverse_chaizi: "^AZ[a-z]*'?$" # "[[]b[a-z]*'?$"
+      reverse_stroke: "^AB[A-Za-z]*$"
+      reverse_cj: "^ACJ[A-Za-z]*$"
+      reverse_zrlf: "^ALF[A-Za-z]*$"
       #造词
-      add_user_dict: "^ac[A-Za-z]*$"
+      add_user_dict: "^AC[A-Za-z]*$"
 
-      emojis: "^ae[a-z]*'?$" # "^ae.*$" 
-      easy_en_simp: "^aw[a-z]*"
-      jp_sela: "^aj[a-z]*"
+      emojis: "^AE[a-z]*'?$" # "^ae.*$" 
+      easy_en_simp: "^AW[a-z]*"
+      jp_sela: "^AJ[a-z]*"
       unicode: "^U[a-f0-9]+"              # 脚本将自动获取第 2 个字符 U 作为触发前缀，响应 lua_translator@unicode，输出 Unicode 字符
       number: "^R[0-9]+[.]?[0-9]*"        # 脚本将自动获取第 2 个字符 R 作为触发前缀，响应 lua_translator@number_translator，数字金额大写
       gregorian_to_lunar: "^N[0-9]{1,8}"  # 脚本将自动获取第 2 个字符 N 作为触发前缀，响应 lua_translator@lunar，公历转农历，输入 N20240115 得到「二〇二三年腊月初五」
