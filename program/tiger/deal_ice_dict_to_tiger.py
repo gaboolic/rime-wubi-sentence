@@ -9,7 +9,9 @@ def read_file(file_path):
 def write_file(file_path, content):
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(content)
-
+def pad_to_four_chars(element):
+    # return element.zfill(5) 
+    return element.ljust(5, '0')
 # Function to update missing encodings in the file
 def update_missing_encodings(file_path, write_file_path, dict_data):
     # Read the file content
@@ -45,7 +47,10 @@ def update_missing_encodings(file_path, write_file_path, dict_data):
                 print("缺失"+char)
                 continue
             dict_encode_list = dict_data[char]
+            
             dict_encode = ';'.join(dict_encode_list)
+            dict_encode = ';'.join(pad_to_four_chars(element) for element in dict_encode_list)
+
             word_encode_list.append(dict_encode)
 
         word_encode = ' '.join(word_encode_list)
@@ -98,29 +103,27 @@ with open('program/tiger.dict.yaml', 'r', encoding='utf-8') as dict_file:
 
             encode_right = encoding[2:]
             compare_encoding = encode_left + ',' + encode_right
-            if len(encode_right) == 1:
-                encode_right = encode_right + '0'
-            if len(encode_right) == 0:
-                encode_right = '00'
+            # if len(encode_right) == 1:
+            #     encode_right = encode_right + '0'
+            # if len(encode_right) == 0:
+            #     encode_right = '00'
 
             encoding = encode_left + ',' + encode_right
             
             if character not in dict_data:
                 dict_data[character] = [encoding]
             else:
-                add_flag = True
-                if character == '纛':
-                    print("dict_data[character]:")
-                    print(dict_data[character])
-                for exist_encode in dict_data[character]:
-                    if exist_encode.startswith(encoding) or exist_encode.startswith(compare_encoding):
-                        add_flag = False
-                    if encoding.startswith(exist_encode) or encoding.startswith(exist_encode.rstrip('0') ):
-                        add_flag = False
-                if add_flag:
-                    dict_data[character].append(encoding)
-                else:
-                    pass
+                if len(dict_data[character]) == 1:
+                    if dict_data[character][0] in encoding:
+                        dict_data[character] = [encoding]
+                    else:
+                        dict_data[character].append(encoding)
+                if len(dict_data[character]) == 2:
+                    if dict_data[character][0] in encoding:
+                        dict_data[character] = [encoding,dict_data[character][1]]
+                    if dict_data[character][1] in encoding:
+                        dict_data[character] = [dict_data[character][0],encoding]
+                
 
 
 print(dict_data['巴'])
