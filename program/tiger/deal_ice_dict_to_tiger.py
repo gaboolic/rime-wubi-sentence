@@ -116,6 +116,8 @@ with open('program/tiger.dict.yaml', 'r', encoding='utf-8') as dict_file:
                 if len(dict_data[character]) == 1:
                     if dict_data[character][0] in encoding:
                         dict_data[character] = [encoding]
+                    elif encoding in dict_data[character][0]:
+                        continue
                     else:
                         dict_data[character].append(encoding)
                 if len(dict_data[character]) == 2:
