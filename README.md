@@ -2,7 +2,7 @@
 
 修改自墨奇音形<https://github.com/gaboolic/rime-shuangpin-fuzhuma>
 
-尝试一下五笔是否可以智能整句输入。词库基于雾凇词库调整：https://github.com/gaboolic/rime-frost 
+尝试一下五笔是否可以智能整句输入。词库使用根据雾凇词库修改的白霜词库调整：<https://github.com/gaboolic/rime-frost>
 
 五笔：
 
@@ -16,7 +16,11 @@
 
 ![虎码整句](readmeimg/tiger-gggg.png)
 
-![虎码整句](readmeimg/tiger-zhusheye.png)
+![虎码整句](readmeimg/tiger-cmxw.png)
+
+### todo
+
+等下次加上细胞词库
 
 ### 鸣谢
 
@@ -29,3 +33,5 @@
 墨奇音形 <https://github.com/gaboolic/rime-shuangpin-fuzhuma>
 
 雾凇词库 <https://github.com/iDvel/rime-ice>
+
+白霜词库 <https://github.com/gaboolic/rime-frost>

@@ -10,146 +10,71 @@ def write_file(file_path, content):
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(content)
 
-
 # Function to update missing encodings in the file
 def update_missing_encodings(file_path, write_file_path, dict_data):
     # Read the file content
     file_content = read_file(file_path)
-
     # Split the content into lines
     lines = file_content.split('\n')
-
     # Create an updated content variable
     updated_content = ''
 
+    char_map = {}
     # Process each line
     for line in lines:
         if '\t' not in line or line.startswith("#"):
             updated_content += line + '\n'
             continue
-
-        frequency = None
-         # 检查分割出的值是否足够
-        if len(line.split('\t')) == 3:
-            character, encoding, frequency = line.split('\t')
-        else:
-            character, encoding = line.split('\t')
         
-        if "tencent" in file_path :
-            updated_line = f"{character}\t99"
-            updated_content += updated_line + '\n'
+        char_list = line.split('\t')[0]
+        if char_list in char_map:
             continue
-        else:
-            if encoding == "100":
-                updated_content += line + '\n'
+
+        lack_flag = False
+        for char in char_list:
+            if char not in dict_data:
+                print("缺失"+char)
+                lack_flag = True
                 continue
+        if lack_flag:
+            continue
 
-        pinyin_list = encoding.split(" ")
-        double_list = ""
-        pinyin_index = 0
-        for pinyin in pinyin_list:
-            if len(pinyin) == 2:
-                double_pinyin = pinyin
-            elif len(pinyin) == 1:
-                double_pinyin = pinyin + pinyin
-            else:
-                shengmu = pinyin[0]
-                yunmu = pinyin[1:]
+        word_encode_list = []
+        for char in char_list:
+            if char not in dict_data:
+                print("缺失"+char)
+                continue
+            dict_encode_list = dict_data[char]
+            dict_encode = ';'.join(dict_encode_list)
+            word_encode_list.append(dict_encode)
 
-                double_shengmu = shengmu
-                if pinyin[1] == "h":
-                    shengmu = pinyin[:2]
-                    yunmu = pinyin[2:]
-                    shengmu_map = { "zh": "v", "ch": "i", "sh": "u" }
-                    double_shengmu = shengmu_map[shengmu]
-                
-                if double_shengmu == 'a':
-                    yunmu = pinyin
-                
-                if double_shengmu == 'o':
-                    yunmu = pinyin
-                
-                if double_shengmu == 'e':
-                    yunmu = pinyin
-                
-                yunmu_map = {
-                    'iu': 'q',
-                    'ei': 'w',
-                    'uan': 'r',
-                    'van': 'r',
-
-                    'ue': 't',
-                    've': 't',
-                    'un': 'y',
-                    'vn': 'y',
-                    'uo': 'o',
-                    'ie': 'p',
-
-                    'iong': 's',
-                    'ong': 's',
-
-                    'ai': 'd',
-                    'en': 'f',
-
-                    'eng': 'g',
-                    'ang': 'h',
-                    'an': 'j',
-
-                    'ing': 'k',
-                    'uai': 'k',
-                    'iang': 'l',
-                    'uang': 'l',
-
-                    'ou': 'z',
-                    'ia': 'x',
-                    'ua': 'x',
-                    'ao': 'c',
-                    'ui': 'v',
-                    'in': 'b',
-
-                    'iao': 'n',
-
-                    'ian': 'm',
-                };
-                
-                if len(yunmu) == 1:
-                    double_yummu = yunmu
-                else:
-                    double_yummu = yunmu_map[yunmu]
-                double_pinyin = double_shengmu + double_yummu
-
-                if len(double_pinyin) != 2:
-                    print("!!!!double_pinyin " + double_pinyin + " " + pinyin + " ")
-                
-            clean_character = character.replace("·", "")
-            character_encoding_pre = clean_character[pinyin_index]
-            # character_encoding_pre = character[pinyin_index]
-            encoding_post = dict_data.get(character_encoding_pre, "[")
-            double_list += f"{double_pinyin}[{encoding_post} "
-            pinyin_index += 1
-        
-        double_list = double_list[:-1]
-
-        if "[[" in double_list:
-            # updated_content += line + '\n'
-            pass
-
-        if "tencent" in file_path :
-            updated_line = f"{character}\t99"
+        word_encode = ' '.join(word_encode_list)
+        if char_list in word_freq:
+            freq = word_freq[char_list]
         else:
-            if frequency is not None:
-                updated_line = f"{character}\t{double_list}\t{frequency}"
-            else :
-                updated_line = f"{character}\t{double_list}"
+            freq = 0
+        updated_line = f"{char_list}\t{word_encode}\t{freq}"
         updated_content += updated_line + '\n'
+        char_map[char_list] = ''
 
     # Write the updated content back to the file
     write_file(write_file_path, updated_content)
 
+# 载入频率
+freq_file = open(os.path.expanduser("~/vscode/rime-frost/others/知频.txt"), 'r', encoding='utf-8')
+word_freq = {}
+for line in freq_file:
+    line = line.strip()
+    params = line.split("\t")
+    word = params[0]
+    freq = int(params[1])
+
+    if word in word_freq:
+        word_freq[word] += freq
+    else:
+        word_freq[word] = freq
+
 dict_data = {}
-file_list = ['8105.dict.yaml', '41448.dict.yaml', 'base.dict.yaml', 'ext.dict.yaml', 'others.dict.yaml']
-# file_list = [ 'tencent.dict.yaml']
-# Load the dict data from the provided file
 with open('program/wubi.dict.yaml', 'r', encoding='utf-8') as dict_file:
     for line in dict_file:
         if "\t" in line and not line.startswith("#"):
@@ -159,16 +84,58 @@ with open('program/wubi.dict.yaml', 'r', encoding='utf-8') as dict_file:
                 continue
             character = params[0]
             encoding = params[3] 
-            dict_data[character] = encoding
+
+            encode_left = encoding[0:2]
+            encode_right = encoding[2:]
+            if len(encode_right) == 1:
+                encode_right = encode_right + '0'
+
+            encoding = encode_left + ',' + encode_right
+            
+            if character not in dict_data:
+                dict_data[character] = [encoding]
+            else:
+                if encoding not in dict_data[character]:
+                    dict_data[character].append(encoding)
+
+with open('program/wubi86.dict.yaml', 'r', encoding='utf-8') as dict_file:
+    for line in dict_file:
+        if "\t" in line and not line.startswith("#"):
+            
+            params = line.strip().split('\t')
+            if len(params) == 4:
+                continue
+            character = params[0]
+            encoding = params[1] 
+
+            encode_left = encoding[0:2]
+            encode_right = encoding[2:]
+            if len(encode_right) == 1:
+                encode_right = encode_right + '0'
+
+            encoding = encode_left + ',' + encode_right
+            
+            if character not in dict_data:
+                dict_data[character] = [encoding]
+            else:
+                add_flag = True
+                for exist_encode in dict_data[character]:
+                    if exist_encode.startswith(encoding):
+                        add_flag = False
+                if add_flag:
+                    dict_data[character].append(encoding)
 
 
-print("巴 " + dict_data['巴'])
+print(dict_data['巴'])
+print(dict_data['不'])
+print(dict_data['𩽾'])
 
+file_list = ['8105.dict.yaml', '41448.dict.yaml', 'base.dict.yaml', 'ext.dict.yaml', 'others.dict.yaml']
 for file_name in file_list:
     # File paths
     cn_dicts_path = os.path.expanduser("~/vscode/rime-frost/cn_dicts")
     yaml_file_path = os.path.join(cn_dicts_path, file_name)
-    write_file_path = os.path.join('cn_dicts_xh', file_name)
+    write_file_path = os.path.join('cn_dicts_wb', file_name)
 
     print(yaml_file_path)
     # Update missing encodings in the file

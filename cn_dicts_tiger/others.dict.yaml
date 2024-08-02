@@ -1,211 +1,509 @@
 # Rime dictionary
 # encoding: utf-8
 #
+#
+# https://github.com/iDvel/rime-ice
+# ------- 一些杂项，按需选择 -------
+#
+#
 ---
-name: others.dict.yaml
+name: others
 version: "2024-05-21"
 sort: by_weight
 ...
-空落落	eu[gg lk[sg lk[sg	0
-空落落的	eu[gg lk[sg lk[sg un[id	0
-阿房宫	tz[kk ml[ff wd[dk	0
-阿房宫赋	tz[kk ml[ff wd[dk of[ps	0
-伯伯	ju[bb ju[bb	0
-远上寒山石径斜	mp[uc yf[ii wq[hw vs[ss ms[ss wr[ug jx[jd	0
-坐骑	jj[gt nm[zk	0
-铁骑	zt[hf nm[zk	0
-一骑绝尘	fi[ii nm[zk ix[mb yg[tt	0
-一骑当千	fi[ii nm[zk yb[jj lq[qq	0
-一骑红尘妃子笑	fi[ii nm[zk iu[gg yg[tt bv[jj hi[ii rt[md	0
-走单骑	pz[zz hq[ns nm[zk	0
-千里走单骑	lq[qq dl[ll pz[zz hq[ns nm[zk	0
-仆街	jy[bb pg[gt	0
-扑街	uy[bb pg[gt	0
-扑街仔	uy[bb pg[gt jh[ii	0
-仆街仔	jy[bb pg[gt jh[ii	0
-街溜子	pg[gt kb[qt hi[ii	0
-郭明錤	gh[te ov[yy zz[hb	0
-李昌镐	eh[ii oo[rr zg[gg	0
-曹世镐	fy[or la[ee zg[gg	0
-张镐哲	bp[cc zg[gg ut[dk	0
-姜成镐	gb[nn na[ee zg[gg	0
-姜镐童	gb[nn zg[gg id[ll	0
-张镐濂	bp[cc zg[gg kx[hc	0
-李敏镐	eh[ii ek[hp zg[gg	0
-李陈镐	eh[ii tr[yx zg[gg	0
-赵亮镐	pb[ii go[jj zg[gg	0
-郑俊镐	hm[te jk[hh zg[gg	0
-馄饨	qo[vv qf[sc	0
-主角	in[ww xt[yy	0
-角色	xt[yy xm[bb	0
-比萨	vv[bb lt[ix	0
-比萨饼	vv[bb lt[ix qh[lc	0
-吃比萨	de[ai vv[bb lt[ix	0
-说服	sh[dp vz[ry	0
-道行	ho[uc px[xx	0
-模样	el[om eg[yy	0
-有模有样	nv[yy el[om nv[yy eg[yy	0
-一模一样	fi[ii el[om fi[ii eg[yy	0
-装模作样	ag[ti el[om jw[aa eg[yy	0
-人模狗样	jr[rr el[om mg[jj eg[yy	0
-模板	el[om ex[ry	0
-阿弥陀佛	tz[kk bx[yx tw[vb jt[ff	0
-南无阿弥陀佛	nm[gy du[uu tz[kk bx[yx tw[vb jt[ff	0
-给予	ij[dk iv[vv	0
-槟榔	ew[th ei[it	0
-张柏芝	bp[cc eu[bb lr[ii	0
-藤蔓	lv[hk lo[yr	0
-弄堂	nl[cc sg[tt	0
-心宽体胖	hx[xx wl[ej je[fi vh[us	0
-埋怨	gd[ll lz[hx	0
-虚与委蛇	zc[yy fa[fi xb[nn cw[vb	0
-木讷	em[mm sm[jr	0
-独乐乐	mc[cc by[xx by[xx	0
-众乐乐	jj[jr by[xx by[xx	0
-荨麻	lb[kc zm[mm	0
-荨麻疹	lb[kc zm[mm aj[es	0
-模具	el[om qh[bb	0
-草薙	lo[ns lo[ui	0
-草薙京	lo[ns lo[ui gy[xx	0
-草薙剑	lo[ns lo[ui jk[fp	0
-贾平凹	vo[bb eh[bb mf[ii	0
-雪佛兰	tb[jj jt[ff ht[ss	0
-强劲	bd[cc ru[sl	0
-胴体	vm[fd je[fi	0
-力能扛鼎	sl[ll kv[vv uu[gg qa[ap	0
-鸭绿江	sx[nn ib[ks ku[gg	0
-大腹便便	md[dd ve[oh jf[ob jf[ob	0
-卡脖子	yf[yb vn[wh hi[ii	0
-吱声	dc[ii gc[ss	0
-掺和	uk[me xd[kk	0
-称职	xx[yx qd[hb	0
-螺蛳粉	cq[is cp[fr ph[pd	0
-调换	sm[gd ux[mm	0
-太行山	mi[dd px[xx vs[ss	0
-歇斯底里	on[fe zh[tj xb[id dl[ll	0
-暖和	oy[fr xd[kk	0
-模棱两可	el[om eg[hh ml[ll zk[kk	0
-鄱阳湖	tp[qt to[rr kc[vy	0
-脖颈	vn[wh ru[wy	0
-脖颈儿	vn[wh ru[wy pe[ee	0
-结扎	ig[dk ua[ee	0
-海参崴	ke[km km[es vn[fb	0
-厚朴	xo[hi ey[bb	0
-大宛马	md[dd wl[zj nm[mm	0
-龇牙	ls[vb ly[yy	0
-龇着牙	ls[vb gq[mm ly[yy	0
-龇牙咧嘴	ls[vb ly[yy dg[pd ds[vt	0
-头皮屑	wm[dd rp[pp cy[vy	0
-六安	al[ll wb[nn	0
-六安县	al[ll wb[nn fk[ss	0
-六安市	al[ll wb[nn zr[jj	0
-六合区	al[ll jd[kk nb[ii	0
-安徽六安	wb[nn wv[fi al[ll wb[nn	0
-安徽六安市	wb[nn wv[fi al[ll wb[nn zr[jj	0
-安徽省六安市	wb[nn wv[fi yt[qm al[ll wb[nn zr[jj	0
-南京六合	nm[gy gy[xx al[ll jd[kk	0
-南京六合区	nm[gy gy[xx al[ll jd[kk nb[ii	0
-南京市六合区	nm[gy gy[xx zr[jj al[ll jd[kk nb[ii	0
-偌大	jl[nd md[dd	0
-饮鸩止渴	qe[qq wp[xn si[ii ko[nf	0
-饮鸩解渴	qe[qq wp[xn xt[pq ko[nf	0
-曾经	hr[yo ir[ug	0
-曾今	hr[yo ja[ee	0
-按捺	uw[bn um[fs	0
-按耐	uw[bn lk[cc	0
-按捺不住	uw[bn um[fs cb[bb ji[nw	0
-按耐不住	uw[bn lk[cc cb[bb ji[nw	0
-别价	ds[pd jj[pd	0
-别介	ds[pd jp[dd	0
-甭价	ct[yy jj[pd	0
-甭介	ct[yy jp[dd	0
-血脉贲张	ta[mm vi[ks nl[ob bp[cc	0
-血脉偾张	ta[mm vi[ks jn[lo bp[cc	0
-血脉喷张	ta[mm vi[ks dn[lo bp[cc	0
-契诃夫	ap[md sz[kk hf[ff	0
-契科夫	ap[md xj[dd hf[ff	0
-凑合	wa[im jd[kk	0
-凑活	wa[im ka[ss	0
-巨惠	nn[kk nq[kh	0
-钜惠	zn[nk nq[kh	0
-摩羯座	zu[ss go[nf xj[jg	0
-魔蝎座	za[gg co[nf xj[jg	0
-两个厶	ml[ll jg[ss ks[ss	0
-两个𡥦	ml[ll jg[ss hh[hi	0
-两个彐	ml[ll jg[ss bj[jj	0
-两个𢎘	ml[ll jg[ss nm[mm	0
-两个魚	ml[ll jg[ss wv[vv	0
-两个朿	ml[ll jg[ss em[kk	0
-两个巛	ml[ll jg[ss oc[cc	0
-两个罒	ml[ll jg[ss ys[ss	0
-两个㐅	ml[ll jg[ss bi[ii	0
-两个風	ml[ll jg[ss ot[cc	0
-两个屮	ml[ll jg[ss sc[cc	0
-两个卄	ml[ll jg[ss lc[cc	0
-两个龍	ml[ll jg[ss tl[ll	0
-两个馬	ml[ll jg[ss nm[mm	0
-两个卪	ml[ll jg[ss zj[jj	0
-两个㔾	ml[ll jg[ss zj[jj	0
-两个隻	ml[ll jg[ss ur[yy	0
-两个來	ml[ll jg[ss ej[jr	0
-两个桼	ml[ll jg[ss ej[ks	0
-两个旡	ml[ll jg[ss du[uu	0
-两个見	ml[ll jg[ss ej[jj	0
-两个貝	ml[ll jg[ss ob[bb	0
-两个禺	ml[ll jg[ss qv[rr	0
-两个巿	ml[ll jg[ss fr[jj	0
-两个車	ml[ll jg[ss yc[cc	0
-两个區	ml[ll jg[ss nd[dd	0
-两个隹	ml[ll jg[ss ui[ii	0
-两个𠂢	ml[ll jg[ss xt[ii	0
-两个畐	ml[ll jg[ss fd[qt	0
-两个㣇	ml[ll jg[ss be[rj	0
-两个堯	ml[ll jg[ss gg[gp	0
-两个倉	ml[ll jg[ss jm[dk	0
-两个東	ml[ll jg[ss eo[rm	0
-两个僉	ml[ll jg[ss jd[dj	0
-两个齒	ml[ll jg[ss lc[cc	0
-两个夋	ml[ll jg[ss kh[hi	0
-三个雲	ts[ss jg[ss tb[yy	0
-三个厶	ts[ss jg[ss ks[ss	0
-三个屮	ts[ss jg[ss sc[cc	0
-三个車	ts[ss jg[ss yc[cc	0
-三个隹	ts[ss jg[ss ui[ii	0
-三个風	ts[ss jg[ss ot[cc	0
-三个飛	ts[ss jg[ss cf[ff	0
-三个魚	ts[ss jg[ss wv[vv	0
-三个龍	ts[ss jg[ss tl[ll	0
-三个丶	ts[ss jg[ss id[dd	0
-三个圥	ts[ss jg[ss gp[ee	0
-三个𠙽	ts[ss jg[ss gm[kk	0
-三个𠧪	ts[ss jg[ss yr[jj	0
-三个㔾	ts[ss jg[ss zj[jj	0
-三个厡	ts[ss jg[ss xu[ks	0
-三个𦉼	ts[ss jg[ss ym[dd	0
-三个朿	ts[ss jg[ss em[kk	0
-三个𣥚	ts[ss jg[ss tm[si	0
-三个県	ts[ss jg[ss qa[yx	0
-三个亇	ts[ss jg[ss xg[ss	0
-三个罒	ts[ss jg[ss ys[ss	0
-三个羗	ts[ss jg[ss ga[ks	0
-三个興	ts[ss jg[ss pm[fh	0
-三个㖖	ts[ss jg[ss nd[kk	0
-三个門	ts[ss jg[ss am[mm	0
-三个頁	ts[ss jg[ss wy[yy	0
-三个鳥	ts[ss jg[ss xn[nn	0
-三个動	ts[ss jg[ss ld[sl	0
-三个𡿨	ts[ss jg[ss ae[ee	0
-三个䖝	ts[ss jg[ss tc[cc	0
-三个丿	ts[ss jg[ss tp[pp	0
-四个乂	ys[ss jg[ss bi[ii	0
-四个厶	ys[ss jg[ss ks[ss	0
-四个屮	ys[ss jg[ss sc[cc	0
-四个魚	ys[ss jg[ss wv[vv	0
-四个朿	ys[ss jg[ss em[kk	0
-四个門	ys[ss jg[ss am[mm	0
-四个車	ys[ss jg[ss yc[cc	0
-四个風	ys[ss jg[ss ot[cc	0
-四个雲	ys[ss jg[ss tb[yy	0
-四个興	ys[ss jg[ss pm[fh	0
-四个龍	ys[ss jg[ss tl[ll	0
+##### 容错词
+# 一些口语读音
+空落落	eu,g0 lk,sg lk,sg	16
+空落落的	eu,g0 lk,sg lk,sg un,id	87
+# 「阿房宫」的注音争议比较大
+阿房宫	tz,k0 ml,f0 wd,dk	180
+阿房宫赋	tz,k0 ml,f0 wd,dk of,ps	44
+# 「伯伯」方言
+伯伯	ju,b0 ju,b0	464
+# 「斜」的古音
+远上寒山石径斜	mp,uc yf,i0 wq,hw vs,00 ms,00 wr,ug jx,jd	38
+# 「骑」目前统读 qi
+坐骑	jj,gt nm,zk	965
+铁骑	zt,hf nm,zk	291
+一骑绝尘	fi,00 nm,zk ix,mb yg,t0	684
+一骑当千	fi,00 nm,zk yb,j0 lq,00	53
+一骑红尘妃子笑	fi,00 nm,zk iu,g0 yg,t0 bv,j0 hi,00 rt,md	37
+走单骑	pz,00 hq,ns nm,zk	0
+千里走单骑	lq,00 dl,00 pz,00 hq,ns nm,zk	100
+# 「街」的粤语和东北话读音及常见的两种写法
+仆街	jy,b0 pg,gt	37
+扑街	uy,b0 pg,gt	1257
+扑街仔	uy,b0 pg,gt jh,i0	20
+仆街仔	jy,b0 pg,gt jh,i0	0
+街溜子	pg,gt kb,qt hi,00	70
+# 「錤」这个字念 ji，但是台湾媒体都会念成 qi，他的英文名 Ming-Chi Kuo 也是接近 qi
+郭明錤	gh,te ov,y0 zz,hb	38
+# 「镐 gao hao」的发音，多为韩国人名，不知道 🤷‍♂️，词库里为 gao，这里额外加上 hao 音
+李昌镐	eh,i0 oo,r0 zg,g0	242
+曹世镐	fy,or la,e0 zg,g0	0
+张镐哲	bp,c0 zg,g0 ut,dk	0
+姜成镐	gb,n0 na,e0 zg,g0	5
+姜镐童	gb,n0 zg,g0 id,l0	0
+张镐濂	bp,c0 zg,g0 kx,hc	7
+李敏镐	eh,i0 ek,hp zg,g0	28
+李陈镐	eh,i0 tr,yx zg,g0	2
+赵亮镐	pb,i0 go,j0 zg,g0	5
+郑俊镐	hm,te jk,hh zg,g0	1
+
+
+##### 错音错字提示。与 corrector.lua 配合，上面的是正确的，下面是错误的
+### 错音
+馄饨	qo,vv qf,sc	726
+主角	in,w0 xt,y0	24120
+角色	xt,y0 xm,b0	20042
+比萨	vv,b0 lt,ix	167
+比萨饼	vv,b0 lt,ix qh,lc	23
+吃比萨	de,ai vv,b0 lt,ix	5
+说服	sh,dp vz,ry	5563
+道行	ho,uc px,00	269
+模样	el,om eg,y0	5186
+有模有样	nv,y0 el,om nv,y0 eg,y0	279
+一模一样	fi,00 el,om fi,00 eg,y0	5083
+装模作样	ag,ti el,om jw,a0 eg,y0	485
+人模狗样	jr,00 el,om mg,j0 eg,y0	146
+模板	el,om ex,ry	14654
+阿弥陀佛	tz,k0 bx,yx tw,vb jt,f0	371
+南无阿弥陀佛	nm,gy du,00 tz,k0 bx,yx tw,vb jt,f0	42
+给予	ij,dk iv,00	11360
+槟榔	ew,th ei,it	533
+张柏芝	bp,c0 eu,b0 lr,i0	749
+藤蔓	lv,hk lo,yr	320
+弄堂	nl,c0 sg,t0	126
+心宽体胖	hx,00 wl,ej je,fi vh,us	39
+埋怨	gd,l0 lz,hx	1141
+虚与委蛇	zc,y0 fa,fi xb,n0 cw,vb	93
+木讷	em,00 sm,jr	428
+独乐乐	mc,c0 by,x0 by,x0	13
+众乐乐	jj,jr by,x0 by,x0	20
+荨麻	lb,kc zm,00	71
+荨麻疹	lb,kc zm,00 aj,es	198
+模具	el,om qh,b0	1937
+草薙	lo,ns lo,ui	88
+草薙京	lo,ns lo,ui gy,x0	144
+草薙剑	lo,ns lo,ui jk,fp	17
+贾平凹	vo,b0 eh,b0 mf,i0	247
+雪佛兰	tb,j0 jt,f0 ht,s0	366
+强劲	bd,cc ru,sl	1498
+胴体	vm,fd je,fi	80
+力能扛鼎	sl,00 kv,vv uu,g0 qa,ap	26
+鸭绿江	sx,n0 ib,ks ku,g0	152
+大腹便便	md,00 ve,oh jf,ob jf,ob	147
+卡脖子	yf,yb vn,wh hi,00	308
+吱声	dc,i0 gc,s0	147
+掺和	uk,me xd,k0	438
+称职	xx,yx qd,hb	90
+螺蛳粉	cq,is cp,fr ph,pd	551
+调换	sm,gd ux,mm	618
+太行山	mi,d0 px,00 vs,00	388
+歇斯底里	on,fe zh,tj xb,id dl,00	878
+暖和	oy,fr xd,k0	732
+模棱两可	el,om eg,hh ml,00 zk,00	848
+鄱阳湖	tp,qt to,r0 kc,vy	1291
+脖颈	vn,wh ru,wy	483
+脖颈儿	vn,wh ru,wy pe,00	1
+结扎	ig,dk ua,e0	126
+海参崴	ke,km km,es vn,fb	304
+厚朴	xo,hi ey,b0	52
+大宛马	md,00 wl,zj nm,00	9
+龇牙	ls,vb ly,00	60
+龇着牙	ls,vb gq,m0 ly,00	14
+龇牙咧嘴	ls,vb ly,00 dg,pd ds,vt	166
+头皮屑	wm,d0 rp,00 cy,vy	501
+六安	al,00 wb,n0	109
+六安县	al,00 wb,n0 fk,s0	4
+六安市	al,00 wb,n0 zr,j0	23
+六合区	al,00 jd,k0 nb,i0	3
+安徽六安	wb,n0 wv,fi;wv,fh al,00 wb,n0	15
+安徽六安市	wb,n0 wv,fi;wv,fh al,00 wb,n0 zr,j0	3
+安徽省六安市	wb,n0 wv,fi;wv,fh yt,qm al,00 wb,n0 zr,j0	8
+南京六合	nm,gy gy,x0 al,00 jd,k0	5
+南京六合区	nm,gy gy,x0 al,00 jd,k0 nb,i0	1
+南京市六合区	nm,gy gy,x0 zr,j0 al,00 jd,k0 nb,i0	2
+偌大	jl,nd md,00	642
+饮鸩止渴	qe,q0 wp,xn si,00 ko,nf	336
+饮鸩解渴	qe,q0 wp,xn xt,pq ko,nf	0
+### 错字
+曾经	hr,yo ir,ug	39650
+曾今	hr,yo ja,e0	105
+按捺	uw,bn um,fs	75
+按耐	uw,bn lk,c0	8
+按捺不住	uw,bn um,fs cb,00 ji,nw	296
+按耐不住	uw,bn lk,c0 cb,00 ji,nw	0
+别价	ds,pd jj,pd	1
+别介	ds,pd jp,d0	31
+甭价	ct,y0 jj,pd	0
+甭介	ct,y0 jp,d0	0
+血脉贲张	ta,m0 vi,ks nl,ob bp,c0	49
+血脉偾张	ta,m0 vi,ks jn,lo bp,c0	36
+血脉喷张	ta,m0 vi,ks dn,lo bp,c0	0
+契诃夫	ap,md sz,k0 hf,00	437
+契科夫	ap,md xj,d0 hf,00	0
+凑合	wa,im jd,k0	1613
+凑活	wa,im ka,s0	245
+巨惠	nn,k0 nq,kh	0
+钜惠	zn,nk nq,kh	0
+摩羯座	zu,s0 go,nf xj,jg	101
+魔蝎座	za,g0 co,nf xj,jg	0
+
+
+##### 叠字
+# 数据来源： https://zh.wikipedia.org/zh-cn/%E4%BA%8C%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8F%A0%E5%AD%97
+# 二叠字
+两个火
+两个土
+两个一
+两个二
+两个山
+两个口
+两个田
+两个九
+两个人
+两个飞
+两个戈
+两个厶	ml,00 jg,s0 ks,00	0
+两个又
+两个香
+两个面
+两个兀
+两个女
+两个𡥦	ml,00 jg,s0 hh,hi	0
+两个臣
+两个巾
+两个左
+两个母
+两个来
+两个凡
+两个夕
+两个彐	ml,00 jg,s0 bj,j0	0
+两个𢎘	ml,00 jg,s0 nm,00	0
+两个魚	ml,00 jg,s0 wv,00	0
+两个明
+两个朿	ml,00 jg,s0 em,k0	0
+两个乂
+两个曰
+两个尸
+两个户
+两个大
+两个八
+两个而
+两个羊
+两个吉
+两个马
+两个卅
+两个巛	ml,00 jg,s0 oc,00	0
+两个止
+两个比
+两个言
+两个申
+两个牛
+两个余
+两个束
+两个罒	ml,00 jg,s0 ys,s0	0
+两个㐅	ml,00 jg,s0 bi,00	0
+两个金
+两个木
+两个水
+两个火
+两个風	ml,00 jg,s0 ot,cc	0
+两个石
+两个口
+两个日
+两个月
+两个目
+两个白
+两个百
+两个耳
+两个山
+两个屮	ml,00 jg,s0 sc,00	0
+两个廿
+两个卄	ml,00 jg,s0 lc,00	0
+两个虫
+两个虎
+两个龍	ml,00 jg,s0 tl,00	0
+两个馬	ml,00 jg,s0 nm,m0	0
+两个犬
+两个人
+两个入
+两个习
+两个卪	ml,00 jg,s0 zj,00	0
+两个㔾	ml,00 jg,s0 zj,00	0
+两个几
+两个乙
+两个大
+两个夫
+两个禾
+两个干
+两个井
+两个斤
+两个片
+两个牙
+两个炎
+两个弓
+两个永
+两个亦
+两个手
+两个毛
+两个王
+两个男
+两个女
+两个又
+两个支
+两个隻	ml,00 jg,s0 ur,y0	0
+两个古
+两个吉
+两个舌
+两个言
+两个户
+两个启
+两个來	ml,00 jg,s0 ej,jr	0
+两个桼	ml,00 jg,s0 ej,ks	0
+两个旡	ml,00 jg,s0 du,00	0
+两个夕
+两个歹
+两个匕
+两个幺
+两个玄
+两个心
+两个力
+两个欠
+两个子
+两个予
+两个享
+两个立
+两个音
+两个竟
+两个竞
+两个兄
+两个見	ml,00 jg,s0 ej,00	0
+两个貝	ml,00 jg,s0 ob,00	0
+两个辛
+两个瓜
+两个呆
+两个果
+两个鸟
+两个巢
+两个禺	ml,00 jg,s0 qv,r0	0
+两个巿	ml,00 jg,s0 fr,j0	0
+两个句
+两个奇
+两个真
+两个尹
+两个昔
+两个易
+两个臣
+两个面
+两个先
+两个老
+两个示
+两个至
+两个生
+两个車	ml,00 jg,s0 yc,c0	0
+两个足
+两个區	ml,00 jg,s0 nd,dd	0
+两个香
+两个隹	ml,00 jg,s0 ui,i0	0
+两个牟
+两个豕
+两个𠂢	ml,00 jg,s0 xt,i0	0
+两个畐	ml,00 jg,s0 fd,qt	0
+两个㣇	ml,00 jg,s0 be,rj	0
+两个邑
+两个堯	ml,00 jg,s0 gg,gp	0
+两个秉
+两个倉	ml,00 jg,s0 jm,dk	0
+两个東	ml,00 jg,s0 eo,rm	0
+两个善
+两个僉	ml,00 jg,s0 jd,dj	0
+两个齒	ml,00 jg,s0 lc,00	0
+两个喜
+两个走
+两个止
+两个昌
+两个串
+两个米
+两个束
+两个隶
+两个不
+两个龙
+两个乞
+两个夋	ml,00 jg,s0 kh,hi	0
+两个天
+# 三叠字
+三个生
+三个秦
+三个若
+三个雲	ts,00 jg,s0 tb,y0	0
+三个人
+三个刀
+三个十
+三个力
+三个原
+三个厶	ts,00 jg,s0 ks,00	0
+三个又
+三个口
+三个七
+三个吉
+三个土
+三个士
+三个女
+三个子
+三个小
+三个心
+三个手
+三个日
+三个木
+三个止
+三个毛
+三个水
+三个泉
+三个火
+三个牛
+三个犬
+三个田
+三个白
+三个目
+三个直
+三个石
+三个羊
+三个耳
+三个舌
+三个屮	ts,00 jg,s0 sc,00	0
+三个虫
+三个言
+三个贝
+三个車	ts,00 jg,s0 yc,c0	0
+三个金
+三个隹	ts,00 jg,s0 ui,i0	0
+三个雷
+三个風	ts,00 jg,s0 ot,cc	0
+三个飛	ts,00 jg,s0 cf,f0	0
+三个香
+三个马
+三个魚	ts,00 jg,s0 wv,00	0
+三个鹿
+三个龍	ts,00 jg,s0 tl,00	0
+三个个
+三个丶	ts,00 jg,s0 id,d0	0
+三个了
+三个介
+三个企
+三个舍
+三个圥	ts,00 jg,s0 gp,e0	0
+三个光
+三个兔
+三个全
+三个𠙽	ts,00 jg,s0 gm,k0	0
+三个𠧪	ts,00 jg,s0 yr,jj	0
+三个㔾	ts,00 jg,s0 zj,00	0
+三个厡	ts,00 jg,s0 xu,ks	0
+三个可
+三个因
+三个夏
+三个大
+三个天
+三个太
+三个𦉼	ts,00 jg,s0 ym,d0	0
+三个宝
+三个宜
+三个客
+三个寒
+三个少
+三个山
+三个市
+三个文
+三个斗
+三个朿	ts,00 jg,s0 em,k0	0
+三个束
+三个林
+三个果
+三个欠
+三个𣥚	ts,00 jg,s0 tm,si	0
+三个爪
+三个妥
+三个用
+三个甲
+三个百
+三个盖
+三个県	ts,00 jg,s0 qa,yx	0
+三个空
+三个亇	ts,00 jg,s0 xg,s0	0
+三个竹
+三个罒	ts,00 jg,s0 ys,s0	0
+三个羗	ts,00 jg,s0 ga,ks	0
+三个老
+三个月
+三个至
+三个興	ts,00 jg,s0 pm,fh	0
+三个足
+三个㖖	ts,00 jg,s0 nd,k0	0
+三个門	ts,00 jg,s0 am,00	0
+三个面
+三个頁	ts,00 jg,s0 wy,y0	0
+三个鳥	ts,00 jg,s0 xn,00	0
+三个男
+三个立
+三个九
+三个也
+三个加
+三个動	ts,00 jg,s0 ld,sl	0
+三个千
+三个方
+三个朔
+三个玉
+三个申
+三个𡿨	ts,00 jg,s0 ae,00	0
+三个去
+三个弓
+三个䖝	ts,00 jg,s0 tc,c0	0
+三个丿	ts,00 jg,s0 tp,p0	0
+三个户
+三个瓜
+三个鸟
+三个米
+# 四叠字
+四个乂	ys,00 jg,s0 bi,00	0
+四个人
+四个厶	ys,00 jg,s0 ks,00	0
+四个又
+四个匕
+四个工
+四个口
+四个天
+四个小
+四个屮	ys,00 jg,s0 sc,00	0
+四个火
+四个牛
+四个魚	ys,00 jg,s0 wv,00	0
+四个月
+四个日
+四个林
+四个水
+四个石
+四个田
+四个甲
+四个且
+四个囚
+四个困
+四个竹
+四个老
+四个朿	ys,00 jg,s0 em,k0	0
+四个先
+四个金
+四个泉
+四个言
+四个門	ys,00 jg,s0 am,00	0
+四个果
+四个春
+四个車	ys,00 jg,s0 yc,c0	0
+四个風	ys,00 jg,s0 ot,cc	0
+四个雷
+四个雲	ys,00 jg,s0 tb,y0	0
+四个興	ys,00 jg,s0 pm,fh	0
+四个龍	ys,00 jg,s0 tl,00	0
+四个土
 
