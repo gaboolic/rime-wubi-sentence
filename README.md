@@ -4,6 +4,8 @@
 
 尝试一下五笔是否可以智能整句输入。词库使用根据雾凇词库修改的白霜词库调整：<https://github.com/gaboolic/rime-frost>
 
+已兼容同一个字不同的编码打法，已兼容3码全码。全码后跟/可以只出单字。
+
 五笔：
 
 ![各个国家](readmeimg/wb-gggj.png)
