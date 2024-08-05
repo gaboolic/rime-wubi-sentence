@@ -6,6 +6,7 @@ config_version: '0.40'
 schema_list:
   - schema: wubi86 # 五笔整句
   - schema: tiger # 虎码整句
+  - schema: yustar # 宇·星陳整句
   
 
 switcher:
