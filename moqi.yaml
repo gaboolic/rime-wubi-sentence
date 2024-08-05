@@ -184,7 +184,7 @@ reverse:
     tag: reverse_moqima
     dictionary: reverse_moqima
     enable_completion: true
-    prefix: "amq"
+    prefix: "AMQ"
     suffix: "'"
     tips: 〔墨奇反查〕
     preedit_format:
@@ -194,7 +194,7 @@ reverse:
     tag: reverse_chaizi
     dictionary: radical_flypy # https://github.com/mirtlecn/rime-radical-pinyin
     enable_completion: true
-    prefix: "az"
+    prefix: "AZ"
     suffix: "'"
     tips: 〔部件组字〕
     preedit_format:
@@ -204,7 +204,7 @@ reverse:
     tag: reverse_zrlf
     dictionary: zrlf
     enable_completion: true
-    prefix: "alf"
+    prefix: "ALF"
     suffix: "'"
     tips: 〔自然兩分〕
     preedit_format:
@@ -214,7 +214,7 @@ reverse:
     tag: reverse_cj
     dictionary: cangjie5
     enable_completion: true
-    prefix: "acj"
+    prefix: "ACJ"
     suffix: "'"
     tips: 〔仓颉〕
     preedit_format:
@@ -225,7 +225,7 @@ reverse:
     tag: reverse_stroke
     dictionary: stroke # stroke
     enable_completion: true
-    prefix: "ab"
+    prefix: "AB"
     suffix: "'"
     tips: 〔筆畫hspnz〕 # 〔筆畫〕
     preedit_format:
@@ -316,7 +316,7 @@ guide:
     tag: emojis
     dictionary: emoji
     enable_completion: true
-    prefix: "ae"
+    prefix: "AE"
     #suffix: "'"
     tips: " Emoji"
 
@@ -325,7 +325,7 @@ guide:
     dictionary: easy_en
     enable_completion: true
     enable_sentence: false
-    prefix: "aw"
+    prefix: "AW"
     # suffix: "'"
     tips: "英文单词（可去元音）"
     spelling_hints: 9
@@ -337,7 +337,7 @@ guide:
     dictionary: jp_sela
     enable_completion: true
     enable_sentence: false
-    prefix: "aj"
+    prefix: "AJ"
     # suffix: "'"
     tips: "日语"
     spelling_hints: 9
@@ -413,5 +413,5 @@ big_char_and_user_dict:
       
     comment_format:
       - "xform/(^|[ '])[^[]+[[]/$1/" ## 编码提示只显示辅助码部分
-    prefix: "ac"
+    prefix: "AC"
     tips: "〔自造词〕"
