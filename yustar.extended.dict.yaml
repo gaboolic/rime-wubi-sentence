@@ -18,7 +18,6 @@ use_preset_vocabulary: false
 #雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
 
 import_tables:
-  ## 雾凇拼音 https://github.com/iDvel/rime-ice
   - cn_dicts_yustar/8105     # 字表
   - cn_dicts_yustar/41448
   

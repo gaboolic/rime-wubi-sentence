@@ -9,7 +9,7 @@ schema:
   author:
     - gaboolic （裁缝)
   description: |
-    虎码整句 https://github.com/gaboolic/rime-shuangpin-fuzhuma
+    宇·星陳整句 https://github.com/gaboolic/rime-shuangpin-fuzhuma
   dependencies:
     - stroke
     - emoji
