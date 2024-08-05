@@ -7,6 +7,7 @@ schema_list:
   - schema: wubi86 # 五笔整句
   - schema: tiger # 虎码整句
   - schema: yustar # 宇·星陳整句
+  - schema: yucloud # 宇·卿云整句
   
 
 switcher:
