@@ -3,13 +3,13 @@
 # https://github.com/gaboolic/rime-shuangpin-fuzhuma
 
 schema:
-  schema_id: yucloud
-  name: 宇·卿云整句
+  schema_id: yustar_fluency
+  name: 宇浩·星陳整句
   version: "2024-04-24"
   author:
     - gaboolic （裁缝)
   description: |
-    宇·卿云整句 https://github.com/gaboolic/rime-shuangpin-fuzhuma
+    宇浩·星陳整句 https://github.com/gaboolic/rime-wubi-sentence
   dependencies:
     - stroke
     - emoji
@@ -50,7 +50,7 @@ speller:
 
 
 user_dict_set:
-  dictionary: yucloud.extended
+  dictionary: yustar_fluency.extended
   initial_quality: 0
   enable_completion: false
   enable_sentence: false
@@ -66,7 +66,7 @@ user_dict_set:
 # 自定义词典加词(ac引导)
 add_user_dict:
   tag: add_user_dict
-  dictionary: yucloud.extended
+  dictionary: yustar_fluency.extended
   initial_quality: -1
   user_dict: user_tg.custom.dict
 # ↓ 用户词典格式，tabledb（文本） 或 userdb （二进制）。
@@ -85,7 +85,7 @@ add_user_dict:
   tips: "〔自造词〕"
 
 translator:
-  dictionary: yucloud.extended
+  dictionary: yustar_fluency.extended
   initial_quality: 10000
   enable_completion: false
   ##  默认为不超过 2 个字的候选项显示输入码；将 2 改为 0 可关闭编码提示，
@@ -133,7 +133,7 @@ key_binder:
 
 custom_phrase:
   dictionary: ""
-  user_dict: custom_phrase/custom_phrase_yucloud
+  user_dict: custom_phrase/custom_phrase_yustar
   db_class: stabledb
   enable_completion: false
   enable_sentence: false

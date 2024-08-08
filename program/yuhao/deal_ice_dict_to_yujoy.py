@@ -138,7 +138,7 @@ for file_name in file_list:
     # File paths
     cn_dicts_path = os.path.expanduser("~/vscode/rime-frost/cn_dicts")
     yaml_file_path = os.path.join(cn_dicts_path, file_name)
-    write_file_path = os.path.join('cn_dicts_yucloud', file_name)
+    write_file_path = os.path.join('cn_dicts_yujoy', file_name)
 
     print(yaml_file_path)
     # Update missing encodings in the file
