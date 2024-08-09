@@ -26,6 +26,12 @@
 
 ![星陳整句](readmeimg/yustar-cmxw.png)
 
+字源：
+
+![字源整句](readmeimg/zy-chiba.png)
+
+![字源整句](readmeimg/zy-bashe.png)
+
 ### todo
 
 等下次加上细胞词库
