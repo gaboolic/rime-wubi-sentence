@@ -8,6 +8,7 @@ schema_list:
   - schema: tiger # 虎码整句
   - schema: yustar # 宇·星陳整句
   - schema: yucloud # 宇·卿云整句
+  - schema: ziyuan # 字源整句
   
 
 switcher:
