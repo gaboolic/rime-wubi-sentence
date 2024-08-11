@@ -1,0 +1,34 @@
+name: release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  generate-txt:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'  # 你可以根据需要选择 Python 版本
+
+        
+    - name: Generate rime zip
+      run: |
+        python program/release/generate_rime_all_schema_zip.py  # 运行你的 Python 脚本
+        
+
+    - name: Upload rime-schemas
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      with:
+        asset_path: rime-sentence-schemas.zip
+        asset_name: rime-sentence-schemas.zip
+        asset_content_type: application/zip
+        upload_url: ${{ github.event.release.upload_url }}
