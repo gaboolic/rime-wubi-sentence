@@ -96,13 +96,9 @@ with open('program/tiger.dict.yaml', 'r', encoding='utf-8') as dict_file:
             encoding = params[1]
             if len(encoding) == 1:
                 continue
-            if character == '纛':
-                print("纛")
-                print(line)
             encode_left = encoding[0:2]
 
             encode_right = encoding[2:]
-            compare_encoding = encode_left + ',' + encode_right
             # if len(encode_right) == 1:
             #     encode_right = encode_right + '0'
             # if len(encode_right) == 0:

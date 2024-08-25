@@ -36,17 +36,7 @@ speller:
   delimiter: " '"
   ## speller 未允许 aj 表示 an
   algebra:
-    - derive/^(\w)(\w),(.+)$/$1$2/ # 纯双拼的情况
-    - derive/^(\w)(\w),(\w)(\w);(\w)(\w),(.+)$/$5$6/ # 纯双拼的情况
-
-    - derive/^(\w)(\w),(\w)(.+)$/$1$2$3/ # 双拼+一位辅助码的情况
-    - derive/^(\w)(\w),(\w)(\w);(\w)(\w),(\w)(.+)$/$5$6$7/ # 双拼+一位辅助码的情况
-
-    - derive|^(\w)(\w),(\w)(\w)$|$1$2$3$4/| # 双拼+2位辅助码的情况 结尾加/
-    - derive|^(\w)(\w),(\w)(\w);(.+)$|$1$2$3$4/| # 双拼+2位辅助码的情况 结尾加/
-    - derive|^(\w)(\w),(\w)(\w);(\w)(\w),(\w)(\w)$|$5$6$7$8/| # 双拼+2位辅助码的情况 结尾加/
-    
-    - derive|^(\w)(\w),(\w)0$|$1$2$3/| # 3码全码的字，3码全码后加/
+    __include: moqi.yaml:/speller_algebra
 
 user_dict_set:
   dictionary: wubi86.extended

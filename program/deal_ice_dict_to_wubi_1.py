@@ -33,7 +33,7 @@ def update_missing_encodings(file_path, write_file_path, dict_data):
         lack_flag = False
         for char in char_list:
             if char not in dict_data:
-                print("缺失"+char)
+                #print("缺失"+char)
                 lack_flag = True
                 continue
         if lack_flag:
@@ -75,7 +75,36 @@ for line in freq_file:
         word_freq[word] = freq
 
 dict_data = {}
-with open('program/wubi.dict.yaml', 'r', encoding='utf-8') as dict_file:
+wb_86_dict_list = ['wubi.dict.yaml']
+for wb_86_dict in wb_86_dict_list:
+    with open('program/'+wb_86_dict, 'r', encoding='utf-8') as dict_file:
+        for line in dict_file:
+            if "\t" in line and not line.startswith("#"):
+                
+                params = line.strip().split('\t')
+                if wb_86_dict == 'wubi.dict.yaml' and len(params) != 4:
+                    continue
+                character = params[0]
+                if len(character) !=1:
+                    continue
+                
+                if wb_86_dict == 'wubi.dict.yaml':
+                    encoding = params[3]
+
+                encode_left = encoding[0:2]
+                encode_right = encoding[2:]
+                if len(encode_right) == 1:
+                    encode_right = encode_right + '0'
+
+                encoding = encode_left + ',' + encode_right
+                
+                if character not in dict_data:
+                    dict_data[character] = [encoding]
+                else:
+                    if encoding not in dict_data[character]:
+                        dict_data[character].append(encoding)
+
+with open('program/wubi86.dict.yaml', 'r', encoding='utf-8') as dict_file:
     for line in dict_file:
         if "\t" in line and not line.startswith("#"):
             
@@ -83,37 +112,14 @@ with open('program/wubi.dict.yaml', 'r', encoding='utf-8') as dict_file:
             if len(params) != 4:
                 continue
             character = params[0]
-            encoding = params[3] 
-
-            encode_left = encoding[0:2]
-            encode_right = encoding[2:]
-            if len(encode_right) == 1:
-                encode_right = encode_right + '0'
-
-            encoding = encode_left + ',' + encode_right
-            
-            if character not in dict_data:
-                dict_data[character] = [encoding]
-            else:
-                if encoding not in dict_data[character]:
-                    dict_data[character].append(encoding)
-
-with open('program/wubi86.dict.yaml', 'r', encoding='utf-8') as dict_file:
-    for line in dict_file:
-        if "\t" in line and not line.startswith("#"):
-            
-            params = line.strip().split('\t')
-            if len(params) == 4:
+            if len(character) !=1:
                 continue
-            character = params[0]
             encoding = params[1] 
-
-            encode_left = encoding[0:2]
-            encode_right = encoding[2:]
-            if len(encode_right) == 1:
-                encode_right = encode_right + '0'
-
-            encoding = encode_left + ',' + encode_right
+            if len(encoding) != 1:
+                continue
+            
+            encoding = encoding +'0,00'
+            print(line)
             
             if character not in dict_data:
                 dict_data[character] = [encoding]
@@ -124,6 +130,27 @@ with open('program/wubi86.dict.yaml', 'r', encoding='utf-8') as dict_file:
                         add_flag = False
                 if add_flag:
                     dict_data[character].append(encoding)
+
+with open('program/wubi86.dict.yaml', 'r', encoding='utf-8') as dict_file:
+    for line in dict_file:
+        if "\t" in line and not line.startswith("#"):
+            
+            params = line.strip().split('\t')
+            if len(params) == 4:
+                continue
+            character = params[0]
+            if len(character) !=1:
+                continue
+            encoding = params[1]
+            
+            encode_left = encoding[0:2]
+            encode_right = encoding[2:]
+            if len(encode_right) == 1:
+                encode_right = encode_right + '0'
+            
+            if character not in dict_data:
+                dict_data[character] = [encoding]
+            
 
 
 print(dict_data['巴'])
