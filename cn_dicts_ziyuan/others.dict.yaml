@@ -11,22 +11,22 @@ sort: by_weight
 ##### 容错词
 # 一些口语读音
 空落落	pd,ko rc,fk rc,fk	16
-空落落的	pd,ko rc,fk rc,fk ca,vd	87
+空落落的	pd,ko rc,fk rc,fk c0,00;ca,vd	87
 # 「阿房宫」的注音争议比较大
 阿房宫	io,ke;io,ka pl,fa pk,kg	180
 阿房宫赋	io,ke;io,ka pl,fa pk,kg aq,ug	44
 # 「伯伯」方言
 伯伯	sc,bo;sc,ba sc,bo;sc,ba	464
 # 「斜」的古音
-远上寒山石径斜	qh,gy vs,ha pr,in is,ha fs,hi;fd,an gc,dj sx,np	38
+远上寒山石径斜	qh,gy v0,00;vs,ha pr,in is,ha fs,hi;fd,an gc,dj sx,np	38
 # 「骑」目前统读 qi
 坐骑	ss,bz ws,ok	965
 铁骑	zt,st ws,ok	291
-一骑绝尘	qy,i0 ws,ok ua,wj ib,ch	684
-一骑当千	qy,i0 ws,ok if,da lq,ia	53
-一骑红尘妃子笑	qy,i0 ws,ok ud,ho ib,ch aj,fe hz,i0 tm,sx	37
+一骑绝尘	q0,00;qy,i0 ws,ok ua,wj ib,ch	684
+一骑当千	q0,00;qy,i0 ws,ok if,da lq,ia	53
+一骑红尘妃子笑	q0,00;qy,i0 ws,ok ud,ho ib,ch aj,fe hz,i0 tm,sx	37
 走单骑	gz,ou io,sh;io,da ws,ok	0
-千里走单骑	lq,ia yw,li gz,ou io,sh;io,da ws,ok	100
+千里走单骑	lq,ia y0,00;yw,li gz,ou io,sh;io,da ws,ok	100
 # 「街」的粤语和东北话读音及常见的两种写法
 仆街	sv,pu gb,bg	37
 扑街	dv,pu gb,bg	1257
@@ -38,7 +38,7 @@ sort: by_weight
 李昌镐	xh,li nn,ch zp,uk	242
 曹世镐	rn,nc rd,sh zp,uk	0
 张镐哲	xm,qv zp,uk dx,kz	0
-姜成镐	wa,ji zd,ch zp,uk	5
+姜成镐	wa,ji z0,00;zd,ch zp,uk	5
 姜镐童	wa,ji zp,uk gy,wt	0
 张镐濂	xm,qv zp,uk ch,gv	7
 李敏镐	xh,li ta,fm zp,uk	28
@@ -57,13 +57,13 @@ sort: by_weight
 道行	gj,gd gg,xi;gg,he	269
 模样	xr,ns xw,ya	5186
 有模有样	fm,yo xr,ns fm,yo xw,ya	279
-一模一样	qy,i0 xr,ns qy,i0 xw,ya	5083
+一模一样	q0,00;qy,i0 xr,ns q0,00;qy,i0 xw,ya	5083
 装模作样	tb,yz xr,ns st,lw xw,ya	485
 人模狗样	sr,en xr,ns wa,kg xw,ya	146
 模板	xr,ns xh,fb	14654
 阿弥陀佛	io,ke;io,ka xa,im ip,ht sx,if	371
 南无阿弥陀佛	pu,gp wh,wu;wh,mo io,ke;io,ka xa,im ip,ht sx,if	42
-给予	us,kj;us,kg fy,u0	11360
+给予	u0,00;us,kj fy,u0	11360
 槟榔	xp,ii xv,fi	533
 张柏芝	xm,qv xc,bo;xc,ba rg,zh	749
 藤蔓	rm,gc rn,of	320
@@ -81,18 +81,18 @@ sort: by_weight
 雪佛兰	nf,xu sx,if gw,la	366
 强劲	xk,eq;xk,ej cd,oj	1498
 胴体	mu,kd sx,ti	80
-力能扛鼎	ol,i0 jm,hh dd,ka;dd,ga jd,fd	26
+力能扛鼎	ol,i0 j0,00;jm,hh dd,ka;dd,ga jd,fd	26
 鸭绿江	ye,ya uf,cl cd,ji	152
 大腹便便	sd,ai mt,nf sq,nr sq,nr	147
 卡脖子	vv,qi;vv,ka mp,uh hz,i0	308
 吱声	kp,fz bh,ls	147
-掺和	dj,su ok,hu;ok,he	438
+掺和	dj,su o0,00;ok,hu	438
 称职	oa,ic jk,iz	90
 螺蛳粉	eb,ul ei,qy oi,zf	551
 调换	lu,bk da,us	618
 太行山	sv,ta gg,xi;gg,he is,ha	388
-歇斯底里	na,ss tx,si hh,uv yw,li	878
-暖和	ne,wf ok,hu;ok,he	732
+歇斯底里	na,ss tx,si hh,uv y0,00;yw,li	878
+暖和	ne,wf o0,00;ok,hu	732
 模棱两可	xr,ns xb,if qu,ss ok,ke	848
 鄱阳湖	oi,bi in,ya cm,mh	1291
 脖颈	mp,uh cd,fa	483
@@ -102,7 +102,7 @@ sort: by_weight
 厚朴	hn,hh xv,pu;xv,po	52
 大宛马	sd,ai pn,jw wm,a0	9
 龇牙	jg,hz jy,a0	60
-龇着牙	jg,hz wj,zh jy,a0	14
+龇着牙	jg,hz w0,00;wj,zh jy,a0	14
 龇牙咧嘴	jg,hz jy,a0 kj,zl kg,ho	166
 头皮屑	jt,ou up,i0 hi,mx	501
 六安	yl,iu pa,an	109
@@ -123,8 +123,8 @@ sort: by_weight
 曾今	ik,in mj,in	105
 按捺	dp,aa ds,vn	75
 按耐	dp,aa lf,na	8
-按捺不住	dp,aa ds,vn ib,u0 sv,fz	296
-按耐不住	dp,aa lf,na ib,u0 sv,fz	0
+按捺不住	dp,aa ds,vn i0,00;ib,u0 sv,fz	296
+按耐不住	dp,aa lf,na i0,00;ib,u0 sv,fz	0
 别价	ko,zb ss,ij	1
 别介	ko,zb si,ji	31
 甭价	io,be ss,ij	0
@@ -143,274 +143,274 @@ sort: by_weight
 ##### 叠字
 # 数据来源： https://zh.wikipedia.org/zh-cn/%E4%BA%8C%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8F%A0%E5%AD%97
 # 二叠字
-两个火	qu,ss tg,e0 vh,uo	0
-两个土	qu,ss tg,e0 bt,u0	0
-两个一	qu,ss tg,e0 qy,i0	0
-两个二	qu,ss tg,e0 we,r0	0
-两个山	qu,ss tg,e0 is,ha	0
-两个口	qu,ss tg,e0 kk,ou	0
-两个田	qu,ss tg,e0 bt,ia	0
-两个九	qu,ss tg,e0 oj,iu	0
-两个人	qu,ss tg,e0 sr,en	17527
-两个飞	qu,ss tg,e0 ef,ei	0
-两个戈	qu,ss tg,e0 zg,e0	0
-两个厶	qu,ss tg,e0 jm,ou;js,i0	0
-两个又	qu,ss tg,e0 fy,ou	0
-两个香	qu,ss tg,e0 on,xi	0
-两个面	qu,ss tg,e0 le,mi	0
-两个兀	qu,ss tg,e0 hw,u0	0
-两个女	qu,ss tg,e0 an,v0	0
-两个臣	qu,ss tg,e0 jc,he	0
-两个巾	qu,ss tg,e0 yj,in	0
-两个左	qu,ss tg,e0 fd,zu	0
-两个母	qu,ss tg,e0 am,u0	0
-两个来	qu,ss tg,e0 xi,la	0
-两个凡	qu,ss tg,e0 xf,an	0
-两个夕	qu,ss tg,e0 nx,i0	0
-两个彐	qu,ss tg,e0 fj,i0	0
-两个明	qu,ss tg,e0 nm,mi	0
-两个曰	qu,ss tg,e0 ny,ue	0
-两个尸	qu,ss tg,e0 hs,hi	0
-两个户	qu,ss tg,e0 ph,u0	0
-两个大	qu,ss tg,e0 sd,ai	545
-两个八	qu,ss tg,e0 ib,a0	12
-两个而	qu,ss tg,e0 le,r0	0
-两个羊	qu,ss tg,e0 wy,an	0
-两个吉	qu,ss tg,e0 bk,ji	0
-两个马	qu,ss tg,e0 wm,a0	0
-两个卅	qu,ss tg,e0 rl,sa	0
-两个巛	qu,ss tg,e0 cs,hu;cc,hu	0
-两个止	qu,ss tg,e0 gz,hi	0
-两个比	qu,ss tg,e0 hb,i0	0
-两个言	qu,ss tg,e0 ly,an	0
-两个申	qu,ss tg,e0 nl,sh	0
-两个牛	qu,ss tg,e0 wn,iu	0
-两个余	qu,ss tg,e0 sx,yu	0
-两个束	qu,ss tg,e0 xk,sh	0
-两个金	qu,ss tg,e0 zj,in	0
-两个木	qu,ss tg,e0 xm,u0	0
-两个水	qu,ss tg,e0 cs,hu	0
-两个石	qu,ss tg,e0 fs,hi;fd,an	0
-两个日	qu,ss tg,e0 nr,i0	0
-两个月	qu,ss tg,e0 my,ue	6726
-两个目	qu,ss tg,e0 jm,u0	0
-两个白	qu,ss tg,e0 cb,ai	0
-两个百	qu,ss tg,e0 fn,ba	0
-两个耳	qu,ss tg,e0 je,r0	0
-两个屮	qu,ss tg,e0 rc,ao;rc,he	0
-两个廿	qu,ss tg,e0 rn,ia	0
-两个虫	qu,ss tg,e0 ec,ho	0
-两个虎	qu,ss tg,e0 wx,hu	0
-两个犬	qu,ss tg,e0 wq,ua	0
-两个入	qu,ss tg,e0 mv,ru	0
-两个习	qu,ss tg,e0 dn,xi	0
-两个几	qu,ss tg,e0 xj,i0	0
-两个乙	qu,ss tg,e0 dy,i0	0
-两个夫	qu,ss tg,e0 ws,fu	0
-两个禾	qu,ss tg,e0 oh,e0	0
-两个干	qu,ss tg,e0 yg,an	0
-两个井	qu,ss tg,e0 wi,ji	0
-两个斤	qu,ss tg,e0 xj,in	0
-两个片	qu,ss tg,e0 tp,ia	0
-两个牙	qu,ss tg,e0 jy,a0	0
-两个炎	qu,ss tg,e0 vv,ya	0
-两个弓	qu,ss tg,e0 xg,on	0
-两个永	qu,ss tg,e0 vd,cy	0
-两个亦	qu,ss tg,e0 lv,yi	0
-两个手	qu,ss tg,e0 ds,ho	0
-两个毛	qu,ss tg,e0 um,ao	0
-两个王	qu,ss tg,e0 fw,an	0
-两个男	qu,ss tg,e0 bo,na	0
-两个支	qu,ss tg,e0 pf,zh	0
-两个古	qu,ss tg,e0 mg,u0	0
-两个舌	qu,ss tg,e0 lk,sh	0
-两个启	qu,ss tg,e0 pk,qi	0
-两个歹	qu,ss tg,e0 jd,ai	0
-两个匕	qu,ss tg,e0 hb,i0	0
-两个幺	qu,ss tg,e0 uy,ao	0
-两个玄	qu,ss tg,e0 lu,xu	0
-两个心	qu,ss tg,e0 jx,in	0
-两个力	qu,ss tg,e0 ol,i0	0
-两个欠	qu,ss tg,e0 sq,ia	0
-两个子	qu,ss tg,e0 hz,i0	0
-两个予	qu,ss tg,e0 fy,u0	0
-两个享	qu,ss tg,e0 ph,xi	0
-两个立	qu,ss tg,e0 gl,i0	0
-两个音	qu,ss tg,e0 gn,yi	0
-两个竟	qu,ss tg,e0 gn,hj	0
-两个竞	qu,ss tg,e0 gk,hj	0
-两个兄	qu,ss tg,e0 kh,xi	0
-两个辛	qu,ss tg,e0 gp,xi	0
-两个瓜	qu,ss tg,e0 og,ua	0
-两个呆	qu,ss tg,e0 kx,da	0
-两个果	qu,ss tg,e0 nx,gu	0
-两个鸟	qu,ss tg,e0 en,ia	0
-两个巢	qu,ss tg,e0 cn,xc	0
-两个禺	qu,ss tg,e0 nw,yu	0
-两个句	qu,ss tg,e0 ak,ju;ak,go	0
-两个奇	qu,ss tg,e0 so,kq;so,kj	0
-两个真	qu,ss tg,e0 pt,iz	0
-两个尹	qu,ss tg,e0 fy,in	0
-两个昔	qu,ss tg,e0 rn,xi	0
-两个易	qu,ss tg,e0 ny,yi	0
-两个先	qu,ss tg,e0 wh,xi	0
-两个老	qu,ss tg,e0 hh,la	0
-两个示	qu,ss tg,e0 vs,hi	0
-两个至	qu,ss tg,e0 qj,bz	0
-两个生	qu,ss tg,e0 hs,he	0
-两个足	qu,ss tg,e0 gz,u0	0
-两个隹	qu,ss tg,e0 ez,hu	0
-两个牟	qu,ss tg,e0 jw,mu;jw,mo	0
-两个豕	qu,ss tg,e0 ws,hi	0
-两个邑	qu,ss tg,e0 kw,yi	0
-两个秉	qu,ss tg,e0 of,bi	0
-两个善	qu,ss tg,e0 wg,ks	0
-两个喜	qu,ss tg,e0 ok,xi	0
-两个走	qu,ss tg,e0 gz,ou	0
-两个昌	qu,ss tg,e0 nn,ch	0
-两个串	qu,ss tg,e0 kk,lc	0
-两个米	qu,ss tg,e0 om,i0	0
-两个隶	qu,ss tg,e0 fc,li	0
-两个不	qu,ss tg,e0 ib,u0	0
-两个龙	qu,ss tg,e0 wm,lo	0
-两个乞	qu,ss tg,e0 td,qi	0
-两个天	qu,ss tg,e0 nt,ia	0
+两个火	qu,ss t0,00;tg,e0 vh,uo	0
+两个土	qu,ss t0,00;tg,e0 bt,u0	0
+两个一	qu,ss t0,00;tg,e0 q0,00;qy,i0	0
+两个二	qu,ss t0,00;tg,e0 we,r0	0
+两个山	qu,ss t0,00;tg,e0 is,ha	0
+两个口	qu,ss t0,00;tg,e0 kk,ou	0
+两个田	qu,ss t0,00;tg,e0 bt,ia	0
+两个九	qu,ss t0,00;tg,e0 oj,iu	0
+两个人	qu,ss t0,00;tg,e0 sr,en	17527
+两个飞	qu,ss t0,00;tg,e0 ef,ei	0
+两个戈	qu,ss t0,00;tg,e0 zg,e0	0
+两个厶	qu,ss t0,00;tg,e0 jm,ou;js,i0	0
+两个又	qu,ss t0,00;tg,e0 fy,ou	0
+两个香	qu,ss t0,00;tg,e0 on,xi	0
+两个面	qu,ss t0,00;tg,e0 le,mi	0
+两个兀	qu,ss t0,00;tg,e0 hw,u0	0
+两个女	qu,ss t0,00;tg,e0 an,v0	0
+两个臣	qu,ss t0,00;tg,e0 jc,he	0
+两个巾	qu,ss t0,00;tg,e0 yj,in	0
+两个左	qu,ss t0,00;tg,e0 fd,zu	0
+两个母	qu,ss t0,00;tg,e0 am,u0	0
+两个来	qu,ss t0,00;tg,e0 x0,00;xi,la	0
+两个凡	qu,ss t0,00;tg,e0 xf,an	0
+两个夕	qu,ss t0,00;tg,e0 nx,i0	0
+两个彐	qu,ss t0,00;tg,e0 fj,i0	0
+两个明	qu,ss t0,00;tg,e0 nm,mi	0
+两个曰	qu,ss t0,00;tg,e0 ny,ue	0
+两个尸	qu,ss t0,00;tg,e0 hs,hi	0
+两个户	qu,ss t0,00;tg,e0 ph,u0	0
+两个大	qu,ss t0,00;tg,e0 sd,ai	545
+两个八	qu,ss t0,00;tg,e0 ib,a0	12
+两个而	qu,ss t0,00;tg,e0 le,r0	0
+两个羊	qu,ss t0,00;tg,e0 wy,an	0
+两个吉	qu,ss t0,00;tg,e0 bk,ji	0
+两个马	qu,ss t0,00;tg,e0 wm,a0	0
+两个卅	qu,ss t0,00;tg,e0 rl,sa	0
+两个巛	qu,ss t0,00;tg,e0 cs,hu;cc,hu	0
+两个止	qu,ss t0,00;tg,e0 gz,hi	0
+两个比	qu,ss t0,00;tg,e0 hb,i0	0
+两个言	qu,ss t0,00;tg,e0 ly,an	0
+两个申	qu,ss t0,00;tg,e0 nl,sh	0
+两个牛	qu,ss t0,00;tg,e0 wn,iu	0
+两个余	qu,ss t0,00;tg,e0 sx,yu	0
+两个束	qu,ss t0,00;tg,e0 xk,sh	0
+两个金	qu,ss t0,00;tg,e0 zj,in	0
+两个木	qu,ss t0,00;tg,e0 xm,u0	0
+两个水	qu,ss t0,00;tg,e0 cs,hu	0
+两个石	qu,ss t0,00;tg,e0 fs,hi;fd,an	0
+两个日	qu,ss t0,00;tg,e0 nr,i0	0
+两个月	qu,ss t0,00;tg,e0 my,ue	6726
+两个目	qu,ss t0,00;tg,e0 jm,u0	0
+两个白	qu,ss t0,00;tg,e0 cb,ai	0
+两个百	qu,ss t0,00;tg,e0 fn,ba	0
+两个耳	qu,ss t0,00;tg,e0 je,r0	0
+两个屮	qu,ss t0,00;tg,e0 rc,ao;rc,he	0
+两个廿	qu,ss t0,00;tg,e0 rn,ia	0
+两个虫	qu,ss t0,00;tg,e0 ec,ho	0
+两个虎	qu,ss t0,00;tg,e0 wx,hu	0
+两个犬	qu,ss t0,00;tg,e0 wq,ua	0
+两个入	qu,ss t0,00;tg,e0 mv,ru	0
+两个习	qu,ss t0,00;tg,e0 dn,xi	0
+两个几	qu,ss t0,00;tg,e0 xj,i0	0
+两个乙	qu,ss t0,00;tg,e0 dy,i0	0
+两个夫	qu,ss t0,00;tg,e0 ws,fu	0
+两个禾	qu,ss t0,00;tg,e0 oh,e0	0
+两个干	qu,ss t0,00;tg,e0 yg,an	0
+两个井	qu,ss t0,00;tg,e0 wi,ji	0
+两个斤	qu,ss t0,00;tg,e0 xj,in	0
+两个片	qu,ss t0,00;tg,e0 tp,ia	0
+两个牙	qu,ss t0,00;tg,e0 jy,a0	0
+两个炎	qu,ss t0,00;tg,e0 vv,ya	0
+两个弓	qu,ss t0,00;tg,e0 xg,on	0
+两个永	qu,ss t0,00;tg,e0 vd,cy	0
+两个亦	qu,ss t0,00;tg,e0 lv,yi	0
+两个手	qu,ss t0,00;tg,e0 ds,ho	0
+两个毛	qu,ss t0,00;tg,e0 um,ao	0
+两个王	qu,ss t0,00;tg,e0 fw,an	0
+两个男	qu,ss t0,00;tg,e0 bo,na	0
+两个支	qu,ss t0,00;tg,e0 pf,zh	0
+两个古	qu,ss t0,00;tg,e0 mg,u0	0
+两个舌	qu,ss t0,00;tg,e0 lk,sh	0
+两个启	qu,ss t0,00;tg,e0 pk,qi	0
+两个歹	qu,ss t0,00;tg,e0 jd,ai	0
+两个匕	qu,ss t0,00;tg,e0 hb,i0	0
+两个幺	qu,ss t0,00;tg,e0 uy,ao	0
+两个玄	qu,ss t0,00;tg,e0 lu,xu	0
+两个心	qu,ss t0,00;tg,e0 jx,in	0
+两个力	qu,ss t0,00;tg,e0 ol,i0	0
+两个欠	qu,ss t0,00;tg,e0 sq,ia	0
+两个子	qu,ss t0,00;tg,e0 hz,i0	0
+两个予	qu,ss t0,00;tg,e0 fy,u0	0
+两个享	qu,ss t0,00;tg,e0 ph,xi	0
+两个立	qu,ss t0,00;tg,e0 gl,i0	0
+两个音	qu,ss t0,00;tg,e0 gn,yi	0
+两个竟	qu,ss t0,00;tg,e0 gn,hj	0
+两个竞	qu,ss t0,00;tg,e0 gk,hj	0
+两个兄	qu,ss t0,00;tg,e0 kh,xi	0
+两个辛	qu,ss t0,00;tg,e0 gp,xi	0
+两个瓜	qu,ss t0,00;tg,e0 og,ua	0
+两个呆	qu,ss t0,00;tg,e0 kx,da	0
+两个果	qu,ss t0,00;tg,e0 nx,gu	0
+两个鸟	qu,ss t0,00;tg,e0 en,ia	0
+两个巢	qu,ss t0,00;tg,e0 cn,xc	0
+两个禺	qu,ss t0,00;tg,e0 nw,yu	0
+两个句	qu,ss t0,00;tg,e0 ak,ju;ak,go	0
+两个奇	qu,ss t0,00;tg,e0 so,kq;so,kj	0
+两个真	qu,ss t0,00;tg,e0 pt,iz	0
+两个尹	qu,ss t0,00;tg,e0 fy,in	0
+两个昔	qu,ss t0,00;tg,e0 rn,xi	0
+两个易	qu,ss t0,00;tg,e0 ny,yi	0
+两个先	qu,ss t0,00;tg,e0 wh,xi	0
+两个老	qu,ss t0,00;tg,e0 hh,la	0
+两个示	qu,ss t0,00;tg,e0 vs,hi	0
+两个至	qu,ss t0,00;tg,e0 qj,bz	0
+两个生	qu,ss t0,00;tg,e0 hs,he	0
+两个足	qu,ss t0,00;tg,e0 gz,u0	0
+两个隹	qu,ss t0,00;tg,e0 ez,hu	0
+两个牟	qu,ss t0,00;tg,e0 jw,mu;jw,mo	0
+两个豕	qu,ss t0,00;tg,e0 ws,hi	0
+两个邑	qu,ss t0,00;tg,e0 kw,yi	0
+两个秉	qu,ss t0,00;tg,e0 of,bi	0
+两个善	qu,ss t0,00;tg,e0 wg,ks	0
+两个喜	qu,ss t0,00;tg,e0 ok,xi	0
+两个走	qu,ss t0,00;tg,e0 gz,ou	0
+两个昌	qu,ss t0,00;tg,e0 nn,ch	0
+两个串	qu,ss t0,00;tg,e0 kk,lc	0
+两个米	qu,ss t0,00;tg,e0 om,i0	0
+两个隶	qu,ss t0,00;tg,e0 fc,li	0
+两个不	qu,ss t0,00;tg,e0 i0,00;ib,u0	0
+两个龙	qu,ss t0,00;tg,e0 wm,lo	0
+两个乞	qu,ss t0,00;tg,e0 td,qi	0
+两个天	qu,ss t0,00;tg,e0 nt,ia	0
 # 三叠字
-三个生	es,an tg,e0 hs,he	0
-三个秦	es,an tg,e0 es,oq	0
-三个若	es,an tg,e0 rf,kr	0
-三个人	es,an tg,e0 sr,en	4278
-三个刀	es,an tg,e0 zd,ao	0
-三个十	es,an tg,e0 ps,hi	1
-三个力	es,an tg,e0 ol,i0	0
-三个原	es,an tg,e0 hc,iy	0
-三个厶	es,an tg,e0 jm,ou;js,i0	0
-三个又	es,an tg,e0 fy,ou	0
-三个口	es,an tg,e0 kk,ou	0
-三个七	es,an tg,e0 uq,i0	0
-三个吉	es,an tg,e0 bk,ji	0
-三个土	es,an tg,e0 bt,u0	0
-三个士	es,an tg,e0 bs,hi	0
-三个女	es,an tg,e0 an,v0	0
-三个子	es,an tg,e0 hz,i0	0
-三个小	es,an tg,e0 ix,ia	0
-三个心	es,an tg,e0 jx,in	0
-三个手	es,an tg,e0 ds,ho	0
-三个日	es,an tg,e0 nr,i0	0
-三个木	es,an tg,e0 xm,u0	0
-三个止	es,an tg,e0 gz,hi	0
-三个毛	es,an tg,e0 um,ao	0
-三个水	es,an tg,e0 cs,hu	0
-三个泉	es,an tg,e0 cc,qu	0
-三个火	es,an tg,e0 vh,uo	0
-三个牛	es,an tg,e0 wn,iu	0
-三个犬	es,an tg,e0 wq,ua	0
-三个田	es,an tg,e0 bt,ia	0
-三个白	es,an tg,e0 cb,ai	0
-三个目	es,an tg,e0 jm,u0	0
-三个直	es,an tg,e0 pt,zh	0
-三个石	es,an tg,e0 fs,hi;fd,an	0
-三个羊	es,an tg,e0 wy,an	0
-三个耳	es,an tg,e0 je,r0	0
-三个舌	es,an tg,e0 lk,sh	0
-三个屮	es,an tg,e0 rc,ao;rc,he	0
-三个虫	es,an tg,e0 ec,ho	0
-三个言	es,an tg,e0 ly,an	0
-三个贝	es,an tg,e0 ab,ei	0
-三个金	es,an tg,e0 zj,in	0
-三个隹	es,an tg,e0 ez,hu	0
-三个雷	es,an tg,e0 nb,le	0
-三个香	es,an tg,e0 on,xi	0
-三个马	es,an tg,e0 wm,a0	0
-三个鹿	es,an tg,e0 wl,u0	0
-三个个	es,an tg,e0 tg,e0	0
-三个丶	es,an tg,e0 vz,hu	0
-三个了	es,an tg,e0 hl,ia;hl,e0	0
-三个介	es,an tg,e0 si,ji	0
-三个企	es,an tg,e0 sg,qi	0
-三个舍	es,an tg,e0 sm,sh	0
-三个光	es,an tg,e0 ih,gu	0
-三个兔	es,an tg,e0 ak,hv	0
-三个全	es,an tg,e0 sf,qu	0
-三个可	es,an tg,e0 ok,ke	0
-三个因	es,an tg,e0 ks,yi	0
-三个夏	es,an tg,e0 fj,fx	0
-三个大	es,an tg,e0 sd,ai	0
-三个天	es,an tg,e0 nt,ia	0
-三个太	es,an tg,e0 sv,ta	0
-三个宝	es,an tg,e0 pf,vb	0
-三个宜	es,an tg,e0 pt,yi	0
-三个客	es,an tg,e0 pf,kk	0
-三个寒	es,an tg,e0 pr,in	0
-三个少	es,an tg,e0 is,ha	0
-三个山	es,an tg,e0 is,ha	0
-三个市	es,an tg,e0 ly,sh	3
-三个文	es,an tg,e0 lw,en	0
-三个斗	es,an tg,e0 np,do	0
-三个束	es,an tg,e0 xk,sh	0
-三个林	es,an tg,e0 xl,in	0
-三个果	es,an tg,e0 nx,gu	0
-三个欠	es,an tg,e0 sq,ia	0
-三个爪	es,an tg,e0 ez,hu;ez,ha	0
-三个妥	es,an tg,e0 ea,tu	0
-三个用	es,an tg,e0 oy,on	0
-三个甲	es,an tg,e0 yj,ia	0
-三个百	es,an tg,e0 fn,ba	0
-三个盖	es,an tg,e0 wo,ge;wo,ga	0
-三个空	es,an tg,e0 pd,ko	0
-三个竹	es,an tg,e0 tz,hu	0
-三个老	es,an tg,e0 hh,la	0
-三个月	es,an tg,e0 my,ue	8472
-三个至	es,an tg,e0 qj,bz	0
-三个足	es,an tg,e0 gz,u0	0
-三个面	es,an tg,e0 le,mi	0
-三个男	es,an tg,e0 bo,na	0
-三个立	es,an tg,e0 gl,i0	0
-三个九	es,an tg,e0 oj,iu	3
-三个也	es,an tg,e0 ly,e0	0
-三个加	es,an tg,e0 ok,ji	0
-三个千	es,an tg,e0 lq,ia	0
-三个方	es,an tg,e0 lf,an	0
-三个朔	es,an tg,e0 gm,sh	0
-三个玉	es,an tg,e0 fv,yu	0
-三个申	es,an tg,e0 nl,sh	0
-三个去	es,an tg,e0 bj,qu	0
-三个弓	es,an tg,e0 xg,on	0
-三个丿	es,an tg,e0 my,i0;mp,ie	0
-三个户	es,an tg,e0 ph,u0	0
-三个瓜	es,an tg,e0 og,ua	0
-三个鸟	es,an tg,e0 en,ia	0
-三个米	es,an tg,e0 om,i0	0
+三个生	es,an t0,00;tg,e0 hs,he	0
+三个秦	es,an t0,00;tg,e0 es,oq	0
+三个若	es,an t0,00;tg,e0 rf,kr	0
+三个人	es,an t0,00;tg,e0 sr,en	4278
+三个刀	es,an t0,00;tg,e0 zd,ao	0
+三个十	es,an t0,00;tg,e0 ps,hi	1
+三个力	es,an t0,00;tg,e0 ol,i0	0
+三个原	es,an t0,00;tg,e0 hc,iy	0
+三个厶	es,an t0,00;tg,e0 jm,ou;js,i0	0
+三个又	es,an t0,00;tg,e0 fy,ou	0
+三个口	es,an t0,00;tg,e0 kk,ou	0
+三个七	es,an t0,00;tg,e0 uq,i0	0
+三个吉	es,an t0,00;tg,e0 bk,ji	0
+三个土	es,an t0,00;tg,e0 bt,u0	0
+三个士	es,an t0,00;tg,e0 bs,hi	0
+三个女	es,an t0,00;tg,e0 an,v0	0
+三个子	es,an t0,00;tg,e0 hz,i0	0
+三个小	es,an t0,00;tg,e0 ix,ia	0
+三个心	es,an t0,00;tg,e0 jx,in	0
+三个手	es,an t0,00;tg,e0 ds,ho	0
+三个日	es,an t0,00;tg,e0 nr,i0	0
+三个木	es,an t0,00;tg,e0 xm,u0	0
+三个止	es,an t0,00;tg,e0 gz,hi	0
+三个毛	es,an t0,00;tg,e0 um,ao	0
+三个水	es,an t0,00;tg,e0 cs,hu	0
+三个泉	es,an t0,00;tg,e0 cc,qu	0
+三个火	es,an t0,00;tg,e0 vh,uo	0
+三个牛	es,an t0,00;tg,e0 wn,iu	0
+三个犬	es,an t0,00;tg,e0 wq,ua	0
+三个田	es,an t0,00;tg,e0 bt,ia	0
+三个白	es,an t0,00;tg,e0 cb,ai	0
+三个目	es,an t0,00;tg,e0 jm,u0	0
+三个直	es,an t0,00;tg,e0 pt,zh	0
+三个石	es,an t0,00;tg,e0 fs,hi;fd,an	0
+三个羊	es,an t0,00;tg,e0 wy,an	0
+三个耳	es,an t0,00;tg,e0 je,r0	0
+三个舌	es,an t0,00;tg,e0 lk,sh	0
+三个屮	es,an t0,00;tg,e0 rc,ao;rc,he	0
+三个虫	es,an t0,00;tg,e0 ec,ho	0
+三个言	es,an t0,00;tg,e0 ly,an	0
+三个贝	es,an t0,00;tg,e0 ab,ei	0
+三个金	es,an t0,00;tg,e0 zj,in	0
+三个隹	es,an t0,00;tg,e0 ez,hu	0
+三个雷	es,an t0,00;tg,e0 nb,le	0
+三个香	es,an t0,00;tg,e0 on,xi	0
+三个马	es,an t0,00;tg,e0 wm,a0	0
+三个鹿	es,an t0,00;tg,e0 wl,u0	0
+三个个	es,an t0,00;tg,e0 t0,00;tg,e0	0
+三个丶	es,an t0,00;tg,e0 vz,hu	0
+三个了	es,an t0,00;tg,e0 h0,00;hl,ia	0
+三个介	es,an t0,00;tg,e0 si,ji	0
+三个企	es,an t0,00;tg,e0 sg,qi	0
+三个舍	es,an t0,00;tg,e0 sm,sh	0
+三个光	es,an t0,00;tg,e0 ih,gu	0
+三个兔	es,an t0,00;tg,e0 ak,hv	0
+三个全	es,an t0,00;tg,e0 sf,qu	0
+三个可	es,an t0,00;tg,e0 ok,ke	0
+三个因	es,an t0,00;tg,e0 ks,yi	0
+三个夏	es,an t0,00;tg,e0 fj,fx	0
+三个大	es,an t0,00;tg,e0 sd,ai	0
+三个天	es,an t0,00;tg,e0 nt,ia	0
+三个太	es,an t0,00;tg,e0 sv,ta	0
+三个宝	es,an t0,00;tg,e0 pf,vb	0
+三个宜	es,an t0,00;tg,e0 pt,yi	0
+三个客	es,an t0,00;tg,e0 pf,kk	0
+三个寒	es,an t0,00;tg,e0 pr,in	0
+三个少	es,an t0,00;tg,e0 is,ha	0
+三个山	es,an t0,00;tg,e0 is,ha	0
+三个市	es,an t0,00;tg,e0 ly,sh	3
+三个文	es,an t0,00;tg,e0 lw,en	0
+三个斗	es,an t0,00;tg,e0 np,do	0
+三个束	es,an t0,00;tg,e0 xk,sh	0
+三个林	es,an t0,00;tg,e0 xl,in	0
+三个果	es,an t0,00;tg,e0 nx,gu	0
+三个欠	es,an t0,00;tg,e0 sq,ia	0
+三个爪	es,an t0,00;tg,e0 ez,hu;ez,ha	0
+三个妥	es,an t0,00;tg,e0 ea,tu	0
+三个用	es,an t0,00;tg,e0 oy,on	0
+三个甲	es,an t0,00;tg,e0 yj,ia	0
+三个百	es,an t0,00;tg,e0 fn,ba	0
+三个盖	es,an t0,00;tg,e0 wo,ge;wo,ga	0
+三个空	es,an t0,00;tg,e0 pd,ko	0
+三个竹	es,an t0,00;tg,e0 tz,hu	0
+三个老	es,an t0,00;tg,e0 hh,la	0
+三个月	es,an t0,00;tg,e0 my,ue	8472
+三个至	es,an t0,00;tg,e0 qj,bz	0
+三个足	es,an t0,00;tg,e0 gz,u0	0
+三个面	es,an t0,00;tg,e0 le,mi	0
+三个男	es,an t0,00;tg,e0 bo,na	0
+三个立	es,an t0,00;tg,e0 gl,i0	0
+三个九	es,an t0,00;tg,e0 oj,iu	3
+三个也	es,an t0,00;tg,e0 l0,00;ly,e0	0
+三个加	es,an t0,00;tg,e0 ok,ji	0
+三个千	es,an t0,00;tg,e0 lq,ia	0
+三个方	es,an t0,00;tg,e0 lf,an	0
+三个朔	es,an t0,00;tg,e0 gm,sh	0
+三个玉	es,an t0,00;tg,e0 fv,yu	0
+三个申	es,an t0,00;tg,e0 nl,sh	0
+三个去	es,an t0,00;tg,e0 bj,qu	0
+三个弓	es,an t0,00;tg,e0 xg,on	0
+三个丿	es,an t0,00;tg,e0 my,i0;mp,ie	0
+三个户	es,an t0,00;tg,e0 ph,u0	0
+三个瓜	es,an t0,00;tg,e0 og,ua	0
+三个鸟	es,an t0,00;tg,e0 en,ia	0
+三个米	es,an t0,00;tg,e0 om,i0	0
 # 四叠字
-四个人	rs,i0 tg,e0 sr,en	2274
-四个厶	rs,i0 tg,e0 jm,ou;js,i0	0
-四个又	rs,i0 tg,e0 fy,ou	0
-四个匕	rs,i0 tg,e0 hb,i0	0
-四个工	rs,i0 tg,e0 dg,on	0
-四个口	rs,i0 tg,e0 kk,ou	2
-四个天	rs,i0 tg,e0 nt,ia	0
-四个小	rs,i0 tg,e0 ix,ia	0
-四个屮	rs,i0 tg,e0 rc,ao;rc,he	0
-四个火	rs,i0 tg,e0 vh,uo	0
-四个牛	rs,i0 tg,e0 wn,iu	0
-四个月	rs,i0 tg,e0 my,ue	1618
-四个日	rs,i0 tg,e0 nr,i0	0
-四个林	rs,i0 tg,e0 xl,in	0
-四个水	rs,i0 tg,e0 cs,hu	0
-四个石	rs,i0 tg,e0 fs,hi;fd,an	0
-四个田	rs,i0 tg,e0 bt,ia	0
-四个甲	rs,i0 tg,e0 yj,ia	0
-四个且	rs,i0 tg,e0 tq,ie	0
-四个囚	rs,i0 tg,e0 ks,qi	0
-四个困	rs,i0 tg,e0 kx,ku	0
-四个竹	rs,i0 tg,e0 tz,hu	0
-四个老	rs,i0 tg,e0 hh,la	0
-四个先	rs,i0 tg,e0 wh,xi	0
-四个金	rs,i0 tg,e0 zj,in	0
-四个泉	rs,i0 tg,e0 cc,qu	0
-四个言	rs,i0 tg,e0 ly,an	0
-四个果	rs,i0 tg,e0 nx,gu	0
-四个春	rs,i0 tg,e0 es,nc	0
-四个雷	rs,i0 tg,e0 nb,le	0
-四个土	rs,i0 tg,e0 bt,u0	0
+四个人	rs,i0 t0,00;tg,e0 sr,en	2274
+四个厶	rs,i0 t0,00;tg,e0 jm,ou;js,i0	0
+四个又	rs,i0 t0,00;tg,e0 fy,ou	0
+四个匕	rs,i0 t0,00;tg,e0 hb,i0	0
+四个工	rs,i0 t0,00;tg,e0 dg,on	0
+四个口	rs,i0 t0,00;tg,e0 kk,ou	2
+四个天	rs,i0 t0,00;tg,e0 nt,ia	0
+四个小	rs,i0 t0,00;tg,e0 ix,ia	0
+四个屮	rs,i0 t0,00;tg,e0 rc,ao;rc,he	0
+四个火	rs,i0 t0,00;tg,e0 vh,uo	0
+四个牛	rs,i0 t0,00;tg,e0 wn,iu	0
+四个月	rs,i0 t0,00;tg,e0 my,ue	1618
+四个日	rs,i0 t0,00;tg,e0 nr,i0	0
+四个林	rs,i0 t0,00;tg,e0 xl,in	0
+四个水	rs,i0 t0,00;tg,e0 cs,hu	0
+四个石	rs,i0 t0,00;tg,e0 fs,hi;fd,an	0
+四个田	rs,i0 t0,00;tg,e0 bt,ia	0
+四个甲	rs,i0 t0,00;tg,e0 yj,ia	0
+四个且	rs,i0 t0,00;tg,e0 tq,ie	0
+四个囚	rs,i0 t0,00;tg,e0 ks,qi	0
+四个困	rs,i0 t0,00;tg,e0 kx,ku	0
+四个竹	rs,i0 t0,00;tg,e0 tz,hu	0
+四个老	rs,i0 t0,00;tg,e0 hh,la	0
+四个先	rs,i0 t0,00;tg,e0 wh,xi	0
+四个金	rs,i0 t0,00;tg,e0 zj,in	0
+四个泉	rs,i0 t0,00;tg,e0 cc,qu	0
+四个言	rs,i0 t0,00;tg,e0 ly,an	0
+四个果	rs,i0 t0,00;tg,e0 nx,gu	0
+四个春	rs,i0 t0,00;tg,e0 es,nc	0
+四个雷	rs,i0 t0,00;tg,e0 nb,le	0
+四个土	rs,i0 t0,00;tg,e0 bt,u0	0
 

@@ -1,3 +1,29 @@
+好	a
+地	b
+的	c
+以	d
+要	e
+在	f
+得	g
+了	h
+不	i
+能	j
+中	k
+也	l
+我	m
+是	n
+和	o
+就	p
+一	q
+出	r
+你	s
+个	t
+给	u
+上	v
+着	w
+来	x
+里	y
+成	z
 一	qyi	0	qy	0
 丁	odin	0	odi	0
 七	uqi	0	uq	0
@@ -66751,3 +66777,29 @@
 子子孙孙	hhhh	5	hhhh	5
 总裁班	ipfi	0	ipfi	0
 走高	gzpu	4	gzpu	4
+好	a
+地	b
+的	c
+以	d
+要	e
+在	f
+得	g
+了	h
+不	i
+能	j
+中	k
+也	l
+我	m
+是	n
+和	o
+就	p
+一	q
+出	r
+你	s
+个	t
+给	u
+上	v
+着	w
+来	x
+里	y
+成	z
