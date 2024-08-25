@@ -94,15 +94,15 @@ with open('program/tiger.dict.yaml', 'r', encoding='utf-8') as dict_file:
                 continue
             character = params[0]
             encoding = params[1]
-            if len(encoding) == 1:
-                continue
+            # if len(encoding) == 1:
+            #     continue
             encode_left = encoding[0:2]
 
             encode_right = encoding[2:]
-            # if len(encode_right) == 1:
-            #     encode_right = encode_right + '0'
-            # if len(encode_right) == 0:
-            #     encode_right = '00'
+            if len(encode_left) == 1:
+                encode_left = encode_left + '0'
+            if len(encode_right) == 0:
+                encode_right = '00'
 
             encoding = encode_left + ',' + encode_right
             

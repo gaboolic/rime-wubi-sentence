@@ -1,16 +1,13 @@
 # Rime dictionary
 # encoding: utf-8
 #
-#
 # https://github.com/iDvel/rime-ice
 # ------- 大字表 -------
 # （已经不是最初的 41448 个字了，一直没有改名）
-#
 # 数据来源：
 # 字来自 Unihan https://www.unicode.org/Public/ > 16.0.0 > Unihan.zip > Unihan_Readings.txt > kMandarin
 # 音来自汉典 https://github.com/mozillazg/pinyin-data/ > zdic.txt
 # 因为 Unihan 的音存在错误及缺失的情况，汉典存在过多生僻罕见的字，结合了一下。
-#
 # 使用建议： 多个词库文件有重复时，靠前的词库文件中的权重生效。
 #          将 8105  作为第一字表，放到靠前位置；
 #          将 41448 作为第二字表，放到靠后位置。
@@ -373,7 +370,7 @@ sort: by_weight
 峇	vj,dk	18
 罷	yk,vv	17
 犮	nr,id	17
-丷	hb,b0	14
+丷	hb,00;hb,b0	14
 鈀	zm,b0	12
 哱	dn,wh	11
 茇	ln,ri	6
@@ -638,7 +635,7 @@ sort: by_weight
 飽	qn,vs	33
 铇	zn,vs	18
 剝	bk,pd	10
-勹	nk,k0	10
+勹	nk,00;nk,k0	10
 骲	fn,vs	9
 媬	bj,de	5
 襃	tb,fe;tu,de	3
@@ -1451,7 +1448,7 @@ sort: by_weight
 𩸁	wf,b0	0
 𪂟	fx,n0	0
 𪐆	xj,kf	0
-份	jh,pd	6669
+份	jh,pd;jh,00	6669
 频	ss,wy	327
 賔	wc,ob	18
 賓	wf,so	14
@@ -1507,7 +1504,7 @@ sort: by_weight
 仌	jj,r0	31
 氷	ik,s0	25
 餅	qh,lc	21
-冫	wb,b0	21
+冫	wb,00;wb,b0	21
 稟	zr,dx	18
 幷	te,te	17
 昞	of,mj	14
@@ -2645,7 +2642,7 @@ sort: by_weight
 𪍈	ej,jn	0
 𪍑	ej,jy	0
 𪎊	ah,yt	0
-車	yc,c0	199
+車	yc,00;yc,c0	199
 屮	sc,00	106
 徹	wb,vh	49
 摰	gh,gu	6
@@ -4050,7 +4047,7 @@ sort: by_weight
 𨨯	za,im	0
 𩹀	wa,im	0
 𪉮	yr,pm	0
-趣	pq,ry	455
+趣	pq,ry;pq,00	455
 趋	px,bj	194
 酢	yw,a0	31
 趨	pn,ss	13
@@ -4154,7 +4151,7 @@ sort: by_weight
 𨣵	yh,ho	0
 𨼉	tz,va	0
 衰	td,fi	481
-隹	ui,i0	62
+隹	ui,00;ui,i0	62
 粋	pk,ns	9
 倅	jz,jn	5
 焠	cz,jn	6
@@ -5162,7 +5159,7 @@ sort: by_weight
 雿	tp,ww	0
 魡	wn,id	0
 鮉	wp,dk	0
-𠄏	rl,l0	0
+𠄏	rl,00;rl,l0	0
 𠚥	pp,d0	0
 𠚻	ea,fp	0
 𠛪	pw,wp	0
@@ -5831,7 +5828,7 @@ sort: by_weight
 𡆰	rv,m0	0
 𡼖	gh,hv	0
 𢬼	ur,fs	0
-𣎴	cb,b0	0
+𣎴	cb,00;cb,b0	0
 𣗁	nd,em	0
 𣚪	ez,cs	0
 𣞇	se,sy	0
@@ -6485,7 +6482,7 @@ sort: by_weight
 𩲌	la,g0	0
 𩷸	we,nl	0
 𪕃	pl,f0	0
-飛	cf,f0	110
+飛	cf,00;cf,f0	110
 費	to,b0	51
 騑	nr,f0	35
 廢	xh,br	24
@@ -6801,7 +6798,7 @@ sort: by_weight
 𧼴	pv,le	0
 炰	nv,ch	2
 缻	ar,w0	1
-不	cb,00	172148
+不	cb,00;c0,00	172148
 㓡	ap,d0	0
 䳕	yh,xn	0
 妚	bc,b0	0
@@ -8326,7 +8323,7 @@ sort: by_weight
 𪈥	vu,mx	0
 𪊧	xg,gt	0
 𪏤	np,dh	0
-丨	gs,s0	3280
+丨	gs,00;gs,s0	3280
 滾	kt,hd	28
 鯀	wt,is	13
 鮌	wz,iy	3
@@ -8363,11 +8360,11 @@ sort: by_weight
 𨍲	yr,js	0
 𩨬	fz,iy	0
 𩩌	ft,is	0
-划	pp,d0	1924
+划	pp,d0;pp,00	1924
 菓	lq,em	438
 過	fd,uc	316
 國	rp,df	201
-囗	rk,k0	131
+囗	rk,00;rk,k0	131
 囯	rn,w0	60
 鍋	zf,dk	16
 膕	vr,pf	13
@@ -9039,7 +9036,7 @@ sort: by_weight
 𪖲	oq,lr	0
 𪘹	lo,nf	0
 嗨	dk,ek	3016
-黒	ph,h0	231
+黒	ph,00;ph,h0	231
 潶	kp,h0	2
 𢖛	wg,hp	0
 𢡀	hp,h0	0
@@ -9304,7 +9301,7 @@ sort: by_weight
 𪑻	pj,no	0
 𪖙	oq,lk	0
 戏	rp,g0	5383
-许	se,ns	1702
+许	se,ns;se,00	1702
 戸	mh,00	124
 戶	mh,00	42
 護	sl,ur	41
@@ -9626,7 +9623,7 @@ sort: by_weight
 鷨	lf,lx	0
 黊	ng,gt	0
 𠝐	lj,vp	0
-𠤎	vb,b0	0
+𠤎	vb,00;vb,b0	0
 𠳂	db,dk	0
 𠿜	dq,er	0
 𡁑	dn,vk	0
@@ -9823,7 +9820,7 @@ sort: by_weight
 𪈩	xl,du	0
 𪊥	xf,of	0
 𪍺	ej,jt	0
-黃	nh,h0	325
+黃	nh,00;nh,h0	325
 怳	hd,pe	11
 晄	om,g0	9
 爌	cx,nh	8
@@ -10377,7 +10374,7 @@ sort: by_weight
 継	ip,ae	17
 咭	dg,dk	16
 跡	pz,ch	15
-彐	bj,j0	15
+彐	bj,00;bj,j0	15
 磯	mi,ii	19
 鷄	yi,mx	14
 輯	yd,qe	14
@@ -10468,7 +10465,7 @@ sort: by_weight
 鑇	zq,q0	1
 鑙	zx,oo	1
 魕	ai,ii	1
-其	zh,b0	144732
+其	zh,b0;zh,00	144732
 㑧	jx,hi	0
 㒫	bp,e0	0
 㔕	vs,l0	0
@@ -11644,8 +11641,8 @@ sort: by_weight
 砎	mj,pd	1
 蠽	yu,pc	1
 鍻	zo,nf	1
-她	be,y0	180866
-家	wj,s0	29245
+她	be,y0;be,00	180866
+家	wj,s0;wj,00	29245
 㑘	jp,lc	0
 㓗	wa,pi	0
 㓤	gd,pd	0
@@ -12094,7 +12091,7 @@ sort: by_weight
 𩻱	wo,gy	0
 𪂴	xa,vy	0
 𪇒	pa,vx	0
-冂	mk,k0	37
+冂	mk,00;mk,k0	37
 駉	nm,dk	22
 熲	vc,wy	7
 煚	on,nc	5
@@ -12624,7 +12621,7 @@ sort: by_weight
 𩘒	wf,oc	0
 𩜇	qh,hz	0
 𩟥	qv,um	0
-脚	vg,kz	5653
+脚	vg,kz;vg,00	5653
 決	kn,jr	105
 絶	ix,mb	83
 叕	rr,rr	75
@@ -13329,7 +13326,7 @@ sort: by_weight
 銙	zm,ma	2
 趶	pf,ns	1
 骻	fm,ma	1
-㐄	vk,k0	0
+㐄	vk,00;vk,k0	0
 䯞	ff,dk	0
 晇	om,ma	0
 𠇗	jy,g0	0
@@ -16159,7 +16156,7 @@ sort: by_weight
 𪅅	qs,xn	0
 麽	zt,ks	1141
 嗎	dn,m0	783
-馬	nm,m0	439
+馬	nm,00;nm,m0	439
 唛	da,hi	100
 罵	yn,m0	89
 孖	hh,i0	19
@@ -16177,7 +16174,7 @@ sort: by_weight
 溤	kn,m0	1
 螞	cn,m0	1
 鎷	zn,m0	1
-么	tk,s0	58520
+么	tk,s0;tk,00	58520
 㐷	jn,m0	0
 㑻	jw,hv	0
 㜫	bw,vh	0
@@ -16642,7 +16639,7 @@ sort: by_weight
 氓	fd,m0	226
 蟒	cl,ml	124
 儚	jl,yl	46
-黾	dm,m0	7
+黾	dm,00;dm,m0	7
 矇	ql,wj	13
 夣	by,wl	8
 甿	qf,w0	7
@@ -17462,7 +17459,7 @@ sort: by_weight
 妠	bm,jr	1
 蒘	lb,du	1
 鎿	zj,du	1
-内	mj,r0	47462
+内	mj,r0;mj,00	47462
 㨥	ui,mj	0
 㴸	ka,jr	0
 䀑	qr,id	0
@@ -17543,7 +17540,7 @@ sort: by_weight
 渿	ke,fs	1
 釢	zv,n0	1
 錼	zm,fs	1
-能	kv,vv	240318
+能	kv,vv;k0,00	240318
 㮈	em,fs	0
 㮏	ee,fs	0
 㲡	ef,vm	0
@@ -17726,8 +17723,8 @@ sort: by_weight
 𩬷	pe,ov	0
 𩯆	pe,gp	0
 呐	dm,jr	3416
-疒	ab,b0	18
-那	au,te	190400
+疒	ab,00;ab,b0	18
+那	au,te;au,00	190400
 㕯	mj,dk	0
 䎪	ao,fk	0
 䭆	qy,qs	0
@@ -17781,7 +17778,7 @@ sort: by_weight
 𢆂	rx,jp	0
 𨃳	pk,vv	0
 𨶙	ak,vv	0
-疑	vo,kt	404
+疑	vo,kt;vo,00	404
 伱	jj,yx	27
 惄	yf,yh	8
 擬	uv,ot	6
@@ -18410,7 +18407,7 @@ sort: by_weight
 𩔸	nd,dw	0
 𪊪	xx,fd	0
 𪙃	lf,dk	0
-派	kx,ti	13139
+派	kx,ti;kx,00	13139
 钯	zm,bj	464
 帊	rm,b0	1
 袙	tu,b0	1
@@ -18779,7 +18776,7 @@ sort: by_weight
 銢	zm,ks	1
 錃	kr,zj	1
 魾	wc,fi	1
-被	tr,p0	323288
+被	tr,p0;tr,00	323288
 副	fd,qp	3113
 罢	yg,ks	1875
 㓟	rp,d0	0
@@ -18984,7 +18981,7 @@ sort: by_weight
 𪅃	vf,xn	0
 𪋖	xo,tc	0
 𪏫	ns,mf	0
-丿	tp,p0	173
+丿	tp,00;tp,p0	173
 暼	fh,or	13
 嫳	fh,bn	2
 撆	fh,us	1
@@ -19182,7 +19179,7 @@ sort: by_weight
 𩚭	qj,kc	0
 暴	ol,hk	566
 僕	jc,gi	172
-攴	hp,p0	49
+攴	hp,00;hp,p0	49
 譜	sh,co	44
 攵	hp,00	42
 鋪	zn,f0	40
@@ -20641,7 +20638,7 @@ sort: by_weight
 𪛃	wn,dd	0
 権	ee,fu	46
 權	el,du	37
-犭	mq,q0	36
+犭	mq,00;mq,q0	36
 勸	ld,ds	22
 槫	en,qk	7
 銓	zj,nw	6
@@ -20912,7 +20909,7 @@ sort: by_weight
 𧧏	bd,sy	0
 𩭿	pe,av	0
 認	sp,ih	152
-亻	jr,r0	115
+亻	jr,00;jr,r0	115
 訒	sp,id	14
 腍	vj,ah	5
 袵	tj,tg	4
@@ -21116,7 +21113,7 @@ sort: by_weight
 媃	bi,te	0
 楺	ei,te	0
 瓇	nw,hh	0
-禸	vr,r0	0
+禸	vr,00;vr,r0	0
 粈	pa,gt	0
 脜	vf,oi	0
 腬	vi,te	0
@@ -21356,7 +21353,7 @@ sort: by_weight
 𩗞	ot,cp	0
 𩣞	nv,cj	0
 𩨞	fc,j0	0
-思	qh,x0	1550
+思	qh,x0;qh,00	1550
 嗮	do,vx	86
 賽	wq,ho	26
 鰓	wq,hx	10
@@ -21667,7 +21664,7 @@ sort: by_weight
 𩂝	td,bi	0
 𩴇	ab,er	0
 掸	uh,qn	117
-彡	es,s0	63
+彡	es,00;es,s0	63
 刪	ip,d0	38
 墠	gd,dn	29
 笘	ry,dk	33
@@ -21960,7 +21957,7 @@ sort: by_weight
 𩩗	fj,as	0
 𩮐	pe,qv	0
 誰	su,i0	551
-信	js,y0	8463
+信	js,y0;js,00	8463
 瀋	kw,tq	44
 堔	gw,he	43
 審	wt,pq	30
@@ -22160,7 +22157,7 @@ sort: by_weight
 𨵥	ay,tq	0
 𩍋	tv,oo	0
 𪅻	ih,hx	0
-硕	mw,y0	1907
+硕	mw,y0;mw,00	1907
 時	og,kc	1057
 泽	kr,us	560
 実	wa,id	231
@@ -22178,11 +22175,11 @@ sort: by_weight
 勢	gh,gs	33
 辻	nu,cs	28
 昰	of,si	15
-礻	fs,s0	22
+礻	fs,00;fs,s0	22
 釈	tp,ci	22
 飾	qe,rj	21
 亊	fh,bv	20
-饣	qs,s0	19
+饣	qs,00;qs,s0	19
 厔	xy,i0	18
 耆	qo,r0	17
 濕	ko,ic	15
@@ -22421,7 +22418,7 @@ sort: by_weight
 獣	kq,fm	172
 収	ir,y0	71
 獸	dd,qm	39
-扌	us,s0	34
+扌	us,00;us,s0	34
 痩	ao,gr	21
 壽	ga,uk	7
 膄	vp,gr	7
@@ -22460,7 +22457,7 @@ sort: by_weight
 𩠶	bx,ho	0
 𩴍	ap,gr	0
 𪈀	dd,qx	0
-朱	ta,w0	2711
+朱	ta,w0;ta,00	2711
 書	bo,r0	910
 俞	jv,pd	564
 數	ko,bh	162
@@ -23503,7 +23500,7 @@ sort: by_weight
 溙	ka,ik	1
 舦	im,id	1
 鈦	zm,id	1
-大	md,00	118314
+大	md,00;m0,00	118314
 㑷	jk,vv	0
 㒗	jz,wy	0
 㘆	dg,dy	0
@@ -24314,7 +24311,7 @@ sort: by_weight
 𪌢	ej,jd	0
 頭	zw,y0	143
 愉	hj,vp	52
-亠	zt,t0	31
+亠	zt,00;zt,t0	31
 黈	ni,nw	17
 偸	jj,vo	6
 紏	ij,d0	2
@@ -24903,9 +24900,9 @@ sort: by_weight
 𪎛	zl,zj	0
 𪐬	pm,pe	0
 𪑉	pf,cr	0
-罒	ys,s0	170
+罒	ys,00;ys,s0	170
 網	im,hf	65
-亾	fw,w0	12
+亾	fw,00;fw,w0	12
 仼	jn,w0	11
 迬	in,uc	10
 朢	qv,nw	7
@@ -24982,7 +24979,7 @@ sort: by_weight
 偉	jg,w0	26
 蒍	li,tc	19
 衞	pv,dr	19
-韋	gw,w0	15
+韋	gw,00;gw,w0	15
 偽	ji,tc	14
 僞	jy,tc	13
 梶	ec,vm	12
@@ -25636,7 +25633,7 @@ sort: by_weight
 晳	et,or	17
 匸	nk,00	14
 犠	qg,tp	14
-卌	lx,x0	14
+卌	lx,00;lx,x0	14
 銑	zq,pe	13
 欷	bn,re	13
 璽	ff,ni	12
@@ -27750,7 +27747,7 @@ sort: by_weight
 顔	ix,ew	67
 塩	ge,da	57
 縯	iw,fh	55
-讠	sy,y0	49
+讠	sy,00;sy,y0	49
 礹	md,dh	46
 昖	oh,ks	36
 嚴	dd,xh	28
@@ -28400,8 +28397,8 @@ sort: by_weight
 𩿕	jj,xn	0
 𪐯	pn,ks	0
 拽	uo,at	1763
-射	zk,c0	1396
-頁	wy,y0	254
+射	zk,c0;zk,00	1396
+頁	wy,00;wy,y0	254
 葉	ll,ae	113
 業	cg,hb	104
 吔	de,y0	73
@@ -28567,7 +28564,7 @@ sort: by_weight
 蓺	lg,hi	12
 譯	sy,gg	13
 憶	hx,hx	11
-衤	ti,i0	11
+衤	ti,00;ti,i0	11
 藙	li,jr	11
 殹	no,rs	11
 壱	gw,vb	6
@@ -29118,7 +29115,7 @@ sort: by_weight
 隂	tj,pc	8
 凐	wv,gt	8
 螾	cw,fh	7
-廴	uy,y0	6
+廴	uy,00;uy,y0	6
 圻	gt,j0	6
 絪	ir,md	4
 酳	yi,vy	5
@@ -29577,7 +29574,7 @@ sort: by_weight
 猶	mh,yy	33
 憂	wh,hi	17
 楢	eh,yy	15
-尢	oy,y0	15
+尢	oy,00;oy,y0	15
 誘	sx,vn	12
 郵	ll,gt	7
 梄	ey,y0	8
@@ -30170,7 +30167,7 @@ sort: by_weight
 𪓊	pa,ee;pe,ae	0
 遠	gd,tu	165
 員	do,b0	121
-円	vy,y0	101
+円	vy,00;vy,y0	101
 願	xu,yw	88
 宛	wl,zj	70
 渕	kh,mp	31
@@ -30325,7 +30322,7 @@ sort: by_weight
 恱	hh,kp	1
 抈	uv,y0	1
 禴	fj,dd	1
-说	sh,dp	138364
+说	sh,dp;s0,00	138364
 㜧	bx,he	0
 㜰	bi,ue;bu,ie	0
 㬦	ol,ur	0
@@ -31140,7 +31137,7 @@ sort: by_weight
 趙	py,vy	103
 炤	cp,dk	66
 濯	kz,ui	59
-爫	ya,a0	20
+爫	ya,00;ya,a0	20
 瞾	qq,eu	0
 啅	dy,on	8
 櫂	ez,ui	5
@@ -31306,7 +31303,7 @@ sort: by_weight
 𪁊	ut,xn	0
 𪐏	xj,kc	0
 𪚥	tt,tt	0
-这	vu,c0	315595
+这	vu,c0;vu,00	315595
 填	gn,qh	3941
 眞	vq,ah	75
 溱	ka,ix	21
@@ -32088,9 +32085,9 @@ sort: by_weight
 𩶣	wi,o0	0
 𪆀	pb,bx;bp,bx	0
 𪇞	hr,xn	0
-属	ct,dv	5241
+属	ct,dv;ct,00	5241
 宁	wa,d0	1206
-丶	id,d0	1040
+丶	id,00;id,d0	1040
 褚	tq,or	425
 註	si,nw	207
 硃	mt,aw	49
@@ -32101,7 +32098,7 @@ sort: by_weight
 誅	st,aw	16
 築	ru,oe	11
 豬	jq,or	14
-壴	hu,u0	10
+壴	hu,00;hu,u0	10
 囑	dc,kc	7
 紵	iw,ad	6
 筯	rf,sl	6
@@ -32282,7 +32279,7 @@ sort: by_weight
 𣑃	ko,ie	0
 𥮣	rm,be	0
 跩	po,at	22
-转	ym,ai	16063
+转	ym,ai;ym,00	16063
 賺	oh,bc	197
 専	nq,kc	126
 転	yb,y0	90
@@ -32657,7 +32654,7 @@ sort: by_weight
 燪	cl,nh	1
 稯	xb,mh	1
 鑁	zp,mh	1
-从	jj,r0	417673
+从	jj,r0;jj,00	417673
 㚇	bm,hh	0
 㢔	xw,js	0
 㯶	ep,mh	0
@@ -32719,7 +32716,7 @@ sort: by_weight
 𪖁	pw,js	0
 諏	sq,ry	12
 緅	iq,ry	3
-赱	pz,z0	2
+赱	pz,00;pz,z0	2
 鄒	ns,nt	2
 鯫	wq,ry	2
 齺	ln,ss	2
