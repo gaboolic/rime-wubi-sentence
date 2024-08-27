@@ -71,7 +71,7 @@ add_user_dict:
     
   comment_format:
     - "xform/(^|[ '])[^[]+[[]/$1/" ## 编码提示只显示辅助码部分
-  prefix: "ac"
+  prefix: "AC"
   tips: "〔自造词〕"
 
 translator:
