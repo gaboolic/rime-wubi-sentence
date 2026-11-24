@@ -1,7 +1,8 @@
-import zipfile  
-import os  
-  
-def zip_folders_and_files(zip_name, folders, files):  
+import zipfile
+import os
+import sys
+
+def zip_folders_and_files(zip_name, folders, files):
     """  
     将指定的多个文件夹和文件打包成一个ZIP文件。  
   
@@ -41,4 +42,8 @@ for file_name in file_names:
 print(folders)
 print(files)
 
-zip_folders_and_files('rime-sentence-schemas.zip', folders, files)
+# 输出文件名可由命令行参数指定，便于不同分支分别打包：
+#   python program/release/generate_rime_all_schema_zip.py rime-wubi86-schemas.zip
+zip_name = sys.argv[1] if len(sys.argv) > 1 else 'rime-sentence-schemas.zip'
+zip_folders_and_files(zip_name, folders, files)
+print(f'generated: {zip_name}')
