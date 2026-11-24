@@ -9,2610 +9,2610 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-岸礁	mdfj dwy	2
-澳洲界	itm iyt lwj	0
-巴东组	cnh ai xeg	0
-白云质灰岩	rrr fcu rfm do mdf	1
-半常绿森林	uf ipkh xv sss ss	0
-半承压水层	uf bd dfy ii nfc	0
-板根	src sve	0
-半固定沙丘	uf ldd pg iit rgd	1
-斑晶	gyg jjj	7
-板块边界	src fnw lp lwj	17
-板块构造说	src fnw sq tfkp yu	0
-板块构造学	src fnw sq tfkp ip	9
-板块会聚	src fnw wf bct	0
-板块假说	src fnw wnh yu	0
-板块间地震	src fnw uj f fdf	0
-板块接合带	src fnw ruv wgk gkp	0
-板块绝对运动	src fnw xqc cf fcp fcl	0
-板块拉力	src fnw ru lt	0
-板块碰撞	src fnw duo ruj	20
-板块驱动力	src fnw caq fcl lt	0
-板块消减	src fnw iie udg	0
-板块学说	src fnw ip yu	10
-斑粝岩	gyg odd mdf	0
-板内地震	src mw f fdf	0
-阪泉	brcy riu	73
-半日潮汐	uf jjjj ifj iqy	0
-斑铜矿	gyg qmgk dyt	0
-斑纹带	gyg xyy gkp	0
-板岩	src mdf	23
-斑状结构	gyg udy xf sq	1
-邦贾加拉陡崖	dtb smu lk ru bfh mdff	0
-暴发洪水	jaw v iaw ii	0
-孢粉分析	bqn ow wv sr	0
-保护地质环境	wk ryn f rfm ggi fuj	0
-堡礁	wksf dwy	2
-爆破地震	oja dhc f fdf	1
-包气带水	qn rnb gkp ii	3
-宝石矿物学	pgy dgtg dyt tr ip	0
-宝石学	pgy dgtg ip	44
-宝塔组	pgy fawk xeg	0
-包体理论	qn wsg gj ywx	0
-钡长石	qmy ta dgtg	0
-背斜	uxe wtuf	17
-崩堤	mee fjgh	3
-崩积层	mee tkw nfc	0
-崩积楔	mee tkw sdh	0
-崩坡积	mee fhc tkw	0
-毕钵罗窟	xxf qsg lq pwn	0
-毕达哥利翁	xxf dp sks tjh wcn	0
-闭合盆地	uft wgk wvl f	0
-比较行星学	xx lu tf jtg ip	1
-鼻尾丘	thl ntf rgd	0
-变磁阻地震仪	yo du begg f fdf wyq	0
-边国	lp l	0
-边界代数算法	lp lwj wa ovt tha if	0
-变量聚类分析	yo jg bct od wv sr	0
-变量筛选分析	yo jg tjgh tfqp wv sr	0
-边缘地震	lp xxe f fdf	0
-边缘断层	lp xxe on nfc	0
-边缘弧	lp xxe xrc	0
-边缘深断裂	lp xxe ipw on gqje	0
-辫状河	uxu udy isk	4
-标贯	sfi xfm	0
-表面重力波	ge dm tgj lt ihc	0
-标型化合物	sfi gajf wx wgk tr	0
-标型离子	sfi gajf yb bb	0
-标型元素	sfi gajf fqb gxi	0
-标志层	sfi fn nfc	0
-标准贯入	sfi uwy xfm ty	0
-滨河床沙坝	ipr isk ysi iit fmy	0
-滨外坝	ipr qh fmy	0
-冰擦痕	ui rpwi uve	0
-冰川变化	ui kthh yo wx	2
-冰川补给	ui kthh puh xw	0
-冰川地质学	ui kthh f rfm ip	1
-冰川河流	ui kthh isk iyc	1
-冰川化	ui kthh wx	1
-冰川退缩	ui kthh vep xpw	11
-冰川物质平衡	ui kthh tr rfm gu tqdh	0
-冰川隙	ui kthh bij	0
-冰川学	ui kthh ip	1
-冰底碛	ui yqa dgm	0
-冰斗冰川	ui ufk ui kthh	2
-冰分凝	ui wv uxt	0
-冰冠气候	ui pfqf rnb whn	0
-冰核丘	ui synw rgd	0
-冰后隙	ui rg bij	0
-冰胶结	ui eu xf	0
-冰砾阶地	ui dqi bwj f	0
-冰砾泥	ui dqi inx	0
-冰碛	ui dgm	61
-冰期后	ui adwe rg	1
-冰碛平原	ui dgm gu dr	0
-冰碛平原水系	ui dgm gu dr ii txi	0
-冰碛物	ui dgm tr	12
-冰蚀槽	ui qnj sgmj	0
-冰水沉积物	ui ii ipm tkw tr	0
-冰透镜体	ui tep quj wsg	0
-冰湾	ui iyo	0
-冰下河道	ui gh isk uthp	0
-冰楔	ui sdh	2
-冰楔作用	ui sdh wt et	0
-冰堰湖	ui fajv ide	0
-冰沼土	ui ivk ffff	0
-波浪侵蚀	ihc iyv wvp qnj	0
-玻利瓦尔学院	ghc tjh gny qiu ip bpf	0
-薄煤层	aig oa nfc	0
-波频率	ihc hid yx	15
-波谱分辨率	ihc yuo wv uyt yx	1
-波散效应	ihc aet uqt yid	0
-剥蚀面	vijh qnj dm	0
-剥蚀平原	vijh qnj gu dr	0
-波速比	ihc gkip xx	0
-波速比变化	ihc gkip xx yo wx	0
-波速异常	ihc gkip naj ipkh	0
-波所黎各	ihc rn tqt tk	0
-波托西城	ihc rta sghg fd	0
-波压	ihc dfy	0
-波运动	ihc fcp fcl	0
-波至	ihc gcf	0
-波周期	ihc mfk adwe	1
-不称河	i tq isk	0
-不等厚	i tffu djb	3
-不对称水系	i cf tq ii txi	0
-不对称褶曲	i cf tq punr ma	0
-补给区	puh xw aq	2
-不连续震动源	i lpk xfn fdf fcl idr	0
-捕虏体	rge halv wsg	7
-捕虏岩	rge halv mdf	0
-不能生物降解	i ce tg tr bt qev	0
-不透水岩	i tep ii mdf	0
-采取率	es bc yx	0
-残积层	gqg tkw nfc	0
-残积景观	gqg tkw jy cm	0
-残积土	gqg tkw ffff	1
-参考基准面	cd ftg ad uwy dm	0
-残留因素	gqg qyvl ld gxi	1
-残坡积	gqg fhc tkw	0
-残丘	gqg rgd	3
-残遗种区	gqg khgp tkh aq	0
-残余风化层	gqg wtu mq wx nfc	0
-残余应变	gqg wtu yid yo	0
-槽波	sgmj ihc	0
-草甸沼泽	ajj ql ivk icf	0
-草绘等高线	ajj xwf tffu ym xg	0
-漕矩咤国	igmj tda kpta l	0
-草原土壤	ajj dr ffff fyk	1
-测地参考系	imj f cd ftg txi	0
-测氡计仪	imj rntu yf wyq	0
-测井	imj fjk	58
-侧向侵蚀	wmj tm wvp qnj	0
-测震学	imj fdf ip	0
-层底高程	nfc yqa ym tkgg	0
-层间滑动断裂	nfc uj ime fcl on gqje	0
-层间流	nfc uj iyc	0
-层间水	nfc uj ii	0
-层结湖	nfc xf ide	0
-层序	nfc ycb	6
-层序地层	nfc ycb f nfc	0
-查科文化	sj tu yygy wx	0
-查文考古区	sj yygy ftg dgh aq	0
-差异风化作用	uda naj mq wx wt et	0
-差异应力	uda naj yid lt	0
-差异运动	uda naj fcp fcl	0
-产沙率	u iit yx	0
-铲式断层	qut aa on nfc	0
-颤沼	ylkm ivk	0
-产状	u udy	9
-昌昌考古区	jj jj ftg dgh aq	0
-场地地震反应	fnrt f f fdf rc yid	0
-场地地质单元	fnrt f f rfm ujfj fqb	0
-场地地质效应	fnrt f f rfm uqt yid	0
-场地反应	fnrt f rc yid	0
-场地放大作用	fnrt f yt dd wt et	0
-场地烈度	fnrt f gqjo ya	0
-场地烈度调整	fnrt f gqjo ya ymf gkih	0
-场地脉动	fnrt f eyni fcl	0
-场函数	fnrt bib ovt	6
-常年洪水位	ipkh rh iaw ii wug	0
-常温层	ipkh ijl nfc	0
-长狭潮道	ta qtgw ifj uthp	0
-长兴组	ta iw xeg	0
-长周期摆	ta mfk adwe rlf	0
-长周期波	ta mfk adwe ihc	0
-长周期潮	ta mfk adwe ifj	0
-长周期地磁场	ta mfk adwe f du fnrt	0
-长周期地震计	ta mfk adwe f fdf yf	0
-长周期地震仪	ta mfk adwe f fdf wyq	0
-超覆	fhv stt	1
-潮沟	ifj iqc	0
-朝圣教堂	fje cff ftbt ipkf	0
-潮滩	ifj icw	0
-超微震	fhv tmg fdf	0
-潮汐带	ifj iqy gkp	4
-潮汐通道	ifj iqy cep uthp	0
-沉积盖层	ipm tkw ugl nfc	0
-沉积建造	ipm tkw vfhp tfkp	1
-沉积水	ipm tkw ii	0
-沉降中心	ipm bt k ny	2
-城堡和城墙	fd wksf t fd ffuk	1
-城堡和文化	fd wksf t yygy wx	0
-城堡及庄园	fd wksf ey yfd lfq	0
-城堡式要塞	fd wksf aa s pfjf	0
-成冰作用	dn ui wt et	0
-成层火山	dn nfc ooo mmm	0
-成壤	dn fyk	0
-成生联系	dn tg bu txi	0
-城市蚕食	fd ymhj gdj wyv	0
-城市等级序列	fd ymhj tffu xe ycb gq	0
-城市辐集	fd ymhj lgk wys	0
-城市化村	fd ymhj wx sf	0
-城市化区域	fd ymhj wx aq fakg	0
-城市历史地理	fd ymhj dl kq f gj	0
-城市连绵区	fd ymhj lpk xr aq	0
-城市蔓延	fd ymhj ajl thp	7
-城市生长极	fd ymhj tg ta se	0
-城市衰落区	fd ymhj ykge ait aq	0
-城市蔓生	fd ymhj ajl tg	0
-城市引力	fd ymhj xh lt	1
-城市再开发	fd ymhj gmf ga v	0
-成熟土壤	dn ybv ffff fyk	0
-成土作用	dn ffff wt et	0
-城乡交错带	fd xte uq qaj gkp	0
-承压地下水	bd dfy f gh ii	0
-承压含水层	bd dfy wynk ii nfc	0
-承压应变	bd dfy yid yo	0
-赤道雨林	fo uthp fghy ss	0
-赤金堡	fo qqqq wksf	0
-持水度	rf ii ya	1
-冲沟	ukh iqc	19
-冲洪积	ukh iaw tkw	0
-冲洪积扇	ukh iaw tkw ynnd	1
-冲击变形组构	ukh fmk yo gae xeg sq	0
-冲击变质作用	ukh fmk yo rfm wt et	0
-冲击地震	ukh fmk f fdf	0
-冲积锥	ukh tkw qwy	0
-冲刷面	ukh nmh dm	0
-抽水试验	rm ii yaa cwg	0
-抽样技巧	rm su rfc agnn	0
-储层	wyf nfc	25
-初动方向	puv fcl yy tm	0
-初动时间	puv fcl jf uj	0
-触发地震	qejy v f fdf	1
-出口基地理论	bm kkkk ad f gj ywx	0
-初始地应力	puv vck f yid lt	0
-初振幅	puv rdf mhg	0
-初至波	puv gcf ihc	0
-传播比	wfny rtol xx	0
-吹蚀	kqw qnj	5
-垂向地震仪	tga tm f fdf wyq	0
-垂直成层结构	tga fh dn nfc xf sq	0
-垂直磁场强度	tga fh du fnrt xk ya	0
-垂直地带性	tga fh f gkp ntg	5
-纯应变	xgb yid yo	0
-磁暴度	du jaw ya	0
-磁暴相	du jaw sh	0
-磁暴效应	du jaw uqt yid	0
-磁变仪	du yo wyq	0
-磁测基点	du imj ad hko	0
-磁测剖面图	du imj ukj dm ltu	0
-磁层电场	du nfc jn fnrt	0
-磁赤铁矿	du fo qr dyt	2
-磁带地震仪	du gkp f fdf wyq	0
-磁分路	du wv kht	0
-磁黄铁矿	du amw qr dyt	3
-磁记录地震仪	du yn vi f fdf wyq	0
-磁静日	du geq jjjj	0
-磁经纬仪	du x xfnh wyq	0
-磁扭秤	du rnf tgu	0
-磁情指数	du nge rxj ovt	0
-磁扰日	du rdn jjjj	0
-次生地震效应	uqw tg f fdf uqt yid	0
-磁性弛豫	du ntg xb cbq	0
-磁性地层划分	du ntg f nfc aj wv	0
-磁性地层学	du ntg f nfc ip	1
-从属景观	ww ntk jy cm	0
-粗腐殖质	oe ywfw gqf rfm	0
-粗粒凝灰岩	oe oug uxt do mdf	0
-粗粒砂岩	oe oug di mdf	1
-粗粒砂状	oe oug di udy	0
-粗砾滩	oe dqi icw	0
-粗砂岩	oe di mdf	0
-粗玄岩	oe yxu mdf	0
-粗质地土壤	oe rfm f ffff fyk	0
-脆性断层	eqd ntg on nfc	0
-脆性形变	eqd ntg gae yo	0
-措迪洛山	raj mp itk mmm	0
-大爆炸假说	dd oja oth wnh yu	1
-大成历史名城	dd dn dl kq qk fd	0
-大地测量基线	dd f imj jg ad xg	0
-大地测量网	dd f imj jg mqq	0
-大地点	dd f hko	0
-大地电磁测深	dd f jn du imj ipw	0
-大地电流暴	dd f jn iyc jaw	0
-大地电阻法	dd f jn begg if	0
-大地构造单元	dd f sq tfkp ujfj fqb	1
-大地构造体系	dd f sq tfkp wsg txi	0
-大地构造学	dd f sq tfkp ip	4
-大地基准面	dd f ad uwy dm	2
-大地控制网	dd f rpw rmhj mqq	1
-大地三角测量	dd f dg qe imj jg	0
-大地水准测量	dd f ii uwy imj jg	0
-大地天顶	dd f gd sdm	0
-大都市市区	dd ftjb ymhj ymhj aq	0
-大峰山	dd mtd mmm	0
-大卡萨斯	dd hhu abu adwr	0
-大雷普提斯	dd flf uo rj adwr	0
-大羚羊保护区	dd udwc udj wk ryn aq	0
-大隆组	dd btg xeg	0
-大陆被动边缘	dd bfm puhc fcl lp xxe	0
-大陆车阀说	dd bfm lg uwa yu	0
-大陆地震	dd bfm f fdf	0
-大陆度	dd bfm ya	0
-大陆复原	dd bfm tjt dr	0
-大陆固定论	dd bfm ldd pg ywx	0
-大陆裂谷	dd bfm gqje wwk	0
-大陆碰撞	dd bfm duo ruj	2
-大陆坡	dd bfm fhc	0
-大陆破裂	dd bfm dhc gqje	0
-大陆消减	dd bfm iie udg	0
-大陆性冰川	dd bfm ntg ui kthh	5
-大陆型地壳	dd bfm gajf f fpm	0
-大陆增长	dd bfm fu ta	0
-大陆主动边缘	dd bfm y fcl lp xxe	0
-大气迁移	dd rnb tfp tqq	0
-大容重试验	dd pww tgj yaa cwg	0
-大田制度	dd lll rmhj ya	0
-大同火山群	dd m ooo mmm vtk	1
-大铜山采矿区	dd qmgk mmm es dyt aq	0
-达西定律	dp sghg pg tvfh	3
-大冶组	dd uck xeg	0
-歹字型构造	gqi pb gajf sq tfkp	0
-氮循环	rno trfh ggi	15
-单元景观	ujfj fqb jy cm	0
-倒置地貌	wgc lfhf f eerq	0
-等级扩散	tffu xe ry aet	0
-等积投影	tffu tkw rmc jyie	4
-等角投影	tffu qe rmc jyie	16
-等距投影	tffu kha rmc jyie	7
-等距原则	tffu kha dr mj	0
-等时线	tffu jf xg	8
-迪奥西亚	mp tmo sghg gog	0
-地表水污染	f ge ii ifn ivs	3
-地表震源	f ge fdf idr	0
-地槽地台说	f sgmj f ck yu	0
-地层表	f nfc ge	1
-地层不整合	f nfc i gkih wgk	0
-地层超覆	f nfc fhv stt	0
-地层代号	f nfc wa kgn	0
-地层分区	f nfc wv aq	0
-地层间断	f nfc uj on	0
-地层缺失	f nfc rmn rw	2
-地层小区	f nfc ih aq	0
-地层走向	f nfc fhu tm	0
-地磁参考场	f du cd ftg fnrt	0
-地磁场矢量	f du fnrt tdu jg	0
-地磁场要素	f du fnrt s gxi	0
-地磁赤道	f du fo uthp	0
-地磁倒转	f du wgc lfn	27
-地磁分量	f du wv jg	0
-地磁感应	f du dgkn yid	3
-地磁活动性	f du itd fcl ntg	0
-地磁极性倒转	f du se ntg wgc lfn	1
-地磁极性反转	f du se ntg rc lfn	0
-地磁极性期	f du se ntg adwe	0
-地磁极性事件	f du se ntg gk wrh	0
-地磁经度	f du x ya	0
-地磁静日变化	f du geq jjjj yo wx	0
-地磁力	f du lt	0
-地磁南极	f du fm se	0
-地磁漂移	f du isf tqq	15
-地磁三要素	f du dg s gxi	0
-地磁时表	f du jf ge	0
-地磁事件	f du gk wrh	0
-地磁余纬度	f du wtu xfnh ya	0
-地磁轴	f du lm	0
-地磁子午圈	f du bb tfj lud	0
-地磁总强度	f du ukn xk ya	0
-地电测量	f jn imj jg	0
-地电场	f jn fnrt	1
-地电法	f jn if	0
-地电仪	f jn wyq	0
-递发地震	uxhp v f fdf	0
-地方气候	f yy rnb whn	5
-地方震	f yy fdf	0
-地缝合线	f xtdp wgk xg	1
-迪夫里伊	mp fw jfd wvt	0
-地滚波	f iuc ihc	0
-地基刚性	f ad mqj ntg	0
-地基回弹	f ad lkd xuj	0
-地基失效	f ad rw uqt	0
-地基稳定性	f ad tqv pg ntg	1
-地极移动	f se tqq fcl	0
-底界	yqa lwj	1
-递进变形	uxhp fj yo gae	0
-地静压力	f geq dfy lt	0
-笛卡尔张量	tmf hhu qiu xt jg	0
-地理底图	f gj yqa ltu	2
-地理泛系分析	f gj itp txi wv sr	0
-地理惯性	f gj nxf ntg	0
-地理计量学	f gj yf jg ip	0
-地理精度	f gj oge ya	0
-地理考察	f gj ftg pwfi	4
-地理剖面	f gj ukj dm	0
-地理圈	f gj lud	2
-地理数据采编	f gj ovt rnd es xyna	0
-地理数据库	f gj ovt rnd ylk	29
-地理通名	f gj cep qk	0
-地理相关法	f gj sh ud if	0
-地理信息流	f gj wy thn iyc	0
-地理学史	f gj ip kq	2
-地理学思想史	f gj ip ln shn kq	5
-地理学体系	f gj ip wsg txi	1
-地理遥感	f gj er dgkn	32
-地理因子	f gj ld bb	0
-地理制图	f gj rmhj ltu	2
-地理专名	f gj fny qk	0
-地理专业词汇	f gj fny og yngk ian	0
-地理综合	f gj xp wgk	4
-地理阻障	f gj begg buj	0
-地理坐标网	f gj wwf sfi mqq	0
-狄罗尼三角网	qtoy lq nx dg qe mqq	0
-地幔波	f mhjc ihc	0
-地幔地核界面	f mhjc f synw lwj dm	0
-地幔底辟	f mhjc yqa nku	0
-地幔地震	f mhjc f fdf	0
-地幔地柱	f mhjc f syg	0
-地幔挤入作用	f mhjc ryj ty wt et	0
-地幔勒夫波	f mhjc afl fw ihc	0
-地幔流	f mhjc iyc	1
-地幔流变学	f mhjc iyc yo ip	0
-地幔面波	f mhjc dm ihc	0
-地幔热柱	f mhjc rvyo syg	0
-地幔岩	f mhjc mdf	0
-地幔涌流	f mhjc ice iyc	0
-地貌成因	f eerq dn ld	0
-地貌倒置	f eerq wgc lfhf	0
-地貌过程	f eerq fp tkgg	0
-地貌量计学	f eerq jg yf ip	0
-地貌年代学	f eerq rh wa ip	0
-地貌区	f eerq aq	0
-地貌世代	f eerq an wa	0
-地貌形成作用	f eerq gae dn wt et	0
-地貌序列	f eerq ycb gq	0
-地貌旋回	f eerq ytn lkd	0
-地貌组合	f eerq xeg wgk	0
-地面混波	f dm ijx ihc	0
-地面加速度	f dm lk gkip ya	0
-地面脉动	f dm eyni fcl	0
-地面振幅	f dm rdf mhg	0
-地名罗马化	f qk lq cn wx	0
-地名正名	f qk ghd qk	0
-地炮	f oq	3
-底辟构造	yqa nku sq tfkp	0
-地平经圈	f gu x lud	0
-底碛	yqa dgm	0
-地堑	f lrf	6
-地堑盆地	f lrf wvl f	0
-地壳波速结构	f fpm ihc gkip xf sq	0
-地壳地震	f fpm f fdf	0
-地壳均衡	f fpm fqu tqdh	3
-地壳增厚	f fpm fu djb	1
-地倾斜	f wxd wtuf	1
-地球变化磁场	f gfi yo wx du fnrt	0
-地球变形	f gfi yo gae	0
-地球潮汐	f gfi ifj iqy	3
-地球潮汐因子	f gfi ifj iqy ld bb	0
-地球成因说	f gfi dn ld yu	0
-地球磁性	f gfi du ntg	0
-地球动力模型	f gfi fcl lt saj gajf	0
-地球放射性	f gfi yt tmdf ntg	0
-地球辐射	f gfi lgk tmdf	19
-地球固体潮	f gfi ldd wsg ifj	0
-地球化学场	f gfi wx ip fnrt	0
-地球化学景观	f gfi wx ip jy cm	0
-地球化学区	f gfi wx ip aq	0
-地球化学图	f gfi wx ip ltu	1
-地球化学异常	f gfi wx ip naj ipkh	0
-地球基本磁场	f gfi ad sg du fnrt	0
-地球进动	f gfi fj fcl	5
-地球静力学	f gfi geq lt ip	0
-地球力学	f gfi lt ip	1
-地球模型	f gfi saj gajf	0
-地球内部化学	f gfi mw uk wx ip	0
-地球膨胀	f gfi efk eta	5
-地球膨胀说	f gfi efk eta yu	0
-地球收缩	f gfi nh xpw	0
-地球外重力位	f gfi qh tgj lt wug	0
-地球物理场	f gfi tr gj fnrt	6
-地球物理异常	f gfi tr gj naj ipkh	0
-地球运动学	f gfi fcp fcl ip	1
-地球中心核	f gfi k ny synw	0
-地球中心角	f gfi k ny qe	0
-地球自由章动	f gfi thd mh ujj fcl	0
-地球自由振动	f gfi thd mh rdf fcl	0
-地球资源卫星	f gfi uqwm idr bg jtg	4
-地热对流系统	f rvyo cf iyc txi xyc	0
-地热工业	f rvyo a og	0
-地热活动	f rvyo itd fcl	6
-地热异常区	f rvyo naj ipkh aq	0
-地生态学	f tg dyn ip	0
-地势曲线	f rvyl ma xg	0
-地史学	f kq ip	3
-第四纪冰期	tx lh xn ui adwe	36
-低速带	wqa gkip gkp	2
-地图编缉	f ltu xyna xkb	0
-地图编辑系统	f ltu xyna lkb txi xyc	0
-地图表示方法	f ltu ge fi yy if	0
-地图传输论	f ltu wfny lwg ywx	0
-地图分幅	f ltu wv mhg	0
-地图分类	f ltu wv od	1
-地图符号	f ltu twf kgn	2
-地图符号学	f ltu twf kgn ip	0
-地图概括	f ltu svc rtd	2
-地图感受论	f ltu dgkn epc ywx	0
-地图规范	f ltu fwm aib	1
-地图归纳法	f ltu jv xmw if	0
-地图量算	f ltu jg tha	1
-地图模式论	f ltu saj aa ywx	0
-地图判读	f ltu udjh yfn	0
-地图评价	f ltu ygu wwj	0
-地图谱用	f ltu yuo et	0
-地图数据结构	f ltu ovt rnd xf sq	0
-地图数学模型	f ltu ovt ip saj gajf	0
-地图数字化	f ltu ovt pb wx	1
-地图特征码	f ltu trf tgh dcg	0
-地图图型	f ltu ltu gajf	0
-地图信息论	f ltu wy thn ywx	0
-地图演绎法	f ltu ipg xcf if	0
-地图坐标网	f ltu wwf sfi mqq	0
-地洼学说	f iffg ip yu	1
-低位沼泽	wqa wug ivk icf	0
-低温气候	wqa ijl rnb whn	1
-地文因素	f yygy ld gxi	0
-地下河流	f gh isk iyc	4
-地下水动力学	f gh ii fcl lt ip	0
-地下水动态	f gh ii fcl dyn	0
-地下水观测	f gh ii cm imj	0
-地下水径流	f gh ii tca iyc	0
-地下水均衡	f gh ii fqu tqdh	0
-地下水开采	f gh ii ga es	2
-地下水网络	f gh ii mqq xtk	0
-地心轨道	f ny lv uthp	2
-地心角	f ny qe	0
-地心距离	f ny kha yb	2
-地心体系	f ny wsg txi	2
-地心天顶	f ny gd sdm	0
-地心位置	f ny wug lfhf	0
-地形变	f gae yo	1
-地形变测量	f gae yo imj jg	0
-地形等级	f gae tffu xe	0
-地形地物	f gae f tr	7
-地形分析程序	f gae wv sr tkgg ycb	0
-地形基面	f gae ad dm	0
-地形匹配	f gae aqv sgn	1
-地形气候学	f gae rnb whn ip	0
-地形抬升	f gae rck tak	6
-地形同位素分馏效应	f gae m wug gxi wv qnql uqt yid	0
-地形图购置	f gae ltu mqc lfhf	0
-地形图数字化	f gae ltu ovt pb wx	0
-地形要素划分标准及分值表	f gae s gxi aj wv sfi uwy ey wv wfhg ge	0
-地学断面	f ip on dm	0
-地学知识介绍牌	f ip td ykw wj xvk thgf	0
-地压型地热资源	f dfy gajf f rvyo uqwm idr	0
-地压应力	f dfy yid lt	0
-低液限粘土	wqa iyw bv oh ffff	0
-地衣测年法	f ye imj rh if	0
-地域专业化	f fakg fny og wx	0
-地月重心	f eee tgj ny	0
-地噪声	f kkks fnr	2
-地震保险	f fdf wk bwg	5
-地震避难场所	f fdf nk cw fnrt rn	0
-地震波传播	f fdf ihc wfny rtol	1
-地震波衰减	f fdf ihc ykge udg	0
-地震波速比	f fdf ihc gkip xx	0
-地震波速度	f fdf ihc gkip ya	1
-地震波走时	f fdf ihc fhu jf	0
-地震不连续面	f fdf i lpk xfn dm	0
-地震参数	f fdf cd ovt	0
-地震测震学	f fdf imj fdf ip	0
-地震层序	f fdf nfc ycb	0
-地震场	f fdf fnrt	0
-地震长期预报	f fdf ta adwe cbd rb	0
-地震成像	f fdf dn wqj	0
-地震成因	f fdf dn ld	5
-地震重复间隔	f fdf tgj tjt uj bgk	0
-地震初波	f fdf puv ihc	0
-地震错距	f fdf qaj kha	0
-地震道	f fdf uthp	0
-地震地层学	f fdf f nfc ip	1
-地震地貌	f fdf f eerq	0
-地震地质效应	f fdf f rfm uqt yid	0
-地震地质学	f fdf f rfm ip	0
-地震地质灾害	f fdf f rfm po pd	0
-地震电效应	f fdf jn uqt yid	0
-地震调查	f fdf ymf sj	3
-地震定量	f fdf pg jg	0
-地震定位	f fdf pg wug	0
-地震动参数	f fdf fcl cd ovt	3
-地震陡坎	f fdf bfh fqw	0
-地震断层	f fdf on nfc	0
-地震短期预报	f fdf tdg adwe cbd rb	0
-地震对策	f fdf cf tgm	0
-地震反射	f fdf rc tmdf	0
-地震反演	f fdf rc ipg	2
-地震反应谱	f fdf rc yid yuo	0
-地震放大器	f fdf yt dd kkd	0
-地震分布图	f fdf wv dmh ltu	0
-地震复发	f fdf tjt v	0
-地震各向异性	f fdf tk tm naj ntg	0
-地震构造	f fdf sq tfkp	0
-地震构造带	f fdf sq tfkp gkp	0
-地震构造区	f fdf sq tfkp aq	0
-地震构造区划	f fdf sq tfkp aq aj	0
-地震构造图	f fdf sq tfkp ltu	0
-地震构造学	f fdf sq tfkp ip	0
-地震观测环境	f fdf cm imj ggi fuj	0
-地震光缆	f fdf iq xjt	0
-地震过程	f fdf fp tkgg	0
-地震宏观调查	f fdf pdc cm ymf sj	0
-地震回放仪	f fdf lkd yt wyq	0
-地震会商	f fdf wf um	0
-地震活动度	f fdf itd fcl ya	0
-地震活动断层	f fdf itd fcl on nfc	3
-地震活动图	f fdf itd fcl ltu	0
-地震活动性	f fdf itd fcl ntg	0
-地震活动异常	f fdf itd fcl naj ipkh	0
-地震基本烈度	f fdf ad sg gqjo ya	0
-地震记录	f fdf yn vi	2
-地震级数	f fdf xe ovt	1
-地震机制	f fdf sm rmhj	0
-地震加速度图	f fdf lk gkip ya ltu	0
-地震监测设施	f fdf jtyl imj ymc ytb	0
-地震监测台网	f fdf jtyl imj ck mqq	0
-地震监视系统	f fdf jtyl pym txi xyc	0
-地震界面	f fdf lwj dm	0
-地震解耦	f fdf qev dij	0
-地震静力学	f fdf geq lt ip	0
-地震救助技术	f fdf fiyt egl rfc sy	0
-地震矩张量	f fdf tda xt jg	0
-地震科学	f fdf tu ip	2
-地震空区	f fdf pw aq	0
-地震控制	f fdf rpw rmhj	0
-地震力	f fdf lt	2
-地震历时	f fdf dl jf	0
-地震烈度表	f fdf gqjo ya ge	0
-地震烈度评定	f fdf gqjo ya ygu pg	0
-地震烈度区划	f fdf gqjo ya aq aj	0
-地震烈度异常	f fdf gqjo ya naj ipkh	0
-地震滤波	f fdf iha ihc	0
-地震盲区	f fdf ynh aq	0
-地震面波	f fdf dm ihc	0
-地震模拟	f fdf saj rny	0
-地震能	f fdf ce	0
-地震能级	f fdf ce xe	0
-地震耦合	f fdf dij wgk	0
-地震频度	f fdf hid ya	0
-地震平静期	f fdf gu geq adwe	0
-地震平静区	f fdf gu geq aq	0
-地震剖面	f fdf ukj dm	2
-地震谱	f fdf yuo	0
-地震迁移	f fdf tfp tqq	0
-地震前兆效应	f fdf ue iqv uqt yid	0
-地震区划	f fdf aq aj	1
-地震区划图	f fdf aq aj ltu	0
-地震趋势分析	f fdf fhqv rvyl wv sr	0
-地震全息照相	f fdf wg thn jvko sh	0
-地震群	f fdf vtk	0
-地震散射	f fdf aet tmdf	0
-地震三要素	f fdf dg s gxi	0
-地震社会学	f fdf py wf ip	0
-地震设计烈度	f fdf ymc yf gqjo ya	0
-地震射线	f fdf tmdf xg	0
-地震射线理论	f fdf tmdf xg gj ywx	0
-地震深度	f fdf ipw ya	0
-地震声学	f fdf fnr ip	0
-地震事件	f fdf gk wrh	9
-地震时空分布	f fdf jf pw wv dmh	0
-地震首波	f fdf uth ihc	0
-地震衰减	f fdf ykge udg	0
-地震台网	f fdf ck mqq	1
-地震台阵	f fdf ck bl	0
-地震体波	f fdf wsg ihc	0
-地震天气	f fdf gd rnb	0
-地震天文学	f fdf gd yygy ip	0
-地震条件	f fdf ts wrh	0
-地震统计学	f fdf xyc yf ip	0
-地震图	f fdf ltu	0
-地震图像	f fdf ltu wqj	0
-地震图像识别	f fdf ltu wqj ykw klj	0
-地震尾波	f fdf ntf ihc	0
-地震位错	f fdf wug qaj	0
-地震位能	f fdf wug ce	0
-地震危险估计	f fdf qdb bwg wd yf	0
-地震危险评价	f fdf qdb bwg ygu wwj	0
-地震危险区划	f fdf qdb bwg aq aj	0
-地震危险图	f fdf qdb bwg ltu	0
-地震危险性	f fdf qdb bwg ntg	2
-地震位置	f fdf wug lfhf	4
-地震系列	f fdf txi gq	1
-地震线	f fdf xg	0
-地震效率	f fdf uqt yx	0
-地震小区划	f fdf ih aq aj	0
-地震效应	f fdf uqt yid	1
-地震信号	f fdf wy kgn	5
-地震行波	f fdf tf ihc	0
-地震序列	f fdf ycb gq	0
-地震序列类型	f fdf ycb gq od gajf	0
-地震遥测	f fdf er imj	0
-地震遥测台网	f fdf er imj ck mqq	0
-地震谣言	f fdf yer yyy	0
-地震仪标定	f fdf wyq sfi pg	0
-地震仪参数	f fdf wyq cd ovt	0
-地震异常	f fdf naj ipkh	1
-地震遗迹	f fdf khgp yop	0
-地震易损性	f fdf jqr rkm ntg	0
-地震应急预案	f fdf yid qvn cbd pvs	0
-地震影区	f fdf jyie aq	0
-地震有感范围	f fdf e dgkn aib lfnh	1
-地震预报对策	f fdf cbd rb cf tgm	0
-地震原生灾害	f fdf dr tg po pd	0
-地震灾害评估	f fdf po pd ygu wd	0
-地震灾害预测	f fdf po pd cbd imj	1
-地震灾害预防	f fdf po pd cbd by	0
-地震灾情	f fdf po nge	3
-地震噪声	f fdf kkks fnr	0
-地震震动	f fdf fdf fcl	1
-地震震相	f fdf fdf sh	0
-地震震源	f fdf fdf idr	1
-地震中期预报	f fdf k adwe cbd rb	0
-地震周期	f fdf mfk adwe	5
-地震周期性	f fdf mfk adwe ntg	0
-地震纵波	f fdf xww ihc	2
-地震走时表	f fdf fhu jf ge	0
-地震走时曲线	f fdf fhu jf ma xg	0
-地质背景	f rfm uxe jy	5
-地质背景条件	f rfm uxe jy ts wrh	0
-地质编录	f rfm xyna vi	0
-地质测绘	f rfm imj xwf	0
-地质点	f rfm hko	0
-地质调查局	f rfm ymf sj nnk	3
-地质调查院	f rfm ymf sj bpf	1
-地质规律	f rfm fwm tvfh	2
-地质基础	f rfm ad dbm	5
-地质简况	f rfm tuj ukq	0
-地质结构	f rfm xf sq	43
-地质勘查报告	f rfm adwl sj rb tfkf	0
-地质勘查剖面测量	f rfm adwl sj ukj dm imj jg	0
-地质科学研究所	f rfm tu ip dga pwv rn	0
-地质雷达探测	f rfm flf dp rpws imj	0
-地质雷达仪器	f rfm flf dp wyq kkd	0
-地质年表	f rfm rh ge	0
-地质年代测量	f rfm rh wa imj jg	0
-地质年代学	f rfm rh wa ip	0
-地质事件	f rfm gk wrh	10
-地质填图	f rfm ffh ltu	1
-地质温度计	f rfm ijl ya yf	0
-地质问题	f rfm ukd jghm	6
-地质旋回	f rfm ytn lkd	0
-地质压力计	f rfm dfy lt yf	0
-地质营力	f rfm apk lt	4
-地质应力	f rfm yid lt	0
-地轴倾角	f lm wxd qe	2
-地柱说	f syg yu	0
-地转平衡	f lfn gu tqdh	1
-地转效应	f lfn uqt yid	0
-地转运动	f lfn fcp fcl	0
-电测井	jn imj fjk	0
-电测深法	jn imj ipw if	0
-电磁冲击波	jn du ukh fmk ihc	0
-电动式地震仪	jn fcl aa f fdf wyq	0
-淀积层	ipgh tkw nfc	4
-点密度法	hko pnt ya if	0
-电容地震仪	jn pww f fdf wyq	0
-点源分布	hko idr wv dmh	1
-点值图	hko wfhg ltu	0
-电子地震仪	jn bb f fdf wyq	0
-电阻率法	jn begg yx if	0
-电阻率剖面	jn begg yx ukj dm	0
-叠合分析	cccg wgk wv sr	0
-叠加地震记录	cccg lk f fdf yn vi	0
-叠加定律	cccg lk pg tvfh	4
-跌水潭	khr ii isj	0
-定点形变测量	pg hko gae yo imj jg	0
-顶极土壤	sdm se ffff fyk	0
-定量地震学	pg jg f fdf ip	0
-丁威勒	sgh dgv afl	0
-冻结层中水	uai xf nfc k ii	0
-冻结指数	uai xf rxj ovt	0
-动力变质作用	fcl lt yo rfm wt et	0
-动力地貌学	fcl lt f eerq ip	0
-动力地质学	fcl lt f rfm ip	1
-动圈式地震仪	fcl lud aa f fdf wyq	0
-动态震害预测	fcl dyn fdf pd cbd imj	0
-冻土动力学	uai ffff fcl lt ip	0
-冻土进化	uai ffff fj wx	0
-冻土退化	uai ffff vep wx	0
-冻土相分析	uai ffff sh wv sr	0
-冻土学	uai ffff ip	0
-动物传布	fcl tr wfny dmh	0
-洞穴堆积	imgk pwu fwy tkw	0
-洞穴学	imgk pwu ip	0
-杜能模式	sfg ce saj aa	0
-都市集聚	ftjb ymhj wys bct	0
-都市水文学	ftjb ymhj ii yygy ip	0
-断层擦痕	on nfc rpwi uve	0
-断层传播	on nfc wfny rtol	0
-断层带	on nfc gkp	3
-断层谷	on nfc wwk	0
-断层滑距	on nfc ime kha	0
-断层活动段	on nfc itd fcl wdm	0
-断层活动性	on nfc itd fcl ntg	1
-断层几何学	on nfc mt wsk ip	0
-断层角砾岩	on nfc qe dqi mdf	0
-断层接触	on nfc ruv qejy	0
-断层阶地	on nfc bwj f	0
-断层面	on nfc dm	3
-断层泥	on nfc inx	0
-断层气	on nfc rnb	0
-断层蠕动	on nfc jfdj fcl	0
-断层三角面	on nfc dg qe dm	1
-断层线崖	on nfc xg mdff	0
-断层小陡坎	on nfc ih bfh fqw	0
-断层崖	on nfc mdff	3
-断层垭口	on nfc fgo kkkk	0
-断块	on fnw	6
-断块构造说	on fnw sq tfkp yu	0
-断块山	on fnw mmm	3
-断裂深度分类	on gqje ipw ya wv od	0
-断裂系	on gqje txi	0
-短期地震前兆	tdg adwe f fdf ue iqv	0
-短期聚落	tdg adwe bct ait	0
-短水准	tdg ii uwy	0
-断头河	on udi isk	0
-断陷	on bqv	13
-短周期地震仪	tdg mfk adwe f fdf wyq	2
-堆积阶地	fwy tkw bwj f	1
-对流力	cf iyc lt	0
-对流说	cf iyc yu	0
-顿丘	gbnm rgd	23
-盾形火山	rfh gae ooo mmm	0
-盾状火山	rfh udy ooo mmm	7
-多波段扫描器	qq ihc wdm rv ral kkd	0
-多波段遥感	qq ihc wdm er dgkn	0
-多道地震仪	qq uthp f fdf wyq	0
-多道抗震防线	qq uthp rymn fdf by xg	0
-多硅白云母	qq dff rrr fcu xgu	0
-多核心论	qq synw ny ywx	0
-多明各会	qq je tk wf	0
-多瑙河两岸	qq gvt isk gmww mdfj	0
-多瑙河三角洲	qq gvt isk dg qe iyt	0
-二次余震	fg uqw wtu fdf	0
-二轴晶	fg lm jjj	0
-二祖山	fg pye mmm	0
-发电机学说	v jn sm ip yu	0
-伐腊毗国	wat eaj lxx l	0
-发展地理学	v nae f gj ip	0
-发震断层	v fdf on nfc	0
-发震概率	v fdf svc yx	0
-发震构造	v fdf sq tfkp	0
-发震构造体系	v fdf sq tfkp wsg txi	0
-发震区	v fdf aq	0
-发震时刻	v fdf jf ynt	0
-泛北极	itp ux se	7
-钒钡铜矿	qmyy qmy qmgk dyt	0
-反差调整	rc uda ymf gkih	3
-泛大洋	itp dd iu	0
-钒钙铀矿	qmyy qgh qmg dyt	2
-反聚集力	rc bct wys lt	0
-钒矿	qmyy dyt	1
-反馈环	rc qnk ggi	10
-凡兰吟	my uff kwyn	0
-反扭	rc rnf	13
-反气旋式环流	rc rnb ytn aa ggi iyc	0
-反射地震波法	rc tmdf f fdf ihc if	0
-反射地震勘探	rc tmdf f fdf adwl rpws	0
-反射地震学	rc tmdf f fdf ip	0
-反射地震仪	rc tmdf f fdf wyq	0
-反射界面	rc tmdf lwj dm	2
-钒酸盐	qmyy sgc fhl	1
-钒铜矿	qmyy qmgk dyt	0
-反象	rc qje	1
-梵衍那国	ssm tif vfb l	0
-钒云母	qmyy fcu xgu	0
-犯罪地理	qtb ldj f gj	5
-方辉橄榄岩	yy iqpl snb sjtq mdf	0
-方济各会	yy iyj tk wf	7
-方解石化	yy qev dgtg wx	0
-放射带	yt tmdf gkp	0
-放射性测量	yt tmdf ntg imj jg	2
-放射性示踪法	yt tmdf ntg fi khp if	0
-方位地震仪	yy wug f fdf wyq	0
-方柱石	yy syg dgtg	1
-飞白岩	nui rrr mdf	0
-非地带性	djd f gkp ntg	1
-非地带性土壤	djd f gkp ntg ffff fyk	0
-非发震断裂	djd v fdf on gqje	0
-非构造性裂缝	djd sq tfkp ntg gqje xtdp	0
-非基础行业	djd ad dbm tf og	0
-非金属矿床	djd qqqq ntk dyt ysi	0
-非可再生资源	djd sk gmf tg uqwm idr	2
-非连续性变形	djd lpk xfn ntg yo gae	0
-非生源景观	djd tg idr jy cm	0
-非斯老城	djd adwr ftx fd	0
-非弹性形变	djd xuj ntg gae yo	3
-分布区间断	wv dmh aq uj on	0
-分布区型	wv dmh aq gajf	0
-分布区中心	wv dmh aq k ny	0
-分层设色表	wv nfc ymc qc ge	0
-分层设色法	wv nfc ymc qc if	1
-分汊率	wv icyy yx	0
-分岔系数	wv wvmj txi ovt	0
-分解生物	wv qev tg tr	1
-芬兰堡	awv uff wksf	0
-分裂说	wv gqje yu	0
-分配结构模型	wv sgn xf sq saj gajf	0
-分散城市	wv aet fd ymhj	0
-粉砂土	ow di ffff	0
-粉砂质	ow di rfm	0
-分数比例尺	wv ovt xx wgq nyi	0
-汾渭地震带	iwv ile f fdf gkp	0
-分乡组	wv xte xeg	0
-风暴大浪	mq jaw dd iyv	0
-风暴微震	mq jaw tmg fdf	0
-风成沉积	mq dn ipm tkw	1
-峰峰振幅	mtd mtd rdf mhg	0
-风格主义建筑	mq st y yq vfhp tam	0
-峰谷振幅	mtd wwk rdf mhg	0
-缝合带	xtdp wgk gkp	0
-风化壳	mq wx fpm	8
-风积物	mq tkw tr	1
-风棱石	mq sfw dgtg	0
-风蚀脊	mq qnj iwe	1
-风蚀坑	mq qnj fym	1
-风蚀土脊	mq qnj ffff iwe	0
-风蚀洼地	mq qnj iffg f	2
-风蚀柱	mq qnj syg	0
-丰特努瓦	dh trf vcl gny	1
-蜂窝状风化	jtd pwkw udy mq wx	0
-蜂窝状沙丘	jtd pwkw udy iit rgd	0
-风向频度图	mq tm hid ya ltu	0
-丰芽	dh aah	0
-峰值小区划	mtd wfhg ih aq aj	0
-富冰冻土	pgk ui uai ffff	0
-俯冲板块	wyw ukh src fnw	3
-俯冲带	wyw ukh gkp	63
-俯冲断层	wyw ukh on nfc	0
-负地貌	qm f eerq	0
-浮雕影象地图	ieb mfky jyie qje f ltu	0
-复合土地利用	tjt wgk ffff f tjh et	0
-福利地理	pyg tjh f gj	0
-扶南国	rfw fm l	1
-氟年代测定法	rnx rh wa imj pg if	0
-负偏态	qm wyna dyn	0
-腐生动物	ywfw tg fcl tr	0
-福生天	pyg tg gd	0
-腐生植物	ywfw tg sfhg tr	9
-浮坞	ieb fqng	0
-涪县	iuk egc	7
-富营养沼泽	pgk apk udyj ivk icf	0
-负震级	qm fdf xe	0
-盖层	ugl nfc	6
-概率抗震设计	svc yx rymn fdf ymc yf	0
-干谷	fggh wwk	6
-感观环境	dgkn cm ggi fuj	0
-干涸湖	fggh ild ide	0
-干盐湖	fggh fhl ide	0
-感应地理学	dgkn yid f gj ip	2
-感应地震	dgkn yid f fdf	0
-干燥作用	fggh okk wt et	1
-刚性板块	mqj ntg src fnw	1
-高草草原	ym ajj ajj dr	0
-高山矮曲林	ym mmm tdtv ma ss	0
-高山草场轮牧	ym mmm ajj fnrt lwx trt	0
-高山冻土	ym mmm uai ffff	0
-高山季节移牧	ym mmm tb ab tqq trt	0
-高山土壤	ym mmm ffff fyk	0
-高位沼泽	ym wug ivk icf	0
-高原冰川	ym dr ui kthh	2
-高原沼泽	ym dr ivk icf	0
-隔火路	bgk ooo kht	0
-隔坨区	bgk fpxn aq	0
-格网数据库	st mqq ovt rnd ylk	0
-格网座标	st mqq yww sfi	0
-格状水系	st udy ii txi	0
-给水度	xw ii ya	0
-更新统	gjq usr xyc	1
-工厂化农业	a dgt wx pei og	5
-工程地震	a tkgg f fdf	0
-工程地震学	a tkgg f fdf ip	0
-工程地质单元	a tkgg f rfm ujfj fqb	0
-工程地质环境	a tkgg f rfm ggi fuj	0
-工程地质力学	a tkgg f rfm lt ip	0
-工程地质评价	a tkgg f rfm ygu wwj	0
-工程地质试验	a tkgg f rfm yaa cwg	0
-工程地质条件	a tkgg f rfm ts wrh	2
-工程地质图	a tkgg f rfm ltu	0
-工程地质问题	a tkgg f rfm ukd jghm	1
-工程地质学	a tkgg f rfm ip	2
-工程地质钻探	a tkgg f rfm qhk rpws	0
-工程点	a tkgg hko	0
-工程动力地质学	a tkgg fcl lt f rfm ip	0
-工程范围	a tkgg aib lfnh	4
-工程活动	a tkgg itd fcl	0
-工程勘察设计	a tkgg adwl pwfi ymc yf	6
-工程手段	a tkgg rt wdm	0
-工程岩土学	a tkgg mdf ffff ip	0
-工程震害预测	a tkgg fdf pd cbd imj	0
-共轭断层	aw ldb on nfc	0
-共轭节理	aw ldb ab gj	0
-汞铅矿	aiu qmk dyt	0
-弓形山组	xng gae mmm xeg	0
-工业地理学	a og f gj ip	1
-工业地域类型	a og f fakg od gajf	1
-工业分散	a og wv aet	2
-工业扩散	a og ry aet	0
-工业区景观	a og aq jy cm	0
-工业区位政策	a og aq wug ght tgm	0
-工业综合体	a og xp wgk wsg	1
-构造背景	sq tfkp uxe jy	3
-构造层	sq tfkp nfc	0
-构造层位	sq tfkp nfc wug	0
-构造差异运动	sq tfkp uda naj fcp fcl	0
-构造沉降	sq tfkp ipm bt	2
-构造沉陷	sq tfkp ipm bqv	0
-构造尺度	sq tfkp nyi ya	0
-构造窗	sq tfkp pwt	0
-构造带	sq tfkp gkp	4
-构造单元	sq tfkp ujfj fqb	3
-构造地磁	sq tfkp f du	0
-构造地磁效应	sq tfkp f du uqt yid	0
-构造地磁学	sq tfkp f du ip	0
-构造地貌	sq tfkp f eerq	1
-构造地貌学	sq tfkp f eerq ip	0
-构造地形	sq tfkp f gae	0
-构造反对称	sq tfkp rc cf tq	0
-构造复合	sq tfkp tjt wgk	0
-构造高原	sq tfkp ym dr	0
-构造格架	sq tfkp st lks	0
-构造湖	sq tfkp ide	6
-构造活动性	sq tfkp itd fcl ntg	0
-构造阶地	sq tfkp bwj f	0
-构造节理	sq tfkp ab gj	0
-构造类比	sq tfkp od xx	0
-构造幕	sq tfkp ajdh	0
-构造盆地	sq tfkp wvl f	0
-构造平原	sq tfkp gu dr	0
-构造圈	sq tfkp lud	0
-构造体系	sq tfkp wsg txi	4
-构造透镜体	sq tfkp tep quj wsg	0
-构造洼地	sq tfkp iffg f	0
-构造网络	sq tfkp mqq xtk	0
-构造物理学	sq tfkp tr gj ip	0
-构造性断裂	sq tfkp ntg on gqje	0
-构造形迹	sq tfkp gae yop	0
-构造旋回	sq tfkp ytn lkd	1
-构造应力	sq tfkp yid lt	2
-构造应力场	sq tfkp yid lt fnrt	0
-古地磁极	dgh f du se	5
-古地磁学	dgh f du ip	2
-古地理学	dgh f gj ip	0
-古地震	dgh f fdf	6
-固定论	ldd pg ywx	0
-固定沙丘	ldd pg iit rgd	1
-孤峰组	br mtd xeg	0
-鼓丘	fkuc rgd	6
-古生代花岗岩	dgh tg wa awx mmq mdf	0
-古水文学	dgh ii yygy ip	1
-顾特卜塔	db trf hhy fawk	0
-固体潮振荡	ldd wsg ifj rdf ain	0
-固体地球	ldd wsg f gfi	9
-固体地球潮汐	ldd wsg f gfi ifj iqy	1
-固体地球化学	ldd wsg f gfi wx ip	0
-固体热力学	ldd wsg rvyo lt ip	0
-古土壤	dgh ffff fyk	6
-古纬度	dgh xfnh ya	0
-古应力场	dgh yid lt fnrt	1
-观测地震学	cm imj f fdf ip	0
-灌丛休耕法	iak wwg ws dif if	0
-灌溉体系	iak ivc wsg txi	3
-惯性地震仪	nxf ntg f fdf wyq	0
-惯性应变仪	nxf ntg yid yo wyq	0
-光电地震计	iq jn f fdf yf	0
-光化学氧化剂	iq wx ip rnu wx yjjh	0
-光弹性实验	iq xuj ntg pu cwg	0
-光学图像处理	iq ip ltu wqj th gj	2
-硅孔雀石	dff bnn iwyf dgtg	1
-硅铝层	dff qkk nfc	0
-硅铝矿物	dff qkk dyt tr	2
-硅铝镁层	dff qkk qug nfc	0
-硅镁层	dff qug nfc	0
-硅镁石	dff qug dgtg	0
-硅硼钙石	dff dee qgh dgtg	2
-硅铍石化	dff qhc dgtg wx	0
-硅锌矿	dff quh dyt	0
-硅质灰岩	dff rfm do mdf	0
-贵族墓葬	khgm ytt ajdf agq	26
-滚动背斜构造	iuc fcl uxe wtuf sq tfkp	0
-过渡型地壳	fp iya gajf f fpm	0
-国际和平公园	l bf t gu wc lfq	1
-国际重力公式	l bf tgj lt wc aa	0
-国家地图集	l pe f ltu wys	0
-国土整治	l ffff gkih ick	2
-国土资源卫星	l ffff uqwm idr bg jtg	0
-海岸地貌	itx mdfj f eerq	3
-海岸地貌学	itx mdfj f eerq ip	0
-海岸阶地	itx mdfj bwj f	0
-海滨沼泽	itx ipr ivk icf	1
-海底地震计	itx yqa f fdf yf	0
-海底地震勘探	itx yqa f fdf adwl rpws	0
-海底地震仪	itx yqa f fdf wyq	0
-海底扩张假说	itx yqa ry xt wnh yu	0
-海门口	itx uyh kkkk	0
-海面升降运动	itx dm tak bt fcp fcl	0
-氦年代测定法	rnyw rh wa imj pg if	0
-海上油气田	itx h img rnb lll	2
-海蚀龛	itx qnj wgkx	0
-海蚀平台	itx qnj gu ck	1
-海蚀台	itx qnj ck	0
-海蚀隙	itx qnj bij	0
-海蚀崖	itx qnj mdff	1
-海蚀柱	itx qnj syg	6
-海蚀作用	itx qnj wt et	2
-海相	itx sh	8
-海啸地震	itx kvi f fdf	4
-海洋板块	itx iu src fnw	2
-海洋测深	itx iu imj ipw	0
-海洋磁力仪	itx iu du lt wyq	0
-海洋地壳	itx iu f fpm	10
-海洋地球化学	itx iu f gfi wx ip	0
-海洋地震仪	itx iu f fdf wyq	0
-海洋环流	itx iu ggi iyc	7
-海洋性冰川	itx iu ntg ui kthh	14
-海洋震源	itx iu fdf idr	0
-海洋震中	itx iu fdf k	0
-海洋重力勘探	itx iu tgj lt adwl rpws	0
-含冰量	wynk ui jg	2
-旱成土	jfj dn ffff	0
-寒冻风化	pfj uai mq wx	0
-含砾砂岩	wynk dqi di mdf	0
-含煤岩系	wynk oa mdf txi	0
-汉撒同盟城	ic rae m jel fd	0
-汉萨同盟城市	ic abu m jel fd ymhj	0
-含砂	wynk di	1
-寒温带气候	pfj ijl gkp rnb whn	2
-旱峡	jfj mgu	0
-含油地层	wynk img f nfc	1
-含油面积	wynk img dm tkw	0
-航磁测量	tey du imj jg	0
-航空磁力仪	tey pw du lt wyq	0
-航空地球化学	tey pw f gfi wx ip	0
-航空照片判读	tey pw jvko thg udjh yfn	0
-航空重力学	tey pw tgj lt ip	0
-航空重力仪	tey pw tgj lt wyq	0
-耗散波	ditn aet ihc	0
-耗碳量	ditn dmd jg	1
-合成波	wgk dn ihc	13
-合成地面位移	wgk dn f dm wug tqq	0
-合成地图	wgk dn f ltu	0
-合成地震记录	wgk dn f fdf yn vi	0
-合成地震剖面	wgk dn f fdf ukj dm	0
-河床变形	isk ysi yo gae	0
-河道等级	isk uthp tffu xe	0
-河道坡降	isk uthp fhc bt	1
-河口湾	isk kkkk iyo	0
-河流错位	isk iyc qaj wug	0
-河流阶地	isk iyc bwj f	7
-河流偏移	isk iyc wyna tqq	0
-河流数目定律	isk iyc ovt hhhh pg tvfh	0
-河流袭夺	isk iyc dxy df	4
-河流学	isk iyc ip	0
-河网密度	isk mqq pnt ya	0
-核心边缘论	synw ny lp xxe ywx	0
-核震相	synw fdf sh	0
-核子磁力仪	synw bb du lt wyq	0
-黑碱土	lfo ddg ffff	0
-黑子数	lfo bb ovt	0
-黑子周	lfo bb mfk	0
-亨比	ybj xx	0
-亨伯斯通	ybj wr adwr cep	0
-亨德森岛	ybj tfl sss qynm	1
-横坑开采法	sam fym ga es if	0
-横式海岸	sam aa itx mdfj	0
-横向倾斜仪	sam tm wxd wtuf wyq	0
-横向沙丘	sam tm iit rgd	0
-宏观地震观测	pdc cm f fdf cm imj	0
-宏观地震考察	pdc cm f fdf ftg pwfi	0
-宏观地震现象	pdc cm f fdf gm qje	0
-宏观地震效应	pdc cm f fdf uqt yid	0
-宏观地震学	pdc cm f fdf ip	0
-宏观地震震中	pdc cm f fdf fdf k	0
-宏观地震资料	pdc cm f fdf uqwm ou	0
-宏观前兆	pdc cm ue iqv	0
-宏观现场	pdc cm gm fnrt	0
-宏观液化	pdc cm iyw wx	0
-宏观异常	pdc cm naj ipkh	1
-宏观震害	pdc cm fdf pd	0
-宏观震中	pdc cm fdf k	0
-宏观震中烈度	pdc cm fdf k gqjo ya	0
-红花园组	xa awx lfq xeg	0
-洪患	iaw kkhn	0
-洪积层	iaw tkw nfc	0
-洪积扇	iaw tkw ynnd	9
-洪积物	iaw tkw tr	4
-红色石灰土	xa qc dgtg do ffff	1
-红树林沼泽	xa scf ss ivk icf	0
-后坝组	rg fmy xeg	0
-厚层状	djb nfc udy	1
-互层	gx nfc	7
-护根	ryn sve	2
-胡家崾峡	de pe msv mgu	0
-护林区	ryn ss aq	0
-湖流	ide iyc	0
-胡马纳草原	de cn xmw ajj dr	0
-湖泊沉积	ide ir ipm tkw	5
-湖泊水文学	ide ir ii yygy ip	0
-湖泊蓄水量	ide ir ayx ii jg	0
-湖水环流	ide ii ggi iyc	0
-护土墙	ryn ffff ffuk	0
-湖相	ide sh	8
-湖沼学	ide ivk ip	0
-湖震	ide fdf	0
-华北地块	wxf ux f fnw	0
-花岗岩年代学	awx mmq mdf rh wa ip	0
-花卉山谷	awx faj mmm wwk	0
-华莱士线	wxf ago fghg xg	3
-华沙历史中心	wxf iit dl kq k ny	0
-华氏城	wxf qa fd	2
-华氏温度表	wxf qa ijl ya ge	0
-化石遗址	wx dgtg khgp fhg	0
-滑塌	ime fjn	1
-化探	wx rpws	2
-化学剥蚀	wx ip vijh qnj	0
-化学地理学	wx ip f gj ip	1
-化学风化	wx ip mq wx	11
-化学风化作用	wx ip mq wx wt et	1
-化学迁移	wx ip tfp tqq	0
-花园和城堡	awx lfq t fd wksf	0
-缓波状层理	xef ihc udy nfc gj	0
-缓洪	xef iaw	0
-环极西风	ggi se sghg mq	0
-环境地球化学	ggi fuj f gfi wx ip	2
-环境地质学	ggi fuj f rfm ip	0
-环境区划	ggi fuj aq aj	0
-环境卫星系列	ggi fuj bg jtg txi gq	0
-环境限制	ggi fuj bv rmhj	0
-环境演化	ggi fuj ipg wx	5
-环境异常	ggi fuj naj ipkh	0
-环境灾害	ggi fuj po pd	4
-环境质量参数	ggi fuj rfm jg cd ovt	0
-环境质量指数	ggi fuj rfm jg rxj ovt	1
-环太平洋带	ggi dy gu iu gkp	0
-环型环流	ggi gajf ggi iyc	0
-环状珊瑚岛	ggi udy gmm gde qynm	1
-荒地区	aynq f aq	0
-荒漠气候	aynq iaj rnb whn	2
-荒漠土壤	aynq iaj ffff fyk	0
-黄土地貌	amw ffff f eerq	2
-黄土峁	amw ffff mqt	0
-会安古镇	wf pv dgh qfhw	4
-回春作用	lkd dw wt et	0
-汇点区	ian hko aq	0
-灰化红黄壤	do wx xa amw fyk	0
-灰化棕色土	do wx sp qc ffff	0
-灰漠土	do iaj ffff	0
-灰壤	do fyk	0
-绘图程序库	xwf ltu tkgg ycb ylk	0
-灰岩深沟	do mdf ipw iqc	0
-灰质云岩	do rfm fcu mdf	0
-混成物	ijx dn tr	0
-活动地震带	itd fcl f fdf gkp	0
-活动断层	itd fcl on nfc	7
-活动断裂填图	itd fcl on gqje ffh ltu	0
-活动构造	itd fcl sq tfkp	2
-活动构造带	itd fcl sq tfkp gkp	0
-活动论	itd fcl ywx	0
-霍尔托巴吉	fwyf qiu rta cnh fk	0
-霍贾	fwyf smu	0
-霍拉圣巴拉巴	fwyf ru cff cnh ru cnh	0
-霍拉肖维采	fwyf ru ie xwy es	0
-霍雷祖修道院	fwyf flf pye wht uthp bpf	0
-货流地理	wxm iyc f gj	0
-霍洛克	fwyf itk dq	1
-火山崩流	ooo mmm mee iyc	0
-火山带	ooo mmm gkp	1
-火山弹	ooo mmm xuj	2
-火山地质学	ooo mmm f rfm ip	0
-火山海震	ooo mmm itx fdf	0
-火山机构	ooo mmm sm sq	1
-火山雷雨	ooo mmm flf fghy	0
-火山砾	ooo mmm dqi	0
-火山烈度	ooo mmm gqjo ya	0
-火山脉动	ooo mmm eyni fcl	0
-火山泥石流	ooo mmm inx dgtg iyc	1
-火山喷发类型	ooo mmm kfa v od gajf	1
-火山喷发前兆	ooo mmm kfa v ue iqv	0
-火山穹丘	ooo mmm pwx rgd	0
-火山碎屑岩	ooo mmm dyw nied mdf	2
-火山筒	ooo mmm tmgk	0
-火山陷落区	ooo mmm bqv ait aq	0
-火山学	ooo mmm ip	0
-火山预报	ooo mmm cbd rb	0
-火山作用	ooo mmm wt et	9
-基本烈度	ad sg gqjo ya	3
-罽宾	ldoj pr	16
-基部掏蚀	ad uk rqr qnj	0
-基础地震学	ad dbm f fdf ip	0
-基础隔震	ad dbm bgk fdf	0
-基底断裂	ad yqa on gqje	0
-极地气候	se f rnb whn	1
-极地气团	se f rnb lft	0
-基多古城	ad qq dgh fd	0
-激发地震	iry v f fdf	0
-季风雨林	tb mq fghy ss	0
-激光遥感	iry iq er dgkn	0
-几何等级	mt wsk tffu xe	0
-几何地震学	mt wsk f fdf ip	0
-极化过程	se wx fp tkgg	3
-季节冻土	tb ab uai ffff	0
-季节性河流	tb ab ntg isk iyc	7
-季节性湖泊	tb ab ntg ide ir	3
-激进地理学	iry fj f gj ip	0
-寂静地震	ph geq f fdf	0
-集块岩	wys fnw mdf	0
-积累区	tkw lx aq	2
-基罗拉塔湾	ad lq ru fawk iyo	0
-吉诺卡斯特城	fk yad hhu adwr trf fd	0
-基色圣地	ad qc cff f	0
-寄生火山锥	pds tg ooo mmm qwy	0
-技术地理学	rfc sy f gj ip	0
-技术密集工业	rfc sy pnt wys a og	0
-集水盆地	wys ii wvl f	0
-计算地震学	yf tha f fdf ip	0
-极微震	se tmg fdf	0
-极限地震	se bv f fdf	0
-基线水准	ad xg ii uwy	0
-机械地震源	sm sa f fdf idr	0
-机械地震仪	sm sa f fdf wyq	0
-机械风化作用	sm sa mq wx wt et	0
-机械迁移	sm sa tfp tqq	0
-基性熔岩	ad ntg opw mdf	0
-积雪水文学	tkw fv ii yygy ip	0
-挤压构造带	ryj dfy sq tfkp gkp	0
-基岩层	ad mdf nfc	13
-基岩反应谱	ad mdf rc yid yuo	0
-基岩扇	ad mdf ynnd	0
-纪伊山脉	xn wvt mmm eyni	0
-济阴	iyj be	17
-集约农业	wys xq pei og	1
-基准标志	ad uwy sfi fn	0
-基准海平面	ad uwy itx gu dm	0
-基准面速度	ad uwy dm gkip ya	0
-基准水准测量	ad uwy ii uwy imj jg	0
-基座阶地	ad yww bwj f	0
-加积	lk tkw	4
-加积作用	lk tkw wt et	0
-假喀斯特	wnh kpt adwr trf	0
-嘉陵江组	fkuk bfw ia xeg	0
-假整合	wnh gkih wgk	0
-建设地理学	vfhp ymc f gj ip	0
-尖形坝	id gae fmy	0
-尖形滩	id gae icw	0
-兼营农业	uvo apk pei og	0
-交错层理	uq qaj nfc gj	1
-角峰	qe mtd	12
-郊区农业	uqb aq pei og	1
-阶地	bwj f	25
-阶地沼泽	bwj f ivk icf	0
-结构面	xf sq dm	0
-结壳作用	xf fpm wt et	0
-近场地面运动	rp fnrt f dm fcp fcl	0
-近场地震运动	rp fnrt f fdf fcp fcl	0
-近代地壳运动	rp wa f fpm fcp fcl	0
-金德代克	qqqq tfl wa dq	0
-近期火山	rp adwe ooo mmm	0
-近源地震学	rp idr f fdf ip	0
-进展因素	fj nae ld gxi	5
-近震震级	rp fdf fdf xe	0
-近震走时表	rp fdf fhu jf ge	0
-晶胞	jjj eqn	107
-静不定问题	geq i pg ukd jghm	0
-井段	fjk wdm	1
-景观地球化学	jy cm f gfi wx ip	0
-景观圈	jy cm lud	1
-景观损害	jy cm rkm pd	0
-经济地理条件	x iyj f gj ts wrh	2
-经济发展战略	x iyj v nae hka ltk	9
-静力触探	geq lt qejy rpws	0
-径流变率	tca iyc yo yx	0
-径流模数	tca iyc saj ovt	0
-净太阳辐射	uqv dy bj lgk tmdf	0
-静态震害预测	geq dyn fdf pd cbd imj	0
-经纬网格	x xfnh mqq st	0
-井下测震	fjk gh imj fdf	0
-井下地震仪	fjk gh f fdf wyq	0
-经线跨度	x xg khd ya	0
-经向构造体系	x tm sq tfkp wsg txi	0
-鲸鱼保护区	qgy qgf wk ryn aq	0
-鲸鱼峡谷	qgy qgf mgu wwk	0
-酒东	isgg ai	0
-久能山	qy ce mmm	0
-旧热带界	hj rvyo gkp lwj	0
-酒西	isgg sghg	0
-酒庄文化景观	isgg yfd yygy wx jy cm	0
-居昌	nd jj	0
-锯齿状断裂	qnd hwb udy on gqje	0
-巨大都会带	and dd ftjb wf gkp	0
-聚合板块	bct wgk src fnw	0
-巨厚层	and djb nfc	0
-巨厚层状	and djb nfc udy	1
-具滑面	hw ime dm	0
-聚类抽样	bct od rm su	1
-距离衰减原则	kha yb ykge udg dr mj	0
-具裂隙	hw gqje bij	0
-聚落地理学	bct ait f gj ip	1
-聚落类型	bct ait od gajf	0
-拘尸那揭罗	rqk nngt vfb rjq lq	0
-剧县	ndj egc	0
-句章	qkd ujj	10
-剧震	ndj fdf	9
-矩震级	tda fdf xe	1
-眷属地狱	udhf ntk f qtyd	0
-绝对烈度	xqc cf gqjo ya	0
-绝对年龄测定	xqc cf rh hwbc imj pg	0
-绝对重力异常	xqc cf tgj lt naj ipkh	0
-绝对重力值	xqc cf tgj lt wfhg	0
-均变说	fqu yo yu	0
-均衡说	fqu tqdh yu	0
-均匀磁化轴	fqu qu du wx lm	0
-均匀应力场	fqu qu yid lt fnrt	0
-喀斯特地貌学	kpt adwr trf f eerq ip	0
-喀斯特化	kpt adwr trf wx	0
-喀斯特平原	kpt adwr trf gu dr	1
-开拉沙山	ga ru iit mmm	0
-凯鲁万	mnm qgj dnv	1
-勘察加火	adwl pwfi lk ooo	0
-勘察期水位	adwl pwfi adwe ii wug	0
-坎潘	fqw itol	0
-勘探地球化学	adwl rpws f gfi wx ip	0
-勘探地震学	adwl rpws f fdf ip	1
-勘探地震仪	adwl rpws f fdf wyq	0
-抗剪断强度	rymn uejv on xk ya	0
-抗蚀岩石	rymn qnj mdf dgtg	0
-抗弯曲强度	rymn yox ma xk ya	2
-抗震加固措施	rymn fdf lk ldd raj ytb	0
-抗震能力	rymn fdf ce lt	14
-抗震设防区划	rymn fdf ymc by aq aj	0
-抗震性能鉴定	rymn fdf ntg ce jtyq pg	0
-颗粒灰岩	jsd oug do mdf	0
-客流地理	pt iyc f gj	0
-刻面联合体	ynt dm bu wgk wsg	0
-刻蚀地貌	ynt qnj f eerq	0
-可视性分析	sk pym ntg wv sr	0
-刻图	ynt ltu	1
-垦殖指数	vef gqf rxj ovt	0
-孔多阿岩画	bnn qq bs mdf gl	0
-孔戈尼亚斯	bnn agnt nx gog adwr	0
-空间差距	pw uj uda kha	0
-空间分析函数	pw uj wv sr bib ovt	0
-空间数据编码	pw uj ovt rnd xyna dcg	0
-空间数据仓库	pw uj ovt rnd wbb ylk	0
-空间数据模型	pw uj ovt rnd saj gajf	0
-空间数据内插	pw uj ovt rnd mw rtf	0
-空间数据融合	pw uj ovt rnd gkm wgk	1
-空间数据压缩	pw uj ovt rnd dfy xpw	0
-空间信息格网	pw uj wy thn st mqq	0
-空间制图	pw uj rmhj ltu	0
-空间主权	pw uj y sc	0
-空无边处天	pw fq lp th gd	1
-孔隙水	bnn bij ii	1
-孔隙水压力	bnn bij ii dfy lt	1
-孔隙压力	bnn bij dfy lt	0
-孔下地震计	bnn gh f fdf yf	0
-控震构造体系	rpw fdf sq tfkp wsg txi	0
-空中重力测量	pw k tgj lt imj jg	0
-块状崩落	fnw udy mee ait	0
-矿业聚落	dyt og bct ait	0
-扩散中心	ry aet k ny	1
-扩展扩散	ry nae ry aet	0
-劳动地域分工	apl fcl f fakg wv a	0
-勒罗斯	afl lq adwr	2
-雷达遥感	flf dp er dgkn	0
-雷根斯堡旧城	flf sve adwr wksf hj fd	0
-累积变形	lx tkw yo gae	0
-累积频数曲线	lx tkw hid ovt ma xg	0
-累积应变	lx tkw yid yo	0
-累积应力	lx tkw yid lt	1
-类喀斯特	od kpt adwr trf	0
-雷口坡组	flf kkkk fhc xeg	0
-冷圈	uwyc lud	65
-冷圈学	uwyc lud ip	0
-里昂历史遗址	jfd jqb dl kq khgp fhg	0
-里奥阿比塞奥	jfd tmo bs xx pfjf tmo	0
-离堆山	yb fwy mmm	0
-里加历史中心	jfd lk dl kq k ny	0
-里克特公式	jfd dq trf wc aa	0
-里拉修道院	jfd ru wht uthp bpf	2
-理论地球化学	gj ywx f gfi wx ip	0
-理论地震图	gj ywx f fdf ltu	0
-理论地震学	gj ywx f fdf ip	0
-理论振幅	gj ywx rdf mhg	1
-离散板块边界	yb aet src fnw lp lwj	0
-历史地图集	dl kq f ltu wys	31
-离石黄土	yb dgtg amw ffff	0
-历史气候	dl kq rnb whn	13
-历史人文地理	dl kq w yygy f gj	1
-历史自然地理	dl kq thd qd f gj	3
-里特维尔德	jfd trf xwy qiu tfl	7
-离心水系	yb ny ii txi	0
-粒雪	oug fv	27
-粒雪化作用	oug fv wx wt et	0
-粒雪盆	oug fv wvl	7
-粒状崩解	oug udy mee qev	0
-离子色谱分析	yb bb qc yuo wv sr	0
-连岛坝	lpk qynm fmy	0
-连岛沙洲	lpk qynm iit iyt	2
-联合震源测定	bu wgk fdf idr imj pg	0
-连续倾角仪	lpk xfn wxd qe wyq	0
-亮晶	ypm jjj	0
-良里塔格组	yv jfd fawk st xeg	0
-梁山组	ivw mmm xeg	0
-凉温带气候	uyiy ijl gkp rnb whn	0
-两座老城	gmww yww ftx fd	1
-寮屋聚落	pdu ngc bct ait	0
-裂点	gqje hko	15
-烈度分布	gqjo ya wv dmh	0
-烈度评价	gqjo ya ygu wwj	0
-烈度区划	gqjo ya aq aj	1
-烈度调整	gqjo ya ymf gkih	0
-烈度异常	gqjo ya naj ipkh	0
-捩断层	rynd on nfc	0
-裂缝喷发	gqje xtdp kfa v	1
-裂谷系	gqje wwk txi	1
-裂隙式喷发	gqje bij aa kfa v	2
-裂隙水	gqje bij ii	0
-裂隙系	gqje bij txi	0
-裂陷盆地	gqje bqv wvl f	0
-裂陷作用	gqje bqv wt et	0
-林地沼泽	ss f ivk icf	2
-临界震级	jty lwj fdf xe	0
-临泾	jty ica	2
-临时地震台站	jty jf f fdf ck uh	0
-临湘组	jty ishg xeg	0
-临震预测	jty fdf cbd imj	0
-零点幕	fwyc hko ajdh	0
-零级地震	fwyc xe f fdf	0
-零频地震学	fwyc hid f fdf ip	0
-菱铁质	afwt qr rfm	0
-零阳	fwyc bj	0
-令支	wyc fc	6
-流动地震台	iyc fcl f fdf ck	1
-流动观测	iyc fcl cm imj	0
-流动形变测量	iyc fcl gae yo imj jg	0
-流动重力测量	iyc fcl tgj lt imj jg	0
-流水地貌	iyc ii f eerq	4
-流水地貌学	iyc ii f eerq ip	0
-流水过程	iyc ii fp tkgg	0
-流域分水线	iyc fakg wv ii xg	0
-流域形态	iyc fakg gae dyn	0
-龙马溪组	dx cn iex xeg	0
-陆背斜	bfm uxe wtuf	0
-陆槽	bfm sgmj	0
-陆地地貌	bfm f f eerq	0
-陆地震源	bfm f fdf idr	0
-陆间裂谷系	bfm uj gqje wwk txi	0
-陆面蒸发	bfm dm abi v	0
-陆棚边缘地震	bfm see lp xxe f fdf	0
-陆向斜	bfm tm wtuf	0
-绿带城市	xv gkp fd ymhj	0
-旅游客量	ytey iytb pt jg	0
-绿洲耕作	xv iyt dif wt	0
-脉冲地震法	eyni ukh f fdf if	0
-脉动仪	eyni fcl wyq	0
-迈赫迈德	dnp fof dnp tfl	0
-茅口组	acbt kkkk xeg	0
-面波	dm ihc	7
-面波法	dm ihc if	0
-面波频散	dm ihc hid aet	0
-面波震级	dm ihc fdf xe	1
-面切波	dm av ihc	0
-民族地理学	n ytt f gj ip	0
-末次冰盛期	gs uqw ui dnnl adwe	3
-漠盖层	iaj ugl nfc	0
-墨卡托投影	lfof hhu rta rmc jyie	14
-模拟地震动	saj rny f fdf fcl	0
-模拟地震学	saj rny f fdf ip	0
-沙漠漆	iit iaj isw	0
-木材生产基地	ssss sft tg u ad f	0
-穆鲁山	tri qgj mmm	0
-母质层	xgu rfm nfc	0
-拿贡巴东	wgkr am cnh ai	0
-奈斯维市	dfi adwr xwy ymhj	0
-南北地震带	fm ux f fdf gkp	0
-南磁极	fm du se	6
-南津关组	fm ivfh ud xeg	0
-内部发展理论	mw uk v nae gj ywx	0
-内地核	mw f synw	7
-内地幔	mw f mhjc	0
-内盖夫	mw ugl fw	4
-内陆地震	mw bfm f fdf	0
-内营力	mw apk lt	0
-能动断层	ce fcl on nfc	0
-能源地理学	ce idr f gj ip	1
-逆冲断层	ubt ukh on nfc	4
-溺谷	ixu wwk	0
-泥灰岩段	inx do mdf wdm	0
-拟建物	rny vfhp tr	0
-泥晶	inx jjj	0
-泥晶灰岩	inx jjj do mdf	0
-泥流	inx iyc	9
-泥漠	inx iaj	1
-泥盆系	inx wvl txi	0
-逆向河	ubt tm isk	0
-泥岩	inx mdf	153
-逆掩断层	ubt rdjn on nfc	0
-泥质	inx rfm	40
-泥质粉砂岩	inx rfm ow di mdf	1
-泥质砂岩	inx rfm di mdf	2
-粘滑地震	oh ime f fdf	0
-年轮气候学	rh lwx rnb whn ip	0
-粘土	oh ffff	438
-年温差	rh ijl uda	0
-年正常径流量	rh ghd ipkh tca iyc jg	0
-黏质壤土	twik rfm fyk ffff	0
-粘质砂土	oh rfm di ffff	0
-黏重土	twik tgj ffff	0
-凝灰火山渣锥	uxt do ooo mmm isjg qwy	0
-凝结高度	uxt xf ym ya	14
-扭摆地震计	rnf rlf f fdf yf	0
-扭称	rnf tq	5
-扭性结构面	rnf ntg xf sq dm	0
-扭转地震仪	rnf lfn f fdf wyq	0
-扭转振动仪	rnf lfn rdf fcl wyq	0
-农业村镇	pei og sf qfhw	0
-农业地理学	pei og f gj ip	3
-农业风景区	pei og mq jy aq	0
-农业区位论	pei og aq wug ywx	0
-努比亚遗址	vcl xx gog khgp fhg	0
-欧亚地震带	aqq gog f fdf gkp	0
-派生地图	ire tg f ltu	0
-抛物线形沙丘	rvl tr xg gae iit rgd	0
-佩乔尔斯克院	wmg tdj qiu adwr dq bpf	0
-喷水冒砂	kfa ii jhf di	0
-蓬莱坝组	atdp ago fmy xeg	0
-蓬莱镇组	atdp ago qfhw xeg	0
-彭纳没影	fkue xmw im jyie	0
-碰撞带	duo ruj gkp	0
-劈理	nkuv gj	1
-劈裂试验	nkuv gqje yaa cwg	0
-片理	thg gj	0
-片蚀	thg qnj	0
-片岩	thg mdf	15
-片状构造	thg udy sq tfkp	0
-贫营养沼泽	wvm apk udyj ivk icf	0
-平版印刷术	gu thgc qgb nmh sy	0
-平顶海山	gu sdm itx mmm	0
-平衡剖面	gu tqdh ukj dm	0
-平衡生态系统	gu tqdh tg dyn txi xyc	1
-平行不整合	gu tf i gkih wgk	0
-平行层理	gu tf nfc gj	0
-平移断层	gu tqq on nfc	0
-平原沼泽	gu dr ivk icf	1
-破坏应力	dhc fgi yid lt	0
-破坏阈限地震	dhc fgi uak bv f fdf	0
-破裂带	dhc gqje gkp	0
-破裂面	dhc gqje dm	0
-破裂网络	dhc gqje mqq xtk	0
-坡水堆积物	fhc ii fwy tkw tr	0
-剖面图法	ukj dm ltu if	0
-谱烈度	yuo gqjo ya	0
-普林塞萨	uo ss pfjf abu	1
-普林斯巴赫	uo ss adwr cnh fof	0
-普罗万城	uo lq dnv fd	0
-普那草原	uo vfb ajj dr	0
-普通地理学	uo cep f gj ip	0
-普通地图集	uo cep f ltu wys	0
-普通地图学	uo cep f ltu ip	0
-普通地理图	uo cep f gj ltu	0
-气候变动	rnb whn yo fcl	5
-气候地貌学	rnb whn f eerq ip	0
-气候恶化	rnb whn gogn wx	10
-气候改良	rnb whn nty yv	0
-气候可变性	rnb whn sk yo ntg	0
-起始震级	fhn vck fdf xe	0
-起算震级	fhn tha fdf xe	0
-气体废料	rnb wsg ynty ou	0
-气体色谱	rnb wsg qc yuo	1
-栖霞组	ssg fnhc xeg	0
-气旋路线	rnb ytn kht xg	0
-恰高	nwgk ym	0
-浅部构造	igt uk sq tfkp	0
-潜伏地震	ifw wdy f fdf	0
-潜火山	ifw ooo mmm	1
-潜火山地震	ifw ooo mmm f fdf	0
-潜能模式	ifw ce saj aa	0
-潜蚀	ifw qnj	1
-潜蚀作用	ifw qnj wt et	0
-钱塘江阶	qg fyv ia bwj	0
-迁徙耕作	tfp thh dif wt	0
-迁徙障碍	tfp thh buj djg	0
-潜育土	ifw yce ffff	0
-潜在地震区	ifw d f fdf aq	0
-潜在震源	ifw d fdf idr	0
-潜在震源区	ifw d fdf idr aq	0
-前震余震型	ue fdf wtu fdf gajf	0
-前震主震型	ue fdf y fdf gajf	0
-前正觉山	ue ghd ipmq mmm	0
-强地震学	xk f fdf ip	0
-强烈热带风暴	xk gqjo rvyo gkp mq jaw	0
-强震重复间隔	xk fdf tgj tjt uj bgk	0
-强震地震学	xk fdf f fdf ip	0
-强震观测	xk fdf cm imj	0
-强震加速度图	xk fdf lk gkip ya ltu	0
-强震加速度仪	xk fdf lk gkip ya wyq	0
-强震仪	xk fdf wyq	0
-亲气元素	us rnb fqb gxi	0
-侵蚀基准面	wvp qnj ad uwy dm	4
-侵蚀阶地	wvp qnj bwj f	0
-侵蚀面	wvp qnj dm	0
-侵蚀循环	wvp qnj trfh ggi	0
-亲石元素	us dgtg fqb gxi	0
-亲铁元素	us qr fqb gxi	1
-亲铜元素	us qmgk fqb gxi	1
-倾滑断层	wxd ime on nfc	0
-黥基	lfoi ad	0
-倾斜场	wxd wtuf fnrt	0
-庆州历史区	yd ytyh dl kq aq	0
-琼戈尼	gyiy agnt nx	0
-穹隆构造	pwx btg sq tfkp	0
-穹丘	pwx rgd	2
-球对称地球	gfi cf tq f gfi	0
-球面应力	gfi dm yid lt	0
-球状风化	gfi udy mq wx	1
-屈服应变	nbm eb yid yo	0
-屈浪拏国	nbm iyv vcrj l	0
-曲流	ma iyc	8
-瞿毗霜那国	hhwy lxx fs vfb l	0
-瞿师罗园	hhwy jgm lq lfq	0
-佉陀罗山	wfcy bpx lq mmm	0
-区位三角形	aq wug dg qe gae	0
-区位商数	aq wug um ovt	0
-区位系数	aq wug txi ovt	0
-区位型式	aq wug gajf aa	0
-区域地球化学	aq fakg f gfi wx ip	0
-区域地图集	aq fakg f ltu wys	0
-区域地震台网	aq fakg f fdf ck mqq	0
-区域地质构造	aq fakg f rfm sq tfkp	1
-区域分异	aq fakg wv naj	1
-区域构造线	aq fakg sq tfkp xg	0
-区域历史地理	aq fakg dl kq f gj	1
-区域应力场	aq fakg yid lt fnrt	0
-区域重力场	aq fakg tgj lt fnrt	0
-全波理论	wg ihc gj ywx	0
-全波震相分析	wg ihc fdf sh wv sr	0
-全风化	wg mq wx	1
-泉华沉积	riu wxf ipm tkw	0
-全景描绘	wg jy ral xwf	0
-全球重力异常	wg gfi tgj lt naj ipkh	0
-全息地震法	wg thn f fdf if	0
-全息地震图	wg thn f fdf ltu	0
-全新统	wg usr xyc	0
-却尔却克组	fcb qiu fcb dq xeg	0
-群丛	vtk wwg	0
-群发性地震	vtk v ntg f fdf	0
-群礁	vtk dwy	19
-群克	vtk dq	0
-群生植物	vtk tg sfhg tr	0
-绕射波	xat tmdf ihc	2
-热带大陆气候	rvyo gkp dd bfm rnb whn	0
-热带锋	rvyo gkp qtd	0
-热带旱生森林	rvyo gkp jfj tg sss ss	0
-热点地幔柱	rvyo hko f mhjc syg	0
-热点说	rvyo hko yu	0
-热红外遥感	rvyo xa qh er dgkn	1
-热湖	rvyo ide	0
-热喀斯特	rvyo kpt adwr trf	0
-热喀斯特湖	rvyo kpt adwr trf ide	0
-热流体	rvyo iyc wsg	2
-热融作用	rvyo gkm wt et	0
-热水平衡	rvyo ii gu tqdh	0
-热异常	rvyo naj ipkh	0
-热重力测量	rvyo tgj lt imj jg	0
-仁慈耶稣圣殿	wfg uxxn bbh qgty cff naw	0
-人工地貌	w a f eerq	1
-人工水系	w a ii txi	5
-人工诱发地震	w a yte v f fdf	0
-人工震源	w a fdf idr	4
-人口零增长	w kkkk fwyc fu ta	1
-人口信息系统	w kkkk wy thn txi xyc	2
-人口总出生率	w kkkk ukn bm tg yx	0
-人口总死亡率	w kkkk ukn gqx ynv yx	0
-人类地理学	w od f gj ip	0
-韧性断层	fnhy ntg on nfc	0
-人种地理学	w tkh f gj ip	1
-日光山	jjjj iq mmm	2
-日曼投影	jjjj jlc rmc jyie	0
-日晒风化	jjjj jsg mq wx	0
-日温差	jjjj ijl uda	12
-日月潮	jjjj eee ifj	0
-溶斗	ipwk ufk	0
-溶沟	ipwk iqc	5
-融化指数	gkm wx rxj ovt	0
-溶滤水	ipwk iha ii	0
-溶滤作用	ipwk iha wt et	0
-溶蚀谷	ipwk qnj wwk	0
-溶蚀盆	ipwk qnj wvl	0
-融土	gkm ffff	4
-融雪径流	gkm fv tca iyc	0
-熔岩被	opw mdf puhc	0
-熔岩塔	opw mdf fawk	4
-肉质植物	mww rfm sfhg tr	3
-入渗	ty icd	53
-乳香之路	ebn tjf pp kht	0
-入字型构造	ty pb gajf sq tfkp	0
-软地幔	lqw f mhjc	0
-软砂岩沉积	lqw di mdf ipm tkw	0
-瑞利波相速度	gmd tjh ihc sh gkip ya	0
-瑞利原理	gmd tjh dr gj	0
-瑞替	gmd fwf	2
-弱风化	xu mq wx	0
-萨瓦纳气候	abu gny xmw rnb whn	1
-三点校正法	dg hko suq ghd if	0
-三叠系	dg cccg txi	0
-三分量强震仪	dg wv jg xk fdf wyq	0
-三分向地震仪	dg wv tm f fdf wyq	0
-三工河	dg a isk	1
-三合地震台网	dg wgk f fdf ck mqq	0
-三维波速结构	dg xwy ihc gkip xf sq	0
-三维地带性	dg xwy f gkp ntg	0
-三维地震模型	dg xwy f fdf saj gajf	0
-三维图程序	dg xwy ltu tkgg ycb	0
-三位一体圣柱	dg wug g wsg cff syg	0
-三轴地震计	dg lm f fdf yf	0
-桑盖国家公园	cccs ugl l pe wc lfq	0
-桑吉兰	cccs fk uff	0
-桑斯苏西宫	cccs adwr alw sghg pk	0
-桑索斯	cccs fpx adwr	0
-桑塔木组	cccs fawk ssss xeg	0
-色究竟天	qc pwv ujq gd	0
-色雷斯古墓	qc flf adwr dgh ajdf	2
-色雷斯人墓	qc flf adwr w ajdf	0
-森林保护区	sss ss wk ryn aq	4
-森林气候	sss ss rnb whn	2
-森林上限	sss ss h bv	0
-森林水文学	sss ss ii yygy ip	0
-莎车国	aiit lg l	2
-沙赫利苏伯兹	iit fof tjh alw wr uxx	0
-沙垅	iit fdx	0
-沙漠城镇	iit iaj fd qfhw	3
-沙漠历史地理	iit iaj dl kq f gj	0
-砂泥质	di inx rfm	0
-沙丘扩侵	iit rgd ry wvp	0
-砂土液化	di ffff iyw wx	2
-沙溪庙组	iit iex ymd xeg	0
-沙羡	iit ugu	0
-砂屑	di nied	0
-砂屑灰岩	di nied do mdf	0
-沙镇溪组	iit qfhw iex xeg	0
-砂质灰岩	di rfm do mdf	0
-砂质泥岩	di rfm inx mdf	0
-砂质黏壤土	di rfm twik fyk ffff	0
-山地沼泽	mmm f ivk icf	0
-山顶面	mmm sdm dm	0
-栅格数据结构	smm st ovt rnd xf sq	0
-山弧	mmm xrc	1
-山麓堆积	mmm ssyx fwy tkw	0
-山麓平原	mmm ssyx gu dr	0
-山麓侵蚀面	mmm ssyx wvp qnj dm	0
-山麓侵蚀平原	mmm ssyx wvp qnj gu dr	0
-山体效应	mmm wsg uqt yid	0
-剡县	ooj egc	2
-扇形论	ynnd gae ywx	0
-扇形三角洲	ynnd gae dg qe iyt	2
-山中小湖	mmm k ih ide	3
-上地幔计划	h f mhjc yf aj	0
-商品性农业	um kkk ntg pei og	0
-上统	h xyc	0
-商业地理学	um og f gj ip	0
-商业网布局	um og mqq dmh nnk	0
-设计标准谱	ymc yf sfi uwy yuo	0
-社经地位	py x f wug	0
-射气测量	tmdf rnb imj jg	0
-射气系数	tmdf rnb txi ovt	0
-射气作用	tmdf rnb wt et	0
-摄氏温度表	rbcc qa ijl ya ge	0
-深部构造	ipw uk sq tfkp	0
-申布伦	jhk dmh wwx	1
-深大断裂	ipw dd on gqje	1
-深断裂	ipw on gqje	1
-深井地震仪	ipw fjk f fdf wyq	0
-深切曲流	ipw av ma iyc	0
-渗透场	icd tep fnrt	0
-深源地震面	ipw idr f fdf dm	0
-伸展构造	wjh nae sq tfkp	0
-生产地理学	tg u f gj ip	0
-生活型谱	tg itd gajf yuo	0
-生命层	tg wgkb nfc	0
-生命线系统	tg wgkb xg txi xyc	0
-声纳遥感	fnr xmw er dgkn	0
-生死比率	tg gqx xx yx	0
-生态变异	tg dyn yo naj	0
-生态地段	tg dyn f wdm	0
-生态地理学	tg dyn f gj ip	1
-生态塔	tg dyn fawk	0
-声望价值	fnr yneg wwj wfhg	0
-生物地理群落	tg tr f gj vtk ait	0
-生物分布	tg tr wv dmh	5
-生物分布学	tg tr wv dmh ip	1
-生物风化作用	tg tr mq wx wt et	1
-生物礁	tg tr dwy	0
-生物净化	tg tr uqv wx	0
-生物迁移	tg tr tfp tqq	0
-生物异常观测	tg tr naj ipkh cm imj	0
-生物资源保护	tg tr uqwm idr wk ryn	0
-生屑灰岩	tg nied do mdf	0
-剩余磁性	tuxj wtu du ntg	0
-生源景观	tg idr jy cm	0
-生长断层	tg ta on nfc	0
-市场导向工业	ymhj fnrt nf tm a og	0
-时程分析法	jf tkgg wv sr if	0
-视电阻率	pym jn begg yx	0
-湿害	ijo pd	0
-石盒子组	dgtg wgkl bb xeg	0
-实际蒸散	pu bf abi aet	1
-石见银山	dgtg mqb qve mmm	5
-世界地图集	an lwj f ltu wys	2
-时空迁移	jf pw tfp tqq	0
-时空数据库	jf pw ovt rnd ylk	4
-石窟庵	dgtg pwn ydjn	1
-石冷水组	dgtg uwyc ii xeg	0
-室利佛逝	pgc tjh wxj rrp	17
-矢量数据结构	tdu jg ovt rnd xf sq	0
-市民塔	ymhj n fawk	0
-石墓群	dgtg ajdf vtk	1
-施佩耶尔	ytb wmg bbh qiu	2
-史前地震	kq ue f fdf	0
-视倾角	pym wxd qe	0
-市区复苏	ymhj aq tjt alw	0
-石燧石	dgtg oue dgtg	0
-实验地震学	pu cwg f fdf ip	0
-实验地质学	pu cwg f rfm ip	0
-实用地震学	pu et f fdf ip	0
-石油化工业	dgtg img wx a og	1
-石造城堡	dgtg tfkp fd wksf	0
-市镇景观	ymhj qfhw jy cm	0
-受控震源	epc rpw fdf idr	0
-收缩说	nh xpw yu	0
-首震	uth fdf	0
-数量地理学	ovt jg f gj ip	1
-数量底色法	ovt jg yqa qc if	0
-树林底层植物	scf ss yqa nfc sfhg tr	0
-枢纽断层	saq xnf on nfc	0
-输沙能力	lwg iit ce lt	5
-舒善河组	wfkb uduk isk xeg	0
-竖向地震荷载	jcu tm f fdf awsk fa	0
-数字地震图	ovt pb f fdf ltu	0
-数字图像处理	ovt pb ltu wqj th gj	95
-数字图像镶嵌	ovt pb ltu wqj qyk maf	0
-数字相关法	ovt pb sh ud if	0
-衰落区	ykge ait aq	0
-双摆地震仪	cc rlf f fdf wyq	0
-双城文化统一	cc fd yygy wx xyc g	0
-双磁阻地震仪	cc du begg f fdf wyq	0
-水半球	ii uf gfi	0
-水成景观	ii dn jy cm	0
-水稻梯田	ii tev sux lll	1
-水道网	ii uthp mqq	0
-水氡异常	ii rntu naj ipkh	0
-睡火山	ht ooo mmm	0
-水库地震	ii ylk f fdf	0
-水利经济学	ii tjh x iyj ip	0
-水力致裂法	ii lt gcft gqje if	0
-水力作用	ii lt wt et	0
-水量交换	ii jg uq rq	1
-水平地带	ii gu f gkp	0
-水平地震仪	ii gu f fdf wyq	0
-水平断距	ii gu on kha	0
-水平降水	ii gu bt ii	0
-水平运动	ii gu fcp fcl	0
-水迁移	ii tfp tqq	0
-水上景观	ii h jy cm	0
-水位地震波	ii wug f fdf ihc	0
-水文地理学	ii yygy f gj ip	1
-水文地球化学	ii yygy f gfi wx ip	0
-水文试验	ii yygy yaa cwg	0
-水文物理学	ii yygy tr gj ip	0
-水下景观	ii gh jy cm	0
-顺层边坡	kd nfc lp fhc	0
-顺化古迹群	kd wx dgh yop vtk	0
-顺扭	kd rnf	0
-速度地震仪	gkip ya f fdf wyq	0
-速度反演	gkip ya rc ipg	0
-速度各向异性	gkip ya tk tm naj ntg	0
-速度界面	gkip ya lwj dm	0
-俗离山	wwwk yb mmm	0
-酥性土	sgty ntg ffff	0
-溯源堆积	iub idr fwy tkw	0
-溯源侵蚀	iub idr wvp qnj	11
-酸性腐殖	sgc ntg ywfw gqf	0
-碎裂岩	dyw gqje mdf	0
-遂宁组	uep ps xeg	0
-碎屑沉积	dyw nied ipm tkw	1
-碎屑型风化壳	dyw nied gajf mq wx fpm	0
-塌陷破火山口	fjn bqv dhc ooo mmm kkkk	0
-苔草沼泽	ack ajj ivk icf	0
-苔原气候	ack dr rnb whn	4
-探槽	rpws sgmj	3
-滩地沼泽	icw f ivk icf	0
-滩脊	icw iwe	0
-滩脊型潮滩	icw iwe gajf ifj icw	0
-炭质	mdo rfm	4
-炭质泥岩	mdo rfm inx mdf	0
-汤殿山	inr naw mmm	0
-掏蚀	rqr qnj	1
-体波震级	wsg ihc fdf xe	0
-提水试验	rj ii yaa cwg	0
-提塘	rj fyv	12
-天启洞穴	gd ynk imgk pwu	0
-天然磁矿	gd qd du dyt	0
-天然堤	gd qd fjgh	1
-天然休止角	gd qd ws hh qe	0
-天体磁场	gd wsg du fnrt	2
-填筑土	ffh tam ffff	0
-条植	ts sfhg	0
-铁拉登特罗	qr ru wgku trf lq	0
-铁质土	qr rfm ffff	0
-通艾	cep aqu	0
-统层	xyc nfc	0
-同化带	m wx gkp	0
-统计地震学	xyc yf f fdf ip	0
-桐里山	smgk jfd mmm	0
-通勤带	cep akgl gkp	0
-同相波	m sh ihc	0
-同心圆地带论	m ny lkmi f gkp ywx	0
-统一震级	xyc g fdf xe	0
-同震区	m fdf aq	0
-同震线	m fdf xg	0
-透镜体	tep quj wsg	27
-透水层	tep ii nfc	4
-透水岩	tep ii mdf	0
-投子山	rmc bb mmm	0
-凸岸坝	hgm mdfj fmy	0
-图巴塔哈	ltu cnh fawk kwg	0
-图表阐析	ltu ge uuj sr	0
-土地单元	ffff f ujfj fqb	0
-土地电	ffff f jn	0
-土地功能	ffff f al ce	0
-土地刻面	ffff f ynt dm	0
-土地利用制度	ffff f tjh et rmhj ya	0
-土地能力	ffff f ce lt	0
-土地特性	ffff f trf ntg	0
-土地限制性	ffff f bv rmhj ntg	0
-土氡	ffff rntu	0
-图幅尺寸	ltu mhg nyi fghy	0
-图根哈特	ltu sve kwg trf	10
-图面自动注记	ltu dm thd fcl iy yn	0
-土壤发生	ffff fyk v tg	3
-土壤复区	ffff fyk tjt aq	0
-土壤耗竭	ffff fyk ditn ujqn	0
-土壤水分补充	ffff fyk ii wv puh yc	0
-土壤水文学	ffff fyk ii yygy ip	0
-土壤因素	ffff fyk ld gxi	0
-土壤组合	ffff fyk xeg wgk	0
-土蠕	ffff jfdj	0
-土体蠕动	ffff wsg jfdj fcl	0
-图像重叠	ltu wqj tgj cccg	3
-图像复合	ltu wqj tjt wgk	0
-图像几何测定	ltu wqj mt wsk imj pg	0
-图像模拟	ltu wqj saj rny	6
-图像数据磁带	ltu wqj ovt rnd du gkp	0
-图像数字化	ltu wqj ovt pb wx	1
-图像投影变换	ltu wqj rmc jyie yo rq	0
-推覆体	rwyg stt wsg	1
-退水曲线	vep ii ma xg	0
-托尔期	rta qiu adwe	0
-托管地区	rta tp f aq	0
-脱硅作用	euk dff wt et	0
-托考伊	rta ftg wvt	0
-脱硫酸作用	euk dyc sgc wt et	0
-陀螺地震计	bpx jlx f fdf yf	0
-脱气作用	euk rnb wt et	0
-外地核	qh f synw	5
-外来名	qh go qk	0
-外语惯用地名	qh ygk nxf et f qk	0
-挽近地壳运动	rqkq rp f fpm fcp fcl	0
-完全布格改正	pfq wg dmh st nty ghd	0
-完全混合湖	pfq wg ijx wgk ide	0
-完全液化	pfq wg iyw wx	0
-完钻	pfq qhk	1
-微地貌	tmg f eerq	0
-韦尔吉纳	fnh qiu fk xmw	0
-韦尔拉	fnh qiu ru	0
-伪方位投影	wyl yy wug rmc jyie	1
-微风化	tmg mq wx	0
-微观地震效应	tmg cm f fdf uqt yid	0
-微观液化	tmg cm iyw wx	0
-微观震中	tmg cm fdf k	0
-微碱水生境	tmg ddg ii tg fuj	0
-微量金属	tmg jg qqqq ntk	2
-魏玛和德绍	tvr gcg t tfl xvk	0
-韦内雷港	fnh mw flf iawn	0
-委任统治地	tv wtf xyc ick f	0
-卫生填土法	bg tg ffh ffff if	0
-微咸湖	tmg dgk ide	0
-纬线跨度	xfnh xg khd ya	0
-尾相	ntf sh	1
-纬向构造体系	xfnh tm sq tfkp wsg txi	0
-维歇尔地震仪	xwy jqw qiu f fdf wyq	0
-卫星市镇	bg jtg ymhj qfhw	0
-卫星图像判读	bg jtg ltu wqj udjh yfn	0
-卫星象片	bg jtg qje thg	0
-卫星影象	bg jtg jyie qje	0
-位移地震仪	wug tqq f fdf wyq	0
-伪圆柱投影	wyl lkmi syg rmc jyie	2
-伪圆锥投影	wyl lkmi qwy rmc jyie	2
-韦泽尔	fnh icf qiu	0
-微震观测	tmg fdf cm imj	0
-微震台阵	tmg fdf ck bl	0
-微震仪	tmg fdf wyq	0
-韦兹莱	fnh uxx ago	0
-温带大陆气候	ijl gkp dd bfm rnb whn	3
-温带落叶林	ijl gkp ait kf ss	0
-温迪亚	ijl mp gog	3
-文化边界	yygy wx lp lwj	2
-文化汇合	yygy wx ian wgk	0
-纹泥	xyy inx	7
-沃达蒸汽泵站	itdy dp abi irn diu uh	0
-无潮海	fq ifj itx	0
-午城黄土	tfj fd amw ffff	0
-无导向工业	fq nf tm a og	0
-伍德布法罗	wgg tfl dmh if lq	0
-无定向磁力仪	fq pg tm du lt wyq	0
-五峰组	gg mtd xeg	0
-无感地震	fq dgkn f fdf	2
-吴家坪组	kgd pe fgu xeg	0
-物理地震学	tr gj f fdf ip	0
-物理风化作用	tr gj mq wx wt et	1
-武遂	gah uep	13
-无所有处天	fq rn e th gd	1
-无线地震台网	fq xg f fdf ck mqq	0
-无源地震	fq idr f fdf	0
-无震地形变	fq fdf f gae yo	0
-无震形变	fq fdf gae yo	0
-武州	gah ytyh	5
-细腐殖质	xl ywfw gqf rfm	0
-矽卡岩	dqy hhu mdf	7
-细粒砂岩	xl oug di mdf	0
-细粒砂状	xl oug di udy	0
-细砾岩	xl dqi mdf	0
-悉氏温度表	ton qa ijl ya ge	0
-细质地土壤	xl rfm f ffff fyk	0
-下部地壳	gh uk f fpm	0
-下沉海岸	gh ipm itx mdfj	0
-下沟组	gh iqc xeg	0
-峡谷洞穴群	mgu wwk imgk pwu vtk	0
-下降漏斗	gh bt infy ufk	0
-夏利玛尔公园	dht tjh gcg qiu wc lfq	0
-夏洛茨维尔	dht itk auqw xwy qiu	5
-下滤过程	gh iha fp tkgg	0
-下坡风	gh fhc mq	0
-下切侵蚀	gh av wvp qnj	3
-下切作用	gh av wt et	3
-夏琐	dht gim	0
-下统	gh xyc	3
-先成水系	tfq dn ii txi	0
-现代地壳运动	gm wa f fpm fcp fcl	0
-藓类沼泽	aqgd od ivk icf	0
-酰罗城	sgtq lq fd	0
-酰罗山	sgtq lq mmm	0
-仙女木时间	wm vvv ssss jf uj	0
-鲜水河地震带	qgu ii isk f fdf gkp	0
-显微薄片	jo tmg aig thg	0
-显微构造	jo tmg sq tfkp	0
-闲暇地理	usi jnh f gj	0
-掀斜运动	rrq wtuf fcp fcl	0
-线性构造	xg ntg sq tfkp	0
-线性现象	xg ntg gm qje	1
-相变说	sh yo yu	0
-乡村地理学	xte sf f gj ip	0
-象岛	qje qynm	36
-相对年代测定	sh cf rh wa imj pg	0
-相对重力值	sh cf tgj lt wfhg	0
-相关沉积	sh ud ipm tkw	0
-相关掩模	sh ud rdjn saj	0
-襄国	ykk l	29
-向量地图	tm jg f ltu	0
-相片判读	sh thg udjh yfn	0
-项县	adm egc	2
-象限四分树	qje bv lh wv scf	0
-响应地震图	ktm yid f fdf ltu	0
-香醉山	tjf sgy mmm	0
-消费地理学	iie xjm f gj ip	0
-消洪	iie iaw	0
-消减板块	iie udg src fnw	0
-消减带	iie udg gkp	0
-消融区	iie gkm aq	1
-硝石采石场	die dgtg es dgtg fnrt	0
-萧条区	avi ts aq	0
-消亡板块	iie ynv src fnw	0
-斜断口	wtuf on kkkk	0
-协调水系	fl ymf ii txi	0
-新北界	usr ux lwj	0
-新冰期	usr ui adwe	0
-新厂阶	usr dgt bwj	0
-信度国	wy ya l	0
-信度河	wy ya isk	1
-欣盖提	rqw ugl rj	7
-新构造	usr sq tfkp	7
-新构造期	usr sq tfkp adwe	0
-新构造运动	usr sq tfkp fcp fcl	4
-辛哈拉加	uygh kwg ru lk	0
-新华夏式	usr wxf dht aa	0
-新近纪	usr rp xn	6
-新拉纳克	usr ru xmw dq	4
-辛涅谬尔	uygh ijfg ynwe qiu	0
-新全球构造	usr wg gfi sq tfkp	0
-新热带界	usr rvyo gkp lwj	0
-新圣女修道院	usr cff vvv wht uthp bpf	1
-新田沟组	usr lll iqc xeg	0
-新锡德尔湖	usr qjq tfl qiu ide	2
-信息压缩	wy thn dfy xpw	0
-新鲜面	usr qgu dm	2
-新仙女木事件	usr wm vvv ssss gk wrh	28
-新月形沙丘	usr eee gae iit rgd	2
-新褶曲山脉	usr punr ma mmm eyni	0
-形变地震仪	gae yo f fdf wyq	0
-性脆	ntg eqd	6
-形谷	gae wwk	8
-行为地理学	tf o f gj ip	4
-行为矩阵	tf o tda bl	0
-行星地震学	tf jtg f fdf ip	0
-行星风系	tf jtg mq txi	1
-行政地理	tf ght f gj	0
-休闲期耕作	ws usi adwe dif wt	0
-修正布格异常	wht ghd dmh st naj ipkh	0
-虚波阵面	hao ihc bl dm	0
-须昌	ed jj	2
-续发地震	xfn v f fdf	0
-须家河组	ed pe isk xeg	0
-虚假设	hao wnh ymc	0
-叙利至沙洛呐	wtc tjh gcf iit itk kmw	0
-续至波	xfn gcf ihc	0
-续至到时	xfn gcf gc jf	0
-悬冰川	egcn ui kthh	10
-悬浮粒子	egcn ieb oug bb	8
-选举地理	tfqp iwf f gj	0
-悬崖坡	egcn mdff fhc	0
-旋转波	ytn lfn ihc	3
-旋转断层	ytn lfn on nfc	0
-旋转断块	ytn lfn on fnw	0
-旋转平面波	ytn lfn gu dm ihc	0
-雪蚀	fv qnj	0
-循环钻井液	trfh ggi qhk fjk iyw	0
-熏香之路	tgl tjf pp kht	0
-寻阳	vf bj	17
-压电式地震计	dfy jn aa f fdf yf	0
-压缩空气震源	dfy xpw pw rnb fdf idr	0
-压缩震相	dfy xpw fdf sh	0
-压陷盆地	dfy bqv wvl f	0
-压性结构面	dfy ntg xf sq dm	0
-亚雪带	gog fv gkp	0
-岩崩	mdf mee	8
-岩崩地震	mdf mee f fdf	0
-沿滨泥沙流	imk ipr inx iit iyc	0
-岩层崩落	mdf nfc mee ait	0
-岩成土	mdf dn ffff	0
-盐成土	fhl dn ffff	0
-岩床	mdf ysi	2
-岩洞教堂	mdf imgk ftbt ipkf	1
-岩盖	mdf ugl	0
-岩关阶	mdf ud bwj	0
-雁行式断裂	dww tf aa on gqje	0
-岩画遗址	mdf gl khgp fhg	0
-岩基	mdf ad	2
-岩浆冲击说	mdf uqi ukh fmk yu	0
-岩浆活动	mdf uqi itd fcl	56
-岩浆库	mdf uqi ylk	2
-岩浆水	mdf uqi ii	5
-岩刻画	mdf ynt gl	0
-雁列构造	dww gq sq tfkp	0
-岩脉	mdf eyni	1
-阎牟那河	uqvd cr vfb isk	0
-岩漆	mdf isw	1
-岩溶景观	mdf ipwk jy cm	0
-岩溶水	mdf ipwk ii	0
-赝瑞利波	dwwm gmd tjh ihc	0
-燕山运动	au mmm fcp fcl	4
-岩石断裂力学	mdf dgtg on gqje lt ip	0
-岩石静压力	mdf dgtg geq dfy lt	0
-岩石力学性质	mdf dgtg lt ip ntg rfm	0
-岩石漆	mdf dgtg isw	0
-岩石圈板块	mdf dgtg lud src fnw	4
-岩石圈地震	mdf dgtg lud f fdf	0
-岩石圈断裂	mdf dgtg lud on gqje	0
-岩石水理性质	mdf dgtg ii gj ntg rfm	0
-岩石循环	mdf dgtg trfh ggi	3
-岩石艺术区	mdf dgtg anb sy aq	0
-岩石质量指标	mdf dgtg rfm jg rxj sfi	0
-岩体静压力	mdf wsg geq dfy lt	0
-岩体强度	mdf wsg xk ya	0
-岩土界线	mdf ffff lwj xg	0
-厌恶性行业	ddi gogn ntg tf og	1
-岩屑堆	mdf nied fwy	0
-岩屑锥	mdf nied qwy	0
-岩性	mdf ntg	30
-岩性界线	mdf ntg lwj xg	0
-盐沼	fhl ivk	27
-赝重力	dwwm tgj lt	0
-岩株	mdf sri	0
-羊背石	udj uxe dgtg	4
-仰冲板块	wqbh ukh src fnw	0
-养分富集	udyj wv pgk wys	0
-氧化土	rnu wx ffff	0
-鸯掘多罗国	mdq rnbm qq lq l	0
-阳夏	bj dht	7
-阳象	bj qje	1
-遥测地震台网	er imj f fdf ck mqq	0
-遥测地震仪	er imj f fdf wyq	0
-要冲城市	s ukh fd ymhj	0
-液压作用	iyw dfy wt et	3
-页状剥落	dmu udy vijh ait	0
-易北河谷	jqr ux isk wwk	0
-易腐作物	jqr ywfw wt tr	0
-遗迹群	khgp yop vtk	2
-意境地图	ujn fuj f ltu	0
-移流雾	tqq iyc ftl	0
-夷平面	gxw gu dm	1
-夷平作用	gxw gu wt et	0
-仪器震中	wyq kkd fdf k	0
-猗氏	qtdk qa	2
-艺术文化景观	anb sy yygy wx jy cm	0
-易损性分析	jqr rkm ntg wv sr	0
-伊索莱	wvt fpx ago	0
-伊特鲁立亚	wvt trf qgj uu gog	0
-伊通火山群	wvt cep ooo mmm vtk	0
-伊维萨岛景观	wvt xwy abu qynm jy cm	0
-义县阶	yq egc bwj	0
-医学地理学	atd ip f gj ip	0
-隐伏断层	bq wdy on nfc	0
-印干组	qgb fggh xeg	0
-阴象	be qje	1
-隐域土	bq fakg ffff	0
-应变场	yid yo fnrt	1
-应变地震图	yid yo f fdf ltu	0
-应变地震仪	yid yo f fdf wyq	0
-应变分布图	yid yo wv dmh ltu	0
-应变积累	yid yo tkw lx	0
-应变释放	yid yo toc yt	0
-应力积累	yid lt tkw lx	9
-英买力组	amd nudu lt xeg	0
-硬磐	dgj temd	0
-鹰山组	ywwg mmm xeg	0
-影响半径	jyie ktm uf tca	3
-影象地图	jyie qje f ltu	0
-影象分辨率	jyie qje wv uyt yx	0
-影象灰度	jyie qje do ya	0
-影象判读	jyie qje udjh yfn	0
-影象质量	jyie qje rfm jg	0
-英雄港中心区	amd dcw iawn k ny aq	0
-应用地理学	yid et f gj ip	1
-应用地图学	yid et f ltu ip	0
-应用地震学	yid et f fdf ip	0
-映震敏感井	jmd fdf txgt dgkn fjk	0
-雍布拉岗	yxt dmh ru mmq	0
-永久形变	yni qy gae yo	3
-永久雪线	yni qy fv xg	0
-雍陵	yxt bfw	0
-有潮河口	e ifj isk kkkk	0
-有方廷斯	e yy tfpd adwr	0
-有感地震区	e dgkn f fdf aq	0
-幼年土壤	xln rh ffff fyk	0
-游憩地理	iytb tdtn f gj	0
-油气水显示	img rnb ii jo fi	0
-犹太人居住区	qtdn dy w nd wygg aq	2
-游移湖	iytb tqq ide	0
-邮政地理学	mb ght f gj ip	0
-预报地图	cbd rb f ltu	0
-雨滴侵蚀	fghy ium wvp qnj	0
-鱼复	qgf tjt	1
-羽黑山	nny lfo mmm	0
-臾那世界国	vw vfb an lwj l	0
-阈限人口	uak bv w kkkk	0
-阈限应力	uak bv yid lt	0
-语言地理学	ygk yyy f gj ip	1
-预震	cbd fdf	1
-宇治	pgf ick	59
-宇宙地学	pgf pm f ip	0
-宇宙地质学	pgf pm f rfm ip	0
-宇宙科学	pgf pm tu ip	0
-圆瓣图	lkmi ur ltu	0
-远场体波	fqp fnrt wsg ihc	0
-元地图学	fqb f ltu ip	0
-圆顶石屋	lkmi sdm dgtg ngc	0
-冤句	pqk qkd	2
-原摩加多尔	dr yssr lk qq qiu	0
-原始大气圈	dr vck dd rnb lud	0
-原始火球假说	dr vck ooo gfi wnh yu	0
-圆石子	lkmi dgtg bb	1
-原位测试	dr wug imj yaa	2
-原型工业化	dr gajf a og wx	0
-远震台网	fqp fdf ck mqq	0
-远震仪	fqp fdf wyq	0
-圆柱投影	lkmi syg rmc jyie	24
-月亮港	eee ypm iawn	0
-月球潮汐	eee gfi ifj iqy	3
-月球章动	eee gfi ujj fcl	0
-约塞米蒂	xq pfjf oy aup	6
-月震仪	eee fdf wyq	5
-运动线法	fcp fcl xg if	0
-运输地理学	fcp lwg f gj ip	0
-运输联系	fcp lwg bu txi	0
-运输区划	fcp lwg aq aj	0
-运输网布局	fcp lwg mqq dmh nnk	0
-晕滃法	jp iwcn if	0
-晕渲法	jp ipgg if	0
-孕震构造	ebf fdf sq tfkp	0
-孕震构造体系	ebf fdf sq tfkp wsg txi	0
-宰比德	puj xx tfl	1
-灾害地理学	po pd f gj ip	1
-灾害性地震	po pd ntg f fdf	0
-藻类过量繁殖	aik od fp jg txgi gqf	0
-造林学	tfkp ss ip	0
-造陆运动	tfkp bfm fcp fcl	0
-早期人类遗址	jh adwe w od khgp fhg	0
-造山幕	tfkp mmm ajdh	0
-泽列	icf gq	0
-增长极论	fu ta se ywx	0
-扎莫希奇古城	rnn ajd qdm dskf dgh fd	0
-瞻波国	hqd ihc l	0
-障壁坝	buj nkuf fmy	0
-张德勒运动	xt tfl afl fcp fcl	0
-张德勒周期	xt tfl afl mfk adwe	0
-张节理	xt ab gj	1
-杖林	sdy ss	0
-胀缩波	eta xpw ihc	0
-张性断裂	xt ntg on gqje	0
-张性结构面	xt ntg xf sq dm	0
-长子继承权	ta bb xo bd sc	3
-照叶林	jvko kf ss	0
-沼泽率	ivk icf yx	0
-沼泽泥炭	ivk icf inx mdo	1
-沼泽生态系统	ivk icf tg dyn txi xyc	0
-沼泽水文	ivk icf ii yygy	0
-沼泽形成过程	ivk icf gae dn fp tkgg	0
-沼泽学	ivk icf ip	0
-磔迦国	dqas lkp l	0
-哲罗姆派	rrk lq vx ire	0
-折射层	rr tmdf nfc	0
-折射地震仪	rr tmdf f fdf wyq	0
-折射面	rr tmdf dm	4
-折射剖面	rr tmdf ukj dm	0
-赭时国	fofj jf l	0
-柘县	sdg egc	0
-褶皱带	punr qvhc gkp	6
-褶皱地震	punr qvhc f fdf	0
-褶皱幕	punr qvhc ajdh	0
-褶皱运动	punr qvhc fcp fcl	0
-褶皱作用	punr qvhc wt et	0
-震波图	fdf ihc ltu	0
-震磁效应	fdf du uqt yid	0
-震电效应	fdf jn uqt yid	0
-震感区	fdf dgkn aq	0
-震害重复性	fdf pd tgj tjt ntg	0
-震害统计	fdf pd xyc yf	0
-震害预测	fdf pd cbd imj	0
-震后救援	fdf rg fiyt ref	0
-震级残差	fdf xe gqg uda	0
-震级档	fdf xe si	0
-震级上限	fdf xe h bv	0
-震级时间曲线	fdf xe jf uj ma xg	0
-震级限值	fdf xe bv wfhg	0
-震裂带	fdf gqje gkp	0
-震前滑动	fdf ue ime fcl	0
-震前平静	fdf ue gu geq	0
-震前形变	fdf ue gae yo	0
-震情会商	fdf nge wf um	0
-震相分析	fdf sh wv sr	0
-震影	fdf jyie	0
-震源参数	fdf idr cd ovt	0
-震源尺度	fdf idr nyi ya	0
-震源道	fdf idr uthp	0
-震源定位	fdf idr pg wug	0
-震源动力学	fdf idr fcl lt ip	1
-震源几何学	fdf idr mt wsk ip	0
-震源谱	fdf idr yuo	0
-震源球	fdf idr gfi	0
-震源时间函数	fdf idr jf uj bib ovt	0
-震源体积	fdf idr wsg tkw	0
-震源孕育	fdf idr ebf yce	0
-震中加速度	fdf k lk gkip ya	0
-珍珠冲组	gw gr ukh xeg	0
-正残积风化壳	ghd gqg tkw mq wx fpm	0
-正常地貌	ghd ipkh f eerq	0
-正地貌	ghd f eerq	1
-正射影象地图	ghd tmdf jyie qje f ltu	0
-正旋回	ghd ytn lkd	0
-正阳组	ghd bj xeg	0
-正韵律	ghd ujqu tvfh	0
-质量底色法	rfm jg yqa qc if	0
-植林	sfhg ss	0
-志留	fn qyvl	4
-志留系	fn qyvl txi	0
-至那仆底国	gcf vfb why yqa l	0
-指示群落	rxj fi vtk ait	0
-滞水面	igk ii dm	0
-支提国	fc rj l	0
-支提山	fc rj mmm	0
-制图分类	rmhj ltu wv od	0
-制图精度	rmhj ltu oge ya	0
-植物垂直台带	sfhg tr tga fh ck gkp	0
-制印原图	rmhj qgb dr ltu	0
-质子磁力仪	rfm bb du lt wyq	3
-中薄层状	k aig nfc udy	0
-中层状	k nfc udy	1
-重大建设工程	tgj dd vfhp ymc a tkgg	0
-中等地震	k tffu f fdf	0
-中断河	k on isk	0
-中国板块	k l src fnw	0
-中厚层状	k djb nfc udy	0
-中砾	k dqi	0
-重力触探	tgj lt qejy rpws	0
-重力低	tgj lt wqa	2
-重力高	tgj lt ym	0
-重力构造	tgj lt sq tfkp	0
-重力均衡校正	tgj lt fqu tqdh suq ghd	0
-重力均衡异常	tgj lt fqu tqdh naj ipkh	0
-中粒砂岩	k oug di mdf	0
-中粒砂状	k oug di udy	0
-重力水	tgj lt ii	7
-重力梯度	tgj lt sux ya	3
-重力图	tgj lt ltu	0
-重力异常场	tgj lt naj ipkh fnrt	0
-中碛	k dgm	1
-中强震	k xk fdf	0
-中生植物	k tg sfhg tr	0
-中世纪古城	k an xn dgh fd	3
-中天山	k gd mmm	4
-中天山板块	k gd mmm src fnw	0
-中纬度草原	k xfnh ya ajj dr	0
-中纬度荒漠	k xfnh ya aynq iaj	0
-中位沼泽	k wug ivk icf	0
-中西部各州	k sghg uk tk ytyh	0
-中心地学说	k ny f ip yu	0
-中心式喷发	k ny aa kfa v	1
-中营养沼泽	k apk udyj ivk icf	0
-中周期地震仪	k mfk adwe f fdf wyq	0
-周家店组	mfk pe yhk xeg	0
-猪背脊	qtfj uxe iwe	0
-筑垒村	tam cccf sf	1
-主量	y jg	3
-注水试验	iy ii yaa cwg	0
-朱提	ri rj	11
-住宅和工作室	wygg pta t a wt pgc	0
-主震型地震	y fdf gajf f fdf	0
-柱状结构	syg udy xf sq	13
-砖红壤性土	dfny xa fyk ntg ffff	0
-转换波	lfn rq ihc	1
-专题地图集	fny jghm f ltu wys	1
-专题地图学	fny jghm f ltu ip	0
-专题制图仪	fny jghm rmhj ltu wyq	0
-装配工业	ufy sgn a og	1
-准噶尔板块	uwy kaj qiu src fnw	0
-准平原	uwy gu dr	0
-卓越周期	hjj fha mfk adwe	0
-资本密集工业	uqwm sg pnt wys a og	0
-自成景观	thd dn jy cm	1
-自动化制图	thd fcl wx rmhj ltu	0
-子合国	bb wgk l	0
-自给性农业	thd xw ntg pei og	0
-资金密集工业	uqwm qqqq pnt wys a og	0
-自流井组	thd iyc fjk xeg	0
-自流水盆地	thd iyc ii wvl f	0
-自然地理过程	thd qd f gj fp tkgg	0
-自然电位	thd qd jn wug	4
-自然电位法	thd qd jn wug if	0
-自然森林	thd qd sss ss	3
-自然生产潜力	thd qd tg u ifw lt	0
-自然疫源地	thd qd umc idr f	4
-兹瓦尔特诺茨	uxx gny qiu trf yad auqw	0
-紫外遥感	hxx qh er dgkn	0
-自学系统	thd ip txi xyc	0
-自养营养	thd udyj apk udyj	0
-自由空间校正	thd mh pw uj suq ghd	0
-自由空间异常	thd mh pw uj naj ipkh	0
-资源地理学	uqwm idr f gj ip	0
-资源信息系统	uqwm idr wy thn txi xyc	0
-棕钙土	sp qgh ffff	0
-综合地图集	xp wgk f ltu wys	1
-综合评价地图	xp wgk ygu wwj f ltu	0
-综合运输	xp wgk fcp lwg	1
-综合制图	xp wgk rmhj ltu	0
-综合自然区划	xp wgk thd qd aq aj	0
-宗教地理	pfi ftbt f gj	0
-棕漠土	sp iaj ffff	0
-总侵蚀基准面	ukn wvp qnj ad uwy dm	0
-纵向结合	xww tm xf wgk	1
-纵向沙丘	xww tm iit rgd	0
-总蒸发	ukn abi v	0
-钻洞动物	qhk imgk fcl tr	0
-钻油平台	qhk img gu ck	7
-最大概率地震	jb dd svc yx f fdf	0
-最大主应力	jb dd y yid lt	0
-最高洪水位	jb ym iaw ii wug	1
-最可信地震	jb sk wy f fdf	0
-作物布局	wt tr dmh nnk	0
-作物组合	wt tr xeg wgk	0
-雨极	fghy se	5
+岸礁	jvag qomb	2
+澳洲界	notm nifc surj	0
+巴东组	ob gix oeq	0
+白云质灰岩	db adm hrfb xmh jqs	1
+半常绿森林	lak grj ovns aaam aam	0
+半承压水层	lak onys vhid ns tadm	0
+板根	ahdi aig	0
+半固定沙丘	lak bog ifnz niwp lfi	1
+斑晶	yeyw jjjr	7
+板块边界	ahdi heur suc surj	17
+板块构造说	ahdi heur aidm pkuc clke	0
+板块构造学	ahdi heur aidm pkuc iolz	9
+板块会聚	ahdi heur uadm ldea	0
+板块假说	ahdi heur etad clke	0
+板块间地震	ahdi heur rjr hei slc	0
+板块接合带	ahdi heur fwwn sh dorj	0
+板块绝对运动	ahdi heur ooob dhc aduc adsl	0
+板块拉力	ahdi heur fwl sl	0
+板块碰撞	ahdi heur qlvi fwel	20
+板块驱动力	ahdi heur btci adsl sl	0
+板块消减	ahdi heur niyv akfk	0
+板块学说	ahdi heur iolz clke	10
+斑粝岩	yeyw tvfi jqs	0
+板内地震	ahdi qur hei slc	0
+阪泉	phdi dns	73
+半日潮汐	lak jr nrjy nyx	0
+斑铜矿	yeyw vqfk qug	0
+斑纹带	yeyw oew dorj	0
+板岩	ahdi jqs	23
+斑状结构	yeyw oqq ohkv aidm	1
+邦贾加拉陡崖	qpf lfb skv fwl phz jvhh	0
+暴发洪水	jdmn jdid ndmb ns	0
+孢粉分析	lios tmjd mjd alj	0
+保护地质环境	ekam fqh hei hrfb ynb hwje	0
+堡礁	ekah qomb	2
+爆破地震	mjdn qgp hei slc	1
+包气带水	ios iq dorj ns	3
+宝石矿物学	iyid qs qug piws iolz	0
+宝石学	iyid qs iolz	44
+宝塔组	iyid hdsh oeq	0
+包体理论	ios eafi yel cubb	0
+钡长石	vfb kc qs	0
+背斜	obyv ufar	17
+崩堤	jyyv hjfn	3
+崩积层	jyyv gkmb tadm	0
+崩积楔	jyyv gkmb aqjm	0
+崩坡积	jyyv hgp gkmb	0
+毕钵罗窟	bbrs vafi xyx btjj	0
+毕达哥利翁	bbrs muc ckck god mdkk	0
+闭合盆地	rewp sh mjxm hei	0
+比较行星学	bbb grmc woc jps iolz	1
+鼻尾丘	csoj tgm lfi	0
+变磁阻地震仪	ydi qljj peq hei slc eici	0
+边国	suc byid	0
+边界代数算法	suc surj eki twtp gsdn nhdm	0
+变量聚类分析	ydi jfel ldea tmd mjd alj	0
+变量筛选分析	ydi jfel glfr peuc mjd alj	0
+边缘地震	suc oqks hei slc	0
+边缘断层	suc oqks ttlj tadm	0
+边缘弧	suc oqks jvg	0
+边缘深断裂	suc oqks noma ttlj fyos	0
+辫状河	jojx oqq nckv	4
+标贯	acs qrfb	0
+表面重力波	hsi km jel sl ngp	0
+标型化合物	acs fdoh ebb sh piws	0
+标型离子	acs fdoh ejqd lz	0
+标型元素	acs fdoh fow hus	0
+标志层	acs hnx tadm	0
+标准贯入	acs aoc qrfb ir	0
+滨河床沙坝	nilm nckv uam niwp hfb	0
+滨外坝	nilm yub hfb	0
+冰擦痕	ans fiyc lig	0
+冰川变化	ans fc ydi ebb	2
+冰川补给	ans fc sub osh	0
+冰川地质学	ans fc hei hrfb iolz	1
+冰川河流	ans fc nckv nrde	1
+冰川化	ans fc ebb	1
+冰川退缩	ans fc iuc oiej	11
+冰川物质平衡	ans fc piws hrfb alb wtuo	0
+冰川隙	ans fc piji	0
+冰川学	ans fc iolz	1
+冰底碛	ans ujgi qhfb	0
+冰斗冰川	ans ars ans fc	2
+冰分凝	ans mjd abmn	0
+冰冠气候	ans ofoh iq elem	0
+冰核丘	ans arh lfi	0
+冰后隙	ans hfkv piji	0
+冰胶结	ans yrmc ohkv	0
+冰砾阶地	ans qjix purj hei	0
+冰砾泥	ans qjix ntbb	0
+冰碛	ans qhfb	61
+冰期后	ans ryv hfkv	1
+冰碛平原	ans qhfb alb vdix	0
+冰碛平原水系	ans qhfb alb vdix ns wus	0
+冰碛物	ans qhfb piws	12
+冰蚀槽	ans uic asjr	0
+冰水沉积物	ans ns nosj gkmb piws	0
+冰透镜体	ans gruc vwje eafi	0
+冰湾	ans nyjg	0
+冰下河道	ans cx nckv lcuc	0
+冰楔	ans aqjm	2
+冰楔作用	ans aqjm egub ai	0
+冰堰湖	ans htjw noyv	0
+冰沼土	ans njkv ht	0
+波浪侵蚀	ngp niig evod uic	0
+玻利瓦尔学院	ygp god nw oix iolz pifo	0
+薄煤层	dnah mdaa tadm	0
+波频率	ngp nivf rjar	15
+波谱分辨率	ngp clvj mjd jljx rjar	1
+波散效应	ngp dytp rmct uix	0
+剥蚀面	vnod uic km	0
+剥蚀平原	vnod uic alb vdix	0
+波速比	ngp akuc bbb	0
+波速比变化	ngp akuc bbb ydi ebb	0
+波速异常	ngp akuc odn grj	0
+波所黎各	ngp wlj giwn tkv	0
+波托西城	ngp fwgq lx hkoi	0
+波压	ngp vhid	0
+波运动	ngp aduc adsl	0
+波至	ngp uz	0
+波周期	ngp ihkv ryv	1
+不称河	nb goix nckv	0
+不等厚	nb ghhc vjlz	3
+不对称水系	nb dhc goix ns wus	0
+不对称褶曲	nb dhc goix skkd vq	0
+补给区	sub osh tci	2
+不连续震动源	nb guc orom slc adsl nvdi	0
+捕虏体	faf tsl eafi	7
+捕虏岩	faf tsl jqs	0
+不能生物降解	nb dybb ps piws ptak oajp	0
+不透水岩	nb gruc ns jqs	0
+采取率	vam ldi rjar	0
+残积层	fyfk gkmb tadm	0
+残积景观	fyfk gkmb jdix ddj	0
+残积土	fyfk gkmb ht	1
+参考基准面	dmws hsk rht aoc km	0
+残留因素	fyfk jst bmd hus	1
+残坡积	fyfk hgp gkmb	0
+残丘	fyfk lfi	3
+残遗种区	fyfk kofu gkls tci	0
+残余风化层	fyfk ufam sci ebb tadm	0
+残余应变	fyfk ufam uix ydi	0
+槽波	asjr ngp	0
+草甸沼泽	djz ist njkv ndak	0
+草绘等高线	djz ouad ghhc dg ofkg	0
+漕矩咤国	nsjr mtek kiwg byid	0
+草原土壤	djz vdix ht hdds	1
+测地参考系	nfod hei dmws hsk wus	0
+测氡计仪	nfod itae crs eici	0
+测井	nfod arj	58
+侧向侵蚀	efod ox evod uic	0
+测震学	nfod slc iolz	0
+层底高程	tadm ujgi dg gkyw	0
+层间滑动断裂	tadm rjr nhg adsl ttlj fyos	0
+层间流	tadm rjr nrde	0
+层间水	tadm rjr ns	0
+层结湖	tadm ohkv noyv	0
+层序	tadm ulv	6
+层序地层	tadm ulv hei tadm	0
+查科文化	ajfi gars ew ebb	0
+查文考古区	ajfi ew hsk og tci	0
+差异风化作用	mng odn sci ebb egub ai	0
+差异应力	mng odn uix sl	0
+差异运动	mng odn aduc adsl	0
+产沙率	wwp niwp rjar	0
+铲式断层	vwwp kng ttlj tadm	0
+颤沼	rbkf njkv	0
+产状	wwp oqq	9
+昌昌考古区	jjr jjr hsk og tci	0
+场地地震反应	hows hei hei slc hdi uix	0
+场地地质单元	hows hei hei hrfb ljrs fow	0
+场地地质效应	hows hei hei hrfb rmct uix	0
+场地反应	hows hei hdi uix	0
+场地放大作用	hows hei itp md egub ai	0
+场地烈度	hows hei fyom udfd	0
+场地烈度调整	hows hei fyom udfd cihk aktn	0
+场地脉动	hows hei yins adsl	0
+场函数	hows onjk twtp	6
+常年洪水位	grj gak ndmb ns ewl	0
+常温层	grj njxm tadm	0
+长狭潮道	kc qmlb nrjy lcuc	0
+长兴组	kc imb oeq	0
+长周期摆	kc ihkv ryv fxhd	0
+长周期波	kc ihkv ryv ngp	0
+长周期潮	kc ihkv ryv nrjy	0
+长周期地磁场	kc ihkv ryv hei qljj hows	0
+长周期地震计	kc ihkv ryv hei slc crs	0
+长周期地震仪	kc ihkv ryv hei slc eici	0
+超覆	hjkv lwgt	1
+潮沟	nrjy nidm	0
+朝圣教堂	rjyv dht hltp ght	0
+潮滩	nrjy ndoc	0
+超微震	hjkv wfsj slc	0
+潮汐带	nrjy nyx dorj	4
+潮汐通道	nrjy nyx dauc lcuc	0
+沉积盖层	nosj gkmb mxm tadm	0
+沉积建造	nosj gkmb vagi pkuc	1
+沉积水	nosj gkmb ns	0
+沉降中心	nosj ptak kls nx	2
+城堡和城墙	hkoi ekah gkv hkoi hrlk	1
+城堡和文化	hkoi ekah gkv ew ebb	0
+城堡及庄园	hkoi ekah rid uht bfow	0
+城堡式要塞	hkoi ekah kng lwn idmh	0
+成冰作用	koi ans egub ai	0
+成层火山	koi tadm mh js	0
+成壤	koi hdds	0
+成生联系	koi ps llmd wus	0
+城市蚕食	hkoi rrj fmic vs	0
+城市等级序列	hkoi rrj ghhc orid ulv fyod	0
+城市辐集	hkoi rrj gfks oam	0
+城市化村	hkoi rrj ebb ahc	0
+城市化区域	hkoi rrj ebb tci hkkf	0
+城市历史地理	hkoi rrj vsl kci hei yel	0
+城市连绵区	hkoi rrj guc odrj tci	0
+城市蔓延	hkoi rrj djxd wngi	7
+城市生长极	hkoi rrj ps kc arid	0
+城市衰落区	hkoi rrj dfsi dntk tci	0
+城市蔓生	hkoi rrj djxd ps	0
+城市引力	hkoi rrj jls sl	1
+城市再开发	hkoi rrj fqht fdn jdid	0
+成熟土壤	koi dlfm ht hdds	0
+成土作用	koi ht egub ai	0
+城乡交错带	hkoi owp rmci vdjr dorj	0
+承压地下水	onys vhid hei cx ns	0
+承压含水层	onys vhid uiok ns tadm	0
+承压应变	onys vhid uix ydi	0
+赤道雨林	hrmb lcuc sv aam	0
+赤金堡	hrmb tj ekah	0
+持水度	fhhc ns udfd	1
+冲沟	akls nidm	19
+冲洪积	akls ndmb gkmb	0
+冲洪积扇	akls ndmb gkmb qkkx	1
+冲击变形组构	akls ajk ydi fdws oeq aidm	0
+冲击变质作用	akls ajk ydi hrfb egub ai	0
+冲击地震	akls ajk hei slc	0
+冲积锥	akls gkmb voc	0
+冲刷面	akls trod km	0
+抽水试验	fui ns ckng bufi	0
+抽样技巧	fui ami frdi nsk	0
+储层	echj tadm	25
+初动方向	sjd adsl if ox	0
+初动时间	sjd adsl jhc rjr	0
+触发地震	oaic jdid hei slc	1
+出口基地理论	jjk kv rht hei yel cubb	0
+初始地应力	sjd wdkv hei uix sl	0
+初振幅	sjd flc rfks	0
+初至波	sjd uz ngp	0
+传播比	eati fwts bbb	0
+吹蚀	khq uic	5
+垂向地震仪	jdfi ox hei slc eici	0
+垂直成层结构	jdfi req koi tadm ohkv aidm	0
+垂直磁场强度	jdfi req qljj hows jkic udfd	0
+垂直地带性	jdfi req hei dorj bps	5
+纯应变	ogjk uix ydi	0
+磁暴度	qljj jdmn udfd	0
+磁暴相	qljj jdmn asm	0
+磁暴效应	qljj jdmn rmct uix	0
+磁变仪	qljj ydi eici	0
+磁测基点	qljj nfod rht ukmb	0
+磁测剖面图	qljj nfod wkod km btae	0
+磁层电场	qljj tadm hd hows	0
+磁赤铁矿	qljj hrmb vwmf qug	2
+磁带地震仪	qljj dorj hei slc eici	0
+磁分路	qljj mjd xtkv	0
+磁黄铁矿	qljj dumb vwmf qug	3
+磁记录地震仪	qljj cwj vns hei slc eici	0
+磁静日	qljj hyoo jr	0
+磁经纬仪	qljj odng oaoi eici	0
+磁扭秤	qljj fec galb	0
+磁情指数	qljj bhyv fbjr twtp	0
+磁扰日	qljj fqi jr	0
+次生地震效应	ahq ps hei slc rmct uix	0
+磁性弛豫	qljj bps jei lokk	0
+磁性地层划分	qljj bps hei tadm kod mjd	0
+磁性地层学	qljj bps hei tadm iolz	1
+从属景观	uur twko jdix ddj	0
+粗腐殖质	teq uehu fyre hrfb	0
+粗粒凝灰岩	teq twl abmn xmh jqs	0
+粗粒砂岩	teq twl qiwp jqs	1
+粗粒砂状	teq twl qiwp oqq	0
+粗砾滩	teq qjix ndoc	0
+粗砂岩	teq qiwp jqs	0
+粗玄岩	teq rji jqs	0
+粗质地土壤	teq hrfb hei ht hdds	0
+脆性断层	yove bps ttlj tadm	0
+脆性形变	yove bps fdws ydi	0
+措迪洛山	fdjr uuc ntkv js	0
+大爆炸假说	md mjdn mgub etad clke	1
+大成历史名城	md koi vsl kci ykv hkoi	0
+大地测量基线	md hei nfod jfel rht ofkg	0
+大地测量网	md hei nfod jfel qcci	0
+大地点	md hei ukmb	0
+大地电磁测深	md hei hd qljj nfod noma	0
+大地电流暴	md hei hd nrde jdmn	0
+大地电阻法	md hei hd peq nhdm	0
+大地构造单元	md hei aidm pkuc ljrs fow	1
+大地构造体系	md hei aidm pkuc eafi wus	0
+大地构造学	md hei aidm pkuc iolz	4
+大地基准面	md hei rht aoc km	2
+大地控制网	md hei fbng pqod qcci	1
+大地三角测量	md hei ys oai nfod jfel	0
+大地水准测量	md hei ns aoc nfod jfel	0
+大地天顶	md hei fmd cvfb	0
+大都市市区	md hjpf rrj rrj tci	0
+大峰山	md jtqf js	0
+大卡萨斯	md oub dpww rlj	0
+大雷普提斯	md sst lvjr fjfn rlj	0
+大羚羊保护区	md muid mi ekam fqh tci	0
+大隆组	md ptfp oeq	0
+大陆被动边缘	md pajk sgp adsl suc oqks	0
+大陆车阀说	md pajk gc rekg clke	0
+大陆地震	md pajk hei slc	0
+大陆度	md pajk udfd	0
+大陆复原	md pajk gjtp vdix	0
+大陆固定论	md pajk bog ifnz cubb	0
+大陆裂谷	md pajk fyos mukv	0
+大陆碰撞	md pajk qlvi fwel	2
+大陆坡	md pajk hgp	0
+大陆破裂	md pajk qgp fyos	0
+大陆消减	md pajk niyv akfk	0
+大陆性冰川	md pajk bps ans fc	5
+大陆型地壳	md pajk fdoh hei hosj	0
+大陆增长	md pajk hljj kc	0
+大陆主动边缘	md pajk iyw adsl suc oqks	0
+大气迁移	md iq juc gyyx	0
+大容重试验	md bukv jel ckng bufi	0
+大田制度	md st pqod udfd	0
+大同火山群	md qfkv mh js vwkm	1
+大铜山采矿区	md vqfk js vam qug tci	0
+达西定律	muc lx ifnz wvak	3
+大冶组	md adkv oeq	0
+歹字型构造	fyx ilz fdoh aidm pkuc	0
+氮循环	immh whrs ynb	15
+单元景观	ljrs fow jdix ddj	0
+倒置地貌	euod xreq hei pdee	0
+等级扩散	ghhc orid fug dytp	0
+等积投影	ghhc gkmb fss jdiw	4
+等角投影	ghhc oai fss jdiw	16
+等距投影	ghhc xtek fss jdiw	7
+等距原则	ghhc xtek vdix fod	0
+等时线	ghhc jhc ofkg	8
+迪奥西亚	uuc otmd lx fvi	0
+地表水污染	hei hsi ns nfsk nfam	3
+地表震源	hei hsi slc nvdi	0
+地槽地台说	hei asjr hei dkv clke	0
+地层表	hei tadm hsi	1
+地层不整合	hei tadm nb aktn sh	0
+地层超覆	hei tadm hjkv lwgt	0
+地层代号	hei tadm eki ksk	0
+地层分区	hei tadm mjd tci	0
+地层间断	hei tadm rjr ttlj	0
+地层缺失	hei tadm weur wmf	2
+地层小区	hei tadm ix tci	0
+地层走向	hei tadm hz ox	0
+地磁参考场	hei qljj dmws hsk hows	0
+地磁场矢量	hei qljj hows ms jfel	0
+地磁场要素	hei qljj hows lwn hus	0
+地磁赤道	hei qljj hrmb lcuc	0
+地磁倒转	hei qljj euod gati	27
+地磁分量	hei qljj mjd jfel	0
+地磁感应	hei qljj kfkn uix	3
+地磁活动性	hei qljj nbs adsl bps	0
+地磁极性倒转	hei qljj arid bps euod gati	1
+地磁极性反转	hei qljj arid bps hdi gati	0
+地磁极性期	hei qljj arid bps ryv	0
+地磁极性事件	hei qljj arid bps ekvj epn	0
+地磁经度	hei qljj odng udfd	0
+地磁静日变化	hei qljj hyoo jr ydi ebb	0
+地磁力	hei qljj sl	0
+地磁南极	hei qljj rqlr arid	0
+地磁漂移	hei qljj nlcs gyyx	15
+地磁三要素	hei qljj ys lwn hus	0
+地磁时表	hei qljj jhc hsi	0
+地磁事件	hei qljj ekvj epn	0
+地磁余纬度	hei qljj ufam oaoi udfd	0
+地磁轴	hei qljj gui	0
+地磁子午圈	hei qljj lz grs blme	0
+地磁总强度	hei qljj lknx jkic udfd	0
+地电测量	hei hd nfod jfel	0
+地电场	hei hd hows	1
+地电法	hei hd nhdm	0
+地电仪	hei hd eici	0
+递发地震	ljlu jdid hei slc	0
+地方气候	hei if iq elem	5
+地方震	hei if slc	0
+地缝合线	hei otqu sh ofkg	1
+迪夫里伊	uuc mf el evwp	0
+地滚波	hei nrms ngp	0
+地基刚性	hei rht qcod bps	0
+地基回弹	hei rht bkv jljr	0
+地基失效	hei rht wmf rmct	0
+地基稳定性	hei rht govn ifnz bps	1
+地极移动	hei arid gyyx adsl	0
+底界	ujgi surj	1
+递进变形	ljlu aruc ydi fdws	0
+地静压力	hei hyoo vhid sl	0
+笛卡尔张量	gui oub oix jkc jfel	0
+地理底图	hei yel ujgi btae	2
+地理泛系分析	hei yel nwkz wus mjd alj	0
+地理惯性	hei yel bqrf bps	0
+地理计量学	hei yel crs jfel iolz	0
+地理精度	hei yel thyv udfd	0
+地理考察	hei yel hsk iycs	4
+地理剖面	hei yel wkod km	0
+地理圈	hei yel blme	2
+地理数据采编	hei yel twtp ftog vam oqpc	0
+地理数据库	hei yel twtp ftog ugc	29
+地理通名	hei yel dauc ykv	0
+地理相关法	hei yel asm lmd nhdm	0
+地理信息流	hei yel eri cnx nrde	0
+地理学史	hei yel iolz kci	2
+地理学思想史	hei yel iolz snx asnx kci	5
+地理学体系	hei yel iolz eafi wus	1
+地理遥感	hei yel vwuc kfkn	32
+地理因子	hei yel bmd lz	0
+地理制图	hei yel pqod btae	2
+地理专名	hei yel atid ykv	0
+地理专业词汇	hei yel atid vi cofk ntf	0
+地理综合	hei yel oics sh	4
+地理阻障	hei yel peq pwjz	0
+地理坐标网	hei yel uuht acs qcci	0
+狄罗尼三角网	qmh xyx tbb ys oai qcci	0
+地幔波	hei rjxd ngp	0
+地幔地核界面	hei rjxd hei arh surj km	0
+地幔底辟	hei rjxd ujgi tkjx	0
+地幔地震	hei rjxd hei slc	0
+地幔地柱	hei rjxd hei aiyw	0
+地幔挤入作用	hei rjxd ferj ir egub ai	0
+地幔勒夫波	hei rjxd psl mf ngp	0
+地幔流	hei rjxd nrde	1
+地幔流变学	hei rjxd nrde ydi iolz	0
+地幔面波	hei rjxd km ngp	0
+地幔热柱	hei rjxd ffim aiyw	0
+地幔岩	hei rjxd jqs	0
+地幔涌流	hei rjxd ndai nrde	0
+地貌成因	hei pdee koi bmd	0
+地貌倒置	hei pdee euod xreq	0
+地貌过程	hei pdee huc gkyw	0
+地貌量计学	hei pdee jfel crs iolz	0
+地貌年代学	hei pdee gak eki iolz	0
+地貌区	hei pdee tci	0
+地貌世代	hei pdee ls eki	0
+地貌形成作用	hei pdee fdws koi egub ai	0
+地貌序列	hei pdee ulv fyod	0
+地貌旋回	hei pdee igon bkv	0
+地貌组合	hei pdee oeq sh	0
+地面混波	hei km njbb ngp	0
+地面加速度	hei km skv akuc udfd	0
+地面脉动	hei km yins adsl	0
+地面振幅	hei km flc rfks	0
+地名罗马化	hei ykv xyx bm ebb	0
+地名正名	hei ykv fnz ykv	0
+地炮	hei mios	3
+底辟构造	ujgi tkjx aidm pkuc	0
+地平经圈	hei alb odng blme	0
+底碛	ujgi qhfb	0
+地堑	hei glht	6
+地堑盆地	hei glht mjxm hei	0
+地壳波速结构	hei hosj ngp akuc ohkv aidm	0
+地壳地震	hei hosj hei slc	0
+地壳均衡	hei hosj hiae wtuo	3
+地壳增厚	hei hosj hljj vjlz	1
+地倾斜	hei ebvf ufar	1
+地球变化磁场	hei yfni ydi ebb qljj hows	0
+地球变形	hei yfni ydi fdws	0
+地球潮汐	hei yfni nrjy nyx	3
+地球潮汐因子	hei yfni nrjy nyx bmd lz	0
+地球成因说	hei yfni koi bmd clke	0
+地球磁性	hei yfni qljj bps	0
+地球动力模型	hei yfni adsl sl adjm fdoh	0
+地球放射性	hei yfni itp uhc bps	0
+地球辐射	hei yfni gfks uhc	19
+地球固体潮	hei yfni bog eafi nrjy	0
+地球化学场	hei yfni ebb iolz hows	0
+地球化学景观	hei yfni ebb iolz jdix ddj	0
+地球化学区	hei yfni ebb iolz tci	0
+地球化学图	hei yfni ebb iolz btae	1
+地球化学异常	hei yfni ebb iolz odn grj	0
+地球基本磁场	hei yfni rht afi qljj hows	0
+地球进动	hei yfni aruc adsl	5
+地球静力学	hei yfni hyoo sl iolz	0
+地球力学	hei yfni sl iolz	1
+地球模型	hei yfni adjm fdoh	0
+地球内部化学	hei yfni qur wkpf ebb iolz	0
+地球膨胀	hei yfni yvws ykc	5
+地球膨胀说	hei yfni yvws ykc clke	0
+地球收缩	hei yfni jtp oiej	0
+地球外重力位	hei yfni yub jel sl ewl	0
+地球物理场	hei yfni piws yel hows	6
+地球物理异常	hei yfni piws yel odn grj	0
+地球运动学	hei yfni aduc adsl iolz	1
+地球中心核	hei yfni kls nx arh	0
+地球中心角	hei yfni kls nx oai	0
+地球自由章动	hei yfni cz ui wjz adsl	0
+地球自由振动	hei yfni cz ui flc adsl	0
+地球资源卫星	hei yfni ahfb nvdi efi jps	4
+地热对流系统	hei ffim dhc nrde wus orde	0
+地热工业	hei ffim ng vi	0
+地热活动	hei ffim nbs adsl	6
+地热异常区	hei ffim odn grj tci	0
+地生态学	hei ps minx iolz	0
+地势曲线	hei ffis vq ofkg	0
+地史学	hei kci iolz	3
+第四纪冰期	gjlw bee owj ans ryv	36
+低速带	ejgi akuc dorj	2
+地图编缉	hei btae oqpc okle	0
+地图编辑系统	hei btae oqpc gkle wus orde	0
+地图表示方法	hei btae hsi cs if nhdm	0
+地图传输论	hei btae eati gufo cubb	0
+地图分幅	hei btae mjd rfks	0
+地图分类	hei btae mjd tmd	1
+地图符号	hei btae gehc ksk	2
+地图符号学	hei btae gehc ksk iolz	0
+地图概括	hei btae avde fbs	2
+地图感受论	hei btae kfkn vodi cubb	0
+地图规范	hei btae mdj dnej	1
+地图归纳法	hei btae lvj oqur nhdm	0
+地图量算	hei btae jfel gsdn	1
+地图模式论	hei btae adjm kng cubb	0
+地图判读	hei btae laod crom	0
+地图评价	hei btae calb eurj	0
+地图谱用	hei btae clvj ai	0
+地图数据结构	hei btae twtp ftog ohkv aidm	0
+地图数学模型	hei btae twtp iolz adjm fdoh	0
+地图数字化	hei btae twtp ilz ebb	1
+地图特征码	hei btae phhc wfnz qbm	0
+地图图型	hei btae btae fdoh	0
+地图信息论	hei btae eri cnx cubb	0
+地图演绎法	hei btae nifm odak nhdm	0
+地图坐标网	hei btae uuht acs qcci	0
+地洼学说	hei nhht iolz clke	1
+低位沼泽	ejgi ewl njkv ndak	0
+低温气候	ejgi njxm iq elem	1
+地文因素	hei ew bmd hus	0
+地下河流	hei cx nckv nrde	4
+地下水动力学	hei cx ns adsl sl iolz	0
+地下水动态	hei cx ns adsl minx	0
+地下水观测	hei cx ns ddj nfod	0
+地下水径流	hei cx ns wdng nrde	0
+地下水均衡	hei cx ns hiae wtuo	0
+地下水开采	hei cx ns fdn vam	2
+地下水网络	hei cx ns qcci otkv	0
+地心轨道	hei nx gfj lcuc	2
+地心角	hei nx oai	0
+地心距离	hei nx xtek ejqd	2
+地心体系	hei nx eafi wus	2
+地心天顶	hei nx fmd cvfb	0
+地心位置	hei nx ewl xreq	0
+地形变	hei fdws ydi	1
+地形变测量	hei fdws ydi nfod jfel	0
+地形等级	hei fdws ghhc orid	0
+地形地物	hei fdws hei piws	7
+地形分析程序	hei fdws mjd alj gkyw ulv	0
+地形基面	hei fdws rht km	0
+地形匹配	hei fdws tee lwj	1
+地形气候学	hei fdws iq elem iolz	0
+地形抬升	hei fdws fdkv wdn	6
+地形同位素分馏效应	hei fdws qfkv ewl hus mjd ujst rmct uix	0
+地形图购置	hei fdws btae fidm xreq	0
+地形图数字化	hei fdws btae twtp ilz ebb	0
+地形要素划分标准及分值表	hei fdws lwn hus kod mjd acs aoc rid mjd ereq hsi	0
+地学断面	hei iolz ttlj km	0
+地学知识介绍牌	hei iolz mkv ckmb urj ojkv tmrs	0
+地压型地热资源	hei vhid fdoh hei ffim ahfb nvdi	0
+地压应力	hei vhid uix sl	0
+低液限粘土	ejgi nrei pig tukv ht	0
+地衣测年法	hei rsi nfod gak nhdm	0
+地域专业化	hei hkkf atid vi ebb	0
+地月重心	hei yv jel nx	0
+地噪声	hei kkka hts	2
+地震保险	hei slc ekam pufi	5
+地震避难场所	hei slc tkju doc hows wlj	0
+地震波传播	hei slc ngp eati fwts	1
+地震波衰减	hei slc ngp dfsi akfk	0
+地震波速比	hei slc ngp akuc bbb	0
+地震波速度	hei slc ngp akuc udfd	1
+地震波走时	hei slc ngp hz jhc	0
+地震不连续面	hei slc nb guc orom km	0
+地震参数	hei slc dmws twtp	0
+地震测震学	hei slc nfod slc iolz	0
+地震层序	hei slc tadm ulv	0
+地震场	hei slc hows	0
+地震长期预报	hei slc kc ryv lvfb fedi	0
+地震成像	hei slc koi eokk	0
+地震成因	hei slc koi bmd	5
+地震重复间隔	hei slc jel gjtp rjr pfkl	0
+地震初波	hei slc sjd ngp	0
+地震错距	hei slc vdjr xtek	0
+地震道	hei slc lcuc	0
+地震地层学	hei slc hei tadm iolz	1
+地震地貌	hei slc hei pdee	0
+地震地质效应	hei slc hei hrfb rmct uix	0
+地震地质学	hei slc hei hrfb iolz	0
+地震地质灾害	hei slc hei hrfb imh iqkv	0
+地震电效应	hei slc hd rmct uix	0
+地震调查	hei slc cihk ajfi	3
+地震定量	hei slc ifnz jfel	0
+地震定位	hei slc ifnz ewl	0
+地震动参数	hei slc adsl dmws twtp	3
+地震陡坎	hei slc phz hhq	0
+地震断层	hei slc ttlj tadm	0
+地震短期预报	hei slc mfkl ryv lvfb fedi	0
+地震对策	hei slc dhc gaqj	0
+地震反射	hei slc hdi uhc	0
+地震反演	hei slc hdi nifm	2
+地震反应谱	hei slc hdi uix clvj	0
+地震放大器	hei slc itp md kkqk	0
+地震分布图	hei slc mjd xrj btae	0
+地震复发	hei slc gjtp jdid	0
+地震各向异性	hei slc tkv ox odn bps	0
+地震构造	hei slc aidm pkuc	0
+地震构造带	hei slc aidm pkuc dorj	0
+地震构造区	hei slc aidm pkuc tci	0
+地震构造区划	hei slc aidm pkuc tci kod	0
+地震构造图	hei slc aidm pkuc btae	0
+地震构造学	hei slc aidm pkuc iolz	0
+地震观测环境	hei slc ddj nfod ynb hwje	0
+地震光缆	hei slc iow olgd	0
+地震过程	hei slc huc gkyw	0
+地震宏观调查	hei slc ixdm ddj cihk ajfi	0
+地震回放仪	hei slc bkv itp eici	0
+地震会商	hei slc uadm rlqk	0
+地震活动度	hei slc nbs adsl udfd	0
+地震活动断层	hei slc nbs adsl ttlj tadm	3
+地震活动图	hei slc nbs adsl btae	0
+地震活动性	hei slc nbs adsl bps	0
+地震活动异常	hei slc nbs adsl odn grj	0
+地震基本烈度	hei slc rht afi fyom udfd	0
+地震记录	hei slc cwj vns	2
+地震级数	hei slc orid twtp	1
+地震机制	hei slc asj pqod	0
+地震加速度图	hei slc skv akuc udfd btae	0
+地震监测设施	hei slc lgxm nfod css igei	0
+地震监测台网	hei slc lgxm nfod dkv qcci	0
+地震监视系统	hei slc lgxm cdj wus orde	0
+地震界面	hei slc surj km	0
+地震解耦	hei slc oajp qmvv	0
+地震静力学	hei slc hyoo sl iolz	0
+地震救助技术	hei slc fnit esl frdi aid	0
+地震矩张量	hei slc mtek jkc jfel	0
+地震科学	hei slc gars iolz	2
+地震空区	hei slc bng tci	0
+地震控制	hei slc fbng pqod	0
+地震力	hei slc sl	2
+地震历时	hei slc vsl jhc	0
+地震烈度表	hei slc fyom udfd hsi	0
+地震烈度评定	hei slc fyom udfd calb ifnz	0
+地震烈度区划	hei slc fyom udfd tci kod	0
+地震烈度异常	hei slc fyom udfd odn grj	0
+地震滤波	hei slc ntnx ngp	0
+地震盲区	hei slc usm tci	0
+地震面波	hei slc km ngp	0
+地震模拟	hei slc adjm ftiu	0
+地震能	hei slc dybb	0
+地震能级	hei slc dybb orid	0
+地震耦合	hei slc qmvv sh	0
+地震频度	hei slc nivf udfd	0
+地震平静期	hei slc alb hyoo ryv	0
+地震平静区	hei slc alb hyoo tci	0
+地震剖面	hei slc wkod km	2
+地震谱	hei slc clvj	0
+地震迁移	hei slc juc gyyx	0
+地震前兆效应	hei slc lyod eaae rmct uix	0
+地震区划	hei slc tci kod	1
+地震区划图	hei slc tci kod btae	0
+地震趋势分析	hei slc hovj ffis mjd alj	0
+地震全息照相	hei slc uyw cnx jjkm asm	0
+地震群	hei slc vwkm	0
+地震散射	hei slc dytp uhc	0
+地震三要素	hei slc ys lwn hus	0
+地震社会学	hei slc cht uadm iolz	0
+地震设计烈度	hei slc css crs fyom udfd	0
+地震射线	hei slc uhc ofkg	0
+地震射线理论	hei slc uhc ofkg yel cubb	0
+地震深度	hei slc noma udfd	0
+地震声学	hei slc hts iolz	0
+地震事件	hei slc ekvj epn	9
+地震时空分布	hei slc jhc bng mjd xrj	0
+地震首波	hei slc lcz ngp	0
+地震衰减	hei slc dfsi akfk	0
+地震台网	hei slc dkv qcci	1
+地震台阵	hei slc dkv pgc	0
+地震体波	hei slc eafi ngp	0
+地震天气	hei slc fmd iq	0
+地震天文学	hei slc fmd ew iolz	0
+地震条件	hei slc tam epn	0
+地震统计学	hei slc orde crs iolz	0
+地震图	hei slc btae	0
+地震图像	hei slc btae eokk	0
+地震图像识别	hei slc btae eokk ckmb ksod	0
+地震尾波	hei slc tgm ngp	0
+地震位错	hei slc ewl vdjr	0
+地震位能	hei slc ewl dybb	0
+地震危险估计	hei slc ovej pufi eog crs	0
+地震危险评价	hei slc ovej pufi calb eurj	0
+地震危险区划	hei slc ovej pufi tci kod	0
+地震危险图	hei slc ovej pufi btae	0
+地震危险性	hei slc ovej pufi bps	2
+地震位置	hei slc ewl xreq	4
+地震系列	hei slc wus fyod	1
+地震线	hei slc ofkg	0
+地震效率	hei slc rmct rjar	0
+地震小区划	hei slc ix tci kod	0
+地震效应	hei slc rmct uix	1
+地震信号	hei slc eri ksk	5
+地震行波	hei slc woc ngp	0
+地震序列	hei slc ulv fyod	0
+地震序列类型	hei slc ulv fyod tmd fdoh	0
+地震遥测	hei slc vwuc nfod	0
+地震遥测台网	hei slc vwuc nfod dkv qcci	0
+地震谣言	hei slc cvwf ri	0
+地震仪标定	hei slc eici acs ifnz	0
+地震仪参数	hei slc eici dmws twtp	0
+地震异常	hei slc odn grj	1
+地震遗迹	hei slc kofu yuc	0
+地震易损性	hei slc jiws fkfb bps	0
+地震应急预案	hei slc uix ovnx lvfb iwam	0
+地震影区	hei slc jdiw tci	0
+地震有感范围	hei slc xyv kfkn dnej baoi	1
+地震预报对策	hei slc lvfb fedi dhc gaqj	0
+地震原生灾害	hei slc vdix ps imh iqkv	0
+地震灾害评估	hei slc imh iqkv calb eog	0
+地震灾害预测	hei slc imh iqkv lvfb nfod	1
+地震灾害预防	hei slc imh iqkv lvfb pif	0
+地震灾情	hei slc imh bhyv	3
+地震噪声	hei slc kkka hts	0
+地震震动	hei slc slc adsl	1
+地震震相	hei slc slc asm	0
+地震震源	hei slc slc nvdi	1
+地震中期预报	hei slc kls ryv lvfb fedi	0
+地震周期	hei slc ihkv ryv	5
+地震周期性	hei slc ihkv ryv bps	0
+地震纵波	hei slc ouur ngp	2
+地震走时表	hei slc hz jhc hsi	0
+地震走时曲线	hei slc hz jhc vq ofkg	0
+地质背景	hei hrfb obyv jdix	5
+地质背景条件	hei hrfb obyv jdix tam epn	0
+地质编录	hei hrfb oqpc vns	0
+地质测绘	hei hrfb nfod ouad	0
+地质点	hei hrfb ukmb	0
+地质调查局	hei hrfb cihk ajfi tokv	3
+地质调查院	hei hrfb cihk ajfi pifo	1
+地质规律	hei hrfb mdj wvak	2
+地质基础	hei hrfb rht qjjk	5
+地质简况	hei hrfb grjr akee	0
+地质结构	hei hrfb ohkv aidm	43
+地质勘查报告	hei hrfb rtsl ajfi fedi pkv	0
+地质勘查剖面测量	hei hrfb rtsl ajfi wkod km nfod jfel	0
+地质科学研究所	hei hrfb gars iolz qfdn bfj wlj	0
+地质雷达探测	hei hrfb sst muc foma nfod	0
+地质雷达仪器	hei hrfb sst muc eici kkqk	0
+地质年表	hei hrfb gak hsi	0
+地质年代测量	hei hrfb gak eki nfod jfel	0
+地质年代学	hei hrfb gak eki iolz	0
+地质事件	hei hrfb ekvj epn	10
+地质填图	hei hrfb hrem btae	1
+地质温度计	hei hrfb njxm udfd crs	0
+地质问题	hei hrfb rkv jfnf	6
+地质旋回	hei hrfb igon bkv	0
+地质压力计	hei hrfb vhid sl crs	0
+地质营力	hei hrfb dokk sl	4
+地质应力	hei hrfb uix sl	0
+地轴倾角	hei gui ebvf oai	2
+地柱说	hei aiyw clke	0
+地转平衡	hei gati alb wtuo	1
+地转效应	hei gati rmct uix	0
+地转运动	hei gati aduc adsl	0
+电测井	hd nfod arj	0
+电测深法	hd nfod noma nhdm	0
+电磁冲击波	hd qljj akls ajk ngp	0
+电动式地震仪	hd adsl kng hei slc eici	0
+淀积层	nifn gkmb tadm	4
+点密度法	ukmb inwj udfd nhdm	0
+电容地震仪	hd bukv hei slc eici	0
+点源分布	ukmb nvdi mjd xrj	1
+点值图	ukmb ereq btae	0
+电子地震仪	hd lz hei slc eici	0
+电阻率法	hd peq rjar nhdm	0
+电阻率剖面	hd peq rjar wkod km	0
+叠合分析	ddde sh mjd alj	0
+叠加地震记录	ddde skv hei slc cwj vns	0
+叠加定律	ddde skv ifnz wvak	4
+跌水潭	xwmf ns nljz	0
+定点形变测量	ifnz ukmb fdws ydi nfod jfel	0
+顶极土壤	cvfb arid ht hdds	0
+定量地震学	ifnz jfel hei slc iolz	0
+丁威勒	cd kfwn psl	0
+冻结层中水	agix ohkv tadm kls ns	0
+冻结指数	agix ohkv fbjr twtp	0
+动力变质作用	adsl sl ydi hrfb egub ai	0
+动力地貌学	adsl sl hei pdee iolz	0
+动力地质学	adsl sl hei hrfb iolz	1
+动圈式地震仪	adsl blme kng hei slc eici	0
+动态震害预测	adsl minx slc iqkv lvfb nfod	0
+冻土动力学	agix ht adsl sl iolz	0
+冻土进化	agix ht aruc ebb	0
+冻土退化	agix ht iuc ebb	0
+冻土相分析	agix ht asm mjd alj	0
+冻土学	agix ht iolz	0
+动物传布	adsl piws eati xrj	0
+洞穴堆积	nqfk bx hoc gkmb	0
+洞穴学	nqfk bx iolz	0
+杜能模式	aht dybb adjm kng	0
+都市集聚	hjpf rrj oam ldea	0
+都市水文学	hjpf rrj ns ew iolz	0
+断层擦痕	ttlj tadm fiyc lig	0
+断层传播	ttlj tadm eati fwts	0
+断层带	ttlj tadm dorj	3
+断层谷	ttlj tadm mukv	0
+断层滑距	ttlj tadm nhg xtek	0
+断层活动段	ttlj tadm nbs adsl eyss	0
+断层活动性	ttlj tadm nbs adsl bps	1
+断层几何学	ttlj tadm sj eckv iolz	0
+断层角砾岩	ttlj tadm oai qjix jqs	0
+断层接触	ttlj tadm fwwn oaic	0
+断层阶地	ttlj tadm purj hei	0
+断层面	ttlj tadm km	3
+断层泥	ttlj tadm ntbb	0
+断层气	ttlj tadm iq	0
+断层蠕动	ttlj tadm iske adsl	0
+断层三角面	ttlj tadm ys oai km	1
+断层线崖	ttlj tadm ofkg jvhh	0
+断层小陡坎	ttlj tadm ix phz hhq	0
+断层崖	ttlj tadm jvhh	3
+断层垭口	ttlj tadm hfvi kv	0
+断块	ttlj heur	6
+断块构造说	ttlj heur aidm pkuc clke	0
+断块山	ttlj heur js	3
+断裂深度分类	ttlj fyos noma udfd mjd tmd	0
+断裂系	ttlj fyos wus	0
+短期地震前兆	mfkl ryv hei slc lyod eaae	0
+短期聚落	mfkl ryv ldea dntk	0
+短水准	mfkl ns aoc	0
+断头河	ttlj amd nckv	0
+断陷	ttlj poij	13
+短周期地震仪	mfkl ihkv ryv hei slc eici	2
+堆积阶地	hoc gkmb purj hei	1
+对流力	dhc nrde sl	0
+对流说	dhc nrde clke	0
+顿丘	gjvf lfi	23
+盾形火山	hrsm fdws mh js	0
+盾状火山	hrsm oqq mh js	7
+多波段扫描器	yyx ngp eyss fvj fdst kkqk	0
+多波段遥感	yyx ngp eyss vwuc kfkn	0
+多道地震仪	yyx lcuc hei slc eici	0
+多道抗震防线	yyx lcuc frsj slc pif ofkg	0
+多硅白云母	yyx qhht db adm qm	0
+多核心论	yyx arh nx cubb	0
+多明各会	yyx jyv tkv uadm	0
+多瑙河两岸	yyx yfoc nckv fquu jvag	0
+多瑙河三角洲	yyx yfoc nckv ys oai nifc	0
+二次余震	ae ahq ufam slc	0
+二轴晶	ae gui jjjr	0
+二祖山	ae ceq js	0
+发电机学说	jdid hd asj iolz clke	0
+伐腊毗国	ekg ydjr sbbb byid	0
+发展地理学	jdid tdlv hei yel iolz	0
+发震断层	jdid slc ttlj tadm	0
+发震概率	jdid slc avde rjar	0
+发震构造	jdid slc aidm pkuc	0
+发震构造体系	jdid slc aidm pkuc eafi wus	0
+发震区	jdid slc tci	0
+发震时刻	jdid slc jhc rod	0
+泛北极	nwkz obb arid	7
+钒钡铜矿	vsid vfb vqfk qug	0
+反差调整	hdi mng cihk aktn	3
+泛大洋	nwkz md nmi	0
+钒钙铀矿	vsid vcft vui qug	2
+反聚集力	hdi ldea oam sl	0
+钒矿	vsid qug	1
+反馈环	hdi ukof ynb	10
+凡兰吟	sid lae kuio	0
+反扭	hdi fec	13
+反气旋式环流	hdi iq igon kng ynb nrde	0
+反射地震波法	hdi uhc hei slc ngp nhdm	0
+反射地震勘探	hdi uhc hei slc rtsl foma	0
+反射地震学	hdi uhc hei slc iolz	0
+反射地震仪	hdi uhc hei slc eici	0
+反射界面	hdi uhc surj km	2
+钒酸盐	vsid ldmt huxm	1
+钒铜矿	vsid vqfk qug	0
+反象	hdi okks	1
+梵衍那国	aasi wnoc oapf byid	0
+钒云母	vsid adm qm	0
+犯罪地理	qej xff hei yel	5
+方辉橄榄岩	if ioog aolt algd jqs	0
+方济各会	if nerj tkv uadm	7
+方解石化	if oajp qs ebb	0
+放射带	itp uhc dorj	0
+放射性测量	itp uhc bps nfod jfel	2
+放射性示踪法	itp uhc bps cs xics nhdm	0
+方位地震仪	if ewl hei slc eici	0
+方柱石	if aiyw qs	1
+飞白岩	oae db jqs	0
+非地带性	ff hei dorj bps	1
+非地带性土壤	ff hei dorj bps ht hdds	0
+非发震断裂	ff jdid slc ttlj fyos	0
+非构造性裂缝	ff aidm pkuc bps fyos otqu	0
+非基础行业	ff rht qjjk woc vi	0
+非金属矿床	ff tj twko qug uam	0
+非可再生资源	ff ckv fqht ps ahfb nvdi	2
+非连续性变形	ff guc orom bps ydi fdws	0
+非生源景观	ff ps nvdi jdix ddj	0
+非斯老城	ff rlj hbb hkoi	0
+非弹性形变	ff jljr bps fdws ydi	3
+分布区间断	mjd xrj tci rjr ttlj	0
+分布区型	mjd xrj tci fdoh	0
+分布区中心	mjd xrj tci kls nx	0
+分层设色表	mjd tadm css oob hsi	0
+分层设色法	mjd tadm css oob nhdm	1
+分汊率	mjd ndid rjar	0
+分岔系数	mjd mjjs wus twtp	0
+分解生物	mjd oajp ps piws	1
+芬兰堡	dmjd lae ekah	0
+分裂说	mjd fyos clke	0
+分配结构模型	mjd lwj ohkv aidm adjm fdoh	0
+分散城市	mjd dytp hkoi rrj	0
+粉砂土	tmjd qiwp ht	0
+粉砂质	tmjd qiwp hrfb	0
+分数比例尺	mjd twtp bbb efyo tid	0
+汾渭地震带	nmjd nsyv hei slc dorj	0
+分乡组	mjd owp oeq	0
+风暴大浪	sci jdmn md niig	0
+风暴微震	sci jdmn wfsj slc	0
+风成沉积	sci koi nosj gkmb	1
+峰峰振幅	jtqf jtqf flc rfks	0
+风格主义建筑	sci atkv iyw ici vagi gnsi	0
+峰谷振幅	jtqf mukv flc rfks	0
+缝合带	otqu sh dorj	0
+风化壳	sci ebb hosj	8
+风积物	sci gkmb piws	1
+风棱石	sci ahmt qs	0
+风蚀脊	sci uic aauy	1
+风蚀坑	sci uic hrsj	1
+风蚀土脊	sci uic ht aauy	0
+风蚀洼地	sci uic nhht hei	2
+风蚀柱	sci uic aiyw	0
+丰特努瓦	qf phhc wdsl nw	1
+蜂窝状风化	itqf bkqu oqq sci ebb	0
+蜂窝状沙丘	itqf bkqu oqq niwp lfi	0
+风向频度图	sci ox nivf udfd btae	0
+丰芽	qf dxi	0
+峰值小区划	jtqf ereq ix tci kod	0
+富冰冻土	ifks ans agix ht	0
+俯冲板块	eueh akls ahdi heur	3
+俯冲带	eueh akls dorj	63
+俯冲断层	eueh akls ttlj tadm	0
+负地貌	ofb hei pdee	0
+浮雕影象地图	nvlz ihko jdiw okks hei btae	0
+复合土地利用	gjtp sh ht hei god ai	0
+福利地理	cfks god hei yel	0
+扶南国	fmf rqlr byid	1
+氟年代测定法	ijrj gak eki nfod ifnz nhdm	0
+负偏态	ofb eqpc minx	0
+腐生动物	uehu ps adsl piws	0
+福生天	cfks ps fmd	0
+腐生植物	uehu ps areq piws	9
+浮坞	nvlz hxw	0
+涪县	nwkv edm	7
+富营养沼泽	ifks dokk lmrj njkv ndak	0
+负震级	ofb slc orid	0
+盖层	mxm tadm	6
+概率抗震设计	avde rjar frsj slc css crs	0
+干谷	ag mukv	6
+感观环境	kfkn ddj ynb hwje	0
+干涸湖	ag nbog noyv	0
+干盐湖	ag huxm noyv	0
+感应地理学	kfkn uix hei yel iolz	2
+感应地震	kfkn uix hei slc	0
+干燥作用	ag mkka egub ai	1
+刚性板块	qcod bps ahdi heur	1
+高草草原	dg djz djz vdix	0
+高山矮曲林	dg js mgwn vq aam	0
+高山草场轮牧	dg js djz hows gubb ptp	0
+高山冻土	dg js agix ht	0
+高山季节移牧	dg js glz dej gyyx ptp	0
+高山土壤	dg js ht hdds	0
+高位沼泽	dg ewl njkv ndak	0
+高原冰川	dg vdix ans fc	2
+高原沼泽	dg vdix njkv ndak	0
+隔火路	pfkl mh xtkv	0
+隔坨区	pfkl hibb tci	0
+格网数据库	atkv qcci twtp ftog ugc	0
+格网座标	atkv qcci uuuh acs	0
+格状水系	atkv oqq ns wus	0
+给水度	osh ns udfd	0
+更新统	fjci walj orde	1
+工厂化农业	ng vc ebb osi vi	5
+工程地震	ng gkyw hei slc	0
+工程地震学	ng gkyw hei slc iolz	0
+工程地质单元	ng gkyw hei hrfb ljrs fow	0
+工程地质环境	ng gkyw hei hrfb ynb hwje	0
+工程地质力学	ng gkyw hei hrfb sl iolz	0
+工程地质评价	ng gkyw hei hrfb calb eurj	0
+工程地质试验	ng gkyw hei hrfb ckng bufi	0
+工程地质条件	ng gkyw hei hrfb tam epn	2
+工程地质图	ng gkyw hei hrfb btae	0
+工程地质问题	ng gkyw hei hrfb rkv jfnf	1
+工程地质学	ng gkyw hei hrfb iolz	2
+工程地质钻探	ng gkyw hei hrfb vukv foma	0
+工程点	ng gkyw ukmb	0
+工程动力地质学	ng gkyw adsl sl hei hrfb iolz	0
+工程范围	ng gkyw dnej baoi	4
+工程活动	ng gkyw nbs adsl	0
+工程勘察设计	ng gkyw rtsl iycs css crs	6
+工程手段	ng gkyw ks eyss	0
+工程岩土学	ng gkyw jqs ht iolz	0
+工程震害预测	ng gkyw slc iqkv lvfb nfod	0
+共轭断层	dmb gvej ttlj tadm	0
+共轭节理	dmb gvej dej yel	0
+汞铅矿	nns vskv qug	0
+弓形山组	jg fdws js oeq	0
+工业地理学	ng vi hei yel iolz	1
+工业地域类型	ng vi hei hkkf tmd fdoh	1
+工业分散	ng vi mjd dytp	2
+工业扩散	ng vi fug dytp	0
+工业区景观	ng vi tci jdix ddj	0
+工业区位政策	ng vi tci ewl fntp gaqj	0
+工业综合体	ng vi oics sh eafi	1
+构造背景	aidm pkuc obyv jdix	3
+构造层	aidm pkuc tadm	0
+构造层位	aidm pkuc tadm ewl	0
+构造差异运动	aidm pkuc mng odn aduc adsl	0
+构造沉降	aidm pkuc nosj ptak	2
+构造沉陷	aidm pkuc nosj poij	0
+构造尺度	aidm pkuc tid udfd	0
+构造窗	aidm pkuc botp	0
+构造带	aidm pkuc dorj	4
+构造单元	aidm pkuc ljrs fow	3
+构造地磁	aidm pkuc hei qljj	0
+构造地磁效应	aidm pkuc hei qljj rmct uix	0
+构造地磁学	aidm pkuc hei qljj iolz	0
+构造地貌	aidm pkuc hei pdee	1
+构造地貌学	aidm pkuc hei pdee iolz	0
+构造地形	aidm pkuc hei fdws	0
+构造反对称	aidm pkuc hdi dhc goix	0
+构造复合	aidm pkuc gjtp sh	0
+构造高原	aidm pkuc dg vdix	0
+构造格架	aidm pkuc atkv skam	0
+构造湖	aidm pkuc noyv	6
+构造活动性	aidm pkuc nbs adsl bps	0
+构造阶地	aidm pkuc purj hei	0
+构造节理	aidm pkuc dej yel	0
+构造类比	aidm pkuc tmd bbb	0
+构造幕	aidm pkuc djmr	0
+构造盆地	aidm pkuc mjxm hei	0
+构造平原	aidm pkuc alb vdix	0
+构造圈	aidm pkuc blme	0
+构造体系	aidm pkuc eafi wus	4
+构造透镜体	aidm pkuc gruc vwje eafi	0
+构造洼地	aidm pkuc nhht hei	0
+构造网络	aidm pkuc qcci otkv	0
+构造物理学	aidm pkuc piws yel iolz	0
+构造性断裂	aidm pkuc bps ttlj fyos	0
+构造形迹	aidm pkuc fdws yuc	0
+构造旋回	aidm pkuc igon bkv	1
+构造应力	aidm pkuc uix sl	2
+构造应力场	aidm pkuc uix sl hows	0
+古地磁极	og hei qljj arid	5
+古地磁学	og hei qljj iolz	2
+古地理学	og hei yel iolz	0
+古地震	og hei slc	6
+固定论	bog ifnz cubb	0
+固定沙丘	bog ifnz niwp lfi	1
+孤峰组	lvg jtqf oeq	0
+鼓丘	vrdi lfi	6
+古生代花岗岩	og ps eki debb jqci jqs	0
+古水文学	og ns ew iolz	1
+顾特卜塔	vevf phhc ub hdsh	0
+固体潮振荡	bog eafi nrjy flc dnow	0
+固体地球	bog eafi hei yfni	9
+固体地球潮汐	bog eafi hei yfni nrjy nyx	1
+固体地球化学	bog eafi hei yfni ebb iolz	0
+固体热力学	bog eafi ffim sl iolz	0
+古土壤	og ht hdds	6
+古纬度	og oaoi udfd	0
+古应力场	og uix sl hows	1
+观测地震学	ddj nfod hei slc iolz	0
+灌丛休耕法	ndko uufi eam qmar nhdm	0
+灌溉体系	ndko nvde eafi wus	3
+惯性地震仪	bqrf bps hei slc eici	0
+惯性应变仪	bqrf bps uix ydi eici	0
+光电地震计	iow hd hei slc crs	0
+光化学氧化剂	iow ebb iolz imi ebb erod	0
+光弹性实验	iow jljr bps iamd bufi	0
+光学图像处理	iow iolz btae eokk tub yel	2
+硅孔雀石	qhht lti ioc qs	1
+硅铝层	qhht vkkv tadm	0
+硅铝矿物	qhht vkkv qug piws	2
+硅铝镁层	qhht vkkv vmmd tadm	0
+硅镁层	qhht vmmd tadm	0
+硅镁石	qhht vmmd qs	0
+硅硼钙石	qhht qyyv vcft qs	2
+硅铍石化	qhht vgp qs ebb	0
+硅锌矿	qhht vjx qug	0
+硅质灰岩	qhht hrfb xmh jqs	0
+贵族墓葬	kofb igms djmh dfyd	26
+滚动背斜构造	nrms adsl obyv ufar aidm pkuc	0
+过渡型地壳	huc nudd fdoh hei hosj	0
+国际和平公园	byid pcs gkv alb mdm bfow	1
+国际重力公式	byid pcs jel sl mdm kng	0
+国家地图集	byid iks hei btae oam	0
+国土整治	byid ht aktn ndkv	2
+国土资源卫星	byid ht ahfb nvdi efi jps	0
+海岸地貌	ngqm jvag hei pdee	3
+海岸地貌学	ngqm jvag hei pdee iolz	0
+海岸阶地	ngqm jvag purj hei	0
+海滨沼泽	ngqm nilm njkv ndak	1
+海底地震计	ngqm ujgi hei slc crs	0
+海底地震勘探	ngqm ujgi hei slc rtsl foma	0
+海底地震仪	ngqm ujgi hei slc eici	0
+海底扩张假说	ngqm ujgi fug jkc etad clke	0
+海门口	ngqm rm kv	0
+海面升降运动	ngqm km wdn ptak aduc adsl	0
+氦年代测定法	irh gak eki nfod ifnz nhdm	0
+海上油气田	ngqm os nui iq st	2
+海蚀龛	ngqm uic sqwp	0
+海蚀平台	ngqm uic alb dkv	1
+海蚀台	ngqm uic dkv	0
+海蚀隙	ngqm uic piji	0
+海蚀崖	ngqm uic jvhh	1
+海蚀柱	ngqm uic aiyw	6
+海蚀作用	ngqm uic egub ai	2
+海相	ngqm asm	8
+海啸地震	ngqm kvrm hei slc	4
+海洋板块	ngqm nmi ahdi heur	2
+海洋测深	ngqm nmi nfod noma	0
+海洋磁力仪	ngqm nmi qljj sl eici	0
+海洋地壳	ngqm nmi hei hosj	10
+海洋地球化学	ngqm nmi hei yfni ebb iolz	0
+海洋地震仪	ngqm nmi hei slc eici	0
+海洋环流	ngqm nmi ynb nrde	7
+海洋性冰川	ngqm nmi bps ans fc	14
+海洋震源	ngqm nmi slc nvdi	0
+海洋震中	ngqm nmi slc kls	0
+海洋重力勘探	ngqm nmi jel sl rtsl foma	0
+含冰量	uiok ans jfel	2
+旱成土	jag koi ht	0
+寒冻风化	idma agix sci ebb	0
+含砾砂岩	uiok qjix qiwp jqs	0
+含煤岩系	uiok mdaa jqs wus	0
+汉撒同盟城	ndi fdyt qfkv jyxm hkoi	0
+汉萨同盟城市	ndi dpww qfkv jyxm hkoi rrj	0
+含砂	uiok qiwp	1
+寒温带气候	idma njxm dorj iq elem	2
+旱峡	jag jmlb	0
+含油地层	uiok nui hei tadm	1
+含油面积	uiok nui km gkmb	0
+航磁测量	orsj qljj nfod jfel	0
+航空磁力仪	orsj bng qljj sl eici	0
+航空地球化学	orsj bng hei yfni ebb iolz	0
+航空照片判读	orsj bng jjkm tp laod crom	0
+航空重力学	orsj bng jel sl iolz	0
+航空重力仪	orsj bng jel sl eici	0
+耗散波	qmgm dytp ngp	0
+耗碳量	qmgm qjxm jfel	1
+合成波	sh koi ngp	13
+合成地面位移	sh koi hei km ewl gyyx	0
+合成地图	sh koi hei btae	0
+合成地震记录	sh koi hei slc cwj vns	0
+合成地震剖面	sh koi hei slc wkod km	0
+河床变形	nckv uam ydi fdws	0
+河道等级	nckv lcuc ghhc orid	0
+河道坡降	nckv lcuc hgp ptak	1
+河口湾	nckv kv nyjg	0
+河流错位	nckv nrde vdjr ewl	0
+河流阶地	nckv nrde purj hei	7
+河流偏移	nckv nrde eqpc gyyx	0
+河流数目定律	nckv nrde twtp sm ifnz wvak	0
+河流袭夺	nckv nrde qwrs mhc	4
+河流学	nckv nrde iolz	0
+河网密度	nckv qcci inwj udfd	0
+核心边缘论	arh nx suc oqks cubb	0
+核震相	arh slc asm	0
+核子磁力仪	arh lz qljj sl eici	0
+黑碱土	xh qkfk ht	0
+黑子数	xh lz twtp	0
+黑子周	xh lz ihkv	0
+亨比	dll bbb	0
+亨伯斯通	dll edb rlj dauc	0
+亨德森岛	dll wrxn aaam xjs	1
+横坑开采法	adum hrsj fdn vam nhdm	0
+横式海岸	adum kng ngqm jvag	0
+横向倾斜仪	adum ox ebvf ufar eici	0
+横向沙丘	adum ox niwp lfi	0
+宏观地震观测	ixdm ddj hei slc ddj nfod	0
+宏观地震考察	ixdm ddj hei slc hsk iycs	0
+宏观地震现象	ixdm ddj hei slc ydj okks	0
+宏观地震效应	ixdm ddj hei slc rmct uix	0
+宏观地震学	ixdm ddj hei slc iolz	0
+宏观地震震中	ixdm ddj hei slc slc kls	0
+宏观地震资料	ixdm ddj hei slc ahfb tars	0
+宏观前兆	ixdm ddj lyod eaae	0
+宏观现场	ixdm ddj ydj hows	0
+宏观液化	ixdm ddj nrei ebb	0
+宏观异常	ixdm ddj odn grj	1
+宏观震害	ixdm ddj slc iqkv	0
+宏观震中	ixdm ddj slc kls	0
+宏观震中烈度	ixdm ddj slc kls fyom udfd	0
+红花园组	ong debb bfow oeq	0
+洪患	ndmb kkln	0
+洪积层	ndmb gkmb tadm	0
+洪积扇	ndmb gkmb qkkx	9
+洪积物	ndmb gkmb piws	4
+红色石灰土	ong oob qs xmh ht	1
+红树林沼泽	ong adhc aam njkv ndak	0
+后坝组	hfkv hfb oeq	0
+厚层状	vjlz tadm oqq	1
+互层	fqj tadm	7
+护根	fqh aig	2
+胡家崾峡	oyv iks jlwn jmlb	0
+护林区	fqh aam tci	0
+湖流	noyv nrde	0
+胡马纳草原	oyv bm oqur djz vdix	0
+湖泊沉积	noyv ndb nosj gkmb	5
+湖泊水文学	noyv ndb ns ew iolz	0
+湖泊蓄水量	noyv ndb drjs ns jfel	0
+湖水环流	noyv ns ynb nrde	0
+护土墙	fqh ht hrlk	0
+湖相	noyv asm	8
+湖沼学	noyv njkv iolz	0
+湖震	noyv slc	0
+华北地块	ebrs obb hei heur	0
+花岗岩年代学	debb jqci jqs gak eki iolz	0
+花卉山谷	debb rdn js mukv	0
+华莱士线	ebrs dftm hs ofkg	3
+华沙历史中心	ebrs niwp vsl kci kls nx	0
+华氏城	ebrs jgq hkoi	2
+华氏温度表	ebrs jgq njxm udfd hsi	0
+化石遗址	ebb qs kofu hnz	0
+滑塌	nhg hjkk	1
+化探	ebb foma	2
+化学剥蚀	ebb iolz vnod uic	0
+化学地理学	ebb iolz hei yel iolz	1
+化学风化	ebb iolz sci ebb	11
+化学风化作用	ebb iolz sci ebb egub ai	1
+化学迁移	ebb iolz juc gyyx	0
+花园和城堡	debb bfow gkv hkoi ekah	0
+缓波状层理	ovad ngp oqq tadm yel	0
+缓洪	ovad ndmb	0
+环极西风	ynb arid lx sci	0
+环境地球化学	ynb hwje hei yfni ebb iolz	2
+环境地质学	ynb hwje hei hrfb iolz	0
+环境区划	ynb hwje tci kod	0
+环境卫星系列	ynb hwje efi jps wus fyod	0
+环境限制	ynb hwje pig pqod	0
+环境演化	ynb hwje nifm ebb	5
+环境异常	ynb hwje odn grj	0
+环境灾害	ynb hwje imh iqkv	4
+环境质量参数	ynb hwje hrfb jfel dmws twtp	0
+环境质量指数	ynb hwje hrfb jfel fbjr twtp	1
+环太平洋带	ynb mid alb nmi dorj	0
+环型环流	ynb fdoh ynb nrde	0
+环状珊瑚岛	ynb oqq yiif yoyv xjs	1
+荒地区	duee hei tci	0
+荒漠气候	duee ndjm iq elem	2
+荒漠土壤	duee ndjm ht hdds	0
+黄土地貌	dumb ht hei pdee	2
+黄土峁	dumb ht jjm	0
+会安古镇	uadm iwn og vrem	4
+回春作用	bkv mjr egub ai	0
+汇点区	ntf ukmb tci	0
+灰化红黄壤	xmh ebb ong dumb hdds	0
+灰化棕色土	xmh ebb aics oob ht	0
+灰漠土	xmh ndjm ht	0
+灰壤	xmh hdds	0
+绘图程序库	ouad btae gkyw ulv ugc	0
+灰岩深沟	xmh jqs noma nidm	0
+灰质云岩	xmh hrfb adm jqs	0
+混成物	njbb koi piws	0
+活动地震带	nbs adsl hei slc dorj	0
+活动断层	nbs adsl ttlj tadm	7
+活动断裂填图	nbs adsl ttlj fyos hrem btae	0
+活动构造	nbs adsl aidm pkuc	2
+活动构造带	nbs adsl aidm pkuc dorj	0
+活动论	nbs adsl cubb	0
+霍尔托巴吉	soc oix fwgq ob hkv	0
+霍贾	soc lfb	0
+霍拉圣巴拉巴	soc fwl dht ob fwl ob	0
+霍拉肖维采	soc fwl iyv ooc vam	0
+霍雷祖修道院	soc sst ceq eltw lcuc pifo	0
+货流地理	ebfb nrde hei yel	0
+霍洛克	soc ntkv oee	1
+火山崩流	mh js jyyv nrde	0
+火山带	mh js dorj	1
+火山弹	mh js jljr	2
+火山地质学	mh js hei hrfb iolz	0
+火山海震	mh js ngqm slc	0
+火山机构	mh js asj aidm	1
+火山雷雨	mh js sst sv	0
+火山砾	mh js qjix	0
+火山烈度	mh js fyom udfd	0
+火山脉动	mh js yins adsl	0
+火山泥石流	mh js ntbb qs nrde	1
+火山喷发类型	mh js krdf jdid tmd fdoh	1
+火山喷发前兆	mh js krdf jdid lyod eaae	0
+火山穹丘	mh js bjg lfi	0
+火山碎屑岩	mh js qrur tiyv jqs	2
+火山筒	mh js gqfk	0
+火山陷落区	mh js poij dntk tci	0
+火山学	mh js iolz	0
+火山预报	mh js lvfb fedi	0
+火山作用	mh js egub ai	9
+基本烈度	rht afi fyom udfd	3
+罽宾	xvmo ilfm	16
+基部掏蚀	rht wkpf fiwf uic	0
+基础地震学	rht qjjk hei slc iolz	0
+基础隔震	rht qjjk pfkl slc	0
+基底断裂	rht ujgi ttlj fyos	0
+极地气候	arid hei iq elem	1
+极地气团	arid hei iq bewp	0
+基多古城	rht yyx og hkoi	0
+激发地震	ndit jdid hei slc	0
+季风雨林	glz sci sv aam	0
+激光遥感	ndit iow vwuc kfkn	0
+几何等级	sj eckv ghhc orid	0
+几何地震学	sj eckv hei slc iolz	0
+极化过程	arid ebb huc gkyw	3
+季节冻土	glz dej agix ht	0
+季节性河流	glz dej bps nckv nrde	7
+季节性湖泊	glz dej bps noyv ndb	3
+激进地理学	ndit aruc hei yel iolz	0
+寂静地震	ioid hyoo hei slc	0
+集块岩	oam heur jqs	0
+积累区	gkmb sus tci	2
+基罗拉塔湾	rht xyx fwl hdsh nyjg	0
+吉诺卡斯特城	hkv cdxk oub rlj phhc hkoi	0
+基色圣地	rht oob dht hei	0
+寄生火山锥	imck ps mh js voc	0
+技术地理学	frdi aid hei yel iolz	0
+技术密集工业	frdi aid inwj oam ng vi	0
+集水盆地	oam ns mjxm hei	0
+计算地震学	crs gsdn hei slc iolz	0
+极微震	arid wfsj slc	0
+极限地震	arid pig hei slc	0
+基线水准	rht ofkg ns aoc	0
+机械地震源	asj akdn hei slc nvdi	0
+机械地震仪	asj akdn hei slc eici	0
+机械风化作用	asj akdn sci ebb egub ai	0
+机械迁移	asj akdn juc gyyx	0
+基性熔岩	rht bps mbuk jqs	0
+积雪水文学	gkmb svj ns ew iolz	0
+挤压构造带	ferj vhid aidm pkuc dorj	0
+基岩层	rht jqs tadm	13
+基岩反应谱	rht jqs hdi uix clvj	0
+基岩扇	rht jqs qkkx	0
+纪伊山脉	owj evwp js yins	0
+济阴	nerj pyv	17
+集约农业	oam oiid osi vi	1
+基准标志	rht aoc acs hnx	0
+基准海平面	rht aoc ngqm alb km	0
+基准面速度	rht aoc km akuc udfd	0
+基准水准测量	rht aoc ns aoc nfod jfel	0
+基座阶地	rht uuuh purj hei	0
+加积	skv gkmb	4
+加积作用	skv gkmb egub ai	0
+假喀斯特	etad kitk rlj phhc	0
+嘉陵江组	vskv phmt nng oeq	0
+假整合	etad aktn sh	0
+建设地理学	vagi css hei yel iolz	0
+尖形坝	imd fdws hfb	0
+尖形滩	imd fdws ndoc	0
+兼营农业	lvlm dokk osi vi	0
+交错层理	rmci vdjr tadm yel	1
+角峰	oai jtqf	12
+郊区农业	rmcp tci osi vi	1
+阶地	purj hei	25
+阶地沼泽	purj hei njkv ndak	0
+结构面	ohkv aidm km	0
+结壳作用	ohkv hosj egub ai	0
+近场地面运动	luc hows hei km aduc adsl	0
+近场地震运动	luc hows hei slc aduc adsl	0
+近代地壳运动	luc eki hei hosj aduc adsl	0
+金德代克	tj wrxn eki oee	0
+近期火山	luc ryv mh js	0
+近源地震学	luc nvdi hei slc iolz	0
+进展因素	aruc tdlv bmd hus	5
+近震震级	luc slc slc orid	0
+近震走时表	luc slc hz jhc hsi	0
+晶胞	jjjr yios	107
+静不定问题	hyoo nb ifnz rkv jfnf	0
+井段	arj eyss	1
+景观地球化学	jdix ddj hei yfni ebb iolz	0
+景观圈	jdix ddj blme	1
+景观损害	jdix ddj fkfb iqkv	0
+经济地理条件	odng nerj hei yel tam epn	2
+经济发展战略	odng nerj jdid tdlv ukkg stkv	9
+静力触探	hyoo sl oaic foma	0
+径流变率	wdng nrde ydi rjar	0
+径流模数	wdng nrde adjm twtp	0
+净太阳辐射	aovo mid pjr gfks uhc	0
+静态震害预测	hyoo minx slc iqkv lvfb nfod	0
+经纬网格	odng oaoi qcci atkv	0
+井下测震	arj cx nfod slc	0
+井下地震仪	arj cx hei slc eici	0
+经线跨度	odng ofkg xmfs udfd	0
+经向构造体系	odng ox aidm pkuc eafi wus	0
+鲸鱼保护区	tdix tv ekam fqh tci	0
+鲸鱼峡谷	tdix tv jmlb mukv	0
+酒东	nli gix	0
+久能山	oid dybb js	0
+旧热带界	ljr ffim dorj surj	0
+酒西	nli lx	0
+酒庄文化景观	nli uht ew ebb jdix ddj	0
+居昌	tog jjr	0
+锯齿状断裂	vtog nujk oqq ttlj fyos	0
+巨大都会带	tek md hjpf uadm dorj	0
+聚合板块	ldea sh ahdi heur	0
+巨厚层	tek vjlz tadm	0
+巨厚层状	tek vjlz tadm oqq	1
+具滑面	emb nhg km	0
+聚类抽样	ldea tmd fui ami	1
+距离衰减原则	xtek ejqd dfsi akfk vdix fod	0
+具裂隙	emb fyos piji	0
+聚落地理学	ldea dntk hei yel iolz	1
+聚落类型	ldea dntk tmd fdoh	0
+拘尸那揭罗	fikv ts oapf fjit xyx	0
+剧县	tood edm	0
+句章	ikv wjz	10
+剧震	tood slc	9
+矩震级	mtek slc orid	1
+眷属地狱	lmsm twko hei qcqq	0
+绝对烈度	ooob dhc fyom udfd	0
+绝对年龄测定	ooob dhc gak nujd nfod ifnz	0
+绝对重力异常	ooob dhc jel sl odn grj	0
+绝对重力值	ooob dhc jel sl ereq	0
+均变说	hiae ydi clke	0
+均衡说	hiae wtuo clke	0
+均匀磁化轴	hiae iae qljj ebb gui	0
+均匀应力场	hiae iae uix sl hows	0
+喀斯特地貌学	kitk rlj phhc hei pdee iolz	0
+喀斯特化	kitk rlj phhc ebb	0
+喀斯特平原	kitk rlj phhc alb vdix	1
+开拉沙山	fdn fwl niwp js	0
+凯鲁万	jwsj tjr fib	1
+勘察加火	rtsl iycs skv mh	0
+勘察期水位	rtsl iycs ryv ns ewl	0
+坎潘	hhq nwts	0
+勘探地球化学	rtsl foma hei yfni ebb iolz	0
+勘探地震学	rtsl foma hei slc iolz	1
+勘探地震仪	rtsl foma hei slc eici	0
+抗剪断强度	frsj lyoj ttlj jkic udfd	0
+抗蚀岩石	frsj uic jqs qs	0
+抗弯曲强度	frsj yjg vq jkic udfd	2
+抗震加固措施	frsj slc skv bog fdjr igei	0
+抗震能力	frsj slc dybb sl	14
+抗震设防区划	frsj slc css pif tci kod	0
+抗震性能鉴定	frsj slc bps dybb lgtj ifnz	0
+颗粒灰岩	javf twl xmh jqs	0
+客流地理	itkv nrde hei yel	0
+刻面联合体	rod km llmd sh eafi	0
+刻蚀地貌	rod uic hei pdee	0
+可视性分析	ckv cdj bps mjd alj	0
+刻图	rod btae	1
+垦殖指数	iht fyre fbjr twtp	0
+孔多阿岩画	lti yyx pckv jqs fsjk	0
+孔戈尼亚斯	lti kg tbb fvi rlj	0
+空间差距	bng rjr mng xtek	0
+空间分析函数	bng rjr mjd alj onjk twtp	0
+空间数据编码	bng rjr twtp ftog oqpc qbm	0
+空间数据仓库	bng rjr twtp ftog uej ugc	0
+空间数据模型	bng rjr twtp ftog adjm fdoh	0
+空间数据内插	bng rjr twtp ftog qur fjij	0
+空间数据融合	bng rjr twtp ftog fkqi sh	1
+空间数据压缩	bng rjr twtp ftog vhid oiej	0
+空间信息格网	bng rjr eri cnx atkv qcci	0
+空间制图	bng rjr pqod btae	0
+空间主权	bng rjr iyw adi	0
+空无边处天	bng fqi suc tub fmd	1
+孔隙水	lti piji ns	1
+孔隙水压力	lti piji ns vhid sl	1
+孔隙压力	lti piji vhid sl	0
+孔下地震计	lti cx hei slc crs	0
+控震构造体系	fbng slc aidm pkuc eafi wus	0
+空中重力测量	bng kls jel sl nfod jfel	0
+块状崩落	heur oqq jyyv dntk	0
+矿业聚落	qug vi ldea dntk	0
+扩散中心	fug dytp kls nx	1
+扩展扩散	fug tdlv fug dytp	0
+劳动地域分工	dosl adsl hei hkkf mjd ng	0
+勒罗斯	psl xyx rlj	2
+雷达遥感	sst muc vwuc kfkn	0
+雷根斯堡旧城	sst aig rlj ekah ljr hkoi	0
+累积变形	sus gkmb ydi fdws	0
+累积频数曲线	sus gkmb nivf twtp vq ofkg	0
+累积应变	sus gkmb uix ydi	0
+累积应力	sus gkmb uix sl	1
+类喀斯特	tmd kitk rlj phhc	0
+雷口坡组	sst kv hgp oeq	0
+冷圈	auid blme	65
+冷圈学	auid blme iolz	0
+里昂历史遗址	el jjej vsl kci kofu hnz	0
+里奥阿比塞奥	el otmd pckv bbb idmh otmd	0
+离堆山	ejqd hoc js	0
+里加历史中心	el skv vsl kci kls nx	0
+里克特公式	el oee phhc mdm kng	0
+里拉修道院	el fwl eltw lcuc pifo	2
+理论地球化学	yel cubb hei yfni ebb iolz	0
+理论地震图	yel cubb hei slc btae	0
+理论地震学	yel cubb hei slc iolz	0
+理论振幅	yel cubb flc rfks	1
+离散板块边界	ejqd dytp ahdi heur suc surj	0
+历史地图集	vsl kci hei btae oam	31
+离石黄土	ejqd qs dumb ht	0
+历史气候	vsl kci iq elem	13
+历史人文地理	vsl kci ur ew hei yel	1
+历史自然地理	vsl kci cz yqmb hei yel	3
+里特维尔德	el phhc ooc oix wrxn	7
+离心水系	ejqd nx ns wus	0
+粒雪	twl svj	27
+粒雪化作用	twl svj ebb egub ai	0
+粒雪盆	twl svj mjxm	7
+粒状崩解	twl oqq jyyv oajp	0
+离子色谱分析	ejqd lz oob clvj mjd alj	0
+连岛坝	guc xjs hfb	0
+连岛沙洲	guc xjs niwp nifc	2
+联合震源测定	llmd sh slc nvdi nfod ifnz	0
+连续倾角仪	guc orom ebvf oai eici	0
+亮晶	dsj jjjr	0
+良里塔格组	iig el hdsh atkv oeq	0
+梁山组	njma js oeq	0
+凉温带气候	adix njxm dorj iq elem	0
+两座老城	fquu uuuh hbb hkoi	1
+寮屋聚落	imli tuz ldea dntk	0
+裂点	fyos ukmb	15
+烈度分布	fyom udfd mjd xrj	0
+烈度评价	fyom udfd calb eurj	0
+烈度区划	fyom udfd tci kod	1
+烈度调整	fyom udfd cihk aktn	0
+烈度异常	fyom udfd odn grj	0
+捩断层	fqqq ttlj tadm	0
+裂缝喷发	fyos otqu krdf jdid	1
+裂谷系	fyos mukv wus	1
+裂隙式喷发	fyos piji kng krdf jdid	2
+裂隙水	fyos piji ns	0
+裂隙系	fyos piji wus	0
+裂陷盆地	fyos poij mjxm hei	0
+裂陷作用	fyos poij egub ai	0
+林地沼泽	aam hei njkv ndak	2
+临界震级	lgjr surj slc orid	0
+临泾	lgjr ndng	2
+临时地震台站	lgjr jhc hei slc dkv wukv	0
+临湘组	lgjr nasm oeq	0
+临震预测	lgjr slc lvfb nfod	0
+零点幕	suid ukmb djmr	0
+零级地震	suid orid hei slc	0
+零频地震学	suid nivf hei slc iolz	0
+菱铁质	dhmt vwmf hrfb	0
+零阳	suid pjr	0
+令支	uidi rdi	6
+流动地震台	nrde adsl hei slc dkv	1
+流动观测	nrde adsl ddj nfod	0
+流动形变测量	nrde adsl fdws ydi nfod jfel	0
+流动重力测量	nrde adsl jel sl nfod jfel	0
+流水地貌	nrde ns hei pdee	4
+流水地貌学	nrde ns hei pdee iolz	0
+流水过程	nrde ns huc gkyw	0
+流域分水线	nrde hkkf mjd ns ofkg	0
+流域形态	nrde hkkf fdws minx	0
+龙马溪组	qwp bm nvjm oeq	0
+陆背斜	pajk obyv ufar	0
+陆槽	pajk asjr	0
+陆地地貌	pajk hei hei pdee	0
+陆地震源	pajk hei slc nvdi	0
+陆间裂谷系	pajk rjr fyos mukv wus	0
+陆面蒸发	pajk km donm jdid	0
+陆棚边缘地震	pajk ayyv suc oqks hei slc	0
+陆向斜	pajk ox ufar	0
+绿带城市	ovns dorj hkoi rrj	0
+旅游客量	igsi nigl itkv jfel	0
+绿洲耕作	ovns nifc qmar egub	0
+脉冲地震法	yins akls hei slc nhdm	0
+脉动仪	yins adsl eici	0
+迈赫迈德	fiuc hrmm fiuc wrxn	0
+茅口组	dlwp kv oeq	0
+面波	km ngp	7
+面波法	km ngp nhdm	0
+面波频散	km ngp nivf dytp	0
+面波震级	km ngp slc orid	1
+面切波	km gjd ngp	0
+民族地理学	ogq igms hei yel iolz	0
+末次冰盛期	wm ahq ans koxm ryv	3
+漠盖层	ndjm mxm tadm	0
+墨卡托投影	xht oub fwgq fss jdiw	14
+模拟地震动	adjm ftiu hei slc adsl	0
+模拟地震学	adjm ftiu hei slc iolz	0
+沙漠漆	niwp ndjm naun	0
+木材生产基地	am aewp ps wwp rht hei	0
+穆鲁山	gdiw tjr js	0
+母质层	qm hrfb tadm	0
+拿贡巴东	sks nfb ob gix	0
+奈斯维市	mcs rlj ooc rrj	0
+南北地震带	rqlr obb hei slc dorj	0
+南磁极	rqlr qljj arid	6
+南津关组	rqlr nvak lmd oeq	0
+内部发展理论	qur wkpf jdid tdlv yel cubb	0
+内地核	qur hei arh	7
+内地幔	qur hei rjxd	0
+内盖夫	qur mxm mf	4
+内陆地震	qur pajk hei slc	0
+内营力	qur dokk sl	0
+能动断层	dybb adsl ttlj tadm	0
+能源地理学	dybb nvdi hei yel iolz	1
+逆冲断层	ljuc akls ttlj tadm	4
+溺谷	njaa mukv	0
+泥灰岩段	ntbb xmh jqs eyss	0
+拟建物	ftiu vagi piws	0
+泥晶	ntbb jjjr	0
+泥晶灰岩	ntbb jjjr xmh jqs	0
+泥流	ntbb nrde	9
+泥漠	ntbb ndjm	1
+泥盆系	ntbb mjxm wus	0
+逆向河	ljuc ox nckv	0
+泥岩	ntbb jqs	153
+逆掩断层	ljuc fmhd ttlj tadm	0
+泥质	ntbb hrfb	40
+泥质粉砂岩	ntbb hrfb tmjd qiwp jqs	1
+泥质砂岩	ntbb hrfb qiwp jqs	2
+粘滑地震	tukv nhg hei slc	0
+年轮气候学	gak gubb iq elem iolz	0
+粘土	tukv ht	438
+年温差	gak njxm mng	0
+年正常径流量	gak fnz grj wdng nrde jfel	0
+黏质壤土	gunk hrfb hdds ht	0
+粘质砂土	tukv hrfb qiwp ht	0
+黏重土	gunk jel ht	0
+凝灰火山渣锥	abmn xmh mh js najf voc	0
+凝结高度	abmn ohkv dg udfd	14
+扭摆地震计	fec fxhd hei slc crs	0
+扭称	fec goix	5
+扭性结构面	fec bps ohkv aidm km	0
+扭转地震仪	fec gati hei slc eici	0
+扭转振动仪	fec gati flc adsl eici	0
+农业村镇	osi vi ahc vrem	0
+农业地理学	osi vi hei yel iolz	3
+农业风景区	osi vi sci jdix tci	0
+农业区位论	osi vi tci ewl cubb	0
+努比亚遗址	wdsl bbb fvi kofu hnz	0
+欧亚地震带	tchq fvi hei slc dorj	0
+派生地图	nhsi ps hei btae	0
+抛物线形沙丘	ffsl piws ofkg fdws niwp lfi	0
+佩乔尔斯克院	esfr hrj oix rlj oee pifo	0
+喷水冒砂	krdf ns qasm qiwp	0
+蓬莱坝组	dtqu dftm hfb oeq	0
+蓬莱镇组	dtqu dftm vrem oeq	0
+彭纳没影	vws oqur nss jdiw	0
+碰撞带	qlvi fwel dorj	0
+劈理	tkjj yel	1
+劈裂试验	tkjj fyos ckng bufi	0
+片理	tp yel	0
+片蚀	tp uic	0
+片岩	tp jqs	15
+片状构造	tp oqq aidm pkuc	0
+贫营养沼泽	mjfb dokk lmrj njkv ndak	0
+平版印刷术	alb thdi jfej trod aid	0
+平顶海山	alb cvfb ngqm js	0
+平衡剖面	alb wtuo wkod km	0
+平衡生态系统	alb wtuo ps minx wus orde	1
+平行不整合	alb woc nb aktn sh	0
+平行层理	alb woc tadm yel	0
+平移断层	alb gyyx ttlj tadm	0
+平原沼泽	alb vdix njkv ndak	1
+破坏应力	qgp hnb uix sl	0
+破坏阈限地震	qgp hnb rkkf pig hei slc	0
+破裂带	qgp fyos dorj	0
+破裂面	qgp fyos km	0
+破裂网络	qgp fyos qcci otkv	0
+坡水堆积物	hgp ns hoc gkmb piws	0
+剖面图法	wkod km btae nhdm	0
+谱烈度	clvj fyom udfd	0
+普林塞萨	lvjr aam idmh dpww	1
+普林斯巴赫	lvjr aam rlj ob hrmm	0
+普罗万城	lvjr xyx fib hkoi	0
+普那草原	lvjr oapf djz vdix	0
+普通地理学	lvjr dauc hei yel iolz	0
+普通地图集	lvjr dauc hei btae oam	0
+普通地图学	lvjr dauc hei btae iolz	0
+普通地理图	lvjr dauc hei yel btae	0
+气候变动	iq elem ydi adsl	5
+气候地貌学	iq elem hei pdee iolz	0
+气候恶化	iq elem fvnx ebb	10
+气候改良	iq elem wtp iig	0
+气候可变性	iq elem ckv ydi bps	0
+起始震级	hwj wdkv slc orid	0
+起算震级	hwj gsdn slc orid	0
+气体废料	iq eafi ujdi tars	0
+气体色谱	iq eafi oob clvj	1
+栖霞组	alx stad oeq	0
+气旋路线	iq igon xtkv ofkg	0
+恰高	bsh dg	0
+浅部构造	nfkg wkpf aidm pkuc	0
+潜伏地震	nmmj eqq hei slc	0
+潜火山	nmmj mh js	1
+潜火山地震	nmmj mh js hei slc	0
+潜能模式	nmmj dybb adjm kng	0
+潜蚀	nmmj uic	1
+潜蚀作用	nmmj uic egub ai	0
+钱塘江阶	vfkg huvk nng purj	0
+迁徙耕作	juc wnnz qmar egub	0
+迁徙障碍	juc wnnz pwjz qjfh	0
+潜育土	nmmj rdyv ht	0
+潜在地震区	nmmj xlht hei slc tci	0
+潜在震源	nmmj xlht slc nvdi	0
+潜在震源区	nmmj xlht slc nvdi tci	0
+前震余震型	lyod slc ufam slc fdoh	0
+前震主震型	lyod slc iyw slc fdoh	0
+前正觉山	lyod fnz iodj js	0
+强地震学	jkic hei slc iolz	0
+强烈热带风暴	jkic fyom ffim dorj sci jdmn	0
+强震重复间隔	jkic slc jel gjtp rjr pfkl	0
+强震地震学	jkic slc hei slc iolz	0
+强震观测	jkic slc ddj nfod	0
+强震加速度图	jkic slc skv akuc udfd btae	0
+强震加速度仪	jkic slc skv akuc udfd eici	0
+强震仪	jkic slc eici	0
+亲气元素	wam iq fow hus	0
+侵蚀基准面	evod uic rht aoc km	4
+侵蚀阶地	evod uic purj hei	0
+侵蚀面	evod uic km	0
+侵蚀循环	evod uic whrs ynb	0
+亲石元素	wam qs fow hus	0
+亲铁元素	wam vwmf fow hus	1
+亲铜元素	wam vqfk fow hus	1
+倾滑断层	ebvf nhg ttlj tadm	0
+黥基	xdix rht	0
+倾斜场	ebvf ufar hows	0
+庆州历史区	umd ifc vsl kci tci	0
+琼戈尼	ydix kg tbb	0
+穹隆构造	bjg ptfp aidm pkuc	0
+穹丘	bjg lfi	2
+球对称地球	yfni dhc goix hei yfni	0
+球面应力	yfni km uix sl	0
+球状风化	yfni oqq sci ebb	1
+屈服应变	tjjk yedi uix ydi	0
+屈浪拏国	tjjk niig wdks byid	0
+曲流	vq nrde	8
+瞿毗霜那国	ssoc sbbb sasm oapf byid	0
+瞿师罗园	ssoc lfrj xyx bfow	0
+佉陀罗山	ehdm pibb xyx js	0
+区位三角形	tci ewl ys oai fdws	0
+区位商数	tci ewl rlqk twtp	0
+区位系数	tci ewl wus twtp	0
+区位型式	tci ewl fdoh kng	0
+区域地球化学	tci hkkf hei yfni ebb iolz	0
+区域地图集	tci hkkf hei btae oam	0
+区域地震台网	tci hkkf hei slc dkv qcci	0
+区域地质构造	tci hkkf hei hrfb aidm pkuc	1
+区域分异	tci hkkf mjd odn	1
+区域构造线	tci hkkf aidm pkuc ofkg	0
+区域历史地理	tci hkkf vsl kci hei yel	1
+区域应力场	tci hkkf uix sl hows	0
+区域重力场	tci hkkf jel sl hows	0
+全波理论	uyw ngp yel cubb	0
+全波震相分析	uyw ngp slc asm mjd alj	0
+全风化	uyw sci ebb	1
+泉华沉积	dns ebrs nosj gkmb	0
+全景描绘	uyw jdix fdst ouad	0
+全球重力异常	uyw yfni jel sl odn grj	0
+全息地震法	uyw cnx hei slc nhdm	0
+全息地震图	uyw cnx hei slc btae	0
+全新统	uyw walj orde	0
+却尔却克组	hdej oix hdej oee oeq	0
+群丛	vwkm uufi	0
+群发性地震	vwkm jdid bps hei slc	0
+群礁	vwkm qomb	19
+群克	vwkm oee	0
+群生植物	vwkm ps areq piws	0
+绕射波	ogwo uhc ngp	2
+热带大陆气候	ffim dorj md pajk iq elem	0
+热带锋	ffim dorj vtqf	0
+热带旱生森林	ffim dorj jag ps aaam aam	0
+热点地幔柱	ffim ukmb hei rjxd aiyw	0
+热点说	ffim ukmb clke	0
+热红外遥感	ffim ong yub vwuc kfkn	1
+热湖	ffim noyv	0
+热喀斯特	ffim kitk rlj phhc	0
+热喀斯特湖	ffim kitk rlj phhc noyv	0
+热流体	ffim nrde eafi	2
+热融作用	ffim fkqi egub ai	0
+热水平衡	ffim ns alb wtuo	0
+热异常	ffim odn grj	0
+热重力测量	ffim jel sl nfod jfel	0
+仁慈耶稣圣殿	eae ljjn lpf tgh dht tdms	0
+人工地貌	ur ng hei pdee	1
+人工水系	ur ng ns wus	5
+人工诱发地震	ur ng cgrn jdid hei slc	0
+人工震源	ur ng slc nvdi	4
+人口零增长	ur kv suid hljj kc	1
+人口信息系统	ur kv eri cnx wus orde	2
+人口总出生率	ur kv lknx jjk ps rjar	0
+人口总死亡率	ur kv lknx fybb uw rjar	0
+人类地理学	ur tmd hei yel iolz	0
+韧性断层	aoji bps ttlj tadm	0
+人种地理学	ur gkls hei yel iolz	1
+日光山	jr iow js	2
+日曼投影	jr jxdi fss jdiw	0
+日晒风化	jr jlx sci ebb	0
+日温差	jr njxm mng	12
+日月潮	jr yv nrjy	0
+溶斗	nbuk ars	0
+溶沟	nbuk nidm	5
+融化指数	fkqi ebb fbjr twtp	0
+溶滤水	nbuk ntnx ns	0
+溶滤作用	nbuk ntnx egub ai	0
+溶蚀谷	nbuk uic mukv	0
+溶蚀盆	nbuk uic mjxm	0
+融土	fkqi ht	4
+融雪径流	fkqi svj wdng nrde	0
+熔岩被	mbuk jqs sgp	0
+熔岩塔	mbuk jqs hdsh	4
+肉质植物	quur hrfb areq piws	3
+入渗	ir ndmw	53
+乳香之路	vlti gjr kz xtkv	0
+入字型构造	ir ilz fdoh aidm pkuc	0
+软地幔	ghq hei rjxd	0
+软砂岩沉积	ghq qiwp jqs nosj gkmb	0
+瑞利波相速度	yjke god ngp asm akuc udfd	0
+瑞利原理	yjke god vdix yel	0
+瑞替	yjke mmjr	2
+弱风化	jaja sci ebb	0
+萨瓦纳气候	dpww nw oqur iq elem	1
+三点校正法	ys ukmb armc fnz nhdm	0
+三叠系	ys ddde wus	0
+三分量强震仪	ys mjd jfel jkic slc eici	0
+三分向地震仪	ys mjd ox hei slc eici	0
+三工河	ys ng nckv	1
+三合地震台网	ys sh hei slc dkv qcci	0
+三维波速结构	ys ooc ngp akuc ohkv aidm	0
+三维地带性	ys ooc hei dorj bps	0
+三维地震模型	ys ooc hei slc adjm fdoh	0
+三维图程序	ys ooc btae gkyw ulv	0
+三位一体圣柱	ys ewl fi eafi dht aiyw	0
+三轴地震计	ys gui hei slc crs	0
+桑盖国家公园	ddda mxm byid iks mdm bfow	0
+桑吉兰	ddda hkv lae	0
+桑斯苏西宫	ddda rlj dsmb lx ikkv	0
+桑索斯	ddda rous rlj	0
+桑塔木组	ddda hdsh am oeq	0
+色究竟天	oob bfj wjee fmd	0
+色雷斯古墓	oob sst rlj og djmh	2
+色雷斯人墓	oob sst rlj ur djmh	0
+森林保护区	aaam aam ekam fqh tci	4
+森林气候	aaam aam iq elem	2
+森林上限	aaam aam os pig	0
+森林水文学	aaam aam ns ew iolz	0
+莎车国	dniw gc byid	2
+沙赫利苏伯兹	niwp hrmm god dsmb edb ljji	0
+沙垅	niwp hqwp	0
+沙漠城镇	niwp ndjm hkoi vrem	3
+沙漠历史地理	niwp ndjm vsl kci hei yel	0
+砂泥质	qiwp ntbb hrfb	0
+沙丘扩侵	niwp lfi fug evod	0
+砂土液化	qiwp ht nrei ebb	2
+沙溪庙组	niwp nvjm uui oeq	0
+沙羡	niwp mahq	0
+砂屑	qiwp tiyv	0
+砂屑灰岩	qiwp tiyv xmh jqs	0
+沙镇溪组	niwp vrem nvjm oeq	0
+砂质灰岩	qiwp hrfb xmh jqs	0
+砂质泥岩	qiwp hrfb ntbb jqs	0
+砂质黏壤土	qiwp hrfb gunk hdds ht	0
+山地沼泽	js hei njkv ndak	0
+山顶面	js cvfb km	0
+栅格数据结构	aiif atkv twtp ftog ohkv aidm	0
+山弧	js jvg	1
+山麓堆积	js aahl hoc gkmb	0
+山麓平原	js aahl alb vdix	0
+山麓侵蚀面	js aahl evod uic km	0
+山麓侵蚀平原	js aahl evod uic alb vdix	0
+山体效应	js eafi rmct uix	0
+剡县	mmod edm	2
+扇形论	qkkx fdws cubb	0
+扇形三角洲	qkkx fdws ys oai nifc	2
+山中小湖	js kls ix noyv	3
+上地幔计划	os hei rjxd crs kod	0
+商品性农业	rlqk kkkv bps osi vi	0
+上统	os orde	0
+商业地理学	rlqk vi hei yel iolz	0
+商业网布局	rlqk vi qcci xrj tokv	0
+设计标准谱	css crs acs aoc clvj	0
+社经地位	cht odng hei ewl	0
+射气测量	uhc iq nfod jfel	0
+射气系数	uhc iq wus twtp	0
+射气作用	uhc iq egub ai	0
+摄氏温度表	fldd jgq njxm udfd hsi	0
+深部构造	noma wkpf aidm pkuc	0
+申布伦	is xrj eubb	1
+深大断裂	noma md ttlj fyos	1
+深断裂	noma ttlj fyos	1
+深井地震仪	noma arj hei slc eici	0
+深切曲流	noma gjd vq nrde	0
+渗透场	ndmw gruc hows	0
+深源地震面	noma nvdi hei slc km	0
+伸展构造	eis tdlv aidm pkuc	0
+生产地理学	ps wwp hei yel iolz	0
+生活型谱	ps nbs fdoh clvj	0
+生命层	ps sej tadm	0
+生命线系统	ps sej ofkg wus orde	0
+声纳遥感	hts oqur vwuc kfkn	0
+生死比率	ps fybb bbb rjar	0
+生态变异	ps minx ydi odn	0
+生态地段	ps minx hei eyss	0
+生态地理学	ps minx hei yel iolz	1
+生态塔	ps minx hdsh	0
+声望价值	hts uyyw eurj ereq	0
+生物地理群落	ps piws hei yel vwkm dntk	0
+生物分布	ps piws mjd xrj	5
+生物分布学	ps piws mjd xrj iolz	1
+生物风化作用	ps piws sci ebb egub ai	1
+生物礁	ps piws qomb	0
+生物净化	ps piws aovo ebb	0
+生物迁移	ps piws juc gyyx	0
+生物异常观测	ps piws odn grj ddj nfod	0
+生物资源保护	ps piws ahfb nvdi ekam fqh	0
+生屑灰岩	ps tiyv xmh jqs	0
+剩余磁性	gobo ufam qljj bps	0
+生源景观	ps nvdi jdix ddj	0
+生长断层	ps kc ttlj tadm	0
+市场导向工业	rrj hows ohc ox ng vi	0
+时程分析法	jhc gkyw mjd alj nhdm	0
+视电阻率	cdj hd peq rjar	0
+湿害	njvi iqkv	0
+石盒子组	qs sxm lz oeq	0
+实际蒸散	iamd pcs donm dytp	1
+石见银山	qs dj vig js	5
+世界地图集	ls surj hei btae oam	2
+时空迁移	jhc bng juc gyyx	0
+时空数据库	jhc bng twtp ftog ugc	4
+石窟庵	qs btjj umhd	1
+石冷水组	qs auid ns oeq	0
+室利佛逝	iuz god ejrj fluc	17
+矢量数据结构	ms jfel twtp ftog ohkv aidm	0
+市民塔	rrj ogq hdsh	0
+石墓群	qs djmh vwkm	1
+施佩耶尔	igei esfr lpf oix	2
+史前地震	kci lyod hei slc	0
+视倾角	cdj ebvf oai	0
+市区复苏	rrj tci gjtp dsmb	0
+石燧石	qs mlku qs	0
+实验地震学	iamd bufi hei slc iolz	0
+实验地质学	iamd bufi hei hrfb iolz	0
+实用地震学	iamd ai hei slc iolz	0
+石油化工业	qs nui ebb ng vi	1
+石造城堡	qs pkuc hkoi ekah	0
+市镇景观	rrj vrem jdix ddj	0
+受控震源	vodi fbng slc nvdi	0
+收缩说	jtp oiej clke	0
+首震	lcz slc	0
+数量地理学	twtp jfel hei yel iolz	1
+数量底色法	twtp jfel ujgi oob nhdm	0
+树林底层植物	adhc aam ujgi tadm areq piws	0
+枢纽断层	atci oec ttlj tadm	0
+输沙能力	gufo niwp dybb sl	5
+舒善河组	ublv mlkv nckv oeq	0
+竖向地震荷载	ldwl ox hei slc deck rkgc	0
+数字地震图	twtp ilz hei slc btae	0
+数字图像处理	twtp ilz btae eokk tub yel	95
+数字图像镶嵌	twtp ilz btae eokk vdds jdah	0
+数字相关法	twtp ilz asm lmd nhdm	0
+衰落区	dfsi dntk tci	0
+双摆地震仪	ddi fxhd hei slc eici	0
+双城文化统一	ddi hkoi ew ebb orde fi	0
+双磁阻地震仪	ddi qljj peq hei slc eici	0
+水半球	ns lak yfni	0
+水成景观	ns koi jdix ddj	0
+水稻梯田	ns gvij aljw st	1
+水道网	ns lcuc qcci	0
+水氡异常	ns itae odn grj	0
+睡火山	sjdf mh js	0
+水库地震	ns ugc hei slc	0
+水利经济学	ns god odng nerj iolz	0
+水力致裂法	ns sl utp fyos nhdm	0
+水力作用	ns sl egub ai	0
+水量交换	ns jfel rmci foqm	1
+水平地带	ns alb hei dorj	0
+水平地震仪	ns alb hei slc eici	0
+水平断距	ns alb ttlj xtek	0
+水平降水	ns alb ptak ns	0
+水平运动	ns alb aduc adsl	0
+水迁移	ns juc gyyx	0
+水上景观	ns os jdix ddj	0
+水位地震波	ns ewl hei slc ngp	0
+水文地理学	ns ew hei yel iolz	1
+水文地球化学	ns ew hei yfni ebb iolz	0
+水文试验	ns ew ckng bufi	0
+水文物理学	ns ew piws yel iolz	0
+水下景观	ns cx jdix ddj	0
+顺层边坡	fvfb tadm suc hgp	0
+顺化古迹群	fvfb ebb og yuc vwkm	0
+顺扭	fvfb fec	0
+速度地震仪	akuc udfd hei slc eici	0
+速度反演	akuc udfd hdi nifm	0
+速度各向异性	akuc udfd tkv ox odn bps	0
+速度界面	akuc udfd surj km	0
+俗离山	emuk ejqd js	0
+酥性土	lgh bps ht	0
+溯源堆积	nljy nvdi hoc gkmb	0
+溯源侵蚀	nljy nvdi evod uic	11
+酸性腐殖	ldmt bps uehu fyre	0
+碎裂岩	qrur fyos jqs	0
+遂宁组	lkuc icd oeq	0
+碎屑沉积	qrur tiyv nosj gkmb	1
+碎屑型风化壳	qrur tiyv fdoh sci ebb hosj	0
+塌陷破火山口	hjkk poij qgp mh js kv	0
+苔草沼泽	ddkv djz njkv ndak	0
+苔原气候	ddkv vdix iq elem	4
+探槽	foma asjr	3
+滩地沼泽	ndoc hei njkv ndak	0
+滩脊	ndoc aauy	0
+滩脊型潮滩	ndoc aauy fdoh nrjy ndoc	0
+炭质	jxmh hrfb	4
+炭质泥岩	jxmh hrfb ntbb jqs	0
+汤殿山	nows tdms js	0
+掏蚀	fiwf uic	1
+体波震级	eafi ngp slc orid	0
+提水试验	fjfn ns ckng bufi	0
+提塘	fjfn huvk	12
+天启洞穴	fmd qkv nqfk bx	0
+天然磁矿	fmd yqmb qljj qug	0
+天然堤	fmd yqmb hjfn	1
+天然休止角	fmd yqmb eam nz oai	0
+天体磁场	fmd eafi qljj hows	2
+填筑土	hrem gnsi ht	0
+条植	tam areq	0
+铁拉登特罗	vwmf fwl dfkl phhc xyx	0
+铁质土	vwmf hrfb ht	0
+通艾	dauc dci	0
+统层	orde tadm	0
+同化带	qfkv ebb dorj	0
+统计地震学	orde crs hei slc iolz	0
+桐里山	aqfk el js	0
+通勤带	dauc pasl dorj	0
+同相波	qfkv asm ngp	0
+同心圆地带论	qfkv nx bkfb hei dorj cubb	0
+统一震级	orde fi slc orid	0
+同震区	qfkv slc tci	0
+同震线	qfkv slc ofkg	0
+透镜体	gruc vwje eafi	27
+透水层	gruc ns tadm	4
+透水岩	gruc ns jqs	0
+投子山	fss lz js	0
+凸岸坝	lflf jvag hfb	0
+图巴塔哈	btae ob hdsh ksh	0
+图表阐析	btae hsi rljr alj	0
+土地单元	ht hei ljrs fow	0
+土地电	ht hei hd	0
+土地功能	ht hei nsl dybb	0
+土地刻面	ht hei rod km	0
+土地利用制度	ht hei god ai pqod udfd	0
+土地能力	ht hei dybb sl	0
+土地特性	ht hei phhc bps	0
+土地限制性	ht hei pig pqod bps	0
+土氡	ht itae	0
+图幅尺寸	btae rfks tid hc	0
+图根哈特	btae aig ksh phhc	10
+图面自动注记	btae km cz adsl niyw cwj	0
+土壤发生	ht hdds jdid ps	3
+土壤复区	ht hdds gjtp tci	0
+土壤耗竭	ht hdds qmgm wjit	0
+土壤水分补充	ht hdds ns mjd sub rdee	0
+土壤水文学	ht hdds ns ew iolz	0
+土壤因素	ht hdds bmd hus	0
+土壤组合	ht hdds oeq sh	0
+土蠕	ht iske	0
+土体蠕动	ht eafi iske adsl	0
+图像重叠	btae eokk jel ddde	3
+图像复合	btae eokk gjtp sh	0
+图像几何测定	btae eokk sj eckv nfod ifnz	0
+图像模拟	btae eokk adjm ftiu	6
+图像数据磁带	btae eokk twtp ftog qljj dorj	0
+图像数字化	btae eokk twtp ilz ebb	1
+图像投影变换	btae eokk fss jdiw ydi foqm	0
+推覆体	foc lwgt eafi	1
+退水曲线	iuc ns vq ofkg	0
+托尔期	fwgq oix ryv	0
+托管地区	fwgq gite hei tci	0
+脱硅作用	ylke qhht egub ai	0
+托考伊	fwgq hsk evwp	0
+脱硫酸作用	ylke qrde ldmt egub ai	0
+陀螺地震计	pibb isus hei slc crs	0
+脱气作用	ylke iq egub ai	0
+外地核	yub hei arh	5
+外来名	yub ftm ykv	0
+外语惯用地名	yub cfak bqrf ai hei ykv	0
+挽近地壳运动	foke luc hei hosj aduc adsl	0
+完全布格改正	ifow uyw xrj atkv wtp fnz	0
+完全混合湖	ifow uyw njbb sh noyv	0
+完全液化	ifow uyw nrei ebb	0
+完钻	ifow vukv	1
+微地貌	wfsj hei pdee	0
+韦尔吉纳	aoi oix hkv oqur	0
+韦尔拉	aoi oix fwl	0
+伪方位投影	eisi if ewl fss jdiw	1
+微风化	wfsj sci ebb	0
+微观地震效应	wfsj ddj hei slc rmct uix	0
+微观液化	wfsj ddj nrei ebb	0
+微观震中	wfsj ddj slc kls	0
+微碱水生境	wfsj qkfk ns ps hwje	0
+微量金属	wfsj jfel tj twko	2
+魏玛和德绍	gwmg ybm gkv wrxn ojkv	0
+韦内雷港	aoi qur sst ndmo	0
+委任统治地	gwn enr orde ndkv hei	0
+卫生填土法	efi ps hrem ht nhdm	0
+微咸湖	wfsj kfkv noyv	0
+纬线跨度	oaoi ofkg xmfs udfd	0
+尾相	tgm asm	1
+纬向构造体系	oaoi ox aidm pkuc eafi wus	0
+维歇尔地震仪	ooc jiuh oix hei slc eici	0
+卫星市镇	efi jps rrj vrem	0
+卫星图像判读	efi jps btae eokk laod crom	0
+卫星象片	efi jps okks tp	0
+卫星影象	efi jps jdiw okks	0
+位移地震仪	ewl gyyx hei slc eici	0
+伪圆柱投影	eisi bkfb aiyw fss jdiw	2
+伪圆锥投影	eisi bkfb voc fss jdiw	2
+韦泽尔	aoi ndak oix	0
+微震观测	wfsj slc ddj nfod	0
+微震台阵	wfsj slc dkv pgc	0
+微震仪	wfsj slc eici	0
+韦兹莱	aoi ljji dftm	0
+温带大陆气候	njxm dorj md pajk iq elem	3
+温带落叶林	njxm dorj dntk krs aam	0
+温迪亚	njxm uuc fvi	3
+文化边界	ew ebb suc surj	2
+文化汇合	ew ebb ntf sh	0
+纹泥	oew ntbb	7
+沃达蒸汽泵站	nhi muc donm niq qns wukv	0
+无潮海	fqi nrjy ngqm	0
+午城黄土	grs hkoi dumb ht	0
+无导向工业	fqi ohc ox ng vi	0
+伍德布法罗	efaw wrxn xrj nhdm xyx	0
+无定向磁力仪	fqi ifnz ox qljj sl eici	0
+五峰组	faw jtqf oeq	0
+无感地震	fqi kfkn hei slc	2
+吴家坪组	kfmd iks halb oeq	0
+物理地震学	piws yel hei slc iolz	0
+物理风化作用	piws yel sci ebb egub ai	1
+武遂	fknz lkuc	13
+无所有处天	fqi wlj xyv tub fmd	1
+无线地震台网	fqi ofkg hei slc dkv qcci	0
+无源地震	fqi nvdi hei slc	0
+无震地形变	fqi slc hei fdws ydi	0
+无震形变	fqi slc fdws ydi	0
+武州	fknz ifc	5
+细腐殖质	ost uehu fyre hrfb	0
+矽卡岩	qyx oub jqs	7
+细粒砂岩	ost twl qiwp jqs	0
+细粒砂状	ost twl qiwp oqq	0
+细砾岩	ost qjix jqs	0
+悉氏温度表	wtnx jgq njxm udfd hsi	0
+细质地土壤	ost hrfb hei ht hdds	0
+下部地壳	cx wkpf hei hosj	0
+下沉海岸	cx nosj ngqm jvag	0
+下沟组	cx nidm oeq	0
+峡谷洞穴群	jmlb mukv nqfk bx vwkm	0
+下降漏斗	cx ptak ntsv ars	0
+夏利玛尔公园	vstp god ybm oix mdm bfow	0
+夏洛茨维尔	vstp ntkv dahq ooc oix	5
+下滤过程	cx ntnx huc gkyw	0
+下坡风	cx hgp sci	0
+下切侵蚀	cx gjd evod uic	3
+下切作用	cx gjd egub ai	3
+夏琐	vstp yifb	0
+下统	cx orde	3
+先成水系	pee koi ns wus	0
+现代地壳运动	ydj eki hei hosj aduc adsl	0
+藓类沼泽	dtmi tmd njkv ndak	0
+酰罗城	lpee xyx hkoi	0
+酰罗山	lpee xyx js	0
+仙女木时间	ejs wn am jhc rjr	0
+鲜水河地震带	tmi ns nckv hei slc dorj	0
+显微薄片	jvi wfsj dnah tp	0
+显微构造	jvi wfsj aidm pkuc	0
+闲暇地理	ram jtad hei yel	0
+掀斜运动	flhq ufar aduc adsl	0
+线性构造	ofkg bps aidm pkuc	0
+线性现象	ofkg bps ydj okks	1
+相变说	asm ydi clke	0
+乡村地理学	owp ahc hei yel iolz	0
+象岛	okks xjs	36
+相对年代测定	asm dhc gak eki nfod ifnz	0
+相对重力值	asm dhc jel sl ereq	0
+相关沉积	asm lmd nosj gkmb	0
+相关掩模	asm lmd fmhd adjm	0
+襄国	ddsi byid	29
+向量地图	ox jfel hei btae	0
+相片判读	asm tp laod crom	0
+项县	nvfb edm	2
+象限四分树	okks pig bee mjd adhc	0
+响应地震图	kox uix hei slc btae	0
+香醉山	gjr lrur js	0
+消费地理学	niyv jrfb hei yel iolz	0
+消洪	niyv ndmb	0
+消减板块	niyv akfk ahdi heur	0
+消减带	niyv akfk dorj	0
+消融区	niyv fkqi tci	1
+硝石采石场	qiyv qs vam qs hows	0
+萧条区	dvrm tam tci	0
+消亡板块	niyv uw ahdi heur	0
+斜断口	ufar ttlj kv	0
+协调水系	rsmb cihk ns wus	0
+新北界	walj obb surj	0
+新冰期	walj ans ryv	0
+新厂阶	walj vc purj	0
+信度国	eri udfd byid	0
+信度河	eri udfd nckv	1
+欣盖提	lhq mxm fjfn	7
+新构造	walj aidm pkuc	7
+新构造期	walj aidm pkuc ryv	0
+新构造运动	walj aidm pkuc aduc adsl	4
+辛哈拉加	jx ksh fwl skv	0
+新华夏式	walj ebrs vstp kng	0
+新近纪	walj luc owj	6
+新拉纳克	walj fwl oqur oee	4
+辛涅谬尔	jx njht ckkw oix	0
+新全球构造	walj uyw yfni aidm pkuc	0
+新热带界	walj ffim dorj surj	0
+新圣女修道院	walj dht wn eltw lcuc pifo	1
+新田沟组	walj st nidm oeq	0
+新锡德尔湖	walj vjiw wrxn oix noyv	2
+信息压缩	eri cnx vhid oiej	0
+新鲜面	walj tmi km	2
+新仙女木事件	walj ejs wn am ekvj epn	28
+新月形沙丘	walj yv fdws niwp lfi	2
+新褶曲山脉	walj skkd vq js yins	0
+形变地震仪	fdws ydi hei slc eici	0
+性脆	bps yove	6
+形谷	fdws mukv	8
+行为地理学	woc isid hei yel iolz	4
+行为矩阵	woc isid mtek pgc	0
+行星地震学	woc jps hei slc iolz	0
+行星风系	woc jps sci wus	1
+行政地理	woc fntp hei yel	0
+休闲期耕作	eam ram ryv qmar egub	0
+修正布格异常	eltw fnz xrj atkv odn grj	0
+虚波阵面	tvi ngp pgc km	0
+须昌	wvfb jjr	2
+续发地震	orom jdid hei slc	0
+须家河组	wvfb iks nckv oeq	0
+虚假设	tvi etad css	0
+叙利至沙洛呐	ufad god uz niwp ntkv kqur	0
+续至波	orom uz ngp	0
+续至到时	orom uz uod jhc	0
+悬冰川	ednx ans fc	10
+悬浮粒子	ednx nvlz twl lz	8
+选举地理	peuc imak hei yel	0
+悬崖坡	ednx jvhh hgp	0
+旋转波	igon gati ngp	3
+旋转断层	igon gati ttlj tadm	0
+旋转断块	igon gati ttlj heur	0
+旋转平面波	igon gati alb km ngp	0
+雪蚀	svj uic	0
+循环钻井液	whrs ynb vukv arj nrei	0
+熏香之路	jxh gjr kz xtkv	0
+寻阳	vhc pjr	17
+压电式地震计	vhid hd kng hei slc crs	0
+压缩空气震源	vhid oiej bng iq slc nvdi	0
+压缩震相	vhid oiej slc asm	0
+压陷盆地	vhid poij mjxm hei	0
+压性结构面	vhid bps ohkv aidm km	0
+亚雪带	fvi svj dorj	0
+岩崩	jqs jyyv	8
+岩崩地震	jqs jyyv hei slc	0
+沿滨泥沙流	nskv nilm ntbb niwp nrde	0
+岩层崩落	jqs tadm jyyv dntk	0
+岩成土	jqs koi ht	0
+盐成土	huxm koi ht	0
+岩床	jqs uam	2
+岩洞教堂	jqs nqfk hltp ght	1
+岩盖	jqs mxm	0
+岩关阶	jqs lmd purj	0
+雁行式断裂	veoc woc kng ttlj fyos	0
+岩画遗址	jqs fsjk kofu hnz	0
+岩基	jqs rht	2
+岩浆冲击说	jqs oyns akls ajk clke	0
+岩浆活动	jqs oyns nbs adsl	56
+岩浆库	jqs oyns ugc	2
+岩浆水	jqs oyns ns	5
+岩刻画	jqs rod fsjk	0
+雁列构造	veoc fyod aidm pkuc	0
+岩脉	jqs yins	1
+阎牟那河	roij dpn oapf nckv	0
+岩漆	jqs naun	1
+岩溶景观	jqs nbuk jdix ddj	0
+岩溶水	jqs nbuk ns	0
+赝瑞利波	veof yjke god ngp	0
+燕山运动	dfkm js aduc adsl	4
+岩石断裂力学	jqs qs ttlj fyos sl iolz	0
+岩石静压力	jqs qs hyoo vhid sl	0
+岩石力学性质	jqs qs sl iolz bps hrfb	0
+岩石漆	jqs qs naun	0
+岩石圈板块	jqs qs blme ahdi heur	4
+岩石圈地震	jqs qs blme hei slc	0
+岩石圈断裂	jqs qs blme ttlj fyos	0
+岩石水理性质	jqs qs ns yel bps hrfb	0
+岩石循环	jqs qs whrs ynb	3
+岩石艺术区	jqs qs doi aid tci	0
+岩石质量指标	jqs qs hrfb jfel fbjr acs	0
+岩体静压力	jqs eafi hyoo vhid sl	0
+岩体强度	jqs eafi jkic udfd	0
+岩土界线	jqs ht surj ofkg	0
+厌恶性行业	vqq fvnx bps woc vi	1
+岩屑堆	jqs tiyv hoc	0
+岩屑锥	jqs tiyv voc	0
+岩性	jqs bps	30
+岩性界线	jqs bps surj ofkg	0
+盐沼	huxm njkv	27
+赝重力	veof jel sl	0
+岩株	jqs apmb	0
+羊背石	mi obyv qs	4
+仰冲板块	ejej akls ahdi heur	0
+养分富集	lmrj mjd ifks oam	0
+氧化土	imi ebb ht	0
+鸯掘多罗国	qmxn ftjj yyx xyx byid	0
+阳夏	pjr vstp	7
+阳象	pjr okks	1
+遥测地震台网	vwuc nfod hei slc dkv qcci	0
+遥测地震仪	vwuc nfod hei slc eici	0
+要冲城市	lwn akls hkoi rrj	0
+液压作用	nrei vhid egub ai	3
+页状剥落	vfb oqq vnod dntk	0
+易北河谷	jiws obb nckv mukv	0
+易腐作物	jiws uehu egub piws	0
+遗迹群	kofu yuc vwkm	2
+意境地图	wjnx hwje hei btae	0
+移流雾	gyyx nrde stsl	0
+夷平面	mjg alb km	1
+夷平作用	mjg alb egub ai	0
+仪器震中	eici kkqk slc kls	0
+猗氏	qmck jgq	2
+艺术文化景观	doi aid ew ebb jdix ddj	0
+易损性分析	jiws fkfb bps mjd alj	0
+伊索莱	evwp rous dftm	0
+伊特鲁立亚	evwp phhc tjr wl fvi	0
+伊通火山群	evwp dauc mh js vwkm	0
+伊维萨岛景观	evwp ooc dpww xjs jdix ddj	0
+义县阶	ici edm purj	0
+医学地理学	tms iolz hei yel iolz	0
+隐伏断层	povn eqq ttlj tadm	0
+印干组	jfej ag oeq	0
+阴象	pyv okks	1
+隐域土	povn hkkf ht	0
+应变场	uix ydi hows	1
+应变地震图	uix ydi hei slc btae	0
+应变地震仪	uix ydi hei slc eici	0
+应变分布图	uix ydi mjd xrj btae	0
+应变积累	uix ydi gkmb sus	0
+应变释放	uix ydi wtda itp	0
+应力积累	uix sl gkmb sus	9
+英买力组	dqmd oamd sl oeq	0
+硬磐	qfjc osqs	0
+鹰山组	ueox js oeq	0
+影响半径	jdiw kox lak wdng	3
+影象地图	jdiw okks hei btae	0
+影象分辨率	jdiw okks mjd jljx rjar	0
+影象灰度	jdiw okks xmh udfd	0
+影象判读	jdiw okks laod crom	0
+影象质量	jdiw okks hrfb jfel	0
+英雄港中心区	dqmd xdoc ndmo kls nx tci	0
+应用地理学	uix ai hei yel iolz	1
+应用地图学	uix ai hei btae iolz	0
+应用地震学	uix ai hei slc iolz	0
+映震敏感井	jqmd slc gqtp kfkn arj	0
+雍布拉岗	rowo xrj fwl jqci	0
+永久形变	ins oid fdws ydi	3
+永久雪线	ins oid svj ofkg	0
+雍陵	rowo phmt	0
+有潮河口	xyv nrjy nckv kv	0
+有方廷斯	xyv if ngi rlj	0
+有感地震区	xyv kfkn hei slc tci	0
+幼年土壤	jsl gak ht hdds	0
+游憩地理	nigl bcnx hei yel	0
+油气水显示	nui iq ns jvi cs	0
+犹太人居住区	qqi mid ur tog eiyw tci	2
+游移湖	nigl gyyx noyv	0
+邮政地理学	upf fntp hei yel iolz	0
+预报地图	lvfb fedi hei btae	0
+雨滴侵蚀	sv nrlo evod uic	0
+鱼复	tv gjtp	1
+羽黑山	kkx xh js	0
+臾那世界国	iur oapf ls surj byid	0
+阈限人口	rkkf pig ur kv	0
+阈限应力	rkkf pig uix sl	0
+语言地理学	cfak ri hei yel iolz	1
+预震	lvfb slc	1
+宇治	ifem ndkv	59
+宇宙地学	ifem iui hei iolz	0
+宇宙地质学	ifem iui hei hrfb iolz	0
+宇宙科学	ifem iui gars iolz	0
+圆瓣图	bkfb jvjx btae	0
+远场体波	fouc hows eafi ngp	0
+元地图学	fow hei btae iolz	0
+圆顶石屋	bkfb cvfb qs tuz	0
+冤句	ooki ikv	2
+原摩加多尔	vdix vks skv yyx oix	0
+原始大气圈	vdix wdkv md iq blme	0
+原始火球假说	vdix wdkv mh yfni etad clke	0
+圆石子	bkfb qs lz	1
+原位测试	vdix ewl nfod ckng	2
+原型工业化	vdix fdoh ng vi ebb	0
+远震台网	fouc slc dkv qcci	0
+远震仪	fouc slc eici	0
+圆柱投影	bkfb aiyw fss jdiw	24
+月亮港	yv dsj ndmo	0
+月球潮汐	yv yfni nrjy nyx	3
+月球章动	yv yfni wjz adsl	0
+约塞米蒂	oiid idmh tm drlr	6
+月震仪	yv slc eici	5
+运动线法	aduc adsl ofkg nhdm	0
+运输地理学	aduc gufo hei yel iolz	0
+运输联系	aduc gufo llmd wus	0
+运输区划	aduc gufo tci kod	0
+运输网布局	aduc gufo qcci xrj tokv	0
+晕滃法	jogc nmdk nhdm	0
+晕渲法	jogc niff nhdm	0
+孕震构造	rlz slc aidm pkuc	0
+孕震构造体系	rlz slc aidm pkuc eafi wus	0
+宰比德	ijx bbb wrxn	1
+灾害地理学	imh iqkv hei yel iolz	1
+灾害性地震	imh iqkv bps hei slc	0
+藻类过量繁殖	dnka tmd huc jfel gqtu fyre	0
+造林学	pkuc aam iolz	0
+造陆运动	pkuc pajk aduc adsl	0
+早期人类遗址	jz ryv ur tmd kofu hnz	0
+造山幕	pkuc js djmr	0
+泽列	ndak fyod	0
+增长极论	hljj kc arid cubb	0
+扎莫希奇古城	fti djmd cxrj mckv og hkoi	0
+瞻波国	sovr ngp byid	0
+障壁坝	pwjz tkjh hfb	0
+张德勒运动	jkc wrxn psl aduc adsl	0
+张德勒周期	jkc wrxn psl ihkv ryv	0
+张节理	jkc dej yel	1
+杖林	axid aam	0
+胀缩波	ykc oiej ngp	0
+张性断裂	jkc bps ttlj fyos	0
+张性结构面	jkc bps ohkv aidm km	0
+长子继承权	kc lz otti onys adi	3
+照叶林	jjkm krs aam	0
+沼泽率	njkv ndak rjar	0
+沼泽泥炭	njkv ndak ntbb jxmh	1
+沼泽生态系统	njkv ndak ps minx wus orde	0
+沼泽水文	njkv ndak ns ew	0
+沼泽形成过程	njkv ndak fdws koi huc gkyw	0
+沼泽学	njkv ndak iolz	0
+磔迦国	qyaa skuc byid	0
+哲罗姆派	flkv xyx wqm nhsi	0
+折射层	flj uhc tadm	0
+折射地震仪	flj uhc hei slc eici	0
+折射面	flj uhc km	4
+折射剖面	flj uhc wkod km	0
+赭时国	hrmj jhc byid	0
+柘县	aqs edm	0
+褶皱带	skkd ovgp dorj	6
+褶皱地震	skkd ovgp hei slc	0
+褶皱幕	skkd ovgp djmr	0
+褶皱运动	skkd ovgp aduc adsl	0
+褶皱作用	skkd ovgp egub ai	0
+震波图	slc ngp btae	0
+震磁效应	slc qljj rmct uix	0
+震电效应	slc hd rmct uix	0
+震感区	slc kfkn tci	0
+震害重复性	slc iqkv jel gjtp bps	0
+震害统计	slc iqkv orde crs	0
+震害预测	slc iqkv lvfb nfod	0
+震后救援	slc hfkv fnit fvad	0
+震级残差	slc orid fyfk mng	0
+震级档	slc orid aivj	0
+震级上限	slc orid os pig	0
+震级时间曲线	slc orid jhc rjr vq ofkg	0
+震级限值	slc orid pig ereq	0
+震裂带	slc fyos dorj	0
+震前滑动	slc lyod nhg adsl	0
+震前平静	slc lyod alb hyoo	0
+震前形变	slc lyod fdws ydi	0
+震情会商	slc bhyv uadm rlqk	0
+震相分析	slc asm mjd alj	0
+震影	slc jdiw	0
+震源参数	slc nvdi dmws twtp	0
+震源尺度	slc nvdi tid udfd	0
+震源道	slc nvdi lcuc	0
+震源定位	slc nvdi ifnz ewl	0
+震源动力学	slc nvdi adsl sl iolz	1
+震源几何学	slc nvdi sj eckv iolz	0
+震源谱	slc nvdi clvj	0
+震源球	slc nvdi yfni	0
+震源时间函数	slc nvdi jhc rjr onjk twtp	0
+震源体积	slc nvdi eafi gkmb	0
+震源孕育	slc nvdi rlz rdyv	0
+震中加速度	slc kls skv akuc udfd	0
+珍珠冲组	yuws ypmb akls oeq	0
+正残积风化壳	fnz fyfk gkmb sci ebb hosj	0
+正常地貌	fnz grj hei pdee	0
+正地貌	fnz hei pdee	1
+正射影象地图	fnz uhc jdiw okks hei btae	0
+正旋回	fnz igon bkv	0
+正阳组	fnz pjr oeq	0
+正韵律	fnz wjia wvak	0
+质量底色法	hrfb jfel ujgi oob nhdm	0
+植林	areq aam	0
+志留	hnx jst	4
+志留系	hnx jst wus	0
+至那仆底国	uz oapf eub ujgi byid	0
+指示群落	fbjr cs vwkm dntk	0
+滞水面	ndor ns km	0
+支提国	rdi fjfn byid	0
+支提山	rdi fjfn js	0
+制图分类	pqod btae mjd tmd	0
+制图精度	pqod btae thyv udfd	0
+植物垂直台带	areq piws jdfi req dkv dorj	0
+制印原图	pqod jfej vdix btae	0
+质子磁力仪	hrfb lz qljj sl eici	3
+中薄层状	kls dnah tadm oqq	0
+中层状	kls tadm oqq	1
+重大建设工程	jel md vagi css ng gkyw	0
+中等地震	kls ghhc hei slc	0
+中断河	kls ttlj nckv	0
+中国板块	kls byid ahdi heur	0
+中厚层状	kls vjlz tadm oqq	0
+中砾	kls qjix	0
+重力触探	jel sl oaic foma	0
+重力低	jel sl ejgi	2
+重力高	jel sl dg	0
+重力构造	jel sl aidm pkuc	0
+重力均衡校正	jel sl hiae wtuo armc fnz	0
+重力均衡异常	jel sl hiae wtuo odn grj	0
+中粒砂岩	kls twl qiwp jqs	0
+中粒砂状	kls twl qiwp oqq	0
+重力水	jel sl ns	7
+重力梯度	jel sl aljw udfd	3
+重力图	jel sl btae	0
+重力异常场	jel sl odn grj hows	0
+中碛	kls qhfb	1
+中强震	kls jkic slc	0
+中生植物	kls ps areq piws	0
+中世纪古城	kls ls owj og hkoi	3
+中天山	kls fmd js	4
+中天山板块	kls fmd js ahdi heur	0
+中纬度草原	kls oaoi udfd djz vdix	0
+中纬度荒漠	kls oaoi udfd duee ndjm	0
+中位沼泽	kls ewl njkv ndak	0
+中西部各州	kls lx wkpf tkv ifc	0
+中心地学说	kls nx hei iolz clke	0
+中心式喷发	kls nx kng krdf jdid	1
+中营养沼泽	kls dokk lmrj njkv ndak	0
+中周期地震仪	kls ihkv ryv hei slc eici	0
+周家店组	ihkv iks uukv oeq	0
+猪背脊	qhjr obyv aauy	0
+筑垒村	gnsi dddh ahc	1
+主量	iyw jfel	3
+注水试验	niyw ns ckng bufi	0
+朱提	pmb fjfn	11
+住宅和工作室	eiyw iwgq gkv ng egub iuz	0
+主震型地震	iyw slc fdoh hei slc	0
+柱状结构	aiyw oqq ohkv aidm	13
+砖红壤性土	qati ong hdds bps ht	0
+转换波	gati foqm ngp	1
+专题地图集	atid jfnf hei btae oam	1
+专题地图学	atid jfnf hei btae iolz	0
+专题制图仪	atid jfnf pqod btae eici	0
+装配工业	ohrs lwj ng vi	1
+准噶尔板块	aoc kdjt oix ahdi heur	0
+准平原	aoc alb vdix	0
+卓越周期	ujz hkti ihkv ryv	0
+资本密集工业	ahfb afi inwj oam ng vi	0
+自成景观	cz koi jdix ddj	1
+自动化制图	cz adsl ebb pqod btae	0
+子合国	lz sh byid	0
+自给性农业	cz osh bps osi vi	0
+资金密集工业	ahfb tj inwj oam ng vi	0
+自流井组	cz nrde arj oeq	0
+自流水盆地	cz nrde ns mjxm hei	0
+自然地理过程	cz yqmb hei yel huc gkyw	0
+自然电位	cz yqmb hd ewl	4
+自然电位法	cz yqmb hd ewl nhdm	0
+自然森林	cz yqmb aaam aam	3
+自然生产潜力	cz yqmb ps wwp nmmj sl	0
+自然疫源地	cz yqmb lss nvdi hei	4
+兹瓦尔特诺茨	ljji nw oix phhc cdxk dahq	0
+紫外遥感	nbus yub vwuc kfkn	0
+自学系统	cz iolz wus orde	0
+自养营养	cz lmrj dokk lmrj	0
+自由空间校正	cz ui bng rjr armc fnz	0
+自由空间异常	cz ui bng rjr odn grj	0
+资源地理学	ahfb nvdi hei yel iolz	0
+资源信息系统	ahfb nvdi eri cnx wus orde	0
+棕钙土	aics vcft ht	0
+综合地图集	oics sh hei btae oam	1
+综合评价地图	oics sh calb eurj hei btae	0
+综合运输	oics sh aduc gufo	1
+综合制图	oics sh pqod btae	0
+综合自然区划	oics sh cz yqmb tci kod	0
+宗教地理	ics hltp hei yel	0
+棕漠土	aics ndjm ht	0
+总侵蚀基准面	lknx evod uic rht aoc km	0
+纵向结合	ouur ox ohkv sh	1
+纵向沙丘	ouur ox niwp lfi	0
+总蒸发	lknx donm jdid	0
+钻洞动物	vukv nqfk adsl piws	0
+钻油平台	vukv nui alb dkv	7
+最大概率地震	jldi md avde rjar hei slc	0
+最大主应力	jldi md iyw uix sl	0
+最高洪水位	jldi dg ndmb ns ewl	1
+最可信地震	jldi ckv eri hei slc	0
+作物布局	egub piws xrj tokv	0
+作物组合	egub piws oeq sh	0
+雨极	sv arid	5

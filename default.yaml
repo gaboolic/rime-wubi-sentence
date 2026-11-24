@@ -5,7 +5,12 @@ config_version: '0.40'
 
 schema_list:
   - schema: wubi86 # 五笔86整句
-  - schema: wubi86_14key # 五笔86整句·十四键
+  - schema: wubi98 # 五笔98整句
+  - schema: tiger # 虎码整句
+  - schema: yustar # 宇·星陳整句
+  - schema: yucloud # 宇·卿云整句
+  - schema: yucloud_14key # 十四键
+  - schema: ziyuan # 字源整句
   
 
 switcher:
