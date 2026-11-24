@@ -1,0 +1,105 @@
+# Rime schema
+# encoding: utf-8
+# 参考 https://github.com/gaboolic/rime-shuangpin-fuzhuma 的 14key 方案
+# 26 键形码折叠为 14 键：qw er ty ui op / as df gh jk l / zx cv bn m
+# 输入时按合键，候选项注释仍显示原始形码。
+
+schema:
+  schema_id: wubi86_14key
+  name: 五笔86整句·十四键
+  version: "2024-04-24"
+  author:
+    - gaboolic （裁缝)
+  description: |
+    五笔86整句，26 键形码折叠到 14 键。参考墨奇小鹤双拼十四键。
+  dependencies:
+    - stroke
+    - emoji
+    - easy_en
+    - jp_sela
+
+__include: moqi.yaml:/switches_engine
+__include: moqi.yaml:/phrase
+__include: moqi.yaml:/reverse
+__include: moqi.yaml:/opencc_config
+__include: moqi.yaml:/punctuator
+__include: moqi.yaml:/guide
+
+# 14 键只使用折叠后的字母；避免字母前缀（ab/ac 等）与折叠重码冲突。
+recognizer:
+  patterns:
+    punct: '^/([0-9]|10|[A-Za-z]+)$'
+
+speller:
+  max_code_length: 5
+  auto_select: false
+  alphabet: qetuoadgjlzcbm`[/
+  initials: qetuoadgjlzcbm
+  delimiter: " '"
+  algebra:
+    __include: moqi.yaml:/speller_algebra
+    __append:
+      # 在生成原始形码后统一折叠；共享词库中的码保持原样。
+      - xlit/qwertyuiopasdfghjklzxcvbnm/qqeettuuooaaddggjjlzzccbbm/
+
+user_dict_set:
+  dictionary: wubi86.extended
+  initial_quality: 0
+  enable_completion: false
+  enable_sentence: false
+  spelling_hints: 0
+  comment_format:
+    - "xform/(^|[ '])[^[]+[[]/$1/"
+  enable_user_dict: true
+  user_dict: user_ff.custom.dict
+  db_class: tabledb
+
+add_user_dict:
+  tag: add_user_dict
+  dictionary: wubi86.extended
+  initial_quality: -1
+  user_dict: user_ff.custom.dict
+  db_class: tabledb
+  enable_charset_filter: false
+  enable_completion: true
+  enable_encoder: true
+  enable_sentence: true
+  enable_user_dict: true
+  encode_commit_history: false
+  comment_format:
+    - "xform/(^|[ '])[^[]+[[]/$1/"
+  prefix: "AC"
+  tips: "〔自造词〕"
+
+translator:
+  dictionary: wubi86.extended
+  initial_quality: 10000
+  enable_completion: false
+  spelling_hints: 0
+  comment_format:
+    - "xform/(^|[ '])[^[]+[[]/$1/"
+  enable_user_dict: false
+  enable_sentence: true
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: composing, accept: Control+m, send: Return }
+    - { when: composing, accept: Control+w, send: Control+BackSpace }
+    - { when: has_menu, accept: semicolon, send: 2 }
+    - { when: composing, accept: Control+i, send: Shift+Right }
+    - { when: composing, accept: Control+o, send: Shift+Left }
+    - { when: has_menu, accept: "Control+e", toggle: chinese_english }
+    - { when: composing, accept: Control+1, send_sequence: '{Home}{Shift+Right}' }
+    - { when: composing, accept: Control+2, send_sequence: '{Home}{Shift+Right}{Shift+Right}' }
+    - { when: composing, accept: Control+3, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}' }
+    - { when: composing, accept: Control+4, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}' }
+    - { when: composing, accept: Control+5, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}' }
+
+custom_phrase_mqzg:
+  dictionary: ""
+  user_dict: custom_phrase/custom_phrase_xhzg
+  db_class: stabledb
+  enable_sentence: false
+  enable_completion: false
+  initial_quality: -1

@@ -1,0 +1,132 @@
+# Rime dictionary
+# encoding: utf-8
+# 输入法相关
+#
+---
+name: inputmethod
+version: "2024-07-13"
+sort: by_weight
+...
+打词	rs yngk	0
+朙月拼音	lwme eee rua ujf	2
+墨奇音形	lfof dskf ujf gae	0
+伽布里克	wlk dmh jfd dq	0
+墨奇音形的作者是伽布里克	lfof dskf ujf gae r wt ftj j wlk dmh jfd dq	0
+墨奇输入法	lfof dskf lwg ty if	0
+爱次漏的小栏还	ep uqw infy r ih suf gip	0
+白霜词库	rrr fs yngk ylk	0
+白霜拼音	rrr fs rua ujf	0
+白霜拼音的作者是伽布里克	rrr fs rua ujf r wt ftj j wlk dmh jfd dq	0
+雾凇词库	ftl usw yngk ylk	0
+雾凇拼音	ftl usw rua ujf	0
+大竹	dd ttg	37
+聆竹听风	bwyc ttg kr mq	0
+魔然	yssc qd	0
+雾凇鹤	ftl usw pwy	0
+小鹤音形	ih pwy ujf gae	0
+小鹤音形作者是何海峰	ih pwy ujf gae wt ftj j wsk itx mtd	0
+哲豆音形	rrk gku ujf gae	0
+鹤形	pwy gae	10
+雾凇自然	ftl usw thd qd	0
+墨奇	lfof dskf	0
+墨奇码	lfof dskf dcg	0
+汉心码	ic ny dcg	0
+汉心码作者晡时之光	ic ny dcg wt ftj jgey jf pp iq	0
+天码	gd dcg	1
+天码输入法的作者是宋天	gd dcg lwg ty if r wt ftj j psu gd	0
+易学码	jqr ip dcg	0
+墨奇辅助码	lfof dskf lgey egl dcg	0
+矧码	tdxh dcg	0
+空明码	pw je dcg	0
+并击	ua fmk	10
+星空键道	jtg pw qvfp uthp	0
+星猫键道	jtg qtal qvfp uthp	0
+天行键	gd tf qvfp	0
+灵形速影	vo gae gkip jyie	0
+飞码	nui dcg	1
+字源	pb idr	87
+虎鹤	ha pwy	18
+鹤虎	pwy ha	0
+龙码	dx dcg	0
+猫码	qtal dcg	0
+声笔	fnr tt	0
+声笔输入法	fnr tt lwg ty if	0
+声笔输入法作者戴石麟	fnr tt lwg ty if wt ftj falw dgtg ynjh	0
+戴石麟	falw dgtg ynjh	0
+声笔飞码	fnr tt nui dcg	0
+跟打器	khv rs kkd	0
+极速跟打器	se gkip khv rs kkd	0
+木易跟打器	ssss jqr khv rs kkd	0
+出简让全	bm tuj yh wg	0
+出简无全	bm tuj fq wg	0
+无简无全	fq tuj fq wg	0
+以词定字	c yngk pg pb	0
+容错码	pww qaj dcg	0
+无理码	fq gj dcg	1
+有理码	e gj dcg	0
+随心码	bde ny dcg	0
+标顶	sfi sdm	0
+顶功	sdm al	0
+前两码	ue gmww dcg	2
+后两码	rg gmww dcg	0
+首形	uth gae	0
+末形	gs gae	0
+顶屏	sdm nua	0
+飞键	nui qvfp	0
+主翻译器	y toln ycf kkd	0
+五笔输入法作者是王永民	gg tt lwg ty if wt ftj j ggg yni n	0
+王旁青头戋五一	ggg upy gef udi gggt gg g	0
+土士二干十寸雨	ffff fghg fg fggh fgh fghy fghy	1
+一二还有革字底	g fg gip e af pb yqa	0
+大犬三羊古石厂	dd dgty dg udj dgh dgtg dgt	2
+木丁西	ssss sgh sghg	1
+工戈草头右框七	a agnt ajj udi dk sagg ag	1
+王旁青头戋五一土士二干十寸雨	ggg upy gef udi gggt gg g ffff fghg fg fggh fgh fghy fghy	0
+王旁青头戋五一土士二干十寸雨一二还有革字底大犬三羊古石厂木丁西工戈草头右框七	ggg upy gef udi gggt gg g ffff fghg fg fggh fgh fghy fghy g fg gip e af pb yqa dd dgty dg udj dgh dgtg dgt ssss sgh sghg a agnt ajj udi dk sagg ag	0
+宇浩输入法	pgf itfk lwg ty if	1
+宇浩输入法作者是朱宇浩	pgf itfk lwg ty if wt ftj j ri pgf itfk	0
+光華	iq agaf	1
+星陳	jtg bgji	0
+卿云	qtvb fcu	16
+识别码	ykw klj dcg	139
+音托	ujf rta	0
+回头码	lkd udi dcg	0
+音形码	ujf gae dcg	2
+冰雪拼音	ui fv rua ujf	0
+冰雪拼音作者蓝落萧	ui fv rua ujf wt ftj ajt ait avi	0
+亾师	wnv jgm	0
+蔃师	axkj jgm	0
+蒻师	axuu jgm	0
+爱师	ep jgm	0
+晡时之光	jgey jf pp iq	0
+鲸师	qgy jgm	0
+清凉鹤	ige uyiy pwy	0
+九重魔鹤	vt tgj yssc pwy	0
+鲸凉鹤	qgy uyiy pwy	0
+看打	rhf rs	0
+跟打	khv rs	39
+想打	shn rs	565
+自在飞扬	thd d nui rnr	0
+苗师	alf jgm	1
+墨奇码拆	lfof dskf dcg rry	0
+墨奇码拆字规则	lfof dskf dcg rry pb fwm mj	0
+仓输入法	wbb lwg ty if	0
+混输模式	ijx lwg saj aa	0
+小字集	ih pb wys	0
+大字集	dd pb wys	0
+整句模式	gkih qkd saj aa	0
+字词模式	pb yngk saj aa	0
+置顶短语	lfhf sdm tdg ygk	0
+方案集	yy pvs wys	0
+成对符号	dn cf twf kgn	0
+五选	gg tfqp	0
+预编辑	cbd xyna lkb	1
+行内编辑	tf mw xyna lkb	0
+行内预编辑	tf mw cbd xyna lkb	0
+分号键	wv kgn qvfp	1
+词元	yngk fqb	0
+频控	hid rpw	9
+词云	yngk fcu	133
+词图	yngk ltu	14
+消歧	iie hfc	9
+介介	wj wj	1

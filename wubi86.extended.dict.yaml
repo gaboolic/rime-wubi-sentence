@@ -29,4 +29,30 @@ import_tables:
   # - cn_dicts_common/tencent_core # 精简的腾讯词库
   # - cn_dicts_common/tencent  # 腾讯词向量（大词库，部署时间较长 选择性开启）
   - cn_dicts_common/user # 用户自定义词典
+
+  ## 白霜拼音细胞词库（已转换为五笔码） https://github.com/gaboolic/rime-frost
+  ## 由 program/deal_ice_dict_to_cell.py --scheme wubi 生成，每日自动同步
+  - cn_dicts_cell/animal
+  - cn_dicts_cell/chess
+  - cn_dicts_cell/chess2
+  - cn_dicts_cell/composite
+  - cn_dicts_cell/computer
+  - cn_dicts_cell/exthot
+  - cn_dicts_cell/food
+  - cn_dicts_cell/game
+  - cn_dicts_cell/geography
+  - cn_dicts_cell/history
+  - cn_dicts_cell/idiom
+  - cn_dicts_cell/industry_product
+  - cn_dicts_cell/inputmethod
+  - cn_dicts_cell/literature
+  - cn_dicts_cell/luna
+  - cn_dicts_cell/media
+  - cn_dicts_cell/medication
+  - cn_dicts_cell/music
+  - cn_dicts_cell/name
+  - cn_dicts_cell/name2
+  - cn_dicts_cell/place
+  - cn_dicts_cell/shulihua
+  - cn_dicts_cell/sport
 ...
