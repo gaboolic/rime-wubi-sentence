@@ -3,10 +3,6 @@ name: release
 on:
   release:
     types: [published]
-  # 每天定时构建 nightly（北京时间 01:00，即 UTC 17:00）
-  schedule:
-    - cron: "0 17 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -55,58 +51,10 @@ jobs:
           python program/release/generate_rime_all_schema_zip.py "${{ matrix.asset }}"
           ls -lh "${{ matrix.asset }}"
 
-      - name: Upload build artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: ${{ matrix.asset }}
-          path: ${{ matrix.asset }}
-          if-no-files-found: error
-
-      # 正式 release 发布时，把每个方案的 zip 作为附件上传
       - name: Upload release asset
-        if: github.event_name == 'release'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ github.event.release.tag_name }}
           files: ${{ matrix.asset }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN || github.token }}
-
-  nightly:
-    needs: build
-    if: github.event_name != 'release'
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-
-    steps:
-      - name: Download all nightly zips
-        uses: actions/download-artifact@v4
-        with:
-          path: nightly
-          merge-multiple: true
-
-      - name: Show artifacts
-        run: ls -lh nightly/*.zip
-
-      - name: Publish nightly release
-        uses: ncipollo/release-action@v1
-        with:
-          allowUpdates: true
-          artifactErrorsFailBuild: true
-          artifacts: nightly/rime-wubi86-schemas.zip,nightly/rime-tiger-schemas.zip,nightly/rime-ziyuan-schemas.zip,nightly/rime-yucloud-schemas.zip,nightly/rime-yustar-schemas.zip
-          body: |
-            Automated nightly build of all shape-code schemes.
-
-            - wubi86 (master): rime-wubi86-schemas.zip
-            - tiger: rime-tiger-schemas.zip
-            - ziyuan: rime-ziyuan-schemas.zip
-            - yucloud: rime-yucloud-schemas.zip
-            - yustar: rime-yustar-schemas.zip
-
-            Commit: ${{ github.sha }}
-          name: Nightly Build
-          prerelease: true
-          replacesArtifacts: true
-          tag: nightly
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN || github.token }}
