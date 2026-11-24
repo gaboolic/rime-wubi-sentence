@@ -9,578 +9,530 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: true
 ...
-阿拉斯加雪撬犬	bs ru adwr lk fv rtfn dgty	0
-阿拉斯加雪橇犬	bs ru adwr lk fv stf dgty	2
-爱尔兰长毛水狗	ep qiu uff ta tfn ii qtq	0
-爱尔兰㹴	ep qiu uff qtgq	0
-爱尔兰猎狼犬	ep qiu uff qta qty dgty	0
-爱尔兰软毛㹴	ep qiu uff lqw tfn qtgq	0
-爱尔兰水猎犬	ep qiu uff ii qta dgty	0
-爱斯基摩犬	ep adwr ad yssr dgty	2
-澳大利亚㹴	itm dd tjh gog qtgq	0
-澳洲㹴	itm iyt qtgq	0
-澳洲牧牛犬	itm iyt trt rhk dgty	0
-澳洲丝毛㹴	itm iyt xxg tfn qtgq	0
-巴比伦犬	cnh xx wwx dgty	0
-八哥犬	wty sks dgty	1
-巴哥犬	cnh sks dgty	2
-巴吉度猎犬	cnh fk ya qta dgty	1
-巴吉度犬	cnh fk ya dgty	1
-巴赛特猎犬	cnh pfjm trf qta dgty	0
-巴斯克猎犬	cnh adwr dq qta dgty	0
-巴西特犬	cnh sghg trf dgty	0
-巴仙吉犬	cnh wm fk dgty	0
-巴迅犬	cnh nfp dgty	0
-斑点狗	gyg hko qtq	21
-斑点犬	gyg hko dgty	0
-伴侣犬	wuf wkk dgty	0
-半毛犬	uf tfn dgty	0
-北京犬	ux yiu dgty	0
-贝林登㹴	mhny ss wgku qtgq	0
-贝灵顿㹴	mhny vo gbnm qtgq	0
-贝生吉犬	mhny tg fk dgty	0
-毕高犬	xxf ym dgty	0
-比格猎犬	xx st qta dgty	1
-比格犬	xx st dgty	13
-毕格犬	xxf st dgty	0
-比利时牧羊犬	xx tjh jf trt udj dgty	0
-边境㹴	lp fuj qtgq	0
-标准曼彻斯特㹴	sfi uwy jlc tavn adwr trf qtgq	0
-伯德㹴	wr tfl qtgq	0
-伯恩山犬	wr ldn mmm dgty	0
-博美狗	fge ugdu qtq	0
-波美拉尼亚犬	ihc ugdu ru nx gog dgty	0
-博美犬	fge ugdu dgty	8
-波士顿㹴	ihc fghg gbnm qtgq	0
-波士顿狗	ihc fghg gbnm qtq	0
-波音达猎犬	ihc ujf dp qta dgty	0
-查理士王猎犬	sj gj fghg ggg qta dgty	0
-查理士王犬	sj gj fghg ggg dgty	0
-查理士王小猎犬	sj gj fghg ggg ih qta dgty	2
-柴犬	hxs dgty	84
-长毛猎犬	ta tfn qta dgty	0
-长毛牧羊犬	ta tfn trt udj dgty	0
-长须牧羊犬	ta ed trt udj dgty	0
-粗毛牧羊犬	oe tfn trt udj dgty	0
-大白熊犬	dd rrr cexo dgty	0
-大丹犬	dd myd dgty	5
-大麦町	dd gtu lsh	1
-大麦町犬	dd gtu lsh dgty	0
-德国笃宾犬	tfl l tcf pr dgty	0
-德国牧羊犬	tfl l trt udj dgty	10
-蝶耳犬	jan bgh dgty	0
-斗鸡獚	ufk cqy qtaw	0
-斗鸡犬	ufk cqy dgty	0
-斗牛㹴	ufk rhk qtgq	0
-斗牛犬	ufk rhk dgty	39
-杜宾狗	sfg pr qtq	0
-短脚长身㹴	tdg efcb ta tmd qtgq	0
-短脚狄文㹴	tdg efcb qtoy yygy qtgq	0
-短毛猎狐㹴	tdg tfn qta qtr qtgq	0
-俄罗斯猎犬	wtr lq adwr qta dgty	0
-法国斗牛犬	if l ufk rhk dgty	0
-法兰德斯牧牛犬	if uff tfl adwr trt rhk dgty	0
-法老王猎犬	if ftx ggg qta dgty	0
-刚果犬	mqj js dgty	0
-刚毛猎狐㹴	mqj tfn qta qtr qtgq	0
-高地牧羊犬	ym f trt udj dgty	0
-格陵兰犬	st bfw uff dgty	0
-㹴类犬	qtgq od dgty	0
-工作犬	a wt dgty	12
-古典英国牧羊犬	dgh maw amd l trt udj dgty	0
-古英国牧羊犬	dgh amd l trt udj dgty	0
-冠毛犬	pfqf tfn dgty	1
-贵宾犬	khgm pr dgty	8
-贵妇犬	khgm vv dgty	2
-哈巴狗	kwg cnh qtq	49
-哈巴犬	kwg cnh dgty	0
-哈士奇	kwg fghg dskf	281
-荷兰毛狮犬	awsk uff tfn qtjh dgty	0
-蝴蝶犬	jde jan dgty	1
-狐狸犬	qtr qtjf dgty	0
-湖畔㹴	ide luf qtgq	0
-黄金猎犬	amw qqqq qta dgty	1
-黄寻猎犬	amw vf qta dgty	0
-惠比犬特	gjh xx dgty trf	0
-惠比特	gjh xx trf	1
-惠比特犬	gjh xx trf dgty	0
-基斯犬	ad adwr dgty	0
-吉娃娃	fk vff vff	82
-吉娃娃犬	fk vff vff dgty	1
-杰克拉西尔㹴	so dq ru sghg qiu qtgq	0
-金毛猎犬	qqqq tfn qta dgty	2
-金毛寻回犬	qqqq tfn vf lkd dgty	0
-金色猎犬	qqqq qc qta dgty	0
-金丝犬	qqqq xxg dgty	0
-卷毛比雄犬	udbb tfn xx dcw dgty	0
-卷毛寻回犬	udbb tfn vf lkd dgty	0
-凯恩㹴	mnm ldn qtgq	0
-凯莉蓝㹴	mnm atj ajt qtgq	0
-凯利兰㹴	mnm tjh uff qtgq	0
-柯卡	ssk hhu	0
-可卡长毛猎犬	sk hhu ta tfn qta dgty	0
-可卡獚	sk hhu qtaw	0
-可卡猎鹬犬	sk hhu qta cbtg dgty	0
-可卡犬	sk hhu dgty	2
-柯利犬	ssk tjh dgty	0
-克伦伯长猎犬	dq wwx wr ta qta dgty	0
-昆明犬	jx je dgty	3
-拉不拉多	ru i ru qq	2
-拉布拉多猎犬	ru dmh ru qq qta dgty	1
-腊肠狗	eaj enr qtq	5
-腊肠犬	eaj enr dgty	5
-拉萨狗	ru abu qtq	0
-拉萨犬	ru abu dgty	0
-莱卡	ago hhu	345
-狼犬	qty dgty	10
-老式英国牧羊犬	ftx aa amd l trt udj dgty	0
-猎狐犬	qta qtr dgty	4
-猎麋	qta ynjo	0
-猎枪犬	qta swb dgty	0
-猎犬	qta dgty	208
-猎雉犬	qta tdwy dgty	0
-灵缇	vo xjg	6
-路路	kht kht	55
-洛德瓦拉笃宾犬	itk tfl gny ru tcf pr dgty	0
-罗得西亚背脊犬	lq tj sghg gog uxe iwe dgty	0
-罗红犬	lq xa dgty	0
-罗江犬	lq ia dgty	0
-罗威纳	lq dgv xmw	9
-罗威那犬	lq dgv vfb dgty	0
-罗威纳犬	lq dgv xmw dgty	0
-罗威士㹴	lq dgv fghg qtgq	0
-马车犬	cn lg dgty	0
-马尔济斯	cn qiu iyj adwr	3
-玛尔济斯	gcg qiu iyj adwr	0
-马耳济斯犬	cn bgh iyj adwr dgty	0
-马耳他犬	cn bgh wb dgty	0
-马士提夫獒犬	cn fghg rj fw gqtd dgty	0
-马士提夫犬	cn fghg rj fw dgty	0
-曼彻斯特㹴	jlc tavn adwr trf qtgq	0
-美国可卡犬	ugdu l sk hhu dgty	0
-美国史塔副郡㹴	ugdu l kq fawk gkl vtkb qtgq	0
-米格鲁	oy st qgj	4
-米格鲁犬	oy st qgj dgty	0
-迷你宾沙犬	op wq pr iit dgty	0
-迷你笃宾犬	op wq tcf pr dgty	0
-迷你牛头㹴	op wq rhk udi qtgq	0
-迷你史劳策犬	op wq kq apl tgm dgty	0
-迷你史纳莎	op wq kq xmw aiit	0
-迷你雪那瑞	op wq fv vfb gmd	0
-迷你雪娜瑞犬	op wq fv vvf gmd dgty	0
-米尼雪纳瑞犬	oy nx fv xmw gmd dgty	0
-莫罗苏斯犬	ajd lq alw adwr dgty	0
-莫洛索司犬	ajd itk fpx ngk dgty	0
-魔天仙	yssc gd wm	0
-牧场长毛猎犬	trt fnrt ta tfn qta dgty	0
-牡丹犬	trfg myd dgty	0
-牧羊犬	trt udj dgty	91
-南非獒犬	fm djd gqtd dgty	0
-纽芬兰犬	xnf awv uff dgty	1
-牛头㹴	rhk udi qtgq	0
-诺福㹴	yad pyg qtgq	0
-诺里奇㹴	yad jfd dskf qtgq	0
-挪威糜提	rvf dgv ysso rj	0
-挪威糜缇	rvf dgv ysso xjg	0
-帕森拉希尔㹴	mhr sss ru qdm qiu qtgq	0
-彭布罗克歌基犬	fkue dmh lq dq sksw ad dgty	0
-骑士查理王猎犬	cds fghg sj gj ggg qta dgty	0
-枪猎犬	swb qta dgty	0
-秦得圣赫伯特犬	dwt tj cff fof wr trf dgty	0
-秋田犬	to lll dgty	57
-拳师犬	udr jgm dgty	2
-确架獚	dqe lks qtaw	1
-日本狐狸犬	jjjj sg qtr qtjf dgty	0
-日本獚	jjjj sg qtaw	0
-日本秋田犬	jjjj sg to lll dgty	8
-日本狮子犬	jjjj sg qtjh bb dgty	0
-日本跳跳犬	jjjj sg khi khi dgty	0
-日本仲	jjjj sg wkhh	0
-日本狆	jjjj sg qtkh	0
-萨摩犬	abu yssr dgty	0
-萨西克斯长毛猎犬	abu sghg dq adwr ta tfn qta dgty	0
-塞蒙地犬	pfjf apg f dgty	0
-三斑犬	dg gyg dgty	0
-沙克犬	iit dq dgty	0
-沙皮	iit hc	8
-沙皮狗	iit hc qtq	21
-沙皮犬	iit hc dgty	1
-圣伯纳	cff wr xmw	15
-圣伯纳犬	cff wr xmw dgty	1
-狮毛犬	qtjh tfn dgty	0
-史柔查㹴	kq cbts sj qtgq	0
-史塔副郡牛头㹴	kq fawk gkl vtkb rhk udi qtgq	0
-实用犬	pu et dgty	0
-狮子狗	qtjh bb qtq	55
-狩猎犬	qtpf qta dgty	2
-四国犬	lh l dgty	0
-斯开岛㹴	adwr ga qynm qtgq	0
-丝毛㹴	xxg tfn qtgq	0
-松狮	swc qtjh	21
-松狮犬	swc qtjh dgty	0
-松鼠犬	swc vnu dgty	0
-苏俄牧羊犬	alw wtr trt udj dgty	0
-苏俄追踪犬	alw wtr wnnp khp dgty	0
-苏格兰粗毛牧羊犬	alw st uff oe tfn trt udj dgty	0
-苏格兰㹴	alw st uff qtgq	0
-苏格兰牧羊犬	alw st uff trt udj dgty	2
-特兰犬	trf uff dgty	0
-土佐犬	ffff wda dgty	1
-万能㹴	dnv ce qtgq	0
-玩赏犬	gfq ipkm dgty	0
-威尔士㹴	dgv qiu fghg qtgq	0
-威尔斯激飞可卡长毛猎犬	dgv qiu adwr iry nui sk hhu ta tfn qta dgty	0
-威尔斯柯基犬	dgv qiu adwr ssk ad dgty	0
-威尔斯牧畜犬	dgv qiu adwr trt yxl dgty	0
-威玛猎犬	dgv gcg qta dgty	0
-威斯拉犬	dgv adwr ru dgty	0
-沃尔皮诺	itdy qiu hc yad	0
-西伯利亚雪撬犬	sghg wr tjh gog fv rtfn dgty	1
-西伯利亚雪橇犬	sghg wr tjh gog fv stf dgty	0
-西部高地白㹴	sghg uk ym f rrr qtgq	0
-西高地白㹴	sghg ym f rrr qtgq	0
-西高地铁利亚	sghg ym f qr tjh gog	0
-喜乐蒂牧羊犬	fku qi aup trt udj dgty	0
-喜乐蒂犬	fku qi aup dgty	0
-西里汉㹴	sghg jfd ic qtgq	0
-西摩犬	sghg yssr dgty	0
-西帕凯犬	sghg mhr mnm dgty	0
-西施	sghg ytb	534
-西施犬	sghg ytb dgty	0
-西藏㹴	sghg adnt qtgq	0
-小丹犬	ih myd dgty	0
-小猎犬	ih qta dgty	38
-小鹿犬	ih ynj dgty	0
-小史揉查犬	ih kq rcbs sj dgty	0
-小型施诺泽犬	ih gajf ytb yad icf dgty	0
-小型苏格兰犬	ih gajf alw st uff dgty	0
-小型玩赏犬	ih gajf gfq ipkm dgty	0
-小雪娜瑞犬	ih fv vvf gmd dgty	0
-熊狮犬	cexo qtjh dgty	0
-雪达犬	fv dp dgty	0
-雪达犬种	fv dp dgty tkh	0
-雪梨犬	fv tjs dgty	0
-血猎犬	tld qta dgty	1
-寻血猎犬	vf tld qta dgty	3
-英国斗鸡犬	amd l ufk cqy dgty	1
-英国斗牛犬	amd l ufk rhk dgty	4
-英国激飞可卡长毛猎犬	amd l iry nui sk hhu ta tfn qta dgty	0
-英国可卡长毛猎犬	amd l sk hhu ta tfn qta dgty	1
-英国可卡猎鹬犬	amd l sk hhu qta cbtg dgty	1
-英国可卡犬	amd l sk hhu dgty	2
-英国小型猎免犬	amd l ih gajf qta qkq dgty	0
-约克夏	xq dq dht	13
-约克夏㹴	xq dq dht qtgq	0
-约瑟犬	xq ggn dgty	0
-约瑟猩	xq ggn qtjg	0
-指标犬	rxj sfi dgty	0
-中国冠毛犬	k l pfqf tfn dgty	1
-中国冠毛犬犬	k l pfqf tfn dgty dgty	0
-中国食犬	k l wyv dgty	0
-中国狮子犬	k l qtjh bb dgty	0
-中国无毛犬	k l fq tfn dgty	0
-无毛犬	fq tfn dgty	2
-仓鼠	wbb vnu	638
-鹿鹿	ynj ynj	20
-猛虎	qtbl ha	360
-狮狮	qtjh qtjh	2
-兔兔	qkqy qkqy	281
-白红眼	rrr xa hv	0
-白化	rrr wx	182
-白化蛋白石基因	rrr wx nhj rrr dgtg ad ld	0
-彩虹	ese ja	1677
-彩狸	ese qtjf	0
-蛋白石	nhj rrr dgtg	7
-蛋白石基因	nhj rrr dgtg ad ld	0
-蛋白石肉桂基因	nhj rrr dgtg mww sff ad ld	0
-淡雅彩虹	io ahty ese ja	0
-非黄脸蓝系	djd amw ew ajt txi	0
-冠羽	pfqf nny	9
-华乐	wxf qi	12
-华乐蛋白石基因	wxf qi nhj rrr dgtg ad ld	0
-华乐基因	wxf qi ad ld	0
-黄脸	amw ew	21
-黄绿灰翅	amw xv do fcn	0
-灰翅	do fcn	1
-灰翅蛋白石基因	do fcn nhj rrr dgtg ad ld	0
-灰翅基因	do fcn ad ld	0
-灰翅肉桂基因	do fcn mww sff ad ld	0
-肉桂	mww sff	486
-肉桂蛋白石基因	mww sff nhj rrr dgtg ad ld	0
-肉桂隐派基因	mww sff bq ire ad ld	0
-天空蓝灰翅	gd pw ajt do fcn	0
-显派	jo ire	2
-隐派	bq ire	4
-隐派基因	bq ire ad ld	0
-鱼鳞	qgf qgo	188
-原始蓝	dr vck ajt	0
-原始绿	dr vck xv	0
-珍珠	gw gr	1407
-边境牧羊犬	lp fuj trt udj dgty	0
-凯利蓝梗	mnm tjh ajt sgjq	0
-可蒙犬	sk apg dgty	0
-马尔济斯犬	cn qiu iyj adwr dgty	0
-日本银狐	jjjj sg qve qtr	0
-萨摩耶犬	abu yssr bbh dgty	0
-苏格兰梗	alw st uff sgjq	1
-西伯利亚哈士奇	sghg wr tjh gog kwg fghg dskf	1
-雪纳瑞	fv xmw gmd	10
-英国古代牧羊犬	amd l dgh wa trt udj dgty	0
-藏獒	adnt gqtd	209
-暗脉菜粉蝶	ju eyni ae ow jan	0
-巴黎翠凤蝶	cnh tqt nywf mc jan	0
-白带凤蝶	rrr gkp mc jan	0
-白点褐蚬蝶	rrr hko pujn jmq jan	0
-白角星弄蝶	rrr qe jtg gaj jan	0
-白弄蝶	rrr gaj jan	0
-白室蚬蝶	rrr pgc jmq jan	0
-白蚬蝶	rrr jmq jan	0
-斑凤蝶	gyg mc jan	0
-宝镜凤蝶	pgy quj mc jan	0
-报喜斑粉蝶	rb fku gyg ow jan	0
-碧凤蝶	grd mc jan	0
-檗黄粉蝶	nkus amw ow jan	0
-布莱荫眼蝶	dmh ago abe hv jan	0
-长尾青凤蝶	ta ntf gef mc jan	0
-长须蝶	ta ed jan	0
-橙翅方粉蝶	swgu fcn yy ow jan	0
-橙粉蝶	swgu ow jan	0
-橙黄豆粉蝶	swgu amw gku ow jan	0
-赤顶粉蝶	fo sdm ow jan	0
-齿缘红蛱蝶	hwb xxe xa jgu jan	0
-串珠环蝶	kkh gr ggi jan	0
-槌果藤粉蝶	swn js aeu ow jan	0
-粗纹青斑蝶	oe xyy gef gyg jan	0
-翠袖锯眼蝶	nywf pum qnd hv jan	0
-大翅绢粉蝶	dd fcn xke ow jan	0
-大绢斑蝶	dd xke gyg jan	0
-大伞弄蝶	dd wuh gaj jan	0
-大透翅斑蝶	dd tep fcn gyg jan	0
-大纹白粉蝶	dd xyy rrr ow jan	0
-大紫蛱蝶	dd hxx jgu jan	0
-淡纹青斑蝶	io xyy gef gyg jan	0
-地珠环蝶	f gr ggi jan	0
-电蛱蝶	jn jgu jan	0
-颠眼蝶	fhwm hv jan	0
-东方菜粉蝶	ai yy ae ow jan	0
-东亚矍眼蝶	ai gog hhw hv jan	0
-多型凤蝶	qq gajf mc jan	0
-峨眉大弄蝶	mtr nhd dd gaj jan	0
-二尾蛱蝶	fg ntf jgu jan	0
-飞龙粉蝶	nui dx ow jan	0
-凤蝶	mc jan	16
-凤尾青凤蝶	mc ntf gef mc jan	0
-凤眼方环蝶	mc hv yy ggi jan	0
-柑橘凤蝶	saf scbk mc jan	0
-果神粉蝶	js pyj ow jan	0
-鹤顶粉蝶	pwy sdm ow jan	0
-合欢黄粉蝶	wgk cqw amw ow jan	0
-黑斑伞弄蝶	lfo gyg wuh gaj jan	0
-黑豹弄蝶	lfo eeqy gaj jan	0
-黑点菜粉蝶	lfo hko ae ow jan	0
-黑点小粉蝶	lfo hko ih ow jan	0
-黑凤蝶	lfo mc jan	1
-黑绢斑蝶	lfo xke gyg jan	0
-黑流蛱蝶	lfo iyc jgu jan	0
-黑脉桦斑蝶	lfo eyni swx gyg jan	0
-黑脉园粉蝶	lfo eyni lfq ow jan	0
-黑燕尾蚬蝶	lfo au ntf jmq jan	0
-横纹环蝶	sam xyy ggi jan	0
-红灰蝶	xa do jan	0
-红襟粉蝶	xa pus ow jan	0
-红锯蛱蝶	xa qnd jgu jan	0
-红裙凤蝶	xa puvk mc jan	0
-红纹凤蝶	xa xyy mc jan	0
-红缘凤蝶	xa xxe mc jan	0
-红缘灰蝶	xa xxe do jan	0
-红珠凤蝶	xa gr mc jan	0
-虎斑蝶	ha gyg jan	3
-虎纹斑蝶	ha xyy gyg jan	0
-虎纹剑尾凤蝶	ha xyy wgi ntf mc jan	0
-虎纹针凤蝶	ha xyy qf mc jan	0
-桦斑蝶	swx gyg jan	0
-花椒凤蝶	awx shi mc jan	0
-幻紫斑蝶	xnn hxx gyg jan	0
-黄带褐蚬蝶	amw gkp pujn jmq jan	0
-黄凤蝶	amw mc jan	0
-黄扇蝶	amw ynnd jan	0
-黄裳凤蝶	amw ipke mc jan	0
-黄帅蛱蝶	amw jmh jgu jan	0
-灰翅串珠环蝶	do fcn kkh gr ggi jan	0
-尖翅弄蝶	id fcn gaj jan	0
-尖翅银灰蝶	id fcn qve do jan	0
-箭环蝶	tue ggi jan	0
-姜黄弄蝶	ugv amw gaj jan	0
-金斑蝶	qqqq gyg jan	0
-金凤蝶	qqqq mc jan	0
-金扇凤蝶	qqqq ynnd mc jan	0
-金裳凤蝶	qqqq ipke mc jan	0
-锯粉蝶	qnd ow jan	0
-绢斑蝶	xke gyg jan	0
-枯叶蝶	sd kf jan	1
-枯叶蛱蝶	sd kf jgu jan	0
-宽边黄粉蝶	pa lp amw ow jan	0
-宽带黛眼蝶	pa gkp wal hv jan	0
-宽带凤蝶	pa gkp mc jan	0
-宽带青凤蝶	pa gkp gef mc jan	0
-宽尾凤蝶	pa ntf mc jan	0
-莱灰蝶	ago do jan	0
-蓝点紫斑蝶	ajt hko hxx gyg jan	0
-蓝凤蝶	ajt mc jan	0
-楞凤蝶	sl mc jan	0
-梨花粉蝶	tjs awx ow jan	0
-梨花迁粉蝶	tjs awx tfp ow jan	0
-连纹黛眼蝶	lpk xyy wal hv jan	0
-裂斑金灰蝶	gqje gyg qqqq do jan	0
-琉璃波纹小灰蝶	gyc gyb ihc xyy ih do jan	0
-琉璃纹凤蝶	gyc gyb xyy mc jan	0
-绿斑凤蝶	xv gyg mc jan	0
-绿凤蝶	xv mc jan	0
-绿灰蝶	xv do jan	0
-美凤蝶	ugdu mc jan	0
-迷蛱蝶	op jgu jan	1
-密纱眉眼蝶	pnt xi nhd hv jan	0
-密纹飒弄蝶	pnt xyy umqy gaj jan	0
-木兰青凤蝶	ssss uff gef mc jan	0
-拟斑凤蝶	rny gyg mc jan	0
-拟幻紫斑蝶	rny xnn hxx gyg jan	0
-拟旖斑蝶	rny ytdk gyg jan	0
-浓紫彩灰蝶	ipe hxx ese do jan	0
-朴喙蝶	shy kxe jan	0
-迁粉蝶	tfp ow jan	0
-牵牛灰蝶	dpr rhk do jan	0
-青斑蝶	gef gyg jan	0
-青城箭环蝶	gef fd tue ggi jan	0
-青凤蝶	gef mc jan	0
-蜻蜓蝶	jgeg jtfp jan	0
-曲纹袖弄蝶	ma xyy pum gaj jan	0
-啬青斑蝶	fulk gef gyg jan	0
-僧袈眉眼蝶	wul lky nhd hv jan	0
-裳凤蝶	ipke mc jan	0
-蛇目褐蚬蝶	jpx hhhh pujn jmq jan	0
-榺凤蝶	euds mc jan	0
-鼠李粉蝶	vnu sb ow jan	0
-双色带蛱蝶	cc qc gkp jgu jan	0
-双尾蛱蝶	cc ntf jgu jan	0
-双星箭环蝶	cc jtg tue ggi jan	0
-双眼蚬蝶	cc hv jmq jan	0
-丝链荫眼蝶	xxg qlp abe hv jan	0
-碎斑凤蝶	dyw gyg mc jan	0
-碎斑青凤蝶	dyw gyg gef mc jan	0
-藤粉蝶	aeu ow jan	0
-藤果蚬蝶	aeu js jmq jan	0
-天狗蝶	gd qtq jan	0
-铁刀木粉蝶	qr vn ssss ow jan	0
-铁木莱异灰蝶	qr ssss ago naj do jan	0
-铁锈灰蝶	qr qten do jan	0
-统帅青凤蝶	xyc jmh gef mc jan	0
-透翅斑蝶	tep fcn gyg jan	0
-桅子灰蝶	sqd bb do jan	0
-纹环蝶	xyy ggi jan	0
-无尾灰蝶	fq ntf do jan	0
-乌鸦凤蝶	qng ahtg mc jan	0
-无趾弄蝶	fq khh gaj jan	0
-细纹青斑蝶	xl xyy gef gyg jan	0
-西藏翠蛱蝶	sghg adnt nywf jgu jan	0
-纤粉蝶	xtf ow jan	0
-小青凤蝶	ih gef mc jan	0
-小透翅斑蝶	ih tep fcn gyg jan	0
-斜带缺尾蚬蝶	wtuf gkp rmn ntf jmq jan	0
-猩灰蝶	qtjg do jan	0
-蚜灰蝶	jah do jan	0
-雅灰蝶	ahty do jan	0
-燕凤蝶	au mc jan	0
-烟环蝶	ol ggi jan	0
-瑶凤蝶	ger mc jan	0
-椰眼蝶	sbb hv jan	0
-异型紫斑蝶	naj gajf hxx gyg jan	0
-银白蛱蝶	qve rrr jgu jan	0
-银线灰蝶	qve xg do jan	0
-玉斑凤蝶	gy gyg mc jan	0
-玉带蝶	gy gkp jan	0
-玉带凤蝶	gy gkp mc jan	0
-鱼纹环蝶	qgf xyy ggi jan	0
-圆翅钩粉蝶	lkmi fcn qqc ow jan	0
-圆弧蛱蝶	lkmi xrc jgu jan	0
-月纹矩环蝶	eee xyy tda ggi jan	0
-窄斑翠凤蝶	pwtf gyg nywf mc jan	0
-樟青凤蝶	suj gef mc jan	0
-赭灰蝶	fofj do jan	0
-甄蝶	sfgn jan	0
-苎麻斑蛱蝶	apgf yss gyg jgu jan	0
-苎麻珍蝶	apgf yss gw jan	0
-竹蚜小灰蝶	ttg jah ih do jan	0
-紫端斑蝶	hxx umd gyg jan	0
-紫线黛眼蝶	hxx xg wal hv jan	0
-棕脉粉蝶	sp eyni ow jan	0
-阿拉斯加马拉密犬	bs ru adwr lk cn ru pnt dgty	0
-阿拉斯加马拉缪特犬	bs ru adwr lk cn ru xnw trf dgty	0
-大型犬	dd gajf dgty	61
-短毛阿拉斯加	tdg tfn bs ru adwr lk	0
-短毛阿拉斯加雪橇犬	tdg tfn bs ru adwr lk fv stf dgty	0
-短毛标准阿拉斯加	tdg tfn sfi uwy bs ru adwr lk	0
-短毛正常毛质阿拉斯加	tdg tfn ghd ipkh tfn rfm bs ru adwr lk	0
-福犬	pyg dgty	0
-雪橇犬	fv stf dgty	20
-菜粉蝶	ae ow jan	6
-单环蛱蝶	ujfj ggi jgu jan	0
-黑弄蝶	lfo gaj jan	0
-蛱蝶	jgu jan	12
-双环蛱蝶	cc ggi jgu jan	0
-眼碟	hv dan	0
-阿比西尼亚猫	bs xx sghg nx gog qtal	2
-埃及猫	fct ey qtal	1
-奥西猫	tmo sghg qtal	0
-巴厘猫	cnh djfd qtal	0
-伯曼猫	wr jlc qtal	0
-波斯猫	ihc adwr qtal	60
-布偶猫	dmh wjm qtal	29
-田园猫	lll lfq qtal	14
-德文卷毛猫	tfl yygy udbb tfn qtal	28
-电烫卷猫	jn inro udbb qtal	0
-东方短毛猫	ai yy tdg tfn qtal	0
-东奇尼猫	ai dskf nx qtal	0
-俄罗斯蓝猫	wtr lq adwr ajt qtal	2
-哈瓦那棕猫	kwg gny vfb sp qtal	0
-加拿大无毛猫	lk wgkr dd fq tfn qtal	1
-无毛猫	fq tfn qtal	13
-金吉拉	qqqq fk ru	10
-科拉特猫	tu ru trf qtal	0
-柯尼斯卷毛猫	ssk nx adwr udbb tfn qtal	0
-褴褛猫	pujl puo qtal	1
-狸猫	qtjf qtal	145
-狸花猫	qtjf awx qtal	30
-曼岛无尾猫	jlc qynm fq ntf qtal	0
-美国短毛猫	ugdu l tdg tfn qtal	3
-美国短尾猫	ugdu l tdg ntf qtal	0
-美国卷耳猫	ugdu l udbb bgh qtal	0
-美国硬毛猫	ugdu l dgj tfn qtal	0
-孟买猫	blf nudu qtal	2
-缅甸猫	xdmd ql qtal	0
-缅因猫	xdmd ld qtal	18
-挪威森林猫	rvf dgv sss ss qtal	1
-日本短尾猫	jjjj sg tdg ntf qtal	0
-三花猫	dg awx qtal	9
-山东狮子猫	mmm ai qtjh bb qtal	0
-狮子猫	qtjh bb qtal	3
-四川简州猫	lh kthh tuj ytyh qtal	0
-斯可可猫	adwr sk sk qtal	0
-苏格兰折耳猫	alw st uff rr bgh qtal	4
-索马里猫	fpx cn jfd qtal	0
-土耳其安哥拉猫	ffff bgh adw pv sks ru qtal	1
-土耳其梵猫	ffff bgh adw ssm qtal	0
-西伯利亚猫	sghg wr tjh gog qtal	5
-喜马拉雅猫	fku cn ru ahty qtal	3
-夏特尔猫	dht trf qiu qtal	0
-暹罗猫	jwy lq qtal	24
-新加坡猫	usr lk fhc qtal	0
-玄猫	yxu qtal	2
-异国短毛猫	naj l tdg tfn qtal	5
-英国短毛猫	amd l tdg tfn qtal	7
-云猫	fcu qtal	31
-重点色短毛猫	tgj hko qc tdg tfn qtal	0
-金渐层	qqqq il nfc	3
-银渐层	qve il nfc	12
-黑渐层	lfo il nfc	0
-白渐层	rrr il nfc	0
-虎斑猫	ha gyg qtal	5
+阿拉斯加雪撬犬	ioka dgla txsi okji nfxu duuu wqua	0
+阿拉斯加雪橇犬	ioka dgla txsi okji nfxu xuuu wqua	2
+爱尔兰长毛水狗	euff aier gwla mqdv umao cshu wakg	0
+爱尔兰猎狼犬	euff aier gwla wrnl wvfy wqua	0
+爱尔兰水猎犬	euff aier gwla cshu wrnl wqua	0
+爱斯基摩犬	euff txsi tbji hxdm wqua	2
+澳洲牧牛犬	cmus cicz wfmu wniu wqua	0
+巴比伦犬	wba hbi sshl wqua	0
+八哥犬	iba okok wqua	1
+巴哥犬	wba okok wqua	2
+巴吉度猎犬	wba bkji hrfd wrnl wqua	1
+巴吉度犬	wba bkji hrfd wqua	1
+巴赛特猎犬	wba pria wbft wrnl wqua	0
+巴斯克猎犬	wba txsi mhke wrnl wqua	0
+巴西特犬	wba exi wbft wqua	0
+巴仙吉犬	wba sixi bkji wqua	0
+巴迅犬	wba dpgx wqua	0
+斑点狗	flfb vkvd wakg	21
+斑点犬	flfb vkvd wqua	0
+伴侣犬	sidb skkl wqua	0
+半毛犬	idba umao wqua	0
+北京犬	thbe piji wqua	0
+贝生吉犬	abei hshe bkji wqua	0
+毕高犬	hpbi pukg wqua	0
+比格猎犬	hbi xfkg wrnl wqua	1
+比格犬	hbi xfkg wqua	13
+毕格犬	hpbi xfkg wqua	0
+比利时牧羊犬	hbi ozli nfsh wfmu wyan wqua	0
+伯恩山犬	scba ksje isha wqua	0
+博美狗	pbfb wsme wakg	0
+波美拉尼亚犬	cubo wsme dgla hhni qrya wqua	0
+博美犬	pbfb wsme wqua	8
+波士顿狗	cubo bshi rfad wakg	0
+波音达猎犬	cubo gnyi sgda wrnl wqua	0
+查理士王猎犬	xnch fywl bshi fwan wrnl wqua	0
+查理士王犬	xnch fywl bshi fwan wqua	0
+查理士王小猎犬	xnch fywl bshi fwan ixia wrnl wqua	2
+柴犬	ghxc wqua	84
+长毛猎犬	mqdv umao wrnl wqua	0
+长毛牧羊犬	mqdv umao wfmu wyan wqua	0
+长须牧羊犬	mqdv ufax wfmu wyan wqua	0
+粗毛牧羊犬	otcu umao wfmu wyan wqua	0
+大白熊犬	sda cbai jmhv wqua	0
+大丹犬	sda ulda wqua	5
+大麦町	sda rfma bodi	1
+大麦町犬	sda rfma bodi wqua	0
+德国笃宾犬	gpoj kfvg twdu piib wqua	0
+德国牧羊犬	gpoj kfvg wfmu wyan wqua	10
+蝶耳犬	erdx jer wqua	0
+斗鸡犬	npdo feji wqua	0
+斗牛犬	npdo wniu wqua	39
+杜宾狗	xbdu piib wakg	0
+俄罗斯猎犬	smdv onlu txsi wrnl wqua	0
+法国斗牛犬	cbjf kfvg npdo wniu wqua	0
+法兰德斯牧牛犬	cbjf gwla gpoj txsi wfmu wniu wqua	0
+法老王猎犬	cbjf hhla fwan wrnl wqua	0
+刚果犬	urzg nxgu wqua	0
+高地牧羊犬	pukg b wfmu wyan wqua	0
+格陵兰犬	xfkg ibif gwla wqua	0
+工作犬	dgon stlw wqua	12
+古典英国牧羊犬	mgu urid rusy kfvg wfmu wyan wqua	0
+古英国牧羊犬	mgu rusy kfvg wfmu wyan wqua	0
+冠毛犬	uqhf umao wqua	1
+贵宾犬	klqa piib wqua	8
+贵妇犬	klqa affu wqua	2
+哈巴狗	kskh wba wakg	49
+哈巴犬	kskh wba wqua	0
+哈士奇	kskh bshi sokj	281
+荷兰毛狮犬	rsok gwla umao wiqy wqua	0
+蝴蝶犬	emmh erdx wqua	1
+狐狸犬	wohu wywl wqua	0
+黄金猎犬	rbih zjin wrnl wqua	1
+黄寻猎犬	rbih ffxu wrnl wqua	0
+惠比犬特	ujhu hbi wqua wbft	0
+惠比特	ujhu hbi wbft	1
+惠比特犬	ujhu hbi wbft wqua	0
+基斯犬	tbji txsi wqua	0
+吉娃娃	bkji abbw abbw	82
+吉娃娃犬	bkji abbw abbw wqua	1
+金毛猎犬	zjin umao wrnl wqua	2
+金毛寻回犬	zjin umao ffxu khui wqua	0
+金色猎犬	zjin awse wrnl wqua	0
+金丝犬	zjin usi wqua	0
+卷毛比雄犬	gsjj umao hbi fjex wqua	0
+卷毛寻回犬	gsjj umao ffxu khui wqua	0
+柯卡	xokk vvka	0
+可卡长毛猎犬	okke vvka mqdv umao wrnl wqua	0
+可卡猎鹬犬	okke vvka wrnl fmue wqua	0
+可卡犬	okke vvka wqua	2
+柯利犬	xokk ozli wqua	0
+克伦伯长猎犬	mhke sshl scba mqdv wrnl wqua	0
+昆明犬	nhku nmmi wqua	3
+拉不拉多	dgla i dgla nndu	2
+拉布拉多猎犬	dgla fybu dgla nndu wrnl wqua	1
+腊肠狗	mrnl mdmm wakg	5
+腊肠犬	mrnl mdmm wqua	5
+拉萨狗	dgla rigm wakg	0
+拉萨犬	dgla rigm wqua	0
+莱卡	rxil vvka	345
+狼犬	wvfy wqua	10
+老式英国牧羊犬	hhla udsh rusy kfvg wfmu wyan wqua	0
+猎狐犬	wrnl wohu wqua	4
+猎麋	wrnl womi	0
+猎枪犬	wrnl xsjq wqua	0
+猎犬	wrnl wqua	208
+猎雉犬	wrnl tezh wqua	0
+灵缇	fvli ungt	6
+路路	gfkl gfkl	55
+洛德瓦拉笃宾犬	cfkl gpoj owa dgla twdu piib wqua	0
+罗得西亚背脊犬	onlu g exi qrya thmb csmj wqua	0
+罗红犬	onlu udho wqua	0
+罗江犬	onlu cdji wqua	0
+罗威纳	onlu zawe uusn	9
+罗威那犬	onlu zawe ddin wqua	0
+罗威纳犬	onlu zawe uusn wqua	0
+马车犬	wma gche wqua	0
+马尔济斯	wma aier clij txsi	3
+玛尔济斯	fwma aier clij txsi	0
+马耳济斯犬	wma jer clij txsi wqua	0
+马耳他犬	wma jer slta wqua	0
+马士提夫獒犬	wma bshi dngd wsfu rafw wqua	0
+马士提夫犬	wma bshi dngd wsfu wqua	0
+美国可卡犬	wsme kfvg okke vvka wqua	0
+米格鲁	omi xfkg qnlu	4
+米格鲁犬	omi xfkg qnlu wqua	0
+迷你宾沙犬	ogmi s piib cish wqua	0
+迷你笃宾犬	ogmi s twdu piib wqua	0
+迷你史劳策犬	ogmi s krsh ruol txuc wqua	0
+迷你史纳莎	ogmi s krsh uusn rcis	0
+迷你雪那瑞	ogmi s nfxu ddin filr	0
+迷你雪娜瑞犬	ogmi s nfxu addi filr wqua	0
+米尼雪纳瑞犬	omi hhni nfxu uusn filr wqua	0
+莫罗苏斯犬	rnsm onlu rois txsi wqua	0
+莫洛索司犬	rnsm cfkl puus dksi wqua	0
+魔天仙	hxcj ntia sixi	0
+牧场长毛猎犬	wfmu bdmm mqdv umao wrnl wqua	0
+牡丹犬	wbmu ulda wqua	0
+牧羊犬	wfmu wyan wqua	91
+南非獒犬	pugp efei rafw wqua	0
+纽芬兰犬	udbn rizf gwla wqua	1
+挪威糜提	dddi zawe hxom dngd	0
+挪威糜缇	dddi zawe hxom ungt	0
+彭布罗克歌基犬	oupe fybu onlu mhke okos tbji wqua	0
+骑士查理王猎犬	wsok bshi xnch fywl fwan wrnl wqua	0
+枪猎犬	xsjq wrnl wqua	0
+秦得圣赫伯特犬	esoq g fbsh bvbv scba wbft wqua	0
+秋田犬	ovqi btia wqua	57
+拳师犬	gsdq iqys wqua	2
+日本狐狸犬	nri xben wohu wywl wqua	0
+日本秋田犬	nri xben ovqi btia wqua	8
+日本狮子犬	nri xben wiqy hzi wqua	0
+日本跳跳犬	nri xben ghct ghct wqua	0
+日本仲	nri xben sklz	0
+萨摩犬	rigm hxdm wqua	0
+萨西克斯长毛猎犬	rigm exi mhke txsi mqdv umao wrnl wqua	0
+塞蒙地犬	prib ruqw b wqua	0
+三斑犬	esan flfb wqua	0
+沙克犬	cish mhke wqua	0
+沙皮	cish upi	8
+沙皮狗	cish upi wakg	21
+沙皮犬	cish upi wqua	1
+圣伯纳	fbsh scba uusn	15
+圣伯纳犬	fbsh scba uusn wqua	1
+狮毛犬	wiqy umao wqua	0
+实用犬	pjsh oyon wqua	0
+狮子狗	wiqy hzi wakg	55
+狩猎犬	wpfs wrnl wqua	2
+四国犬	rsi kfvg wqua	0
+松狮	xijs wiqy	21
+松狮犬	xijs wiqy wqua	0
+松鼠犬	xijs wshu wqua	0
+苏俄牧羊犬	rois smdv wfmu wyan wqua	0
+苏俄追踪犬	rois smdv migz gpvz wqua	0
+苏格兰粗毛牧羊犬	rois xfkg gwla otcu umao wfmu wyan wqua	0
+苏格兰牧羊犬	rois xfkg gwla wfmu wyan wqua	2
+特兰犬	wbft gwla wqua	0
+土佐犬	btu sfdz wqua	1
+玩赏犬	fqhw iash wqua	0
+威尔斯激飞可卡长毛猎犬	zawe aier txsi cclf efei okke vvka mqdv umao wrnl wqua	0
+威尔斯柯基犬	zawe aier txsi xokk tbji wqua	0
+威尔斯牧畜犬	zawe aier txsi wfmu lubc wqua	0
+威玛猎犬	zawe fwma wrnl wqua	0
+威斯拉犬	zawe txsi dgla wqua	0
+沃尔皮诺	cmsw aier upi lrfk	0
+西伯利亚雪撬犬	exi scba ozli qrya nfxu duuu wqua	1
+西伯利亚雪橇犬	exi scba ozli qrya nfxu xuuu wqua	0
+西高地铁利亚	exi pukg b ztst ozli qrya	0
+喜乐蒂牧羊犬	okxi hile ryuy wfmu wyan wqua	0
+喜乐蒂犬	okxi hile ryuy wqua	0
+西摩犬	exi hxdm wqua	0
+西帕凯犬	exi ycpa ijxk wqua	0
+西施	exi ltls	534
+西施犬	exi ltls wqua	0
+小丹犬	ixia ulda wqua	0
+小猎犬	ixia wrnl wqua	38
+小鹿犬	ixia wlu wqua	0
+小史揉查犬	ixia krsh dfmx xnch wqua	0
+小型施诺泽犬	ixia qrzb ltls lrfk cfdz wqua	0
+小型苏格兰犬	ixia qrzb rois xfkg gwla wqua	0
+小型玩赏犬	ixia qrzb fqhw iash wqua	0
+小雪娜瑞犬	ixia nfxu addi filr wqua	0
+熊狮犬	jmhv wiqy wqua	0
+雪达犬	nfxu sgda wqua	0
+雪达犬种	nfxu sgda wqua oklc	0
+雪梨犬	nfxu ozxl wqua	0
+血猎犬	moxi wrnl wqua	1
+寻血猎犬	ffxu moxi wrnl wqua	3
+英国斗鸡犬	rusy kfvg npdo feji wqua	1
+英国斗牛犬	rusy kfvg npdo wniu wqua	4
+英国激飞可卡长毛猎犬	rusy kfvg cclf efei okke vvka mqdv umao wrnl wqua	0
+英国可卡长毛猎犬	rusy kfvg okke vvka mqdv umao wrnl wqua	1
+英国可卡猎鹬犬	rusy kfvg okke vvka wrnl fmue wqua	1
+英国可卡犬	rusy kfvg okke vvka wqua	2
+英国小型猎免犬	rusy kfvg ixia qrzb wrnl akhm wqua	0
+约克夏	uavy mhke fjfx	13
+约瑟犬	uavy ffjm wqua	0
+约瑟猩	uavy ffjm wnhx	0
+指标犬	dhnz xvbi wqua	0
+中国冠毛犬	k kfvg uqhf umao wqua	1
+中国冠毛犬犬	k kfvg uqhf umao wqua wqua	0
+中国食犬	k kfvg oshi wqua	0
+中国狮子犬	k kfvg wiqy hzi wqua	0
+中国无毛犬	k kfvg whmo umao wqua	0
+无毛犬	whmo umao wqua	2
+仓鼠	sjca wshu	638
+鹿鹿	wlu wlu	20
+猛虎	whom wxhu	360
+狮狮	wiqy wiqy	2
+兔兔	akhv akhv	281
+白红眼	cbai udho jfyy	0
+白化	cbai shhu	182
+白化蛋白石基因	cbai shhu dged cbai fdan tbji ksyi	0
+彩虹	exuc edho	1677
+彩狸	exuc wywl	0
+蛋白石	dged cbai fdan	7
+蛋白石基因	dged cbai fdan tbji ksyi	0
+蛋白石肉桂基因	dged cbai fdan ussr xbbg tbji ksyi	0
+淡雅彩虹	cvvd jeya exuc edho	0
+非黄脸蓝系	efei rbih msli rjto muji	0
+冠羽	uqhf uyu	9
+华乐	shph hile	12
+华乐蛋白石基因	shph hile dged cbai fdan tbji ksyi	0
+华乐基因	shph hile tbji ksyi	0
+黄脸	rbih msli	21
+黄绿灰翅	rbih ufcl fvhu pfuc	0
+灰翅	fvhu pfuc	1
+灰翅蛋白石基因	fvhu pfuc dged cbai fdan tbji ksyi	0
+灰翅基因	fvhu pfuc tbji ksyi	0
+灰翅肉桂基因	fvhu pfuc ussr xbbg tbji ksyi	0
+肉桂	ussr xbbg	486
+肉桂蛋白石基因	ussr xbbg dged cbai fdan tbji ksyi	0
+肉桂隐派基因	ussr xbbg iafj chmy tbji ksyi	0
+天空蓝灰翅	ntia pdko rjto fvhu pfuc	0
+显派	nrxi chmy	2
+隐派	iafj chmy	4
+隐派基因	iafj chmy tbji ksyi	0
+鱼鳞	qyu qong	188
+原始蓝	hciy ajks rjto	0
+原始绿	hciy ajks ufcl	0
+珍珠	fsuz fmxz	1407
+边境牧羊犬	ogbi bgnh wfmu wyan wqua	0
+凯利蓝梗	ijxk ozli rjto xqnr	0
+可蒙犬	okke ruqw wqua	0
+马尔济斯犬	wma aier clij txsi wqua	0
+日本银狐	nri xben zfyy wohu	0
+萨摩耶犬	rigm hxdm jiye wqua	0
+苏格兰梗	rois xfkg gwla xqnr	1
+西伯利亚哈士奇	exi scba ozli qrya kskh bshi sokj	1
+雪纳瑞	nfxu uusn filr	10
+英国古代牧羊犬	rusy kfvg mgu suda wfmu wyan wqua	0
+藏獒	rtzj rafw	209
+暗脉菜粉蝶	ngna mvdc rexc oizf erdx	0
+巴黎翠凤蝶	wba oamc ulsp xffe erdx	0
+白带凤蝶	cbai rluy xffe erdx	0
+白点褐蚬蝶	cbai vkvd ynad euhx erdx	0
+白角星弄蝶	cbai aoji nhxi frlo erdx	0
+白弄蝶	cbai frlo erdx	0
+白室蚬蝶	cbai pqjb euhx erdx	0
+白蚬蝶	cbai euhx erdx	0
+斑凤蝶	flfb xffe erdx	0
+宝镜凤蝶	pfvb zgnh xffe erdx	0
+报喜斑粉蝶	djfb okxi flfb oizf erdx	0
+碧凤蝶	fcfb xffe erdx	0
+檗黄粉蝶	hkgx rbih oizf erdx	0
+布莱荫眼蝶	fybu rxil rimy jfyy erdx	0
+长尾青凤蝶	mqdv huwe rmqi xffe erdx	0
+长须蝶	mqdv ufax erdx	0
+橙翅方粉蝶	xgoc pfuc lfan oizf erdx	0
+橙粉蝶	xgoc oizf erdx	0
+橙黄豆粉蝶	xgoc rbih odou oizf erdx	0
+赤顶粉蝶	bvch ofad oizf erdx	0
+齿缘红蛱蝶	jchi uwwy udho esgj erdx	0
+串珠环蝶	kklc fmxz fihu erdx	0
+槌果藤粉蝶	xmig nxgu rmgc oizf erdx	0
+粗纹青斑蝶	otcu ulwe rmqi flfb erdx	0
+翠袖锯眼蝶	ulsp ybxi zhmj jfyy erdx	0
+大翅绢粉蝶	sda pfuc ukmj oizf erdx	0
+大绢斑蝶	sda ukmj flfb erdx	0
+大伞弄蝶	sda sips frlo erdx	0
+大透翅斑蝶	sda olgt pfuc flfb erdx	0
+大纹白粉蝶	sda ulwe cbai oizf erdx	0
+大紫蛱蝶	sda ghuz esgj erdx	0
+淡纹青斑蝶	cvvd ulwe rmqi flfb erdx	0
+地珠环蝶	b fmxz fihu erdx	0
+电蛱蝶	nddi esgj erdx	0
+颠眼蝶	ptia jfyy erdx	0
+东方菜粉蝶	uido lfan rexc oizf erdx	0
+东亚矍眼蝶	uido qrya jjef jfyy erdx	0
+多型凤蝶	nndu qrzb xffe erdx	0
+峨眉大弄蝶	imdv hljm sda frlo erdx	0
+二尾蛱蝶	wer huwe esgj erdx	0
+飞龙粉蝶	efei wmlo oizf erdx	0
+凤蝶	xffe erdx	16
+凤尾青凤蝶	xffe huwe rmqi xffe erdx	0
+凤眼方环蝶	xffe jfyy lfan fihu erdx	0
+柑橘凤蝶	xrwg xfmk xffe erdx	0
+果神粉蝶	nxgu vnls oizf erdx	0
+鹤顶粉蝶	ueeh ofad oizf erdx	0
+合欢黄粉蝶	skge fshu rbih oizf erdx	0
+黑斑伞弄蝶	vhei flfb sips frlo erdx	0
+黑豹弄蝶	vhei wavb frlo erdx	0
+黑点菜粉蝶	vhei vkvd rexc oizf erdx	0
+黑点小粉蝶	vhei vkvd ixia oizf erdx	0
+黑凤蝶	vhei xffe erdx	1
+黑绢斑蝶	vhei ukmj flfb erdx	0
+黑流蛱蝶	vhei cljc esgj erdx	0
+黑脉桦斑蝶	vhei mvdc xshp flfb erdx	0
+黑脉园粉蝶	vhei mvdc kqhy oizf erdx	0
+黑燕尾蚬蝶	vhei rktv huwe euhx erdx	0
+横纹环蝶	xrbi ulwe fihu erdx	0
+红灰蝶	udho fvhu erdx	0
+红襟粉蝶	udho yxvj oizf erdx	0
+红锯蛱蝶	udho zhmj esgj erdx	0
+红裙凤蝶	udho yfkq xffe erdx	0
+红纹凤蝶	udho ulwe xffe erdx	0
+红缘凤蝶	udho uwwy xffe erdx	0
+红缘灰蝶	udho uwwy fvhu erdx	0
+红珠凤蝶	udho fmxz xffe erdx	0
+虎斑蝶	wxhu flfb erdx	3
+虎纹斑蝶	wxhu ulwe flfb erdx	0
+虎纹剑尾凤蝶	wxhu ulwe szji huwe xffe erdx	0
+虎纹针凤蝶	wxhu ulwe zpzh xffe erdx	0
+桦斑蝶	xshp flfb erdx	0
+花椒凤蝶	rshh xvif xffe erdx	0
+幻紫斑蝶	udhu ghuz flfb erdx	0
+黄带褐蚬蝶	rbih rluy ynad euhx erdx	0
+黄凤蝶	rbih xffe erdx	0
+黄扇蝶	rbih push erdx	0
+黄裳凤蝶	rbih iysh xffe erdx	0
+黄帅蛱蝶	rbih iysh esgj erdx	0
+灰翅串珠环蝶	fvhu pfuc kklc fmxz fihu erdx	0
+尖翅弄蝶	isji pfuc frlo erdx	0
+尖翅银灰蝶	isji pfuc zfyy fvhu erdx	0
+箭环蝶	tgmz fihu erdx	0
+姜黄弄蝶	waji rbih frlo erdx	0
+金斑蝶	zjin flfb erdx	0
+金凤蝶	zjin xffe erdx	0
+金扇凤蝶	zjin push xffe erdx	0
+金裳凤蝶	zjin iysh xffe erdx	0
+锯粉蝶	zhmj oizf erdx	0
+绢斑蝶	ukmj flfb erdx	0
+枯叶蝶	xmku kpxi erdx	1
+枯叶蛱蝶	xmku kpxi esgj erdx	0
+宽边黄粉蝶	pruh ogbi rbih oizf erdx	0
+宽带黛眼蝶	pruh rluy suvd jfyy erdx	0
+宽带凤蝶	pruh rluy xffe erdx	0
+宽带青凤蝶	pruh rluy rmqi xffe erdx	0
+宽尾凤蝶	pruh huwe xffe erdx	0
+莱灰蝶	rxil fvhu erdx	0
+蓝点紫斑蝶	rjto vkvd ghuz flfb erdx	0
+蓝凤蝶	rjto xffe erdx	0
+楞凤蝶	xoll xffe erdx	0
+梨花粉蝶	ozxl rshh oizf erdx	0
+梨花迁粉蝶	ozxl rshh lgqi oizf erdx	0
+连纹黛眼蝶	ggli ulwe suvd jfyy erdx	0
+裂斑金灰蝶	jzyl flfb zjin fvhu erdx	0
+琉璃波纹小灰蝶	fljc fliw cubo ulwe ixia fvhu erdx	0
+琉璃纹凤蝶	fljc fliw ulwe xffe erdx	0
+绿斑凤蝶	ufcl flfb xffe erdx	0
+绿凤蝶	ufcl xffe erdx	0
+绿灰蝶	ufcl fvhu erdx	0
+美凤蝶	wsme xffe erdx	0
+迷蛱蝶	ogmi esgj erdx	1
+密纱眉眼蝶	pjmi uish hljm jfyy erdx	0
+密纹飒弄蝶	pjmi ulwe gxrs frlo erdx	0
+木兰青凤蝶	xmu gwla rmqi xffe erdx	0
+拟斑凤蝶	ddvs flfb xffe erdx	0
+拟幻紫斑蝶	ddvs udhu ghuz flfb erdx	0
+拟旖斑蝶	ddvs ltsk flfb erdx	0
+浓紫彩灰蝶	cuyn ghuz exuc fvhu erdx	0
+朴喙蝶	xvpi kwwh erdx	0
+迁粉蝶	lgqi oizf erdx	0
+牵牛灰蝶	suwq wniu fvhu erdx	0
+青斑蝶	rmqi flfb erdx	0
+青城箭环蝶	rmqi bzdc tgmz fihu erdx	0
+青凤蝶	rmqi xffe erdx	0
+蜻蜓蝶	ermq elqg erdx	0
+曲纹袖弄蝶	krqu ulwe ybxi frlo erdx	0
+啬青斑蝶	pgks rmqi flfb erdx	0
+僧袈眉眼蝶	sikn okyj hljm jfyy erdx	0
+裳凤蝶	iysh xffe erdx	0
+蛇目褐蚬蝶	ephs jmu ynad euhx erdx	0
+鼠李粉蝶	wshu xhli oizf erdx	0
+双色带蛱蝶	ffsh awse rluy esgj erdx	0
+双尾蛱蝶	ffsh huwe esgj erdx	0
+双星箭环蝶	ffsh nhxi tgmz fihu erdx	0
+双眼蚬蝶	ffsh jfyy euhx erdx	0
+丝链荫眼蝶	usi zggl rimy jfyy erdx	0
+碎斑凤蝶	flsp flfb xffe erdx	0
+碎斑青凤蝶	flsp flfb rmqi xffe erdx	0
+藤粉蝶	rmgc oizf erdx	0
+藤果蚬蝶	rmgc nxgu euhx erdx	0
+天狗蝶	ntia wakg erdx	0
+铁刀木粉蝶	ztst zdao xmu oizf erdx	0
+铁木莱异灰蝶	ztst xmu rxil jryi fvhu erdx	0
+铁锈灰蝶	ztst zolx fvhu erdx	0
+统帅青凤蝶	uljh iysh rmqi xffe erdx	0
+透翅斑蝶	olgt pfuc flfb erdx	0
+桅子灰蝶	xahj hzi fvhu erdx	0
+纹环蝶	ulwe fihu erdx	0
+无尾灰蝶	whmo huwe fvhu erdx	0
+乌鸦凤蝶	adqw jeya xffe erdx	0
+无趾弄蝶	whmo ggzh frlo erdx	0
+细纹青斑蝶	ubxi ulwe rmqi flfb erdx	0
+西藏翠蛱蝶	exi rtzj ulsp esgj erdx	0
+纤粉蝶	ulqi oizf erdx	0
+小青凤蝶	ixia rmqi xffe erdx	0
+小透翅斑蝶	ixia olgt pfuc flfb erdx	0
+斜带缺尾蚬蝶	sxnp rluy oisq huwe euhx erdx	0
+猩灰蝶	wnhx fvhu erdx	0
+蚜灰蝶	ejya fvhu erdx	0
+雅灰蝶	jeya fvhu erdx	0
+燕凤蝶	rktv xffe erdx	0
+烟环蝶	vksy fihu erdx	0
+瑶凤蝶	feoy xffe erdx	0
+椰眼蝶	xjiy jfyy erdx	0
+异型紫斑蝶	jryi qrzb ghuz flfb erdx	0
+银白蛱蝶	zfyy cbai esgj erdx	0
+银线灰蝶	zfyy uzxi fvhu erdx	0
+玉斑凤蝶	fvyu flfb xffe erdx	0
+玉带蝶	fvyu rluy erdx	0
+玉带凤蝶	fvyu rluy xffe erdx	0
+鱼纹环蝶	qyu ulwe fihu erdx	0
+圆翅钩粉蝶	kkay pfuc zajg oizf erdx	0
+圆弧蛱蝶	kkay xohu esgj erdx	0
+月纹矩环蝶	myue ulwe tiij fihu erdx	0
+窄斑翠凤蝶	ptlw flfb ulsp xffe erdx	0
+樟青凤蝶	xgnz rmqi xffe erdx	0
+赭灰蝶	bvhn fvhu erdx	0
+甄蝶	eboz erdx	0
+苎麻斑蛱蝶	rpqz hxma flfb esgj erdx	0
+苎麻珍蝶	rpqz hxma fsuz erdx	0
+竹蚜小灰蝶	tzhu ejya ixia fvhu erdx	0
+紫端斑蝶	ghuz gild flfb erdx	0
+紫线黛眼蝶	ghuz uzxi suvd jfyy erdx	0
+棕脉粉蝶	xpvz mvdc oizf erdx	0
+阿拉斯加马拉密犬	ioka dgla txsi okji wma dgla pjmi wqua	0
+阿拉斯加马拉缪特犬	ioka dgla txsi okji wma dgla uusu wbft wqua	0
+大型犬	sda qrzb wqua	61
+短毛阿拉斯加	todu umao ioka dgla txsi okji	0
+短毛阿拉斯加雪橇犬	todu umao ioka dgla txsi okji nfxu xuuu wqua	0
+短毛标准阿拉斯加	todu umao xvbi nezh ioka dgla txsi okji	0
+短毛正常毛质阿拉斯加	todu umao gzhe iych umao hpaz ioka dgla txsi okji	0
+福犬	vkbf wqua	0
+雪橇犬	nfxu xuuu wqua	20
+菜粉蝶	rexc oizf erdx	6
+单环蛱蝶	ioch fihu esgj erdx	0
+黑弄蝶	vhei frlo erdx	0
+蛱蝶	esgj erdx	12
+双环蛱蝶	ffsh fihu esgj erdx	0
+眼碟	jfyy frdx	0
+阿比西尼亚猫	ioka hbi exi hhni qrya wrbm	2
+埃及猫	bjta lvji wrbm	1
+奥西猫	muos exi wrbm	0
+巴厘猫	wba hywl wrbm	0
+伯曼猫	scba nofm wrbm	0
+波斯猫	cubo txsi wrbm	60
+布偶猫	fybu snwo wrbm	29
+田园猫	btia kqhy wrbm	14
+德文卷毛猫	gpoj lwen gsjj umao wrbm	28
+电烫卷猫	nddi cdmv gsjj wrbm	0
+东方短毛猫	uido lfan todu umao wrbm	0
+东奇尼猫	uido sokj hhni wrbm	0
+俄罗斯蓝猫	smdv onlu txsi rjto wrbm	2
+哈瓦那棕猫	kskh owa ddin xpvz wrbm	0
+加拿大无毛猫	okji skdn sda whmo umao wrbm	1
+无毛猫	whmo umao wrbm	13
+金吉拉	zjin bkji dgla	10
+科拉特猫	onpk dgla wbft wrbm	0
+柯尼斯卷毛猫	xokk hhni txsi gsjj umao wrbm	0
+褴褛猫	yjto yoal wrbm	1
+狸猫	wywl wrbm	145
+狸花猫	wywl rshh wrbm	30
+曼岛无尾猫	nofm eida whmo huwe wrbm	0
+美国短毛猫	wsme kfvg todu umao wrbm	3
+美国短尾猫	wsme kfvg todu huwe wrbm	0
+美国卷耳猫	wsme kfvg gsjj jer wrbm	0
+美国硬毛猫	wsme kfvg fqnr umao wrbm	0
+孟买猫	home djma wrbm	2
+缅甸猫	ulem abdi wrbm	0
+缅因猫	ulem ksyi wrbm	18
+挪威森林猫	dddi zawe xxse xlin wrbm	1
+日本短尾猫	nri xben todu huwe wrbm	0
+三花猫	esan rshh wrbm	9
+山东狮子猫	isha uido wiqy hzi wrbm	0
+狮子猫	wiqy hzi wrbm	3
+四川简州猫	rsi cchu tpnj iczh wrbm	0
+斯可可猫	txsi okke okke wrbm	0
+苏格兰折耳猫	rois xfkg gwla dxsh jer wrbm	4
+索马里猫	puus wma y wrbm	0
+土耳其安哥拉猫	btu jer tqi paan okok dgla wrbm	1
+土耳其梵猫	btu jer tqi xxfa wrbm	0
+西伯利亚猫	exi scba ozli qrya wrbm	5
+喜马拉雅猫	okxi wma dgla jeya wrbm	3
+夏特尔猫	fjfx wbft aier wrbm	0
+暹罗猫	negx onlu wrbm	24
+新加坡猫	gxxx okji bupo wrbm	0
+玄猫	luxu wrbm	2
+异国短毛猫	jryi kfvg todu umao wrbm	5
+英国短毛猫	rusy kfvg todu umao wrbm	7
+云猫	nyun wrbm	31
+重点色短毛猫	lnwc vkvd awse todu umao wrbm	0
+金渐层	zjin cgxj hnce	3
+银渐层	zfyy cgxj hnce	12
+黑渐层	vhei cgxj hnce	0
+白渐层	cbai cgxj hnce	0
+虎斑猫	wxhu flfb wrbm	5

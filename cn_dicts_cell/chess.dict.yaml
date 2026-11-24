@@ -8,160 +8,159 @@ version: "2024-07-13"
 sort: by_weight
 ...
 #象棋
-王天一	ggg gd g	162
-捉双	rkh cc	19
-大子	dd bb	96
-出动大子	bm fcl dd bb	5
-子力	bb lt	384
-棋理	sad gj	99
-串打	kkh rs	5
-炮碾丹砂	oq dna myd di	5
-兑车	ukqb lg	12
-抽将	rm uqf	0
-抽车	rm lg	7
-抽马	rm cn	1
-抽炮	rm oq	0
-将军抽车	uqf pl rm lg	3
-将军抽马	uqf pl rm cn	0
-将军抽炮	uqf pl rm oq	0
-白脸将	rrr ew uqf	11
-对面笑	cf dm ttd	3
-千里照面	tfk jfd jvko dm	0
-双车挫	cc lg rww	4
-双車挫	cc lghh rww	0
-重炮	tgj oq	211
-重炮杀	tgj oq qsu	7
-夹车炮	guw lg oq	8
-闷宫	uni pk	20
-闷杀	uni qsu	34
-铁门栓	qr uyh swg	15
-天地炮	gd f oq	10
-空头炮	pw udi oq	8
-挂角	rffg qe	57
-八角马	wty qe cn	8
-侧面虎	wmj dm ha	5
-拔簧马	rdc tamw cn	5
-双马饮泉	cc cn qnq riu	7
-车马冷着	lg cn uwyc udh	3
-双照将	cc jvko uqf	1
-三进兵	dg fj rgw	3
-凤凰三点头	mc mrg dg hko udi	0
-太监追黄帝	dy jtyl wnnp amw up	0
-送佛归殿	udp wxj jv naw	3
-双车协士	cc lg fl fghg	0
-双车夺士	cc lg df fghg	0
-双车夺炮	cc lg df oq	0
-将不死	uqf i gqx	0
-步步带将	hi hi gkp uqf	0
-三车闹士	dg lg uym fghg	4
-平顶冠	gu sdm pfqf	1
-臣压君	ahn dfy vtkd	3
-借车使炮	waj lg wgkq oq	1
-借车使马	waj lg wgkq cn	1
-借炮使马	waj oq wgkq cn	1
-一子多动	g bb qq fcl	6
-马炮轻发	cn oq lc v	0
-车留险地	lg qyvl bwg f	0
-马跳窝心	cn khi pwkw ny	0
-有象无飞	e qje fq nui	1
-炮镇五子	oq qfhw gg bb	0
-无根车炮	fq sve lg oq	0
-马看炮	cn rhf oq	0
-牛头滚	rhk udi iuc	2
-兵五进一	rgw gg fj g	4
-兵三进一	rgw dg fj g	6
-兵七进一	rgw ag fj g	7
-帅五进一	jmh gg fj g	10
-将五进一	uqf gg fj g	1
-急进中兵	qvn fj k rgw	12
-急冲中兵	qvn ukh k rgw	0
-冲中兵	ukh k rgw	1
-冲卒	ukh ywwf	1
-三七线	dg ag xg	1
-宫顶线	pk sdm xg	5
-卒林线	ywwf ss xg	3
-橘中秘	scbk k tn	16
-梅花谱	stx awx yuo	3
-朱晋桢	ri gogj shm	0
-梦入神机	ssq ty pyj sm	22
-金鹏十八变	qqqq eeq fgh wty yo	1
-适情雅趣	tdp nge ahty fhb	16
-徐芝	twt ap	2
-陈学礼	ba ip pynn	0
-过河车	fp isk lg	12
-巡河线	vp isk xg	8
-巡河车	vp isk lg	12
-飞象	nui qje	91
-飞相	nui sh	15
-敢死车	nb gqx lg	0
-敢死炮	nb gqx oq	3
-瞎眼狗	hp hv qtq	2
-雷公炮	flf wc oq	9
-虎眼	ha hv	15
-虎眼炮	ha hv oq	0
-城墙炮	fd ffuk oq	0
-顺炮	kd oq	40
-列炮	gq oq	17
-列手炮	gq rt oq	1
-大列手炮	dd gq rt oq	0
-弃子攻杀	yca bb at qsu	6
-弃车保帅	yca lg wk jmh	34
-弃帅保车	yca jmh wk lg	2
-直车对横车	fh lg cf sam lg	0
-窝心炮	pwkw ny oq	2
-铁滑车	qr ime lg	13
-五六炮	gg uy oq	3
-五七炮	gg ag oq	3
-老兵搜山	ftx rgw rvh mmm	2
-绊马脚	xuf cn efcb	0
-绊马腿	xuf cn eve	3
-别马腿	klj cn eve	4
-无理手	fq gj rt	5
-古棋谱	dgh sad yuo	1
-古谱	dgh yuo	34
+王天一	fwan ntia q	162
+捉双	dgzh ffsh	19
+大子	sda hzi	96
+出动大子	r nodo sda hzi	5
+子力	hzi oli	384
+棋理	xtqi fywl	99
+串打	kklc doda	5
+炮碾丹砂	vajb fhry ulda fish	5
+兑车	ikhd gche	12
+抽将	dbch tnfj	0
+抽车	dbch gche	7
+抽马	dbch wma	1
+抽炮	dbch vajb	0
+将军抽车	tnfj ugju dbch gche	3
+将军抽马	tnfj ugju dbch wma	0
+将军抽炮	tnfj ugju dbch vajb	0
+白脸将	cbai msli tnfj	11
+对面笑	ffdu lemi tmsx	3
+千里照面	lqia y nzkv lemi	0
+双车挫	ffsh gche dssb	4
+重炮	lnwc vajb	211
+重炮杀	lnwc vajb rxsh	7
+夹车炮	sgga gche vajb	8
+闷宫	pjme pkkg	20
+闷杀	pjme rxsh	34
+铁门栓	ztst pmen xsfs	15
+天地炮	ntia b vajb	10
+空头炮	pdko jtou vajb	8
+挂角	dbbg aoji	57
+八角马	iba aoji wma	8
+侧面虎	sazc lemi wxhu	5
+拔簧马	dffv trbi wma	5
+双马饮泉	ffsh wma osyi ccqu	7
+车马冷着	gche wma nmvl w	3
+双照将	ffsh nzkv tnfj	1
+三进兵	esan wigj iibi	3
+凤凰三点头	xffe xcfh esan vkvd jtou	0
+太监追黄帝	svta jtoj migz rbih yuyd	0
+送佛归殿	gsgs sxif ifgu hrif	3
+双车协士	ffsh gche poix bshi	0
+双车夺士	ffsh gche sfdu bshi	0
+双车夺炮	ffsh gche sfdu vajb	0
+将不死	tnfj i jhsi	0
+步步带将	ggbu ggbu rluy tnfj	0
+三车闹士	esan gche plyn bshi	4
+平顶冠	yipi ofad uqhf	1
+臣压君	jche hbvy fkju	3
+借车使炮	srnj gche skrs vajb	1
+借车使马	srnj gche skrs wma	1
+借炮使马	srnj vajb skrs wma	1
+一子多动	q hzi nndu nodo	6
+马炮轻发	wma vajb gcdq dfvf	0
+车留险地	gche hvzb isxi b	0
+马跳窝心	wma ghct pkus jxin	0
+有象无飞	fmyo akwx whmo efei	1
+炮镇五子	vajb zpti twu hzi	0
+无根车炮	whmo xfyg gche vajb	0
+马看炮	wma djka vajb	0
+牛头滚	wniu jtou cyij	2
+兵五进一	iibi twu wigj q	4
+兵三进一	iibi esan wigj q	6
+兵七进一	iibi uqi wigj q	7
+帅五进一	iysh twu wigj q	10
+将五进一	tnfj twu wigj q	1
+急进中兵	afjj wigj k iibi	12
+急冲中兵	afjj nklc k iibi	0
+冲中兵	nklc k iibi	1
+冲卒	nklc lssp	1
+三七线	esan uqi uzxi	1
+宫顶线	pkkg ofad uzxi	5
+卒林线	lssp xlin uzxi	3
+橘中秘	xfmk k ojmb	16
+梅花谱	xtam rshh lgrn	3
+朱晋桢	mxzh qrnj xvaz	0
+梦入神机	xnme mvru vnls xxji	22
+金鹏十八变	zjin mmep pshi iba lvfb	1
+适情雅趣	lkgs jrmq jeya gjfq	16
+徐芝	gsxx rgzh	2
+陈学礼	iuic iuhx vdli	0
+过河车	fggu cokh gche	12
+巡河线	cgxu cokh uzxi	8
+巡河车	cgxu cokh gche	12
+飞象	efei akwx	91
+飞相	efei xjxi	15
+敢死车	djfg jhsi gche	0
+敢死炮	djfg jhsi vajb	3
+瞎眼狗	jpek jfyy wakg	2
+雷公炮	nble ijgo vajb	9
+虎眼	wxhu jfyy	15
+虎眼炮	wxhu jfyy vajb	0
+城墙炮	bzdc bpgk vajb	0
+顺炮	cfas vajb	40
+列炮	jzli vajb	17
+列手炮	jzli dsho vajb	1
+大列手炮	sda jzli dsho vajb	0
+弃子攻杀	ljrq hzi dfgo rxsh	6
+弃车保帅	ljrq gche skxb iysh	34
+弃帅保车	ljrq iysh skxb gche	2
+直车对横车	ptzh gche ffdu xrbi gche	0
+窝心炮	pkus jxin vajb	2
+铁滑车	ztst cjhu gche	13
+五六炮	twu yliu vajb	3
+五七炮	twu uqi vajb	3
+老兵搜山	hhla iibi dblf isha	2
+绊马脚	uidb wma mbjj	0
+绊马腿	uidb wma mfyg	3
+别马腿	kozb wma mfyg	4
+无理手	whmo fywl dsho	5
+古棋谱	mgu xtqi lgrn	1
+古谱	mgu lgrn	34
 #国际象棋
-王车易位	ggg lg jqr wug	67
-无子可动	fq bb sk fcl	20
-吃过路兵	ktn fp kht rgw	20
-兵升变	rgw tak yo	13
-升变	tak yo	80
-白先黑后	rrr tfq lfo rg	0
-摸子走子	rajd bb fhu bb	1
-行棋	tf sad	139
+王车易位	fwan gche nyyi sgwe	67
+无子可动	whmo hzi okke nodo	20
+吃过路兵	ktdc fggu gfkl iibi	20
+兵升变	iibi mrsh lvfb	13
+升变	mrsh lvfb	80
+白先黑后	cbai whxi vhei hkho	0
+摸子走子	drns hzi gzou hzi	1
+行棋	ggha xtqi	139
 #五子棋
-做棋	wdt sad	28
-连冲四	lpk ukh lh	1
-连冲三	lpk ukh dg	0
-二十六种开局	fg fgh uy tkh ga nnk	6
-长连禁手	ta lpk ssf rt	6
-三三禁	dg dg ssf	0
-三三禁手	dg dg ssf rt	9
-三手交换	dg rt uq rq	35
-五手两打	gg rt gmww rs	35
-直指开局	fh rxj ga nnk	12
-溪月	iex eee	17
-疏星	nhy jtg	24
-雨月	fghy eee	0
-松月	swc eee	19
-丘月	rgd eee	3
-游星	iytb jtg	75
-斜指开局	wtuf rxj ga nnk	12
-斜指	wtuf rxj	14
-长星	ta jtg	21
-峡月	mgu eee	7
-云月	fcu eee	33
-浦月	igey eee	53
-岚月	mmqu eee	10
-斜月	wtuf eee	0
-名月	qk eee	1
-冲四	ukh lh	34
-活三	itd dg	69
-眠三	hna dg	18
-跳二	khi fg	0
-抓禁手	rrhy ssf rt	9
+做棋	smfz xtqi	28
+连冲四	ggli nklc rsi	1
+连冲三	ggli nklc esan	0
+二十六种开局	wer pshi yliu oklc qrka hdkj	6
+长连禁手	mqdv ggli xvji dsho	6
+三三禁	esan esan xvji	0
+三三禁手	esan esan xvji dsho	9
+三手交换	esan dsho yrji daus	35
+五手两打	twu dsho quss doda	35
+直指开局	ptzh dhnz qrka hdkj	12
+溪月	ceus myue	17
+疏星	dglc nhxi	24
+雨月	nyu myue	0
+松月	xijs myue	19
+丘月	iqiu myue	3
+游星	clth nhxi	75
+斜指开局	sxnp dhnz qrka hdkj	12
+斜指	sxnp dhnz	14
+长星	mqdv nhxi	21
+峡月	isgx myue	7
+云月	nyun myue	33
+浦月	cbpu myue	53
+岚月	ixrl myue	10
+斜月	sxnp myue	0
+名月	nkmi myue	1
+冲四	nklc rsi	34
+活三	clkh esan	69
+眠三	jidu esan	18
+跳二	ghct wer	0
+抓禁手	dezh xvji dsho	9
 #围棋
-中国围棋协会	k l lfnh sad fl wf	4
-愚形	jmhn gae	5
-禁着点	ssf udh hko	3
-高目	ym hhhh	12
-提劫	rj fcln	11
+中国围棋协会	k kfvg kddw xtqi poix snhu	4
+愚形	nwjy qrux	5
+禁着点	xvji w vkvd	3
+高目	pukg jmu	12
+提劫	dngd bjoj	11

@@ -9,2983 +9,2983 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-版材	thgc sft	4
-包装薄膜	qn ufy aig eajd	2
-包装防伪	qn ufy by wyl	0
-包装印刷加工	qn ufy qgb nmh lk a	0
-标识防伪	sfi ykw by wyl	0
-玻璃类印刷	ghc gyb od qgb nmh	0
-玻璃油墨	ghc gyb img lfof	0
-不干胶印刷	i fggh eu qgb nmh	0
-产品防伪	u kkk by wyl	1
-打样机	rs su sm	0
-电晕笔	jn jp tt	0
-镀锡板卷马口铁	qya qjq src udbb cn kkkk qr	0
-二手印刷设备	fg rt qgb nmh ymc tlf	0
-防伪技术产品	by wyl rfc sy u kkk	0
-纺织及皮革类印刷	xy xkw ey hc af od qgb nmh	0
-分离薄膜	wv yb aig eajd	0
-复合类印刷	tjt wgk od qgb nmh	0
-覆膜机	stt eajd sm	0
-功能薄膜	al ce aig eajd	1
-挂历印刷	rffg dl qgb nmh	0
-刮墨刀	tdjh lfof vn	0
-瓜米石	rcy oy dgtg	0
-海报印刷	itx rb qgb nmh	6
-降解薄膜	bt qev aig eajd	0
-胶辊	eu lj	1
-搅墨棒	ripq lfof sdw	0
-胶印机	eu qgb sm	1
-金属类印刷	qqqq ntk od qgb nmh	0
-开槽机	ga sgmj sm	0
-名片印刷	qk thg qgb nmh	0
-模切机	saj av sm	0
-农用薄膜	pei et aig eajd	1
-票据印刷	sfiu rnd qgb nmh	0
-其他包装印刷加工	adw wb qn ufy qgb nmh lk a	0
-其他防伪技术产品	adw wb by wyl rfc sy u kkk	0
-其他商业印刷加工	adw wb um og qgb nmh lk a	0
-其他塑料薄膜	adw wb ubtf ou aig eajd	0
-其他文化	adw wb yygy wx	0
-其他印后加工设备	adw wb qgb rg lk a ymc tlf	0
-其他印前处理设备	adw wb qgb ue th gj ymc tlf	0
-其他印刷机	adw wb qgb nmh sm	0
-其他印刷机械专用配件	adw wb qgb nmh sm sa fny et sgn wrh	0
-其他油墨	adw wb img lfof	0
-柔印机	cbts qgb sm	0
-晒版机	jsg thgc sm	0
-商标防伪	um sfi by wyl	0
-上光机	h iq sm	0
-商业印刷加工	um og qgb nmh lk a	0
-书刊印刷加工	nnh fjh qgb nmh lk a	0
-书刊纸	nnh fjh xqa	0
-数码印刷机	ovt dcg qgb nmh sm	1
-水辊	ii lj	0
-水印纸	ii qgb xqa	3
-丝印机	xxg qgb sm	1
-塑料类印刷	ubtf ou od qgb nmh	0
-塑料油墨	ubtf ou img lfof	0
-台历印刷	ck dl qgb nmh	0
-烫金机	inro qqqq sm	0
-陶瓷类印刷	bqr uqwn od qgb nmh	0
-陶瓷油墨	bqr uqwn img lfof	0
-文件防伪	yygy wrh by wyl	0
-橡皮布	sqj hc dmh	0
-信封印刷	wy fffy qgb nmh	0
-信息用化学品	wy thn et wx ip kkk	0
-压痕机	dfy uve sm	0
-压纹机	dfy xyy sm	0
-压纸轮	dfy xqa lwx	0
-艺术纸	anb sy xqa	17
-移印机	tqq qgb sm	0
-印布油墨	qgb dmh img lfof	0
-印后加工设备	qgb rg lk a ymc tlf	0
-印前处理设备	qgb ue th gj ymc tlf	0
-印刷材料	qgb nmh sft ou	25
-印刷服务	qgb nmh eb tl	3
-印刷耗材代理	qgb nmh ditn sft wa gj	0
-印刷机械专用配件	qgb nmh sm sa fny et sgn wrh	0
-印刷检测仪器	qgb nmh sw imj wyq kkd	0
-印刷配套设备	qgb nmh sgn ddu ymc tlf	0
-印刷项目合作	qgb nmh adm hhhh wgk wt	0
-印刷用纸	qgb nmh et xqa	8
-印铁油墨	qgb qr img lfof	0
-印章防伪	qgb ujj by wyl	0
-印纸油墨	qgb xqa img lfof	0
-有价证券防伪	e wwj ygh udv by wyl	0
-邮票纸	mb sfiu xqa	1
-折页机	rr dmu sm	0
-制版机	rmhj thgc sm	0
-纸类印刷	xqa od qgb nmh	2
-竹木类印刷	ttg ssss od qgb nmh	0
-字典纸	pb maw xqa	1
-薄膜拉丝机	aig eajd ru xxg sm	0
-标胶	sfi eu	3
-吹膜机	kqw eajd sm	0
-吹塑加工	kqw ubtf lk a	0
-发泡设备	v iqn ymc tlf	0
-工程机械轮胎	a tkgg sm sa lwx eck	0
-工农业用塑料制品	a pei og et ubtf ou rmhj kkk	0
-工业用橡胶制品	a og et sqj eu rmhj kkk	1
-光稳定剂	iq tqv pg yjjh	0
-合成材料抗氧化剂	wgk dn sft ou rymn rnu wx yjjh	0
-合成材料助剂	wgk dn sft ou egl yjjh	0
-合成材料阻燃剂	wgk dn sft ou begg oqdo yjjh	0
-混炼机	ijx oanw sm	0
-挤塑加工	ryj ubtf lk a	0
-加料再生破碎机	lk ou gmf tg dhc dyw sm	0
-家用塑料制品	pe et ubtf ou rmhj kkk	0
-聚氨酯橡胶	bct rnp sgx sqj eu	1
-抗冲击剂	rymn ukh fmk yjjh	0
-硫化罐	dyc wx rmay	0
-硫化机	dyc wx sm	1
-摩托车轮胎	yssr rta lg lwx eck	3
-农业用橡胶制品	pei og et sqj eu rmhj kkk	0
-农用车轮胎	pei et lg lwx eck	0
-普通塑料工艺品	uo cep ubtf ou a anb kkk	0
-其他工程塑料	adw wb a tkgg ubtf ou	1
-其他合成材料助剂	adw wb wgk dn sft ou egl yjjh	0
-其他合成橡胶	adw wb wgk dn sqj eu	0
-其他轮胎	adw wb lwx eck	0
-其他热塑性弹性体	adw wb rvyo ubtf ntg xuj ntg wsg	0
-其他塑料包装制品	adw wb ubtf ou qn ufy rmhj kkk	0
-其他塑料工艺品	adw wb ubtf ou a anb kkk	0
-其他塑料管	adw wb ubtf ou tp	0
-其他塑料机械	adw wb ubtf ou sm sa	0
-其他塑料加工	adw wb ubtf ou lk a	0
-其他塑料制品	adw wb ubtf ou rmhj kkk	0
-其他天然橡胶	adw wb gd qd sqj eu	0
-其他通用塑料	adw wb cep et ubtf ou	0
-其他橡胶机械	adw wb sqj eu sm sa	0
-其他橡胶加工	adw wb sqj eu lk a	0
-其他橡胶制品	adw wb sqj eu rmhj kkk	0
-其他再生塑料	adw wb gmf tg ubtf ou	0
-切胶机	av eu sm	0
-热稳定剂	rvyo tqv pg yjjh	7
-生活日用橡胶制品	tg itd jjjj et sqj eu rmhj kkk	0
-塑机辅机	ubtf sm lgey sm	0
-塑胶工艺品	ubtf eu a anb kkk	0
-塑料棒	ubtf ou sdw	7
-塑料包装制品	ubtf ou qn ufy rmhj kkk	1
-塑料表面处理	ubtf ou ge dm th gj	0
-塑料成型机	ubtf ou dn gajf sm	0
-塑料工艺品	ubtf ou a anb kkk	0
-塑料挤出机	ubtf ou ryj bm sm	0
-塑料桶罐	ubtf ou sce rmay	0
-塑料压延机	ubtf ou dfy thp sm	0
-塑料造粒机	ubtf ou tfkp oug sm	0
-特种塑料	trf tkh ubtf ou	1
-通用塑料	cep et ubtf ou	5
-脱硫机	euk dyc sm	0
-脱模剂	euk saj yjjh	1
-文教用橡胶制品	yygy ftbt et sqj eu rmhj kkk	0
-吸塑加工	ke ubtf lk a	0
-橡胶裁断机	sqj eu fay on sm	0
-橡胶成型机	sqj eu dn gajf sm	0
-橡胶成型加工	sqj eu dn gajf lk a	0
-橡胶定型机	sqj eu pg gajf sm	0
-橡胶后处理加工	sqj eu rg th gj lk a	0
-橡胶挤出机	sqj eu ryj bm sm	0
-橡胶机械	sqj eu sm sa	0
-橡胶加工	sqj eu lk a	0
-橡胶接头机	sqj eu ruv udi sm	0
-橡胶贴合机	sqj eu mhkg wgk sm	0
-橡胶压延机	sqj eu dfy thp sm	0
-橡胶压延加工	sqj eu dfy thp lk a	0
-橡胶原料	sqj eu dr ou	2
-橡胶造粒机	sqj eu tfkp oug sm	0
-压克力工艺品	dfy dq lt a anb kkk	0
-压塑加工	dfy ubtf lk a	0
-烟胶	ol eu	1
-乙丙橡胶	nnl gmw sqj eu	0
-医用橡胶制品	atd et sqj eu rmhj kkk	0
-再生料	gmf tg ou	7
-制袋机	rmhj waye sm	0
-中空吹塑机	k pw kqw ubtf sm	0
-铸塑加工	qdt ubtf lk a	0
-半金属	uf qqqq ntk	52
-半金属矿产	uf qqqq ntk dyt u	0
-板卷材	src udbb sft	0
-板坯	src fgig	6
-爆破设备	oja dhc ymc tlf	1
-不锈钢板卷	i qten qmq src udbb	0
-不锈钢棒材	i qten qmq sdw sft	0
-不锈钢坯	i qten qmq fgig	1
-不锈钢线材不锈钢圆钢	i qten qmq xg sft i qten qmq lkmi qmq	0
-彩涂板卷	ese iwt src udbb	0
-长石	ta dgtg	66
-齿轮钢	hwb lwx qmq	0
-磁选设备	du tfqp ymc tlf	0
-碲锭	duph qp	1
-低合金管	wqa wgk qqqq tp	0
-地矿勘测设备	f dyt adwl imj ymc tlf	0
-低中压锅炉管	wqa k dfy qkm oyn tp	0
-镀铬板卷	qya qtk src udbb	0
-镀铝锌	qya qkk quh	0
-镀锌板卷	qya quh src udbb	0
-二手矿业设备	fg rt dyt og ymc tlf	0
-二手冶炼设备	fg rt uck oanw ymc tlf	0
-防火材料	by ooo sft ou	11
-方矩管	yy tda tp	0
-方坯	yy fgig	2
-非金属粉末	djd qqqq ntk ow gs	0
-非金属矿产	djd qqqq ntk dyt u	4
-非金属矿物制品	djd qqqq ntk dyt tr rmhj kkk	0
-废铝	ynty qkk	7
-废镁	ynty qug	0
-废镍	ynty qth	0
-废锡	ynty qjq	0
-废锌	ynty quh	0
-分级设备	wv xe ymc tlf	0
-浮选设备	ieb tfqp ymc tlf	0
-高压锅炉管	ym dfy qkm oyn tp	0
-高压合金管	ym dfy wgk qqqq tp	0
-工业炉	a og oyn	0
-钴及钴锭	qdg ey qdg qp	0
-管坯	tp fgig	0
-贵金属合金	khgm qqqq ntk wgk qqqq	7
-贵金属矿产	khgm qqqq ntk dyt u	0
-锅炉板	qkm oyn src	0
-合结钢	wgk xf qmq	0
-合金板	wgk qqqq src	5
-合金粉末	wgk qqqq ow gs	3
-合金钢管	wgk qqqq qmq tp	1
-黑色金属矿产	lfo qc qqqq ntk dyt u	0
-花纹板卷	awx xyy src udbb	0
-焦化设备	wyo wx ymc tlf	0
-结构钢管	xf sq qmq tp	0
-金属板网	qqqq ntk src mqq	0
-金属材料代理	qqqq ntk sft ou wa gj	0
-金属成型设备	qqqq ntk dn gajf ymc tlf	0
-金属丝绳	qqqq ntk xxg xkjn	0
-库存及废料	ylk dhb ey ynty ou	0
-库存金属材料	ylk dhb qqqq ntk sft ou	0
-矿山施工设备	dyt mmm ytb a ymc tlf	0
-矿物代理	dyt tr wa gj	0
-矿业测量仪器	dyt og imj jg wyq kkd	0
-矿业输送设备	dyt og lwg udp ymc tlf	0
-矿业物探仪器	dyt og tr rpws wyq kkd	0
-矿业项目合作	dyt og adm hhhh wgk wt	0
-矿业装卸设备	dyt og ufy rhb ymc tlf	0
-矿用提升设备	dyt et rj tak ymc tlf	0
-蓝晶石	ajt jjj dgtg	5
-冷拔钢	uwyc rdc qmq	0
-冷墩钢	uwyc fyb qmq	0
-冷拉钢	uwyc ru qmq	0
-冷弯型钢	uwyc yox gajf qmq	1
-冷轧板卷	uwyc lnn src udbb	0
-炼钢设备	oanw qmq ymc tlf	4
-炼铁设备	oanw qr ymc tlf	0
-硫矿	dyc dyt	0
-流体管	iyc wsg tp	0
-铝及铝锭	qkk ey qkk qp	0
-铝丝网	qkk xxg mqq	0
-镁及镁锭	qug ey qug qp	0
-耐腐蚀钢	dmjf ywfw qnj qmq	0
-耐侯钢	dmjf wnt qmq	0
-耐热钢	dmjf rvyo qmq	0
-镍及镍锭	qth ey qth qp	0
-破碎设备	dhc dyw ymc tlf	9
-普通圆钢	uo cep lkmi qmq	0
-普中板	uo k src	0
-其他半金属	adw wb uf qqqq ntk	0
-其他板卷材	adw wb src udbb sft	0
-其他不锈钢材	adw wb i qten qmq sft	0
-其他磁性材料	adw wb du ntg sft ou	0
-其他地矿勘测设备	adw wb f dyt adwl imj ymc tlf	0
-其他废金属	adw wb ynty qqqq ntk	0
-其他非金属矿产	adw wb djd qqqq ntk dyt u	0
-其他非金属矿物制品	adw wb djd qqqq ntk dyt tr rmhj kkk	0
-其他粉末冶金	adw wb ow gs uck qqqq	0
-其他钢坯	adw wb qmq fgig	0
-其他管材	adw wb tp sft	1
-其他黑色金属矿产	adw wb lfo qc qqqq ntk dyt u	0
-其他建筑钢材	adw wb vfhp tam qmq sft	0
-其他金属丝	adw wb qqqq ntk xxg	0
-其他金属网	adw wb qqqq ntk mqq	0
-其他矿山施工设备	adw wb dyt mmm ytb a ymc tlf	0
-其他炉料	adw wb oyn ou	0
-其他轻有色金属	adw wb lc e qc qqqq ntk	0
-其他涂镀产品	adw wb iwt qya u kkk	0
-其他型材	adw wb gajf sft	0
-其他选矿设备	adw wb tfqp dyt ymc tlf	0
-其他冶炼设备	adw wb uck oanw ymc tlf	0
-其他有色金属合金	adw wb e qc qqqq ntk wgk qqqq	0
-其他有色金属加工材	adw wb e qc qqqq ntk lk a sft	0
-其他有色金属矿产	adw wb e qc qqqq ntk dyt u	0
-其他优特钢	adw wb wdn trf qmq	0
-其他重有色金属	adw wb tgj e qc qqqq ntk	0
-其他铸造及热处理设备	adw wb qdt tfkp ey rvyo th gj ymc tlf	0
-铅及铅锭	qmk ey qmk qp	0
-切断设备	av on ymc tlf	0
-轻有色金属	lc e qc qqqq ntk	0
-轻有色金属矿产	lc e qc qqqq ntk dyt u	0
-燃气管道	oqdo rnb tp uthp	30
-热轧板卷	rvyo lnn src udbb	0
-容器板	pww kkd src	0
-筛分设备	tjgh wv ymc tlf	0
-石墨及碳素产品	dgtg lfof ey dmd gxi u kkk	0
-水力选矿设备	ii lt tfqp dyt ymc tlf	0
-酸洗板卷	sgc itf src udbb	0
-碳结钢	dmd xf qmq	0
-铜及铜锭	qmgk ey qmgk qp	0
-铜丝网	qmgk xxg mqq	0
-涂镀产品	iwt qya u kkk	0
-无缝管	fq xtdp tp	1
-锡及锡锭	qjq ey qjq qp	0
-稀有金属合金	tqd e qqqq ntk wgk qqqq	0
-稀有金属矿产	tqd e qqqq ntk dyt u	0
-稀有色金属	tqd e qc qqqq ntk	0
-相关服务	sh ud eb tl	0
-锌及锌锭	quh ey quh qp	0
-冶金设备	uck qqqq ymc tlf	6
-冶金项目合作	uck qqqq adm hhhh wgk wt	0
-冶炼成套设备	uck oanw dn ddu ymc tlf	0
-冶炼加工	uck oanw lk a	4
-异型钢	naj gajf qmq	0
-永奇昱祥	yni dskf juf pyu	0
-有色金属板材	e qc qqqq ntk src sft	0
-有色金属棒材	e qc qqqq ntk sdw sft	0
-有色金属带材	e qc qqqq ntk gkp sft	0
-有色金属管材	e qc qqqq ntk tp sft	0
-有色金属合金	e qc qqqq ntk wgk qqqq	0
-有色金属及加工材	e qc qqqq ntk ey lk a sft	0
-有色金属加工材	e qc qqqq ntk lk a sft	0
-有色金属矿产	e qc qqqq ntk dyt u	1
-有色金属线材	e qc qqqq ntk xg sft	0
-优特钢	wdn trf qmq	0
-优质线材	wdn rfm xg sft	0
-造船板	tfkp temk src	0
-凿岩机械	ogu mdf sm sa	0
-轧钢设备	lnn qmq ymc tlf	0
-蛭石	jgc dgtg	180
-中频电源	k hid jn idr	0
-重有色金属	tgj e qc qqqq ntk	0
-重有色金属矿产	tgj e qc qqqq ntk dyt u	0
-铸造及热处理设备	qdt tfkp ey rvyo th gj ymc tlf	0
-铸造设备	qdt tfkp ymc tlf	1
-钻采设备	qhk es ymc tlf	0
-白灵菇	rrr vo avd	1
-鳖类	umig od	4
-饼干糕点	qnu fggh ougo hko	2
-炒货类	oi wxm od	0
-冲饮品	ukh qnq kkk	1
-炊事设备	oqw gk ymc tlf	0
-粗加工水产品	oe lk a ii u kkk	0
-豆荚类	gku aguw od	4
-二手食品机械	fg rt wyv kkk sm sa	0
-改善记忆	nty uduk yn nn	0
-改善视力	nty uduk pym lt	35
-改善胃肠	nty uduk le enr	3
-干果类	fggh js od	20
-柑桔	saf sfk	34
-干制水产品	fggh rmhj ii u kkk	0
-瓜果类	rcy js od	8
-罐头食品加工设备	rmay udi wyv kkk lk a ymc tlf	0
-果冻类	js uai od	1
-果露酒	js fkhk isgg	1
-果蔬加工设备	js anh lk a ymc tlf	0
-护色剂	ryn qc yjjh	2
-花菜类	awx ae od	4
-灰树花	do scf awx	1
-即冲汤料	vcb ukh inr ou	0
-简加工类	tuj lk a od	0
-酒及饮料生产设备	isgg ey qnq ou tg u ymc tlf	0
-库存食品	ylk dhb wyv kkk	1
-块茎类	fnw aca od	14
-冷冻粗加工水产品	uwyc uai oe lk a ii u kkk	0
-冷冻食品加工设备	uwyc uai wyv kkk lk a ymc tlf	0
-冷冻蔬菜	uwyc uai anh ae	12
-麦类	gtu od	25
-蜜饯类	pntj qngt od	6
-米面类	oy dm od	8
-蜜制品	pntj rmhj kkk	0
-免疫抗疲劳	qkq umc rymn uhc apl	0
-农牧渔类	pei trt iqgg od	0
-其他保健食品	adw wb wk wvf wyv kkk	0
-其他茶叶	adw wb aws kf	0
-其他冲饮品	adw wb ukh qnq kkk	0
-其他粗加工水产品	adw wb oe lk a ii u kkk	0
-其他方便食品	adw wb yy wgj wyv kkk	0
-其他罐头食品	adw wb rmay udi wyv kkk	1
-其他酒类	adw wb isgg od	24
-其他粮食	adw wb oyv wyv	0
-其他米面类	adw wb oy dm od	0
-其他禽类	adw wb wyb od	0
-其他肉类	adw wb mww od	0
-其他肉制品	adw wb mww rmhj kkk	0
-其他软饮料	adw wb lqw qnq ou	1
-其他生鲜水果	adw wb tg qgu ii js	0
-其他食品添加剂	adw wb wyv kkk igd lk yjjh	1
-其他食用菌	adw wb wyv et alt	0
-其他食用油	adw wb wyv et img	5
-其他蔬菜制品	adw wb anh ae rmhj kkk	0
-其他糖类	adw wb oyvk od	3
-其他鲜活水产品	adw wb qgu itd ii u kkk	0
-其他新鲜蔬菜	adw wb usr qgu anh ae	1
-其他休闲食品	adw wb ws usi wyv kkk	0
-肉干肉脯	mww fggh mww ege	0
-肉制品加工设备	mww rmhj kkk lk a ymc tlf	0
-乳制品加工设备	ebn rmhj kkk lk a ymc tlf	1
-深加工类	ipw lk a od	0
-生鲜水果	tg qgu ii js	23
-食品储运设备	wyv kkk wyf fcp ymc tlf	0
-食品烘焙设备	wyv kkk oaw ouk ymc tlf	0
-食品饮料代理	wyv kkk qnq ou wa gj	0
-食品饮料加工	wyv kkk qnq ou lk a	1
-食品饮料项目合作	wyv kkk qnq ou adm hhhh wgk wt	0
-食用菌罐头	wyv et alt rmay udi	0
-蔬菜罐头	anh ae rmay udi	4
-水产罐头	ii u rmay udi	0
-水生菜类	ii tg ae od	0
-速冻面点	gkip uai dm hko	0
-速溶茶	gkip ipwk aws	3
-碳酸饮料	dmd sgc qnq ou	439
-调味品加工设备	ymf kfi kkk lk a ymc tlf	0
-鲜活水产品	qgu itd ii u kkk	0
-蟹类	qevj od	14
-休闲食品	ws usi wyv kkk	102
-休闲食品加工设备	ws usi wyv kkk lk a ymc tlf	0
-腌制水产品	edjn rmhj ii u kkk	0
-养肾	udyj jce	71
-野生菜类	jfc tg ae od	0
-饮料加工设备	qnq ou lk a ymc tlf	0
-营养饮品	apk udyj qnq kkk	2
-鱼干鱼丝	qgf fggh qgf xxg	0
-竹笋类	ttg tvt od	1
-安全仪器	pv wg wyq kkd	0
-百分表	dj wv ge	1
-包装件试验机	qn ufy wrh yaa cwg sm	0
-玻璃温度计	ghc gyb ijl ya yf	0
-测厚仪	imj djb wyq	4
-测力仪表	imj lt wyq ge	0
-车用仪表	lg et wyq ge	0
-冲击试验机	ukh fmk yaa cwg sm	0
-船用仪器仪表	temk et wyq kkd wyq ge	0
-地上衡	f h tqdh	0
-地震仪器	f fdf wyq kkd	2
-电磁学计量标准器具	jn du ip yf jg sfi uwy kkd hw	0
-电导仪器	jn nf wyq kkd	0
-电动单元组合仪表	jn fcl ujfj fqb xeg wgk wyq ge	0
-电工仪器仪表	jn a wyq kkd wyq ge	2
-电离辐射计量标准器具	jn yb lgk tmdf yf jg sfi uwy kkd hw	0
-电流测量仪表	jn iyc imj jg wyq ge	0
-电能仪表	jn ce wyq ge	0
-电位差计	jn wug uda yf	0
-电压测量仪表	jn dfy imj jg wyq ge	0
-电阻测量仪表	jn begg imj jg wyq ge	0
-吊秤	kmh tgu	0
-定量秤	pg jg tgu	0
-定硫仪	pg dyc wyq	0
-二手仪器仪表	fg rt wyq kkd wyq ge	0
-纺织用仪器	xy xkw et wyq kkd	0
-非接触式温度计	djd ruv qejy aa ijl ya yf	0
-非金属材料试验机	djd qqqq ntk sft ou yaa cwg sm	0
-腐蚀试验箱	ywfw qnj yaa cwg tsh	0
-功率测量仪表	al yx imj jg wyq ge	0
-工业计时器	a og yf jf kkd	0
-工艺试验机	a anb yaa cwg sm	0
-光学计量标准器具	iq ip yf jg sfi uwy kkd hw	0
-轨道衡	lv uthp tqdh	1
-恒温试验设备	ngj ijl yaa cwg ymc tlf	0
-化工仪表	wx a wyq ge	1
-化学计量标准器具	wx ip yf jg sfi uwy kkd hw	0
-基地式仪表	ad f aa wyq ge	0
-激光器件	iry iq kkd wrh	3
-计价秤	yf wwj tgu	0
-计量标准器具	yf jg sfi uwy kkd hw	0
-机械量仪表	sm sa jg wyq ge	0
-集中控制装置	wys k rpw rmhj ufy lfhf	0
-控制调节仪表	rpw rmhj ymf ab wyq ge	0
-拉力试验机	ru lt yaa cwg sm	0
-沥青试验仪器	idl gef yaa cwg wyq kkd	0
-力学计量标准器具	lt ip yf jg sfi uwy kkd hw	0
-力与变形检测仪	lt gn yo gae sw imj wyq	0
-量热仪	jg rvyo wyq	1
-量仪	jg wyq	0
-流量变送器	iyc jg yo udp kkd	0
-流量仪表	iyc jg wyq ge	1
-粘度计	oh ya yf	0
-扭转试验机	rnf lfn yaa cwg sm	0
-配料秤	sgn ou tgu	0
-皮带秤	hc gkp tgu	0
-疲劳试验机	uhc apl yaa cwg sm	8
-频率测量仪表	hid yx imj jg wyq ge	0
-汽车试验设备	irn lg yaa cwg ymc tlf	0
-气动单元组合仪表	rnb fcl ujfj fqb xeg wgk wyq ge	0
-气动量仪	rnb fcl jg wyq	0
-其他电工仪器仪表	adw wb jn a wyq kkd wyq ge	0
-其他分析仪器	adw wb wv sr wyq kkd	0
-其他光学仪器	adw wb iq ip wyq kkd	1
-其他计量标准器具	adw wb yf jg sfi uwy kkd hw	0
-其他机械量仪表	adw wb sm sa jg wyq ge	0
-其他量具	adw wb jg hw	0
-其他量仪	adw wb jg wyq	0
-其他流量仪表	adw wb iyc jg wyq ge	0
-其他试验机	adw wb yaa cwg sm	0
-其他实验仪器装置	adw wb pu cwg wyq kkd ufy lfhf	0
-其他未分类	adw wb fii wv od	0
-其他压力仪表	adw wb dfy lt wyq ge	0
-其他仪器仪表配附件	adw wb wyq kkd wyq ge sgn bwf wrh	0
-其他专用仪器仪表	adw wb fny et wyq kkd wyq ge	0
-气象仪器	rnb qje wyq kkd	1
-千分表	tfk wv ge	1
-钳型表	qaf gajf ge	0
-强度试验机	xk ya yaa cwg sm	0
-热量计	rvyo jg yf	1
-热学计量标准器具	rvyo ip yf jg sfi uwy kkd hw	0
-三坐标测量机	dg wwf sfi imj jg sm	3
-色差计	qc uda yf	1
-时间频率计量标准器具	jf uj hid yx yf jg sfi uwy kkd hw	0
-实验仪器装置	pu cwg wyq kkd ufy lfhf	0
-双金属温度计	cc qqqq ntk ijl ya yf	0
-水分计	ii wv yf	0
-水文仪器	ii yygy wyq kkd	0
-水质分析仪	ii rfm wv sr wyq	0
-速度测量仪表	gkip ya imj jg wyq ge	0
-天平仪器	gd gu wyq kkd	0
-通讯检测仪器	cep ynf sw imj wyq kkd	0
-万能试验机	dnv ce yaa cwg sm	0
-弯曲试验机	yox ma yaa cwg sm	0
-温度变送器	ijl ya yo udp kkd	0
-温度校验仪表	ijl ya suq cwg wyq ge	0
-温度控制调节器	ijl ya rpw rmhj ymf ab kkd	0
-温度仪表	ijl ya wyq ge	1
-无损检测仪器	fq rkm sw imj wyq kkd	1
-物位仪表	tr wug wyq ge	1
-显示仪表	jo fi wyq ge	3
-压力校验仪表	dfy lt suq cwg wyq ge	0
-压力式温度计	dfy lt aa ijl ya yf	0
-压力试验机	dfy lt yaa cwg sm	0
-压力仪表	dfy lt wyq ge	0
-仪表盒	wyq ge wgkl	0
-仪表壳体	wyq ge fpm wsg	0
-仪器仪表配附件	wyq kkd wyq ge sgn bwf wrh	0
-仪用电源	wyq et jn idr	0
-圆度仪	lkmi ya wyq	0
-造纸检测仪器	tfkp xqa sw imj wyq kkd	0
-折射仪	rr tmdf wyq	1
-真空测量仪器	fhw pw imj jg wyq kkd	0
-专用仪器仪表	fny et wyq kkd wyq ge	0
-浊度计	ij ya yf	0
-自动化成套控制系统	thd fcl wx dn ddu rpw rmhj txi xyc	0
-保龄球用品	wk hwbc gfi et kkk	0
-蹦极用品	khme se et kkk	0
-宾馆服务	pr qnp eb tl	0
-宾馆酒店用品	pr qnp isgg yhk et kkk	0
-裁判教练用具	fay udjh ftbt xan et hw	0
-餐饮设备	hq qnq ymc tlf	1
-场地铺设器材	fnrt f qge ymc kkd sft	0
-充气沙发	yc rnb iit v	13
-宠物服装	pdx tr eb ufy	2
-宠物链圈	pdx tr qlp lud	0
-宠物清洁用品	pdx tr ige ifk et kkk	0
-宠物食具	pdx tr wyv hw	0
-宠物玩具	pdx tr gfq hw	13
-宠物窝	pdx tr pwkw	3
-垂钓用品	tga qqy et kkk	0
-吹奏类乐器	kqw dwg od qi kkd	9
-打击类乐器	rs fmk od qi kkd	2
-大型游艺机	dd gajf iytb anb sm	0
-电动滑板车	jn fcl ime src lg	15
-钓鱼帽	qqy qgf mhj	0
-多功能鞋	qq al ce afff	0
-二手体育休闲设施	fg rt wsg yce ws usi ymc ytb	0
-二手通用零部件	fg rt cep et fwyc uk wrh	0
-飞行鞋	nui tf afff	1
-橄榄球帽	snb sjtq gfi mhj	0
-橄榄球用品	snb sjtq gfi et kkk	0
-高尔夫练习器具	ym qiu fw xan nu kkd hw	0
-高尔夫球车	ym qiu fw gfi lg	5
-高尔夫球袋	ym qiu fw gfi waye	0
-高尔夫球钉	ym qiu fw gfi qs	0
-高尔夫球杆	ym qiu fw gfi sfh	140
-高尔夫球帽	ym qiu fw gfi mhj	0
-高尔夫鞋	ym qiu fw afff	0
-高尔夫用品	ym qiu fw et kkk	13
-高尔夫组合球具	ym qiu fw xeg wgk gfi hw	0
-护踝	ryn khjs	50
-护头	ryn udi	57
-户外运动服装	yne qh fcp fcl eb ufy	3
-滑板车配件	ime src lg sgn wrh	0
-滑雪固定器	ime fv ldd pg kkd	0
-滑雪靴	ime fv afwx	4
-滑雪用品	ime fv et kkk	4
-计时记分用具	yf jf yn wv et hw	0
-极限运动用品	se bv fcp fcl et kkk	0
-健腹器	wvf etj kkd	0
-键盘类乐器	qvfp tel od qi kkd	30
-健身路径	wvf tmd kht tca	1
-脚踏滑板车	efcb khij ime src lg	0
-酒店茶几	isgg yhk aws mt	0
-酒店成套家具	isgg yhk dn ddu pe hw	0
-酒店床头柜	isgg yhk ysi udi san	0
-酒店大堂用品	isgg yhk dd ipkf et kkk	0
-酒店电视柜	isgg yhk jn pym san	0
-酒店客房床	isgg yhk pt yny ysi	0
-酒店客房用品	isgg yhk pt yny et kkk	1
-酒店沙发	isgg yhk iit v	0
-酒店梳妆台	isgg yhk syc uv ck	0
-酒店行李柜	isgg yhk tf sb san	0
-酒店椅	isgg yhk sds	0
-酒店桌	isgg yhk hjs	0
-举重用品	iwf tgj et kkk	0
-空中运动用品	pw k fcp fcl et kkk	0
-库存体育运动产品	ylk dhb wsg yce fcp fcl u kkk	0
-库存娱乐休闲产品	ylk dhb vkgd qi ws usi u kkk	0
-拉弦类乐器	ru xyx od qi kkd	3
-篮球用品	tjtl gfi et kkk	0
-垒球用品	cccf gfi et kkk	0
-练功鞋	xan al afff	0
-马术用具	cn sy et hw	0
-排球用品	rdj gfi et kkk	0
-攀岩用品	sqq mdf et kkk	0
-漂流用品	isf iyc et kkk	0
-票务服务	sfiu tl eb tl	2
-乒乓球用品	rgt rgy gfi et kkk	0
-汽动滑板车	irn fcl ime src lg	0
-棋牌桌	sad thgf hjs	5
-其他宠物用品	adw wb pdx tr et kkk	1
-其他高尔夫用品	adw wb ym qiu fw et kkk	0
-其他户外用品	adw wb yne qh et kkk	0
-其他滑板车	adw wb ime src lg	0
-其他极限运动用品	adw wb se bv fcp fcl et kkk	0
-其他健身器材	adw wb wvf tmd kkd sft	19
-其他酒店家具	adw wb isgg yhk pe hw	0
-其他溜冰	adw wb iqyl ui	0
-其他棋牌	adw wb sad thgf	0
-其他烧烤用具	adw wb oat oft et hw	0
-其他体育运动配套产品	adw wb wsg yce fcp fcl sgn ddu u kkk	0
-其他休闲家具	adw wb ws usi pe hw	0
-其他游艺设施	adw wb iytb anb ymc ytb	0
-其他运动服装	adw wb fcp fcl eb ufy	0
-其他运动护具	adw wb fcp fcl ryn hw	0
-其他运动帽	adw wb fcp fcl mhj	0
-其他运动鞋	adw wb fcp fcl afff	0
-潜水用品	ifw ii et kkk	0
-球裤	gfi puy	27
-球类打气筒	gfi od rs rnb tmgk	0
-拳击器械	udr fmk kkd sa	0
-赛车帽	pfjm lg mhj	0
-沙狐球用品	iit qtr gfi et kkk	0
-沙滩席	iit icw yam	0
-烧烤叉	oat oft cyi	1
-烧烤网	oat oft mqq	1
-烧烤用具	oat oft et hw	1
-射箭用品	tmdf tue et kkk	2
-室内健身服装	pgc mw wvf tmd eb ufy	0
-手球用品	rt gfi et kkk	0
-水上游艺设施	ii h iytb anb ymc ytb	0
-水上运动用品	ii h fcp fcl et kkk	0
-水族器材	ii ytt kkd sft	0
-台球用品	ck gfi et kkk	0
-弹拨类乐器	xuj rnt od qi kkd	8
-体操用品	wsg rkk et kkk	0
-体育运动产品代理	wsg yce fcp fcl u kkk wa gj	0
-体育运动产品加工	wsg yce fcp fcl u kkk lk a	0
-体育运动配套产品	wsg yce fcp fcl sgn ddu u kkk	0
-体育运动项目合作	wsg yce fcp fcl adm hhhh wgk wt	0
-田径用品	lll tca et kkk	0
-跳床	khi ysi	3
-网球用品	mqq gfi et kkk	2
-网羽运动鞋	mqq nny fcp fcl afff	0
-武术用品	gah sy et kkk	0
-戏剧用品	ca ndj et kkk	0
-休闲家具	ws usi pe hw	3
-野营灯	jfc apk os	0
-游戏棋	iytb ca sad	4
-游艺设施	iytb anb ymc ytb	5
-娱乐休闲产品代理	vkgd qi ws usi u kkk wa gj	0
-娱乐休闲产品加工	vkgd qi ws usi u kkk lk a	0
-娱乐休闲项目合作	vkgd qi ws usi adm hhhh wgk wt	0
-娱乐休闲用品	vkgd qi ws usi et kkk	0
-羽毛球用品	nny tfn gfi et kkk	2
-乐器配件	qi kkd sgn wrh	0
-运动测试仪器	fcp fcl imj yaa wyq kkd	0
-运动垫子	fcp fcl rvyf bb	0
-运动服饰	fcp fcl eb qnth	27
-运动护具	fcp fcl ryn hw	12
-折叠床行军床	rr cccg ysi tf pl ysi	0
-中式武术服装	k aa gah sy eb ufy	0
-自行车帽	thd tf lg mhj	0
-组合滑梯	xeg wgk ime sux	0
-组合健身器械	xeg wgk wvf tmd kkd sa	0
-组合烤具	xeg wgk oft hw	0
-组合运动护具	xeg wgk fcp fcl ryn hw	0
-足球用品	khu gfi et kkk	1
-足浴设备	khu iww ymc tlf	0
-补偿装置	puh wi ufy lfhf	1
-柴油发电机组	hxs img v jn sm xeg	5
-车用润滑油	lg et iugg ime img	1
-灯用煤油	os et oa img	1
-电池组配件	jn ib xeg sgn wrh	0
-电源变压器	jn idr yo dfy kkd	3
-电源柜	jn idr san	2
-发电机组零部件	v jn sm xeg fwyc uk wrh	0
-风力发电机组	mq lt v jn sm xeg	5
-风能设备	mq ce ymc tlf	2
-工业润滑油	a og iugg ime img	2
-恒压变压器	ngj dfy yo dfy kkd	0
-节电设备	ab jn ymc tlf	0
-节水设备	ab ii ymc tlf	0
-节油设备	ab img ymc tlf	0
-炼化设备	oanw wx ymc tlf	2
-脉冲变压器	eyni ukh yo dfy kkd	0
-煤制品	oa rmhj kkk	0
-能源产品代理	ce idr u kkk wa gj	0
-能源产品加工	ce idr u kkk lk a	0
-能源项目合作	ce idr adm hhhh wgk wt	0
-耦合变压器	dij wgk yo dfy kkd	0
-配电屏	sgn jn nua	1
-配电器	sgn jn kkd	0
-配电输电设备	sgn jn lwg jn ymc tlf	0
-其他变压器	adw wb yo dfy kkd	0
-其他电池	adw wb jn ib	0
-其他发电机	adw wb v jn sm	0
-其他节能设备	adw wb ab ce ymc tlf	0
-其他煤制品	adw wb oa rmhj kkk	0
-其他配电输电设备	adw wb sgn jn lwg jn ymc tlf	0
-其他润滑油脂	adw wb iugg ime img ex	0
-其他石油加工设备	adw wb dgtg img lk a ymc tlf	0
-其他石油燃料	adw wb dgtg img oqdo ou	0
-其他太阳能设备	adw wb dy bj ce ymc tlf	0
-其他添加剂	adw wb igd lk yjjh	21
-其他原煤	adw wb dr oa	0
-汽油发电机组	irn img v jn sm xeg	0
-燃料油添加剂	oqdo ou img igd lk yjjh	0
-燃煤发电机组	oqdo oa v jn sm xeg	2
-燃气发电机组	oqdo rnb v jn sm xeg	2
-燃气设备	oqdo rnb ymc tlf	0
-润滑油添加剂	iugg ime img igd lk yjjh	1
-石油产品添加剂	dgtg img u kkk igd lk yjjh	0
-石油和天然气	dgtg img t gd qd rnb	82
-石油加工设备	dgtg img lk a ymc tlf	0
-石油蜡	dgtg img jaj	0
-石油燃料	dgtg img oqdo ou	2
-水力发电机组	ii lt v jn sm xeg	0
-太阳能发电机组	dy bj ce v jn sm xeg	1
-太阳能设备	dy bj ce ymc tlf	9
-网络变压器	mqq xtk yo dfy kkd	1
-异步发电机	naj hi v jn sm	0
-音频变压器	ujf hid yo dfy kkd	0
-沼气设备	ivk rnb ymc tlf	0
-自耦变压器	thd dij yo dfy kkd	1
-曝气设备	jja rnb ymc tlf	1
-滗水器	itt ii kkd	0
-超声波清洗设备	fhv fnr ihc ige itf ymc tlf	0
-除氧设备	bwt rnu ymc tlf	0
-道路清扫车	uthp kht ige rv lg	1
-电渗析设备	jn icd sr ymc tlf	0
-二手环保设备	fg rt ggi wk ymc tlf	0
-反渗透设备	rc icd tep ymc tlf	1
-芳香除臭化学品	ay tjf bwt thdu wx ip kkk	0
-纺织废料	xy xkw ynty ou	0
-废布	ynty dmh	5
-废催化剂	ynty wmw wx yjjh	1
-废电子电器	ynty jn bb jn kkd	0
-废海绵	ynty itx xr	0
-废化纤	ynty wx xtf	0
-废料回收	ynty ou lkd nh	15
-废麻	ynty yss	0
-废毛绒	ynty tfn xad	0
-废尼龙	ynty nx dx	0
-废气处理成套设备	ynty rnb th gj dn ddu ymc tlf	0
-废气吸附装置	ynty rnb ke bwf ufy lfhf	0
-风幕机	mq ajdh sm	0
-风叶	mq kf	71
-高纯水制取设备	ym xgb ii rmhj bc ymc tlf	0
-高压水流清洗机	ym dfy ii iyc ige itf sm	0
-公共环卫设施	wc aw ggi bg ymc ytb	0
-供水设备	waw ii ymc tlf	7
-工业风扇	a og mq ynnd	16
-工业吸尘设备	a og ke iff ymc tlf	0
-工业噪声控制设备	a og kkks fnr rpw rmhj ymc tlf	0
-贵金属盐废料	khgm qqqq ntk fhl ynty ou	0
-过滤材料	fp iha sft ou	8
-海水淡化设备	itx ii io wx ymc tlf	5
-化工废料	wx a ynty ou	3
-环保厕所	ggi wk dmjk rn	0
-环保设备代理	ggi wk ymc tlf wa gj	0
-环保设备加工	ggi wk ymc tlf lk a	0
-环保项目合作	ggi wk adm hhhh wgk wt	0
-环保用品	ggi wk et kkk	1
-环卫垃圾桶	ggi bg fug fe sce	0
-家用净水器	pe et uqv ii kkd	8
-净水絮凝剂	uqv ii vkx uxt yjjh	0
-空气处理化学品	pw rnb th gj wx ip kkk	0
-空气净化装置	pw rnb uqv wx ufy lfhf	13
-垃圾处理机	fug fe th gj sm	7
-离子风机	yb bb mq sm	0
-离子交换设备	yb bb uq rq ymc tlf	1
-滤板	iha src	2
-滤片	iha thg	10
-滤油机	iha img sm	0
-美废	ugdu ynty	2
-欧废	aqq ynty	0
-排风设备	rdj mq ymc tlf	1
-排风设备配件	rdj mq ymc tlf sgn wrh	0
-抛丸清理机	rvl vyi ige gj sm	0
-喷洒车	kfa is lg	1
-皮革废料	hc af ynty ou	0
-汽车滤清器	irn lg iha ige kkd	0
-汽车消声器	irn lg iie fnr kkd	0
-气浮设备	rnb ieb ymc tlf	0
-其他纺织废料	adw wb xy xkw ynty ou	0
-其他废纸	adw wb ynty xqa	0
-其他风机	adw wb mq sm	0
-其他公共环卫设施	adw wb wc aw ggi bg ymc ytb	0
-其他过滤材料	adw wb fp iha sft ou	0
-其他过滤设备	adw wb fp iha ymc tlf	0
-其他化工废料	adw wb wx a ynty ou	0
-其他空气处理化学品	adw wb pw rnb th gj wx ip kkk	0
-其他空气净化装置	adw wb pw rnb uqv wx ufy lfhf	0
-其他皮革废料	adw wb hc af ynty ou	0
-其他清洗	adw wb ige itf	0
-其他水处理化学品	adw wb ii th gj wx ip kkk	0
-其他污水处理设备	adw wb ifn ii th gj ymc tlf	0
-其他消音降噪设备	adw wb iie ujf bt kkks ymc tlf	0
-其他原水处理设备	adw wb dr ii th gj ymc tlf	0
-清理设备	ige gj ymc tlf	2
-人造皮革废料	w tfkp hc af ynty ou	0
-日废	jjjj ynty	0
-软化水设备	lqw wx ii ymc tlf	0
-杀菌灭藻剂	qsu alt goi aik yjjh	0
-生活饮用水处理设备	tg itd qnq et ii th gj ymc tlf	0
-水处理化学品	ii th gj wx ip kkk	0
-水杀菌消毒设备	ii qsu alt iie gxgu ymc tlf	0
-酸雾净化器	sgc ftl uqv wx kkd	0
-脱硫除尘设备	euk dyc bwt iff ymc tlf	0
-尾气处理装置	ntf rnb th gj ufy lfhf	7
-污泥处理设备	ifn inx th gj ymc tlf	0
-污水处理成套设备	ifn ii th gj dn ddu ymc tlf	0
-污水处理设备	ifn ii th gj ymc tlf	12
-消音降噪设备	iie ujf bt kkks ymc tlf	0
-压滤设备	dfy iha ymc tlf	0
-泳池水处理设备	iyni ib ii th gj ymc tlf	0
-油水分离设备	img ii wv yb ymc tlf	0
-油烟净化设备	img ol uqv wx ymc tlf	0
-原水处理设备	dr ii th gj ymc tlf	0
-杂质泵	vs rfm diu	0
-真皮废料	fhw hc ynty ou	0
-蒸汽清洗机	abi irn ige itf sm	1
-装修污染清除剂	ufy wht ifn ivs ige bwt yjjh	0
-安全绳	pv wg xkjn	127
-办公锁	lw wc qim	0
-板岩	src mdf	23
-报警器材及系统	rb aqky kkd sft ey txi xyc	0
-杯架	sgi lks	50
-铲土运输机械	qut ffff fcp lwg sm sa	0
-超市购物车	fhv ymhj mqc tr lg	2
-厨卫设施	dgkf bg ymc ytb	3
-窗轨	pwt lv	0
-窗锁	pwt qim	1
-炊具挂盘	oqw hw rffg tel	0
-磁卡锁	du hhu qim	0
-瓷砖胶	uqwn dfny eu	35
-地板料	f src ou	0
-电梯及配件	jn sux ey sgn wrh	0
-二手建材加工设备	fg rt vfhp sft lk a ymc tlf	0
-法兰盘	if uff tel	5
-阀片	uwa thg	11
-阀芯	uwa anu	19
-防潮材料	by ifj sft ou	2
-防护耳塞耳罩	by ryn bgh pfjf bgh lhj	0
-防护面罩面具	by ryn dm lhj dm hw	0
-防护鞋	by ryn afff	0
-防护眼镜眼罩	by ryn hv quj hv lhj	0
-肥皂架	ec rab lks	3
-复合窗	tjt wgk pwt	0
-钢筋和预应力机械	qmq telb t cbd yid lt sm sa	0
-隔断与吊顶	bgk on gn kmh sdm	0
-格栅灯	st smm os	1
-工程机械配件	a tkgg sm sa sgn wrh	1
-工程与建筑机械	a tkgg gn vfhp tam sm sa	0
-工地施工材料	a f ytb a sft ou	0
-挂镜线	rffg quj xg	2
-管道辅助材料	tp uthp lgey egl sft ou	0
-管件管材	tp wrh tp sft	1
-焊接钢管	ojf ruv qmq tp	2
-花洒及配件	awx is ey sgn wrh	0
-花洒软管	awx is lqw tp	2
-混凝土搅拌机械	ijx uxt ffff ripq rufh sm sa	0
-混水阀	ijx ii uwa	14
-机械门锁	sm sa uyh qim	1
-家具锁	pe hw qim	0
-建材机械及用具	vfhp sft sm sa ey et hw	0
-建材加工	vfhp sft lk a	0
-建材类管材	vfhp sft od tp sft	0
-建材类管件	vfhp sft od tp wrh	0
-建材生产加工机械	vfhp sft tg u lk a sm sa	0
-监控器材及系统	jtyl rpw kkd sft ey txi xyc	0
-建筑玻璃	vfhp tam ghc gyb	4
-建筑门窗及五金	vfhp tam uyh pwt ey gg qqqq	0
-建筑配套设施及其他	vfhp tam sgn ddu ymc ytb ey adw wb	0
-建筑图纸	vfhp tam ltu xqa	20
-建筑项目合作	vfhp tam adm hhhh wgk wt	0
-建筑用粘合剂	vfhp tam et oh wgk yjjh	1
-建筑装潢工程承包	vfhp tam ufy iam a tkgg bd qn	0
-匠作工具	ar wt a hw	0
-金属窗	qqqq ntk pwt	0
-金属建材	qqqq ntk vfhp sft	0
-金属胶	qqqq ntk eu	0
-绝缘板	xqc xxe src	0
-绝缘带	xqc xxe gkp	0
-绝缘垫片	xqc xxe rvyf thg	0
-绝缘隔离柱	xqc xxe bgk yb syg	0
-绝缘套管	xqc xxe ddu tp	0
-开门器	ga uyh kkd	1
-库存及相关服务	ylk dhb ey sh ud eb tl	0
-库存建材	ylk dhb vfhp sft	0
-快开	nnw ga	46
-冷热水系统	uwyc rvyo ii txi xyc	0
-楼梯及配件	sov sux ey sgn wrh	0
-楼宇对讲设备	sov pgf cf yfj ymc tlf	0
-楼宇设施	sov pgf ymc ytb	0
-路面机械	kht dm sm sa	0
-毛巾杆	tfn mhk sfh	19
-门窗挂钩	uyh pwt rffg qqc	0
-门夹	uyh guw	20
-门禁考勤器材及系统	uyh ssf ftg akgl kkd sft ey txi xyc	0
-门碰	uyh duo	0
-门吸	uyh ke	27
-面盆及配件	dm wvl ey sgn wrh	0
-抹泥板	rgs inx src	0
-摩托车锁	yssr rta lg qim	0
-木工胶	ssss a eu	14
-木工铣刀	ssss a qtfq vn	0
-木工油漆	ssss a img isw	0
-幕墙胶	ajdh ffuk eu	0
-木质材料	ssss rfm sft ou	41
-木质片材	ssss rfm thg sft	0
-木质线材	ssss rfm xg sft	0
-木质型材	ssss rfm gajf sft	0
-耐磨砖	dmjf yssd dfny	3
-其他不动产	adw wb i fcl u	8
-其他厨房设施	adw wb dgkf yny ymc ytb	0
-其他窗	adw wb pwt	0
-其他地板	adw wb f src	0
-其他工程承包	adw wb a tkgg bd qn	0
-其他工程与建筑机械	adw wb a tkgg gn vfhp tam sm sa	0
-其他管道系统	adw wb tp uthp txi xyc	0
-其他管件	adw wb tp wrh	0
-其他建筑	adw wb vfhp tam	0
-其他建筑玻璃	adw wb vfhp tam ghc gyb	0
-其他建筑陶瓷	adw wb vfhp tam bqr uqwn	0
-其他建筑涂料	adw wb vfhp tam iwt ou	0
-其他建筑用粘合剂	adw wb vfhp tam et oh wgk yjjh	0
-其他匠作工具	adw wb ar wt a hw	0
-其他绝缘材料	adw wb xqc xxe sft ou	0
-其他楼宇设施	adw wb sov pgf ymc ytb	0
-其他门	adw wb uyh	0
-其他门窗五金	adw wb uyh pwt gg qqqq	0
-其他木质材料	adw wb ssss rfm sft ou	0
-其他石材石料	adw wb dgtg sft dgtg ou	0
-其他室内照明灯具	adw wb pgc mw jvko je os hw	0
-其他水暖五金	adw wb ii jef gg qqqq	0
-其他锁具	adw wb qim hw	0
-其他卫浴用五金件	adw wb bg iww et gg qqqq wrh	0
-其他装饰线板	adw wb ufy qnth xg src	0
-其他作业保护	adw wb wt og wk ryn	0
-墙纸胶	ffuk xqa eu	4
-燃气系统	oqdo rnb txi xyc	1
-三角阀	dg qe uwa	5
-上水系统	h ii txi xyc	0
-深加工玻璃	ipw lk a ghc gyb	0
-石材干挂胶	dgtg sft fggh rffg eu	0
-石材加工	dgtg sft lk a	3
-石材石料	dgtg sft dgtg ou	0
-石材养护	dgtg sft udyj ryn	0
-室内涂料	pgc mw iwt ou	0
-室内照明灯具	pgc mw jvko je os hw	0
-室外涂料	pgc qh iwt ou	0
-市政和环境卫生机械	ymhj ght t ggi fuj bg tg sm sa	0
-手工刨	rt a qnjh	1
-手纸架	rt xqa lks	1
-水暖五金	ii jef gg qqqq	0
-水嘴	ii khx	0
-锁具配件	qim hw sgn wrh	0
-陶瓷生产加工机械	bqr uqwn tg u lk a sm sa	0
-特种建材	trf tkh vfhp sft	1
-筒灯	tmgk os	156
-卫浴用五金件	bg iww et gg qqqq wrh	0
-污物桶	ifn tr sce	2
-箱包锁	tsh qn qim	0
-信报箱	wy rb tsh	0
-压实机械	dfy pu sm sa	2
-檐口线脚	sqdy kkkk xg efcb	0
-羊眼	udj hv	5
-营业房	apk og yny	4
-油灰刀	img do vn	2
-浴缸及配件	iww rma ey sgn wrh	0
-园林和高空作业机械	lfq ss t ym pw wt og sm sa	0
-原片玻璃	dr thg ghc gyb	6
-砖瓦及砌块	dfny gny ey dav fnw	0
-桩工机械	syf a sm sa	1
-装饰建材代理	ufy qnth vfhp sft wa gj	0
-装饰线板	ufy qnth xg src	0
-装修机械	ufy wht sm sa	0
-装载机械	ufy fa sm sa	1
-座厕及配件	yww dmjk ey sgn wrh	0
-作业保护	wt og wk ryn	0
-保健品代理	wk wvf kkk wa gj	0
-保健项目合作	wk wvf adm hhhh wgk wt	0
-保健用品加工	wk wvf et kkk lk a	0
-畜用药	yxl et ax	0
-电子脉冲治疗仪	jn bb eyni ukh ick ubk wyq	2
-动物原药材	fcl tr dr ax sft	0
-儿科用药	qt tu et ax	1
-二手医疗设备	fg rt atd ubk ymc tlf	0
-二手制药设备	fg rt rmhj ax ymc tlf	0
-妇科用药	vv tu et ax	0
-骨及关节康复用品	me ey ud ab yvi tjt et kkk	0
-骨伤科用药	me wtl tu et ax	0
-护创材料	ryn wbj sft ou	0
-家用血糖仪	pe et tld oyvk wyq	8
-家用血压计	pe et tld dfy yf	1
-减肥用品	udg ec et kkk	0
-监护设备	jtyl ryn ymc tlf	6
-检验分析设备	sw cwg wv sr ymc tlf	0
-矫正设备	tdtj ghd ymc tlf	2
-介入性材料	wj ty ntg sft ou	0
-康复理疗设备	yvi tjt gj ubk ymc tlf	0
-库存医药用品	ylk dhb atd ax et kkk	0
-矿物原药材	dyt tr dr ax sft	0
-酶酵素制剂	sgtu sgfb gxi rmhj yjjh	0
-内科用药	mw tu et ax	3
-其他保健用品	adw wb wk wvf et kkk	0
-其他生物制品	adw wb tg tr rmhj kkk	0
-其它未分类	adw px fii wv od	0
-其他医疗器具	adw wb atd ubk kkd hw	0
-其他医用材料	adw wb atd et sft ou	0
-其他制药设备	adw wb rmhj ax ymc tlf	0
-其他中成药	adw wb k dn ax	1
-气血循环机	rnb tld trfh ggi sm	0
-人造器官及植入体	w tfkp kkd pn ey sfhg ty wsg	0
-生物诊断试剂	tg tr ywe on yaa yjjh	0
-视力保健用品	pym lt wk wvf et kkk	0
-手术卫生用品	rt sy bg tg et kkk	0
-手术专用设备	rt sy fny et ymc tlf	0
-睡眠保健用品	ht hna wk wvf et kkk	0
-通用医疗器具	cep et atd ubk kkd hw	0
-外科用药	qh tu et ax	0
-五官科用药	gg pn tu et ax	0
-消毒防腐药剂	iie gxgu by ywfw ax yjjh	0
-消毒灭菌设备	iie gxgu goi alt ymc tlf	1
-血压调节用品	tld dfy ymf ab et kkk	0
-药品包装机械	ax kkk qn ufy sm sa	0
-药品加工	ax kkk lk a	0
-药用包装材料	ax et qn ufy sft ou	0
-药用粉碎机械	ax et ow dyw sm sa	0
-一次性医用耗材	g uqw ntg atd et ditn sft	0
-医护辅助设备	atd ryn lgey egl ymc tlf	0
-医疗保健服务	atd ubk wk wvf eb tl	19
-医疗器具	atd ubk kkd hw	7
-医疗器械代理	atd ubk kkd sa wa gj	0
-医疗器械加工	atd ubk kkd sa lk a	0
-医疗器械制造设备	atd ubk kkd sa rmhj tfkp ymc tlf	0
-医药项目合作	atd ax adm hhhh wgk wt	0
-医用材料	atd et sft ou	22
-医用车	atd et lg	0
-医用器皿	atd et kkd lhn	1
-饮片机械	qnq thg sm sa	0
-原料药设备及机械	dr ou ax ymc tlf ey sm sa	0
-诊察设备	ywe pwfi ymc tlf	0
-制剂机械	rmhj yjjh sm sa	0
-治疗设备	ick ubk ymc tlf	0
-植物提取物	sfhg tr rj bc tr	81
-植物原药材	sfhg tr dr ax sft	0
-制药辅料	rmhj ax lgey ou	0
-制药设备	rmhj ax ymc tlf	6
-中医器械	k atd kkd sa	0
-注射穿刺器械	iy tmdf pwat gmi kkd sa	0
-办公设备维修及安装	lw wc ymc tlf xwy wht ey pv ufy	0
-保险服务	wk bwg eb tl	0
-财务咨询	mf tl uqwk yqj	58
-餐饮娱乐加盟	hq qnq vkgd qi lk jel	0
-仓储与配送	wbb wyf gn sgn udp	3
-产权债权转让	u sc wgmy sc lfn yh	0
-超市加盟	fhv ymhj lk jel	0
-出版展	bm thgc nae	0
-电器维修及安装	jn kkd xwy wht ey pv ufy	0
-公关服务	wc ud eb tl	4
-公司注册服务	wc ngk iy mm eb tl	2
-工艺品展	a anb kkk nae	0
-管理人员招聘	tp gj w km rvk bmg	0
-广告发布	yygt tfkf v dmh	0
-国际陆运	l bf bfm fcp	0
-国内空运	l mw pw fcp	0
-国内陆运	l mw bfm fcp	0
-国内水运	l mw ii fcp	0
-环保展	ggi wk nae	1
-会务及活动策划	wf tl ey itd fcl tgm aj	0
-技术人员招聘	rfc sy w km rvk bmg	1
-建筑及模型设计	vfhp tam ey saj gajf ymc yf	0
-建筑展	vfhp tam nae	10
-教育培训加盟	ftbt yce fuk yk lk jel	3
-进出口代理	fj bm kkkk wa gj	1
-会计服务	wf yf eb tl	0
-美容健身加盟	ugdu pww wvf tmd lk jel	0
-农业展	pei og nae	2
-配件展	sgn wrh nae	0
-皮革展	hc af nae	0
-其他创意设计	adw wb wbj ujn ymc yf	1
-其他公关服务	adw wb wc ud eb tl	0
-其他广告服务	adw wb yygt tfkf eb tl	0
-其他行业展会	adw wb tf og nae wf	0
-其他教育培训	adw wb ftbt yce fuk yk	0
-其他商务服务	adw wb um tl eb tl	1
-其他特许经营	adw wb trf ytf x apk	0
-其他维修及安装	adw wb xwy wht ey pv ufy	0
-其他招聘	adw wb rvk bmg	0
-其他知识产权服务	adw wb td ykw u sc eb tl	0
-其他中介服务	adw wb k wj eb tl	0
-其他咨询	adw wb uqwk yqj	0
-其他租赁	adw wb teg wtfm	1
-企业日常服务	whf og jjjj ipkh eb tl	0
-迁厂搬家	tfp dgt rte pe	0
-清洗及保洁服务	ige itf ey wk ifk eb tl	0
-认证服务	yw ygh eb tl	0
-商标注册申请	um sfi iy mm jhk yge	70
-商旅服务	um ytey eb tl	0
-设备展	ymc tlf nae	2
-摄影摄像服务	rbcc jyie rbcc wqj eb tl	0
-生产设备维修及安装	tg u ymc tlf xwy wht ey pv ufy	0
-特种物流	trf tkh tr iyc	0
-玩具展	gfq hw nae	16
-维修及安装服务	xwy wht ey pv ufy eb tl	0
-销售人员招聘	qie wyk w km rvk bmg	0
-信息展	wy thn nae	1
-行政人员招聘	tf ght w km rvk bmg	0
-演出服务	ipg bm eb tl	0
-影视节目制作	jyie pym ab hhhh rmhj wt	4
-语言培训	ygk yyy fuk yk	0
-展会服务	nae wf eb tl	3
-展览设计制作	nae jtyq ymc yf rmhj wt	0
-知识产权服务	td ykw u sc eb tl	49
-纸业展	xqa og nae	0
-中介服务加盟	k wj eb tl lk jel	0
-专利版权申请	fny tjh thgc sc jhk yge	0
-专利版权转让	fny tjh thgc sc lfn yh	0
-资格考试培训	uqwm st ftg yaa fuk yk	2
-综合类展会	xp wgk od nae wf	0
-租赁服务	teg wtfm eb tl	53
-邦定加工	dtb pg lk a	0
-杯灯	sgi os	1
-彩色灯泡	ese qc os iqn	2
-草坪灯	ajj fgu os	0
-插件加工	rtf wrh lk a	0
-充电手电筒	yc jn rt jn tmgk	0
-触片	qejy thg	2
-道路照明灯	uthp kht jvko je os	1
-灯具配附件	os hw sgn bwf wrh	0
-灯柱灯杆	os syg os sfh	0
-电光源材料	jn iq idr sft ou	1
-电子粉	jn bb ow	0
-电子加工	jn bb lk a	0
-电子组装加工	jn bb xeg ufy lk a	0
-二手照明器材	fg rt jvko je kkd sft	0
-防爆灯具	by oja os hw	0
-高杆灯	ym sfh os	0
-工矿灯具	a dyt os hw	0
-工艺装饰灯具	a anb ufy qnth os hw	0
-广告灯具	yygt tfkf os hw	0
-光源器	iq idr kkd	0
-焊接加工	ojf ruv lk a	3
-航空障碍灯	tey pw buj djg os	0
-红外线灯泡	xa qh xg os iqn	2
-环型荧光灯管	ggi gajf apo iq os tp	0
-机床灯具	sm ysi os hw	0
-检修灯	sw wht os	0
-角灯	qe os	12
-交通警示灯	uq cep aqky fi os	1
-金卤灯	qqqq hl os	2
-聚光灯泡	bct iq os iqn	0
-库存照明器材	ylk dhb jvko je kkd sft	0
-冷光片	uwyc iq thg	0
-冷阴极荧光灯	uwyc be se apo iq os	1
-两极电源插头	gmww se jn idr rtf udi	0
-两极电源插座	gmww se jn idr rtf yww	0
-卤钨灯泡	hl qqn os iqn	2
-螺旋型荧光灯管	jlx ytn gajf apo iq os tp	0
-埋地灯	fjf f os	0
-霓虹灯管	fvq ja os tp	2
-泡壳	iqn fpm	1
-普通手电筒	uo cep rt jn tmgk	1
-普通照明白炽灯	uo cep jvko je rrr ok os	1
-其他白炽灯	adw wb rrr ok os	0
-其他插头	adw wb rtf udi	0
-其他插座	adw wb rtf yww	0
-其他车灯	adw wb lg os	0
-其他灯具配附件	adw wb os hw sgn bwf wrh	0
-其他电光源材料	adw wb jn iq idr sft ou	0
-其他电子加工	adw wb jn bb lk a	0
-其他冷光源	adw wb uwyc iq idr	0
-其他气体放电灯	adw wb rnb wsg yt jn os	0
-其他室外照明灯具	adw wb pgc qh jvko je os hw	0
-其他手电筒	adw wb rt jn tmgk	0
-其他指示灯具	adw wb rxj fi os hw	0
-其他专门用途灯具	adw wb fny uyh et wtp os hw	0
-气体放电灯	rnb wsg yt jn os	5
-桥梁灯具	std ivw os hw	0
-三极电源插头	dg se jn idr rtf udi	0
-三极电源插座	dg se jn idr rtf yww	0
-设备指示灯	ymc tlf rxj fi os	0
-摄影灯具	rbcc jyie os hw	0
-摄影灯泡	rbcc jyie os iqn	0
-视频插头	pym hid rtf udi	0
-视频插座	pym hid rtf yww	0
-室外照明灯具	pgc qh jvko je os hw	0
-水下灯具	ii gh os hw	0
-水下灯泡	ii gh os iqn	0
-隧道灯具	bue uthp os hw	0
-太阳能手电筒	dy bj ce rt jn tmgk	0
-贴片加工	mhkg thg lk a	1
-微型灯泡	tmg gajf os iqn	0
-无电源手电筒	fq jn idr rt jn tmgk	0
-舞台灯具	rlg ck os hw	0
-芯柱	anu syg	2
-型荧光灯管	gajf apo iq os tp	0
-医疗灯具	atd ubk os hw	0
-应急指示灯具	yid qvn rxj fi os hw	0
-运动场馆灯具	fcp fcl fnrt qnp os hw	0
-照明配附件	jvko je sgn bwf wrh	0
-照明器材代理	jvko je kkd sft wa gj	0
-照明器材项目合作	jvko je kkd sft adm hhhh wgk wt	0
-指示灯具	rxj fi os hw	0
-指示灯泡	rxj fi os iqn	0
-直型荧光灯管	fh gajf apo iq os tp	0
-转换插座	lfn rq rtf yww	3
-专门用途灯具	fny uyh et wtp os hw	0
-装饰灯串	ufy qnth os kkh	0
-按摩鞋	rpv yssr afff	2
-棒球运动手套	sdw gfi fcp fcl rt ddu	0
-保安帽	wk pv mhj	1
-保暖鞋	wk jef afff	2
-布拖鞋	dmh rtb afff	0
-布制工作手套	dmh rmhj a wt rt ddu	0
-裁断机	fay on sm	0
-长统袜	ta xyc pug	7
-成品鞋	dn kkk afff	0
-成品鞋代理	dn kkk afff wa gj	0
-成品鞋加工	dn kkk afff lk a	0
-厨师帽	dgkf jgm mhj	9
-穿刺饰	pwat gmi qnth	0
-打钉机	rs qs sm	0
-袋鼠皮革	waye vnu hc af	0
-涤丝提花领带	its xxg rj awx wycm gkp	0
-涤丝印花领带	its xxg qgb awx wycm gkp	0
-电工作鞋	jn a wt afff	0
-钉跟机	qs khv sm	0
-多功能擦地拖鞋	qq al ce rpwi f rtb afff	0
-二手制鞋设备	fg rt rmhj afff ymc tlf	0
-儿童短袜	qt ujff tdg pug	0
-儿童连裤袜	qt ujff lpk puy pug	0
-儿童腰带	qt ujff esv gkp	0
-防尘帽	by iff mhj	1
-防静电工作鞋	by geq jn a wt afff	0
-仿皮带	wyn hc gkp	0
-仿丝长巾	wyn xxg ta mhk	0
-仿丝大方巾	wyn xxg dd yy mhk	0
-仿丝小方巾	wyn xxg ih yy mhk	0
-仿羊绒围巾	wyn udj xad lfnh mhk	0
-服饰代理	eb qnth wa gj	0
-服饰加工	eb qnth lk a	0
-服饰手套	eb qnth rt ddu	0
-服饰项目合作	eb qnth adm hhhh wgk wt	0
-钢包头工作鞋	qmq qn udi a wt afff	0
-高尔夫运动手套	ym qiu fw fcp fcl rt ddu	0
-工艺鞋	a anb afff	0
-工作手套	a wt rt ddu	0
-鼓乐队帽	fkuc qi bw mhj	0
-合成胶粘剂	wgk dn eu oh yjjh	1
-后帮机	rg dt sm	0
-护士帽	ryn fghg mhj	5
-滑雪运动手套	ime fv fcp fcl rt ddu	0
-混纺围巾	ijx xy lfnh mhk	0
-挤水机	ryj ii sm	0
-加脂剂	lk ex yjjh	0
-减肥鞋	udg ec afff	0
-脚饰	efcb qnth	0
-结帮机	xf dt sm	0
-浸灰剂	ivp do yjjh	0
-金属腰带	qqqq ntk esv gkp	4
-浸水助剂	ivp ii egl yjjh	0
-浸酸剂	ivp sgc yjjh	0
-刻楦机	ynt spg sm	0
-扣饰	rk qnth	2
-库存服饰	ylk dhb eb qnth	1
-库存领带	ylk dhb wycm gkp	0
-库存帽子	ylk dhb mhj bb	0
-库存手套	ylk dhb rt ddu	0
-库存袜子	ylk dhb pug bb	0
-库存围巾	ylk dhb lfnh mhk	0
-库存鞋材	ylk dhb afff sft	0
-库存腰带	ylk dhb esv gkp	0
-烂花绒围巾	oufg awx xad lfnh mhk	0
-礼仪手套	pynn wyq rt ddu	0
-量革机	jg af sm	0
-驴皮革	cyn hc af	0
-马皮革	cn hc af	0
-毛呢帽	tfn knx mhj	0
-毛绒拖鞋	tfn xad rtb afff	6
-帽子手套二件套	mhj bb rt ddu fg wrh ddu	0
-帽子围巾二件套	mhj bb lfnh mhk fg wrh ddu	0
-帽子围巾手套三件套	mhj bb lfnh mhk rt ddu dg wrh ddu	0
-门童帽	uyh ujff mhj	0
-民族帽	n ytt mhj	0
-木拖鞋	ssss rtb afff	0
-耐酸碱鞋	dmjf sgc ddg afff	0
-男包系列	ll qn txi gq	0
-男棉袜	ll srm pug	0
-男式凉拖鞋	ll aa uyiy rtb afff	0
-男式凉鞋	ll aa uyiy afff	0
-男式休闲布鞋	ll aa ws usi dmh afff	0
-男式休闲仿皮鞋	ll aa ws usi wyn hc afff	0
-男式休闲皮鞋	ll aa ws usi hc afff	0
-男式正装仿皮鞋	ll aa ghd ufy wyn hc afff	0
-男式正装皮鞋	ll aa ghd ufy hc afff	0
-男丝袜	ll xxg pug	0
-男靴	ll afwx	3
-尼龙手套	nx dx rt ddu	1
-牛皮革	rhk hc af	17
-女包系列	vvv qn txi gq	0
-女短丝袜	vvv tdg xxg pug	0
-女棉袜	vvv srm pug	0
-女式低靴	vvv aa wqa afwx	0
-女式高靴	vvv aa ym afwx	0
-女式凉拖鞋	vvv aa uyiy rtb afff	0
-女式凉鞋	vvv aa uyiy afff	1
-女式休闲布鞋	vvv aa ws usi dmh afff	0
-女式休闲仿皮鞋	vvv aa ws usi wyn hc afff	0
-女式休闲皮鞋	vvv aa ws usi hc afff	0
-女式正装仿皮鞋	vvv aa ghd ufy wyn hc afff	0
-女式正装皮鞋	vvv aa ghd ufy hc afff	0
-女式中靴	vvv aa k afwx	0
-皮包头工作鞋	hc qn udi a wt afff	0
-皮革服饰手套	hc af eb qnth rt ddu	0
-皮革化学品	hc af wx ip kkk	0
-皮革加工设备	hc af lk a ymc tlf	0
-皮拖鞋	hc rtb afff	0
-皮制工作手套	hc rmhj a wt rt ddu	0
-片皮机	thg hc sm	0
-剖层机	ukj nfc sm	0
-普通针织手套	uo cep qf xkw rt ddu	0
-其他服饰手套	adw wb eb qnth rt ddu	0
-其他功能鞋	adw wb al ce afff	0
-其他工作手套	adw wb a wt rt ddu	0
-其他工作鞋	adw wb a wt afff	0
-其他库存服饰	adw wb ylk dhb eb qnth	0
-其他类型功能鞋	adw wb od gajf al ce afff	0
-其他凉鞋	adw wb uyiy afff	0
-其他领带	adw wb wycm gkp	0
-其他皮革	adw wb hc af	0
-其他皮革化学品	adw wb hc af wx ip kkk	0
-其他皮革加工设备	adw wb hc af lk a ymc tlf	0
-其他生活帽	adw wb tg itd mhj	0
-其他时尚配饰	adw wb jf imkf sgn qnth	0
-其他时装帽	adw wb jf ufy mhj	0
-其他丝巾	adw wb xxg mhk	0
-其他童鞋	adw wb ujff afff	0
-其他拖鞋	adw wb rtb afff	0
-其他袜子	adw wb pug bb	2
-其他围巾	adw wb lfnh mhk	1
-其他围巾帽子手套套件	adw wb lfnh mhk mhj bb rt ddu ddu wrh	0
-其他鞋材化工	adw wb afff sft wx a	0
-其他鞋底	adw wb afff yqa	0
-其他鞋辅件	adw wb afff lgey wrh	0
-其他休闲鞋	adw wb ws usi afff	0
-其他靴子	adw wb afwx bb	0
-其他腰带	adw wb esv gkp	0
-其他运动手套	adw wb fcp fcl rt ddu	0
-其他正装鞋	adw wb ghd ufy afff	0
-其他制鞋机械	adw wb rmhj afff sm sa	0
-其他职业帽	adw wb bk og mhj	0
-前帮机	ue dt sm	0
-乾祥	fjt pyu	1
-乾祥服饰	fjt pyu eb qnth	0
-乾祥服饰旗舰店	fjt pyu eb qnth yta temq yhk	0
-乔丹篮球鞋	tdj myd tjtl gfi afff	2
-晴纶围巾	jge xwx lfnh mhk	0
-情侣手套	nge wkk rt ddu	0
-裘皮围巾	fiye hc lfnh mhk	0
-全棉围巾	wg srm lfnh mhk	0
-人棉围巾	w srm lfnh mhk	0
-绒帽	xad mhj	8
-乳胶工作手套	ebn eu a wt rt ddu	0
-赛车手套	pfjm lg rt ddu	4
-三角丝巾	dg qe xxg mhk	0
-裳尚芊	ipke imkf atf	0
-生活帽	tg itd mhj	0
-时尚配饰	jf imkf sgn qnth	11
-时装帽	jf ufy mhj	0
-手饰	rt qnth	8
-首饰包装	uth qnth qn ufy	0
-丝绒手套	xxg xad rt ddu	0
-丝绒围巾	xxg xad lfnh mhk	0
-丝袜裤	xxg pug puy	0
-塑料拖鞋	ubtf ou rtb afff	18
-塑料腰带	ubtf ou esv gkp	0
-特种工作手套	trf tkh a wt rt ddu	0
-童凉鞋	ujff uyiy afff	0
-童帽	ujff mhj	0
-童皮鞋	ujff hc afff	1
-童拖鞋	ujff rtb afff	0
-童靴	ujff afwx	51
-童运动鞋	ujff fcp fcl afff	0
-涂层工作手套	iwt nfc a wt rt ddu	0
-涂饰剂	iwt qnth yjjh	0
-脱灰剂	euk do yjjh	0
-围巾帽子手套套件	lfnh mhk mhj bb rt ddu ddu wrh	0
-围巾手套二件套	lfnh mhk rt ddu fg wrh ddu	0
-橡胶鞋底	sqj eu afff yqa	14
-鞋材化工	afff sft wx a	0
-鞋材鞋件	afff sft afff wrh	0
-鞋撑	afff rip	7
-鞋成型机	afff dn gajf sm	0
-鞋辅件	afff lgey wrh	0
-鞋花	afff awx	0
-鞋机配件	afff sm sgn wrh	0
-鞋件	afff wrh	0
-鞋件代理	afff wrh wa gj	0
-鞋件加工	afff wrh lk a	0
-鞋蜡	afff jaj	2
-鞋乳	afff ebn	0
-鞋眼机	afff hv sm	0
-修鞋设备	wht afff ymc tlf	0
-雪纺围巾	fv xy lfnh mhk	0
-压底机	dfy yqa sm	0
-压合机	dfy wgk sm	0
-炎焱妖	oo ooou vtd	0
-炎焱妖服饰	oo ooou vtd eb qnth	0
-羊毛围巾	udj tfn lfnh mhk	10
-羊皮革	udj hc af	0
-羊绒手套	udj xad rt ddu	0
-羊绒围巾	udj xad lfnh mhk	9
-腰带配件	esv gkp sgn wrh	0
-摇立绒手套	rer uu xad rt ddu	0
-鱼皮革	qgf hc af	1
-运动手套	fcp fcl rt ddu	4
-真皮带	fhw hc gkp	2
-真皮女靴	fhw hc vvv afwx	0
-真丝长巾	fhw xxg ta mhk	0
-真丝大方巾	fhw xxg dd yy mhk	0
-真丝提花领带	fhw xxg rj awx wycm gkp	0
-真丝小方巾	fhw xxg ih yy mhk	0
-真丝印花领带	fhw xxg qgb awx wycm gkp	0
-针织工作手套	qf xkw a wt rt ddu	0
-针织线帽	qf xkw xg mhj	0
-织布腰带	xkw dmh esv gkp	0
-制鞋机械	rmhj afff sm sa	0
-制鞋设备	rmhj afff ymc tlf	0
-职业帽	bk og mhj	0
-中统袜	k xyc pug	0
-自行车手套	thd tf lg rt ddu	0
-场上作业机械	fnrt h wt og sm sa	0
-除草剂混剂	bwt ajj yjjh ijx yjjh	0
-动物毛鬃	fcl tr tfn dep	0
-动物提取物	fcl tr rj bc tr	0
-动物种苗	fcl tr tkh alf	0
-二手农业机械	fg rt pei og sm sa	0
-肥料加工设备	ec ou lk a ymc tlf	0
-工业用动植物油	a og et fcl sfhg tr img	0
-灌溉工具	iak ivc a hw	0
-含油子仁	wynk img bb wfg	0
-花草盆景	awx ajj wvl jy	0
-花盆容器	awx wvl pww kkd	0
-库存农产品	ylk dhb pei u kkk	0
-粮食加工设备	oyv wyv lk a ymc tlf	0
-林业机械	ss og sm sa	0
-绿化苗木	xv wx alf ssss	0
-棉麻毛初加工设备	srm yss tfn puv lk a ymc tlf	0
-农产品代理	pei u kkk wa gj	0
-农副产品加工	pei gkl u kkk lk a	2
-农机配件	pei sm sgn wrh	0
-农林牧渔项目合作	pei ss trt iqgg adm hhhh wgk wt	0
-农药制剂	pei ax rmhj yjjh	2
-农业实验设备	pei og pu cwg ymc tlf	0
-农业用具	pei og et hw	2
-农用工具	pei et a hw	4
-农作物种子	pei wt tr tkh bb	7
-排灌机械	rdj iak sm sa	1
-攀援植物	sqq ref sfhg tr	3
-其他含油子仁	adw wb wynk img bb wfg	0
-其他化肥	adw wb wx ec	0
-其他花卉	adw wb awx faj	6
-其他坚果	adw wb jcf js	7
-其他绿化苗木	adw wb xv wx alf ssss	0
-其他农药原药	adw wb pei ax dr ax	0
-其他农药制剂	adw wb pei ax rmhj yjjh	0
-其他农业机械	adw wb pei og sm sa	0
-其他农业用具	adw wb pei og et hw	0
-其他牲畜	adw wb trtg yxl	3
-其他生皮	adw wb tg hc	0
-其他饲料	adw wb qnnk ou	0
-其他饲料添加剂	adw wb qnnk ou igd lk yjjh	0
-其他辛辣蔬菜	adw wb uygh ugk anh ae	0
-其他园艺用具	adw wb lfq anb et hw	0
-其他种子	adw wb tkh bb	0
-球类植物	gfi od sfhg tr	0
-杀菌剂混剂	qsu alt yjjh ijx yjjh	0
-杀螨混剂	qsu jagw ijx yjjh	0
-生白果	tg rrr js	0
-生板栗	tg src ssu	10
-生瓜子	tg rcy bb	1
-生核桃	tg synw siq	2
-生开心果	tg ga ny js	0
-生榛子	tg sdwt bb	1
-施肥机械	ytb ec sm sa	0
-室内观果植物	pgc mw cm js sfhg tr	0
-室内观花植物	pgc mw cm awx sfhg tr	0
-室内观叶植物	pgc mw cm kf sfhg tr	3
-食用菌菌种	wyv et alt alt tkh	0
-食用油加工设备	wyv et img lk a ymc tlf	0
-收获机械	nh aqt sm sa	0
-树木盆景	scf ssss wvl jy	0
-饲料保藏剂	qnnk ou wk adnt yjjh	0
-饲料加工设备	qnnk ou lk a ymc tlf	0
-特种养殖动物	trf tkh udyj gqf fcl tr	0
-藤苇	aeu afn	0
-土壤耕整机械	ffff fyk dif gkih sm sa	0
-屠宰及肉类初加工设备	nft puj ey mww od puv lk a ymc tlf	0
-辛辣蔬菜	uygh ugk anh ae	0
-养殖业机械	udyj gqf og sm sa	0
-药物性添加剂	ax tr ntg igd lk yjjh	0
-一二年生草花	g fg rh tg ajj awx	0
-营养性添加剂	apk udyj ntg igd lk yjjh	0
-渔业机械	iqgg og sm sa	1
-渔业用具	iqgg og et hw	0
-园林石工艺品	lfq ss dgtg a anb kkk	0
-园艺护栏	lfq anb ryn suf	0
-园艺剪	lfq anb uejv	3
-园艺用具	lfq anb et hw	1
-栽培基质	fas fuk ad rfm	8
-植保机械	sfhg wk sm sa	0
-植物性饲料	sfhg tr ntg qnnk ou	2
-种植机械	tkh sfhg sm sa	0
-竹类植物	ttg od sfhg tr	2
-棕榈类植物	sp suk od sfhg tr	0
-安检探测器	pv sw rpws imj kkd	0
-安全防护产品项目合作	pv wg by ryn u kkk adm hhhh wgk wt	0
-安全检查设备	pv wg sw sj ymc tlf	0
-安全凸面镜	pv wg hgm dm quj	0
-报警设备	rb aqky ymc tlf	3
-窗磁	pwt du	1
-道路减速设备	uthp kht udg gkip ymc tlf	0
-电话报警设备	jn ytd rb aqky ymc tlf	0
-二手安防设备	fg rt pv by ymc tlf	0
-反窃听器材	rc pwav kr kkd sft	0
-反偷拍	rc wwgj rrg	4
-防暴器材	by jaw kkd sft	0
-防护用品代理	by ryn et kkk wa gj	0
-防护用品加工	by ryn et kkk lk a	0
-防静电产品	by geq jn u kkk	0
-防静电工具	by geq jn a hw	0
-防静电用品	by geq jn et kkk	0
-防雷避雷产品	by flf nk flf u kkk	0
-防身用具	by tmd et hw	0
-防撞设施	by ruj ymc ytb	0
-非可视对讲	djd sk pym cf yfj	0
-隔离栅	bgk yb smm	0
-个人报警器	wh w rb aqky kkd	0
-公共广播系统	wc aw yygt rtol txi xyc	0
-画面处理器	gl dm th gj kkd	0
-火警探测	ooo aqky rpws imj	0
-集成防盗报警系统	wys dn by uqwl rb aqky txi xyc	0
-集成监控系统	wys dn jtyl rpw txi xyc	0
-记录设备	yn vi ymc tlf	0
-监控器支架	jtyl rpw kkd fc lks	0
-监控摄像机	jtyl rpw rbcc wqj sm	9
-监控主机	jtyl rpw y sm	10
-交通安全标志	uq cep pv wg sfi fn	0
-交通安全服装	uq cep pv wg eb ufy	0
-交通安全设备	uq cep pv wg ymc tlf	0
-交通指挥设备	uq cep rxj rpl ymc tlf	0
-救生器材	fiyt tg kkd sft	0
-军需用品	pl fdm et kkk	9
-库存安全防护产品	ylk dhb pv wg by ryn u kkk	0
-离子风棒	yb bb mq sdw	0
-离子风枪	yb bb mq swb	0
-门禁读卡器	uyh ssf yfn hhu kkd	1
-门禁考勤系统	uyh ssf ftg akgl txi xyc	0
-门禁控制器	uyh ssf rpw rmhj kkd	1
-灭火器材	goi ooo kkd sft	2
-其他安全检查设备	adw wb pv wg sw sj ymc tlf	0
-其他防盗	adw wb by uqwl	0
-其他防静电产品	adw wb by geq jn u kkk	0
-其他监控器材及系统	adw wb jtyl rpw kkd sft ey txi xyc	0
-其他交通安全设备	adw wb uq cep pv wg ymc tlf	0
-其他楼宇对讲设备	adw wb sov pgf cf yfj ymc tlf	0
-其他门禁考勤器材及系统	adw wb uyh ssf ftg akgl kkd sft ey txi xyc	0
-其他消防设备	adw wb iie by ymc tlf	0
-其他智能卡	adw wb tdkj ce hhu	0
-球罩	gfi lhj	1
-条码卡	ts dcg hhu	0
-消防警示标志	iie by aqky fi sfi fn	0
-一卡通管理系统	g hhu cep tp gj txi xyc	0
-指纹采集仪	rxj xyy es wys wyq	0
-自然灾害防护产品	thd qd po pd by ryn u kkk	0
-豹纹面料	eeqy xyy dm ou	0
-编结工艺品	xyna xf a anb kkk	0
-变色布	yo qc dmh	0
-冰袋布	ui waye dmh	0
-朝阳格	fje bj st	0
-车用面料	lg et dm ou	0
-绸类	xmf od	0
-厨房用纺织品	dgkf yny et xy xkw kkk	0
-春秋丁	dw to sgh	0
-春亚纺	dw gog xy	0
-刺绣面料	gmi xten dm ou	0
-大豆纤维	dd gku xtf xwy	21
-大麻系列面料	dd yss txi gq dm ou	0
-地巾	f mhk	5
-涤美丽	its ugdu gmy	0
-涤丝纺	its xxg xy	0
-滴塑布	ium ubtf dmh	0
-涤塔夫	its fawk fw	1
-地毯面料	f tfno dm ou	0
-电热水袋布	jn rvyo ii waye dmh	0
-点塑布	hko ubtf dmh	0
-缎类	xwd od	0
-多款供选	qq ffi waw tfqp	0
-二手纺织加工设备	fg rt xy xkw lk a ymc tlf	0
-二手皮革加工设备	fg rt hc af lk a ymc tlf	0
-仿动物毛皮	wyn fcl tr tfn hc	0
-防辐射面料	by lgk tmdf dm ou	0
-防静电面料	by geq jn dm ou	0
-纺类	xy od	0
-仿皮面料	wyn hc dm ou	0
-纺纱加工	xy xi lk a	0
-防酸面料	by sgc dm ou	0
-纺织辅料	xy xkw lgey ou	0
-纺织加工	xy xkw lk a	1
-纺织皮革相关项目合作	xy xkw hc af sh ud adm hhhh wgk wt	0
-纺织品加工	xy xkw kkk lk a	5
-纺织染整助剂	xy xkw ivs gkih egl yjjh	0
-纺织设备和器材	xy xkw ymc tlf t kkd sft	0
-防紫外线面料	by hxx qh xg dm ou	0
-废料与库存	ynty ou gn ylk dhb	0
-非织造及工业用布	djd xkw tfkp ey a og et dmh	0
-高丝宝	ym xxg pgy	0
-功能纤维	al ce xtf xwy	1
-功能性面料	al ce ntg dm ou	5
-工艺布料	a anb dmh ou	0
-工装面料	a ufy dm ou	0
-工作服面料	a wt eb dm ou	0
-绗缝加工	xtfh xtdp lk a	0
-绗缝面料	xtfh xtdp dm ou	0
-虎纹面料	ha xyy dm ou	0
-花色布	awx qc dmh	0
-花色纱线	awx qc xi xg	0
-化纤类混纺	wx xtf od ijx xy	0
-化纤坯布	wx xtf fgig dmh	0
-化纤系列纱线	wx xtf txi gq xi xg	0
-花瑶	awx ger	2
-环保布	ggi wk dmh	0
-黄麻系列面料	amw yss txi gq dm ou	0
-混纺坯布	ijx xy fgig dmh	0
-混纺系列纱线	ijx xy txi gq xi xg	0
-婚纱面料	vq xi dm ou	0
-麂皮绒	ynjm hc xad	9
-佳绩布	wffg xgm dmh	0
-甲壳素纤维	lhnh fpm gxi xtf xwy	1
-剪花布	uejv awx dmh	0
-剑麻系列面料	wgi yss txi gq dm ou	0
-胶点布	eu hko dmh	0
-交织类	uq xkw od	0
-交织类面料	uq xkw od dm ou	0
-锦涤纺	qrm its xy	0
-锦类	qrm od	1
-锦棉绸	qrm srm xmf	0
-绢类	xke od	0
-卡丹绒	hhu myd xad	0
-库存纺织品	ylk dhb xy xkw kkk	0
-库存皮革及制品	ylk dhb hc af ey rmhj kkk	0
-烂花布	oufg awx dmh	0
-劳保面料	apl wk dm ou	0
-粒点布	oug hko dmh	0
-丽新布	gmy usr dmh	1
-凉液垫布	uyiy iyw rvyf dmh	0
-领带面料	wycm gkp dm ou	0
-绫类	xfw od	0
-麻纺系列纱线	yss xy txi gq xi xg	0
-麻类系列面料	yss od txi gq dm ou	0
-毛纺系列面料	tfn xy txi gq dm ou	0
-毛纺系列纱线	tfn xy txi gq xi xg	0
-美佳布	ugdu wffg dmh	0
-美丽绸	ugdu gmy xmf	0
-米通面料	oy cep dm ou	0
-棉类系列面料	srm od txi gq dm ou	0
-棉麻混纺	srm yss ijx xy	12
-棉毛混纺	srm tfn ijx xy	0
-棉坯布	srm fgig dmh	1
-莫代尔纤维	ajd wa qiu xtf xwy	2
-磨毛布	yssd tfn dmh	0
-纳米面料	xmw oy dm ou	0
-呢类系列	knx od txi gq	0
-尼丝纺	nx xxg xy	0
-牛奶纤维	rhk ve xtf xwy	0
-皮革加工	hc af lk a	1
-皮革制品代理	hc af rmhj kkk wa gj	0
-漂白布	isf rrr dmh	0
-平纹呢	gu xyy knx	0
-其他纺织辅料	adw wb xy xkw lgey ou	0
-其他纺织加工	adw wb xy xkw lk a	0
-其他非织造及工业用布	adw wb djd xkw tfkp ey a og et dmh	0
-其他服装辅料	adw wb eb ufy lgey ou	0
-其他合成革	adw wb wgk dn af	0
-其他化学纤维	adw wb wx ip xtf xwy	0
-其他混纺	adw wb ijx xy	0
-其他麻类系列面料	adw wb yss od txi gq dm ou	0
-其他毛纺系列面料	adw wb tfn xy txi gq dm ou	0
-其他毛巾	adw wb tfn mhk	1
-其他面料	adw wb dm ou	0
-其他坯布	adw wb fgig dmh	0
-其他人造革	adw wb w tfkp af	0
-其他纱线	adw wb xi xg	0
-其他丝绸系列面料	adw wb xxg xmf txi gq dm ou	0
-其他毯子	adw wb tfno bb	0
-其他天然纺织原料	adw wb gd qd xy xkw dr ou	0
-其他纬编	adw wb xfnh xyna	0
-青年布	gef rh dmh	2
-染整加工	ivs gkih lk a	0
-色丁	qc sgh	2
-沙滩巾	iit icw mhk	0
-时装面料	jf ufy dm ou	0
-手工编织加工	rt a xyna xkw lk a	0
-手绘面料	rt xwf dm ou	0
-手套布	rt ddu dmh	0
-双色布	cc qc dmh	0
-水刺无纺布	ii gmi fq xy dmh	1
-水松胶	ii swc eu	0
-水洗绒	ii itf xad	0
-睡衣面料	ht ye dm ou	3
-丝绸系列面料	xxg xmf txi gq dm ou	0
-梭织布	scw xkw dmh	6
-塔丝隆	fawk xxg btg	0
-特斯林面料	trf adwr ss dm ou	0
-天然纺织原料	gd qd xy xkw dr ou	0
-天丝	gd xxg	40
-天丝面料	gd xxg dm ou	7
-条花布	ts awx dmh	0
-涂层布	iwt nfc dmh	0
-五枚缎	gg sty xwd	0
-洗涤标	itf its sfi	0
-吸湿排汗面料	ke ijo rdj ifh dm ou	1
-箱包布	tsh qn dmh	0
-箱包面料	tsh qn dm ou	0
-校服面料	suq eb dm ou	0
-消光春亚纺	iie iq dw gog xy	0
-消光涤塔夫	iie iq its fawk fw	0
-消光锦棉绸	iie iq qrm srm xmf	0
-消光面料	iie iq dm ou	0
-消光尼丝纺	iie iq nx xxg xy	0
-消光塔丝隆	iie iq fawk xxg btg	0
-新型功能性面料	usr gajf al ce ntg dm ou	0
-新型纤维	usr gajf xtf xwy	1
-绣花加工	xten awx lk a	0
-绣花面料	xten awx dm ou	0
-休闲面料	ws usi dm ou	0
-亚麻系列面料	gog yss txi gq dm ou	0
-应墩布	yid fyb dmh	0
-泳装面料	iyni ufy dm ou	0
-玉米纤维	gy oy xtf xwy	0
-雨衣布	fghy ye dmh	1
-扎染布	rnn ivs dmh	1
-针刺无纺布	qf gmi fq xy dmh	1
-真丝系列纱线	fhw xxg txi gq xi xg	0
-珍珠纱	gw gr xi	0
-制服面料	rmhj eb dm ou	0
-止滑布	hh ime dmh	0
-植绒面料	sfhg xad dm ou	2
-织造加工	xkw tfkp lk a	0
-皱布	qvhc dmh	0
-绉类	xqv od	0
-皱纹布	qvhc xyy dmh	0
-苎麻系列面料	apgf yss txi gq dm ou	0
-装饰用纺织品	ufy qnth et xy xkw kkk	0
-阻燃面料	begg oqdo dm ou	6
-坐垫面料	wwf rvyf dm ou	1
-摆挂件饰品	rlf rffg wrh qnth kkk	0
-办公挂摆饰	lw wc rffg rlf qnth	0
-宝石首饰	pgy dgtg uth qnth	1
-宝石玉石工艺品	pgy dgtg gy dgtg a anb kkk	0
-编纺工艺品	xyna xy a anb kkk	0
-编织工艺品	xyna xkw a anb kkk	0
-殡葬用品	gqp agq et kkk	4
-铂金首饰	qrg qqqq uth qnth	29
-玻璃摆饰	ghc gyb rlf qnth	0
-玻璃工艺品	ghc gyb a anb kkk	5
-博缘轩貔貅	fge xxe lf eetx eew	0
-彩瓷工艺品	ese uqwn a anb kkk	0
-彩陶工艺品	ese bqr a anb kkk	0
-草编工艺品	ajj xyna a anb kkk	0
-春节用品	dw ab et kkk	0
-纯银首饰	xgb qve uth qnth	4
-刺绣工艺品	gmi xten a anb kkk	0
-大理石工艺品	dd gj dgtg a anb kkk	0
-雕刻工艺品	mfky ynt a anb kkk	3
-多功能匙扣	qq al ce jghx rk	0
-仿古工艺品	wyn dgh a anb kkk	0
-仿生仿真工艺品	wyn tg wyn fhw a anb kkk	0
-复活节用品	tjt itd ab et kkk	0
-钢艺品	qmq anb kkk	0
-工艺画	a anb gl	0
-工艺蜡烛	a anb jaj oj	0
-工艺礼品代理	a anb pynn kkk wa gj	0
-工艺礼品加工	a anb pynn kkk lk a	0
-工艺礼品加工设备	a anb pynn kkk lk a ymc tlf	0
-工艺礼品项目合作	a anb pynn kkk adm hhhh wgk wt	0
-工艺伞	a anb wuh	0
-工艺原料	a anb dr ou	4
-工艺钟	a anb qkhh	0
-广告促销礼品	yygt tfkf wkh qie pynn kkk	0
-鬼节用品	rqc ab et kkk	0
-航海模型	tey itx saj gajf	0
-合金艺品	wgk qqqq anb kkk	0
-黑陶工艺品	lfo bqr a anb kkk	0
-红陶工艺品	xa bqr a anb kkk	0
-葫芦工艺品	adef aynr a anb kkk	0
-花岗岩工艺品	awx mmq mdf a anb kkk	0
-节庆用品	ab yd et kkk	0
-金属匙扣	qqqq ntk jghx rk	0
-金属工艺品	qqqq ntk a anb kkk	0
-金银珠宝首饰	qqqq qve gr pgy uth qnth	0
-景泰蓝工艺品	jy dwiu ajt a anb kkk	0
-卡通表	hhu cep ge	1
-库存工艺礼品	ylk dhb a anb pynn kkk	0
-框饰配件	sagg qnth sgn wrh	0
-蜡烛及烛台	jaj oj ey oj ck	0
-蜡烛器皿及配件	jaj oj kkd lhn ey sgn wrh	0
-柳编工艺品	sqt xyna a anb kkk	0
-琉璃水晶玻璃工艺品	gyc gyb ii jjj ghc gyb a anb kkk	0
-流苏工艺品	iyc alw a anb kkk	0
-铝艺品	qkk anb kkk	0
-民间工艺品	n uj a anb kkk	1
-木鱼石工艺品	ssss qgf dgtg a anb kkk	0
-泥塑工艺品	inx ubtf a anb kkk	0
-皮质匙扣	hc rfm jghx rk	0
-汽车挂摆饰	irn lg rffg rlf qnth	0
-漆器工艺品	isw kkd a anb kkk	0
-其他摆挂件饰品	adw wb rlf rffg wrh qnth kkk	0
-其他编纺工艺品	adw wb xyna xy a anb kkk	0
-其他雕刻工艺品	adw wb mfky ynt a anb kkk	0
-其他节庆用品	adw wb ab yd et kkk	0
-其他金属工艺品	adw wb qqqq ntk a anb kkk	0
-其他金银珠宝首饰	adw wb qqqq qve gr pgy uth qnth	0
-其他蜡烛及烛台	adw wb jaj oj ey oj ck	0
-其他民间工艺品	adw wb n uj a anb kkk	0
-其他模型玩具	adw wb saj gajf gfq hw	0
-其他盆景	adw wb wvl jy	0
-其他石料工艺品	adw wb dgtg ou a anb kkk	0
-其他手机饰品	adw wb rt sm qnth kkk	0
-其他水晶工艺品	adw wb ii jjj a anb kkk	0
-其他陶瓷工艺品	adw wb bqr uqwn a anb kkk	0
-其他相框	adw wb sh sagg	0
-其他钥匙扣	adw wb qeg jghx rk	0
-其他钟表	adw wb qkhh ge	0
-其他字画	adw wb pb gl	0
-青瓷工艺品	gef uqwn a anb kkk	0
-日用挂摆饰	jjjj et rffg rlf qnth	0
-日用蜡烛	jjjj et jaj oj	0
-软陶工艺品	lqw bqr a anb kkk	0
-砂岩工艺品	di mdf a anb kkk	0
-闪光用品	uw iq et kkk	0
-山水盆景	mmm ii wvl jy	5
-绳带扣	xkjn gkp rk	0
-石料工艺品	dgtg ou a anb kkk	0
-饰品加工	qnth kkk lk a	0
-手机保护膜	rt sm wk ryn eajd	0
-手机挂件	rt sm rffg wrh	10
-手机来电闪	rt sm go jn uw	0
-手机饰品	rt sm qnth kkk	0
-手机贴纸	rt sm mhkg xqa	2
-手机座	rt sm yww	3
-树脂工艺品	scf ex a anb kkk	0
-水晶摆饰	ii jjj rlf qnth	0
-水晶匙扣	ii jjj jghx rk	0
-水晶工艺品	ii jjj a anb kkk	0
-水晶内雕画	ii jjj mw mfky gl	0
-水晶器皿	ii jjj kkd lhn	2
-水晶首饰	ii jjj uth qnth	1
-塑料匙扣	ubtf ou jghx rk	0
-陶瓷工艺品	bqr uqwn a anb kkk	2
-藤编工艺品	aeu xyna a anb kkk	0
-天然工艺品	gd qd a anb kkk	0
-铁艺品	qr anb kkk	0
-铜雕	qmgk mfky	9
-铜艺品	qmgk anb kkk	0
-微型盆景	tmg gajf wvl jy	0
-锡艺品	qjq anb kkk	0
-熏香及熏香炉	tgl tjf ey tgl tjf oyn	0
-烟花鞭炮	ol awx afw oq	5
-玉石首饰	gy dgtg uth qnth	0
-扎染工艺品	rnn ivs a anb kkk	0
-针钩工艺品	qf qqc a anb kkk	0
-纸制工艺品	xqa rmhj a anb kkk	0
-钟表配件	qkhh ge sgn wrh	0
-竹编工艺品	ttg xyna a anb kkk	0
-竹木雕	ttg ssss mfky	0
-竹木工艺品	ttg ssss a anb kkk	0
-装饰盒	ufy qnth wgkl	2
-紫砂工艺品	hxx di a anb kkk	0
-宗教工艺品	pfi ftbt a anb kkk	0
-钻石首饰	qhk dgtg uth qnth	11
-拨号器	rnt kgn kkd	0
-布线产品	dmh xg u kkk	0
-插卡电话机	rtf hhu jn ytd sm	0
-触摸屏电话机	qejy rajd nua jn ytd sm	0
-电话管理器	jn ytd tp gj kkd	0
-电话计费器	jn ytd yf xjm kkd	0
-电话机配附件	jn ytd sm sgn bwf wrh	0
-电缆接线盒	jn xjt ruv xg wgkl	0
-电脑接口线	jn eyb ruv kkkk xg	0
-多功能电话机	qq al ce jn ytd sm	0
-二手通信器材	fg rt cep wy kkd sft	0
-二手通讯产品	fg rt cep ynf u kkk	0
-复用设备	tjt et ymc tlf	0
-光发射机	iq v tmdf sm	0
-光接收机	iq ruv nh sm	0
-光缆接头盒	iq xjt ruv udi wgkl	0
-光衰减器	iq ykge udg kkd	2
-光纤波分复用器	iq xtf ihc wv tjt et kkd	0
-光纤放大器	iq xtf yt dd kkd	9
-光纤连接器	iq xtf lpk ruv kkd	0
-光纤跳线	iq xtf khi xg	7
-红外线适配器	xa qh xg tdp sgn kkd	0
-集团电话	wys lft jn ytd	0
-接入设备	ruv ty ymc tlf	34
-接续设备	ruv xfn ymc tlf	0
-卡备份器	hhu tlf wwv kkd	1
-可视电话机	sk pym jn ytd sm	0
-库存通信器材	ylk dhb cep wy kkd sft	0
-库存通讯产品	ylk dhb cep ynf u kkk	0
-来电显示电话机	go jn jo fi jn ytd sm	0
-来电显示器	go jn jo fi kkd	0
-理线架	gj xg lks	2
-录音电话机	vi ujf jn ytd sm	0
-迷你造型电话	op wq tfkp gajf jn ytd	0
-普通电话机	uo cep jn ytd sm	1
-汽车天线	irn lg gd xg	0
-其他布线产品	adw wb dmh xg u kkk	0
-其他传输	adw wb wfny lwg	0
-其他电话机配附件	adw wb jn ytd sm sgn bwf wrh	0
-其他电话卡	adw wb jn ytd hhu	0
-其他固定电话	adw wb ldd pg jn ytd	0
-其他接续设备	adw wb ruv xfn ymc tlf	0
-其他频率元件	adw wb hid yx fqb wrh	0
-其他天线	adw wb gd xg	0
-其他通信线缆	adw wb cep wy xg xjt	0
-其他移动电话	adw wb tqq fcl jn ytd	0
-其他移动电话配附件	adw wb tqq fcl jn ytd sgn bwf wrh	0
-声讯系统	fnr ynf txi xyc	0
-手机按键	rt sm rpv qvfp	8
-手机充电器	rt sm yc jn kkd	60
-手机读卡器	rt sm yfn hhu kkd	5
-手机耳机	rt sm bgh sm	0
-手机连接器	rt sm lpk ruv kkd	1
-手机免提设备	rt sm qkq rj ymc tlf	0
-手机模型	rt sm saj gajf	0
-手机双卡通	rt sm cc hhu cep	0
-手机天线	rt sm gd xg	13
-手机外壳	rt sm qh fpm	20
-手机显示屏	rt sm jo fi nua	9
-手机转接头	rt sm lfn ruv udi	0
-收音机天线	nh ujf sm gd xg	3
-跳线架	khi xg lks	0
-通信器材代理	cep wy kkd sft wa gj	0
-通信天线	cep wy gd xg	20
-通信线缆	cep wy xg xjt	2
-通讯产品代理	cep ynf u kkk wa gj	0
-通讯产品加工	cep ynf u kkk lk a	0
-通讯电缆	cep ynf jn xjt	3
-通讯终端	cep ynf xtu umd	7
-投币电话机	rmc tmh jn ytd sm	1
-网络测试设备	mqq xtk imj yaa ymc tlf	0
-网络电话机	mqq xtk jn ytd sm	0
-网络机柜	mqq xtk sm san	5
-卫星移动电话	bg jtg tqq fcl jn ytd	0
-无线固话	fq xg ldd ytd	0
-无线网络设备	fq xg mqq xtk ymc tlf	3
-线扣	xg rk	1
-信息面板	wy thn dm src	16
-移动电话配附件	tqq fcl jn ytd sgn bwf wrh	0
-语音传真网关	ygk ujf wfny fhw mqq ud	0
-中框	k sagg	132
-半挂牵引车	uf rffg dpr xh lg	5
-保温车	wk ijl lg	0
-边三轮摩托车	lp dg lwx yssr rta lg	2
-仓储货架	wbb wyf wxm lks	1
-仓储笼	wbb wyf tdx	0
-船舶专用配件	temk ter fny et sgn wrh	0
-船用发动机配件	temk et v fcl sm sgn wrh	0
-船用五金配件	temk et gg qqqq sgn wrh	0
-登车桥	wgku lg std	0
-电动车电机	jn fcl lg jn sm	8
-电动车控制器	jn fcl lg rpw rmhj kkd	5
-堆高车	fwy ym lg	0
-二手船舶	fg rt temk ter	0
-二手交通工具	fg rt uq cep a hw	0
-二手摩托车	fg rt yssr rta lg	6
-二手物流设备	fg rt tr iyc ymc tlf	0
-非机动车配件	djd sm fcl lg sgn wrh	0
-飞机及配件	nui sm ey sgn wrh	0
-粉粒物料运输车	ow oug tr ou fcp lwg lg	0
-轨道交通设备器材	lv uthp uq cep ymc tlf kkd sft	0
-航道设施	tey uthp ymc ytb	0
-护角	ryn qe	4
-混凝土搅拌车	ijx uxt ffff ripq rufh lg	5
-集装袋	wys ufy waye	0
-集装桶	wys ufy sce	0
-集装整理设备	wys ufy gkih gj ymc tlf	0
-加油站设备	lk img uh ymc tlf	0
-交通工具代理	uq cep a hw wa gj	0
-交通工具项目合作	uq cep a hw adm hhhh wgk wt	0
-交通配套设施	uq cep sgn ddu ymc ytb	0
-交通运输产品加工	uq cep fcp lwg u kkk lk a	0
-交通运输工具	uq cep fcp lwg a hw	14
-库存交通工具	ylk dhb uq cep a hw	0
-两轮摩托车	gmww lwx yssr rta lg	2
-旅居车	ytey nd lg	11
-锚绳	qal xkjn	2
-其他仓储设备	adw wb wbb wyf ymc tlf	0
-其他船舶专用配件	adw wb temk ter fny et sgn wrh	0
-其他二手交通工具	adw wb fg rt uq cep a hw	0
-其他非机动车	adw wb djd sm fcl lg	0
-其他非机动车配件	adw wb djd sm fcl lg sgn wrh	0
-其他集装整理设备	adw wb wys ufy gkih gj ymc tlf	0
-其他类型专用汽车	adw wb od gajf fny et irn lg	0
-其他摩托车	adw wb yssr rta lg	0
-其他起重装卸设备	adw wb fhn tgj ufy rhb ymc tlf	0
-其他商用车	adw wb um et lg	0
-其他通用输送设备	adw wb cep et lwg udp ymc tlf	0
-其他物流辅助器材	adw wb tr iyc lgey egl kkd sft	0
-其他运输搬运设备	adw wb fcp lwg rte fcp ymc tlf	0
-其他专用汽车	adw wb fny et irn lg	0
-起重装卸设备	fhn tgj ufy rhb ymc tlf	0
-轻便摩托车	lc wgj yssr rta lg	9
-调速转把	ymf gkip lfn rcn	0
-停车场设备	wyp lg fnrt ymc tlf	2
-通用输送设备	cep et lwg udp ymc tlf	0
-物流辅助器材	tr iyc lgey egl kkd sft	0
-物流管理软件	tr iyc tp gj lqw wrh	2
-物流手推车	tr iyc rt rwyg lg	0
-物流台车	tr iyc ck lg	0
-液罐车	iyw rmay lg	0
-液化气运输车	iyw wx rnb fcp lwg lg	0
-运输搬运设备	fcp lwg rte fcp ymc tlf	0
-闸把	ulk rcn	1
-正三轮摩托车	ghd dg lwx yssr rta lg	0
-办公用纸	lw wc et xqa	3
-板纸	src xqa	3
-包装用纸	qn ufy et xqa	1
-杯纸	sgi xqa	1
-草浆	ajj uqi	16
-抄纸助剂	rit xqa egl yjjh	0
-电容器纸	jn pww kkd xqa	0
-二手造纸设备	fg rt tfkp xqa ymc tlf	0
-二手纸加工设备	fg rt xqa lk a ymc tlf	0
-防锈纸	by qten xqa	0
-废纸浆	ynty xqa uqi	2
-分纸机	wv xqa sm	0
-工业用纸	a og et xqa	0
-硅油纸	dff img xqa	21
-鸡皮纸	cqy hc xqa	0
-卷烟用纸	udbb ol et xqa	0
-绝缘纸	xqc xxe xqa	3
-淋膜纸	iss eajd xqa	0
-其他办公用纸	adw wb lw wc et xqa	0
-其他包装用纸	adw wb qn ufy et xqa	0
-其他工业用纸	adw wb a og et xqa	0
-其他生活用纸	adw wb tg itd et xqa	0
-其他用途纸	adw wb et wtp xqa	0
-其他造纸化学品	adw wb tfkp xqa wx ip kkk	0
-其他纸加工机械	adw wb xqa lk a sm sa	0
-其他纸浆	adw wb xqa uqi	0
-生活用纸	tg itd et xqa	25
-收银纸	nh qve xqa	0
-碳素纸	dmd gxi xqa	0
-涂布剂	iwt dmh yjjh	0
-涂布助剂	iwt dmh egl yjjh	0
-瓦楞原纸	gny sl dr xqa	0
-造纸化学品	tfkp xqa wx ip kkk	1
-造纸设备及配件	tfkp xqa ymc tlf ey sgn wrh	0
-造纸原料及助剂	tfkp xqa dr ou ey egl yjjh	0
-纸成型机械	xqa dn gajf sm sa	0
-纸袋纸	xqa waye xqa	3
-纸及纸品代理	xqa ey xqa kkk wa gj	0
-纸及纸品项目合作	xqa ey xqa kkk adm hhhh wgk wt	0
-纸加工	xqa lk a	0
-纸加工机械	xqa lk a sm sa	0
-制浆助剂	rmhj uqi egl yjjh	0
-纸类设备及服务	xqa od ymc tlf ey eb tl	0
-纸品加工	xqa kkk lk a	1
-板弹簧	src xuj tamw	0
-抱箍	rqn tra	0
-扁嘴钳	ynma khx qaf	0
-剥线钳	vijh xg qaf	5
-布轮	dmh lwx	1
-裁缝剪	fay xtdp uejv	0
-插齿刀	rtf hwb vn	0
-成型模	dn gajf saj	0
-齿轮刀具	hwb lwx vn hw	2
-齿轮加工	hwb lwx lk a	2
-冲压模	ukh dfy saj	1
-厨用刀	dgkf et vn	2
-伺服阀	wng eb uwa	1
-打孔钳	rs bnn qaf	0
-大力钳	dd lt qaf	0
-单头呆扳手	ujfj udi ks rrc rt	0
-刀带	vn gkp	0
-刀杆	vn sfh	11
-导套	nf ddu	0
-电池钳	jn ib qaf	0
-电动扳手	jn fcl rrc rt	2
-电动雕刻机	jn fcl mfky ynt sm	0
-电动坡口机	jn fcl fhc kkkk sm	0
-电动砂轮机	jn fcl di lwx sm	0
-电动套丝机	jn fcl ddu xxg sm	0
-电工刀	jn a vn	1
-电工钳	jn a qaf	2
-电焊钳	jn ojf qaf	0
-电剪刀	jn uejv vn	0
-电缆钳	jn xjt qaf	0
-电子五金件	jn bb gg qqqq wrh	0
-碟形弹簧	dan gae xuj tamw	0
-斗齿	ufk hwb	1
-断线钳	on xg qaf	0
-锻造模	qwd tfkp saj	0
-多功能刀钳	qq al ce vn qaf	0
-多用扳手	qq et rrc rt	0
-多用螺丝刀	qq et jlx xxg vn	0
-二手电动工具	fg rt jn fcl a hw	0
-防爆工具	by oja a hw	0
-非标零件加工	djd sfi fwyc wrh lk a	0
-分度盘	wv ya tel	0
-分度头	wv ya udi	0
-粉末冶金模	ow gs uck qqqq saj	0
-钢锉	qmq qww	9
-钢镐	qmq qym	0
-钢号码	qmq kgn dcg	0
-钢锯架	qmq qnd lks	0
-钢丝轮	qmq xxg lwx	1
-割炬	pdhj oan	0
-工装夹具	a ufy guw hw	5
-钩形扳手	qqc gae rrc rt	0
-管类加工	tp od lk a	0
-管螺纹丝锥	tp jlx xyy xxg qwy	0
-观赏刀具	cm ipkm vn hw	0
-管子扳手	tp bb rrc rt	0
-管子割刀	tp bb pdhj vn	0
-光饰机	iq qnth sm	0
-滚筒刷	iuc tmgk nmh	7
-海绵轮	itx xr lwx	0
-海绵刷	itx xr nmh	4
-焊接材料与附件	ojf ruv sft ou gn bwf wrh	0
-焊炬	ojf oan	2
-胡桃钳	de siq qaf	0
-划线器	aj xg kkd	1
-回火防止器	lkd ooo by hh kkd	0
-机床刀架	sm ysi vn lks	0
-机床垫铁	sm ysi rvyf qr	0
-机床附件	sm ysi bwf wrh	1
-机床护罩	sm ysi ryn lhj	0
-机床减震装置	sm ysi udg fdf ufy lfhf	0
-机床接杆	sm ysi ruv sfh	0
-机床丝杆	sm ysi xxg sfh	0
-机床用虎钳	sm ysi et ha qaf	0
-机床主轴	sm ysi y lm	1
-机械零部件加工	sm sa fwyc uk wrh lk a	0
-机械密封件	sm sa pnt fffy wrh	0
-机械五金件	sm sa gg qqqq wrh	0
-机用刀片	sm et vn thg	0
-机用锯片	sm et qnd thg	0
-机用锯条	sm et qnd ts	0
-家用剪	pe et uejv	0
-剪切类气动工具	uejv av od rnb fcl a hw	0
-建筑装饰五金	vfhp tam ufy qnth gg qqqq	0
-铰板	quq src	0
-角磨机	qe yssd sm	21
-紧线钳	jc xg qaf	0
-锯锉	qnd qww	3
-卡簧钳	hhu tamw qaf	0
-卡圈	hhu lud	17
-孔加工	bnn lk a	2
-库存五金	ylk dhb gg qqqq	0
-快速经济模具	nnw gkip x iyj saj hw	0
-拉刀	ru vn	4
-拉铆枪	ru qqt swb	0
-拉丝模	ru xxg saj	0
-烙铁咀	otk qr keg	0
-冷压接钳	uwyc dfy ruv qaf	0
-冷轧线钳	uwyc lnn xg qaf	0
-理发剪	gj v uejv	4
-鲤鱼钳	qgjf qgf qaf	0
-螺纹刀具	jlx xyy vn hw	0
-密封垫圈	pnt fffy rvyf lud	6
-密封垫片	pnt fffy rvyf thg	4
-磨块	yssd fnw	3
-磨抛光电动工具	yssd rvl iq jn fcl a hw	0
-磨片	yssd thg	11
-木工锉	ssss a qww	1
-木工雕刻机	ssss a mfky ynt sm	0
-木工锯	ssss a qnd	1
-木工修边机	ssss a wht lp sm	0
-模具标准件	saj hw sfi uwy wrh	0
-模具设备	saj hw ymc tlf	0
-内四方扳手	mw lh yy rrc rt	0
-扭力扳手	rnf lt rrc rt	9
-扭转弹簧	rnf lfn xuj tamw	0
-抛光刷	rvl iq nmh	1
-喷涂工具	kfa iwt a hw	2
-片弹簧	thg xuj tamw	0
-瓶阀	uag uwa	1
-普通螺纹丝锥	uo cep jlx xyy xxg qwy	0
-气动铲	rnb fcl qut	0
-气动接头	rnb fcl ruv udi	0
-气割器材	rnb pdhj kkd sft	0
-其他扳手	adw wb rrc rt	0
-其他锉	adw wb qww	0
-其他刀	adw wb vn	0
-其他刀具	adw wb vn hw	0
-其他电子五金件	adw wb jn bb gg qqqq wrh	0
-其他焊接材料与附件	adw wb ojf ruv sft ou gn bwf wrh	0
-其他机床附件	adw wb sm ysi bwf wrh	0
-其他机械零部件加工	adw wb sm sa fwyc uk wrh lk a	0
-其他剪	adw wb uejv	0
-其他紧固件	adw wb jc ldd wrh	0
-其他锯	adw wb qnd	0
-其他类型钳工工具	adw wb od gajf qaf a a hw	0
-其他螺丝刀	adw wb jlx xxg vn	0
-其他密封件	adw wb pnt fffy wrh	0
-其他磨具	adw wb yssd hw	0
-其他磨料	adw wb yssd ou	1
-其他磨抛光电动工具	adw wb yssd rvl iq jn fcl a hw	0
-其他农用工具	adw wb pei et a hw	0
-其他气动工具	adw wb rnb fcl a hw	0
-其他气动元件	adw wb rnb fcl fqb wrh	0
-其他气焊	adw wb rnb ojf	0
-其他钳工工具	adw wb qaf a a hw	0
-其他钳子	adw wb qaf bb	0
-其他切削电动工具	adw wb av iej jn fcl a hw	0
-其他刷	adw wb nmh	0
-其他丝锥	adw wb xxg qwy	0
-其他弹簧	adw wb xuj tamw	0
-其他通用五金配件	adw wb cep et gg qqqq sgn wrh	0
-其他液压元件	adw wb iyw dfy fqb wrh	0
-其他轴承	adw wb lm bd	0
-其他装配电动工具	adw wb ufy sgn jn fcl a hw	0
-气源处理器	rnb idr th gj kkd	0
-铅封钳	qmk fffy qaf	0
-壳体加工	fpm wsg lk a	0
-切刀	av vn	192
-切割片	av pdhj thg	0
-切削电动工具	av iej jn fcl a hw	0
-曲线锯条	ma xg qnd ts	0
-人造磨料	w tfkp yssd ou	0
-砂带	di gkp	6
-砂带机	di gkp sm	4
-石材切割机	dgtg sft av pdhj sm	0
-十字扳手	fgh pb rrc rt	0
-十字螺丝刀	fgh pb jlx xxg vn	15
-手动工具	rt fcl a hw	10
-手用锯条	rt et qnd ts	0
-数控刀具	ovt rpw vn hw	2
-双头呆扳手	cc udi ks rrc rt	0
-水泵钳	ii diu qaf	0
-丝锥扳手	xxg qwy rrc rt	0
-丝锥板牙套装	xxg qwy src ah ddu ufy	0
-台钻	ck qhk	5
-镗刀	qipf vn	0
-套筒扳手	ddu tmgk rrc rt	3
-套装电动工具	ddu ufy jn fcl a hw	0
-剃齿刀	uxhj hwb vn	0
-天然磨料	gd qd yssd ou	0
-铁皮剪	qr hc uejv	0
-通用五金配件	cep et gg qqqq sgn wrh	0
-推力滚子轴承	rwyg lt iuc bb lm bd	0
-推力球轴承	rwyg lt gfi lm bd	0
-托辊	rta lj	0
-拖链	rtb qlp	1
-弯管器	yox tp kkd	1
-弯嘴钳	yox khx qaf	0
-涡卷弹簧	ikm udbb xuj tamw	0
-五金工具代理	gg qqqq a hw wa gj	0
-五金工具加工	gg qqqq a hw lk a	0
-五金工具项目合作	gg qqqq a hw adm hhhh wgk wt	0
-五金配附件	gg qqqq sgn bwf wrh	0
-橡胶模	sqj eu saj	0
-向心滚子轴承	tm ny iuc bb lm bd	0
-向心球轴承	tm ny gfi lm bd	0
-斜嘴钳	wtuf khx qaf	0
-型扳手	gajf rrc rt	1
-型材切割机	gajf sft av pdhj sm	0
-鸭嘴钳	lqy khx qaf	2
-页轮	dmu lwx	0
-页片	dmu thg	13
-液压管件	iyw dfy tp wrh	0
-液压接头	iyw dfy ruv udi	0
-野营刀具	jfc apk vn hw	0
-乙炔发生器	nnl onw v tg kkd	1
-异形锉	naj gae qww	0
-一字螺丝刀	g pb jlx xxg vn	8
-圆盘刷	lkmi tel nmh	0
-圆嘴钳	lkmi khx qaf	0
-直线运动轴承	fh xg fcp fcl lm bd	0
-轴承附属件	lm bd bwf ntk wrh	0
-轴承加工	lm bd lk a	0
-轴类加工	lm od lk a	0
-铸造模	qdt tfkp saj	0
-抓钩	rrhy qqc	76
-装配电动工具	ufy sgn jn fcl a hw	0
-装配类气动工具	ufy sgn od rnb fcl a hw	0
-组合扳手	xeg wgk rrc rt	0
-组合工具	xeg wgk a hw	0
-组合螺丝刀	xeg wgk jlx xxg vn	0
-钻套	qhk ddu	17
-座钻	yww qhk	0
-伴热设备	wuf rvyo ymc tlf	0
-波段开关	ihc wdm ga ud	0
-触控产品	qejy rpw u kkk	0
-船型开关	temk gajf ga ud	0
-伺服定位系统	wng eb pg wug txi xyc	0
-倒顺开关	wgc kd ga ud	1
-低压接触器	wqa dfy ruv qejy kkd	0
-低压开关柜	wqa dfy ga ud san	23
-低压控制器	wqa dfy rpw rmhj kkd	0
-低压熔断器	wqa dfy opw on kkd	0
-电池充电器	jn ib yc jn kkd	8
-电动车充电器	jn fcl lg yc jn kkd	23
-电动车用电动机	jn fcl lg et jn fcl sm	0
-电动工具开关	jn fcl a hw ga ud	0
-电动工具用电动机	jn fcl a hw et jn fcl sm	0
-电动机保护器	jn fcl sm wk ryn kkd	1
-电工电气产品代理	jn a jn rnb u kkk wa gj	0
-电工电气产品加工	jn a jn rnb u kkk lk a	0
-电工电气项目合作	jn a jn rnb adm hhhh wgk wt	0
-电工设备	jn a ymc tlf	0
-电缆连接器	jn xjt lpk ruv kkd	0
-电脑连接器	jn eyb lpk ruv kkd	0
-电气设备用电缆	jn rnb ymc tlf et jn xjt	0
-电热带	jn rvyo gkp	0
-电热盘	jn rvyo tel	8
-电热片	jn rvyo thg	0
-电热圈	jn rvyo lud	0
-电热设备	jn rvyo ymc tlf	0
-电热线	jn rvyo xg	1
-电源连接器	jn idr lpk ruv kkd	0
-电子工业用助剂	jn bb a og et egl yjjh	0
-端子台	umd bb ck	0
-二手电工电气产品	fg rt jn a jn rnb u kkk	0
-发热盘	v rvyo tel	35
-发热芯	v rvyo anu	0
-浮球开关	ieb gfi ga ud	0
-高压成套电器	ym dfy dn ddu jn kkd	0
-高压断路器	ym dfy on kht kkd	6
-高压接触器	ym dfy ruv qejy kkd	0
-高压开关柜	ym dfy ga ud san	3
-高压熔断器	ym dfy opw on kkd	0
-工控系统及装备	a rpw txi xyc ey ufy tlf	0
-工业电气	a og jn rnb	1
-工业烤箱	a og oft tsh	0
-光电开关	iq jn ga ud	0
-硅碳棒	dff dmd sdw	0
-机械设备用电动机	sm sa ymc tlf et jn fcl sm	0
-家电用电动机	pe jn et jn fcl sm	0
-接线座	ruv xg yww	0
-矩形连接器	tda gae lpk ruv kkd	0
-绝缘导线	xqc xxe nf xg	11
-库存电工电气产品	ylk dhb jn a jn rnb u kkk	0
-流量开关	iyc jg ga ud	1
-裸电线	pujs jn xg	0
-钮子开关	qnf bb ga ud	0
-排母	rdj xgu	0
-排针	rdj qf	7
-汽车连接器	irn lg lpk ruv kkd	0
-起动器	fhn fcl kkd	2
-其他充电器	adw wb yc jn kkd	0
-其他低压电器	adw wb wqa dfy jn kkd	0
-其他电动机	adw wb jn fcl sm	0
-其他电热设备	adw wb jn rvyo ymc tlf	0
-其他电线	adw wb jn xg	7
-其他高压电器	adw wb ym dfy jn kkd	0
-其他工控系统及装备	adw wb a rpw txi xyc ey ufy tlf	0
-其他开关	adw wb ga ud	0
-其他连接器	adw wb lpk ruv kkd	0
-墙壁开关	ffuk nkuf ga ud	34
-熔锡炉	opw qjq oyn	0
-射频同轴连接器	tmdf hid m lm lpk ruv kkd	0
-视频连接器	pym hid lpk ruv kkd	0
-实验电炉	pu cwg jn oyn	0
-特殊电机	trf gqr jn sm	0
-调速开关	ymf gkip ga ud	0
-条形连接器	ts gae lpk ruv kkd	0
-微型电动机	tmg gajf jn fcl sm	0
-压力开关	dfy lt ga ud	3
-印刷板连接器	qgb nmh src lpk ruv kkd	0
-应急充电器	yid qvn yc jn kkd	1
-圆形连接器	lkmi gae lpk ruv kkd	0
-振动盘	rdf fcl tel	1
-主令电器	y wyc jn kkd	0
-按摩用品	rpv yssr et kkk	1
-办公沙发	lw wc iit v	2
-办公台	lw wc ck	1
-抱带	rqn gkp	0
-保温壶	wk ijl fpo	52
-保温容器	wk ijl pww kkd	1
-彩妆化学品	ese uv wx ip kkk	0
-餐具附件	hq hw bwf wrh	0
-餐厅家具	hq ds pe hw	6
-厕所刷	dmjk rn nmh	1
-厨房清洁剂	dgkf yny ige ifk yjjh	2
-除毛	bwt tfn	26
-炊具配件	oqw hw sgn wrh	0
-打火机及烟具	rs ooo sm ey ol hw	0
-打火机配件	rs ooo sm sgn wrh	0
-地柜	f san	185
-电灶具	jn of hw	0
-定型水	pg gajf ii	1
-儿童护肤品	qt ujff ryn efw kkk	0
-儿童家具	qt ujff pe hw	98
-防蛀用品	by jyg et kkk	0
-缝纫编织	xtdp xvy xyna xkw	0
-丰胸化学品	dh eq wx ip kkk	0
-个人护理用具	wh w ryn gj et hw	0
-公共场所家具	wc aw fnrt rn pe hw	0
-锅刷	qkm nmh	14
-护肤膏霜	ryn efw ypk fs	0
-护肤乳液	ryn efw ebn iyw	3
-会客椅	wf pt sds	0
-家具配件附件	pe hw sgn wrh bwf wrh	0
-家居清洗用品	pe nd ige itf et kkk	0
-家居用品代理	pe nd et kkk wa gj	0
-家居用品加工	pe nd et kkk lk a	0
-家居用品项目合作	pe nd et kkk adm hhhh wgk wt	0
-家用玻璃制品	pe et ghc gyb rmhj kkk	0
-家用衡器	pe et tqdh kkd	0
-家用金属制品	pe et qqqq ntk rmhj kkk	0
-家用陶瓷	pe et bqr uqwn	0
-家用竹	pe et ttg	0
-金属打火机	qqqq ntk rs ooo sm	0
-揩布	rxxr dmh	0
-客厅茶几	pt ds aws mt	20
-口腔清爽剂	kkkk epw ige dqq yjjh	0
-口腔用化学品	kkkk epw et wx ip kkk	0
-口腔用具	kkkk epw et hw	0
-库存家居用品	ylk dhb pe nd et kkk	0
-毛发用化学品	tfn v et wx ip kkk	0
-美容材料及用具	ugdu pww sft ou ey et hw	0
-美容仪器	ugdu pww wyq kkd	35
-门厅家具	uyh ds pe hw	1
-内嵌式燃气灶具	mw maf aa oqdo rnb of hw	0
-尿垫	nii rvyf	16
-皮肤用化学品	hc efw et wx ip kkk	0
-瓶刷	uag nmh	0
-平台式燃气灶具	gu ck aa oqdo rnb of hw	0
-其他办公家具	adw wb lw wc pe hw	1
-其他保温容器	adw wb wk ijl pww kkd	0
-其他彩妆化学品	adw wb ese uv wx ip kkk	0
-其他餐具	adw wb hq hw	1
-其他餐厅家具	adw wb hq ds pe hw	0
-其他厨房用纺织品	adw wb dgkf yny et xy xkw kkk	0
-其他厨具	adw wb dgkf hw	7
-其他床上用品	adw wb ysi h et kkk	0
-其他炊具	adw wb oqw hw	0
-其他打火机及烟具	adw wb rs ooo sm ey ol hw	0
-其他儿童家具	adw wb qt ujff pe hw	0
-其他芳香除臭化学品	adw wb ay tjf bwt thdu wx ip kkk	0
-其他个人护理用具	adw wb wh w ryn gj et hw	0
-其他家居清洗用品	adw wb pe nd ige itf et kkk	0
-其他客厅家具	adw wb pt ds pe hw	0
-其他口腔用化学品	adw wb kkkk epw et wx ip kkk	0
-其他毛发用化学品	adw wb tfn v et wx ip kkk	0
-其他门厅家具	adw wb uyh ds pe hw	0
-其他皮肤用化学品	adw wb hc efw et wx ip kkk	0
-其他清洁用具	adw wb ige ifk et hw	0
-其他驱虫灭害化学品	adw wb caq jhny goi pd wx ip kkk	0
-其他卧室家具	adw wb ahnh pgc pe hw	1
-其他箱包	adw wb tsh qn	0
-其他学校家具	adw wb ip suq pe hw	0
-其他婴儿用品	adw wb mmv qt et kkk	0
-其他雨具	adw wb fghy hw	0
-其他灶具	adw wb of hw	0
-其他装饰用纺织品	adw wb ufy qnth et xy xkw kkk	0
-驱虫灭害化学品	caq jhny goi pd wx ip kkk	0
-祛臭液	pyfc thdu iyw	0
-驱蚊用品	caq jyy et kkk	4
-驱蝇用品	caq jk et kkk	0
-日化用品	jjjj wx et kkk	43
-乳房护理	ebn yny ryn gj	0
-伞附属品	wuh bwf ntk kkk	0
-杀鼠用品	qsu vnu et kkk	0
-杀蟑用品	qsu jujh et kkk	0
-食堂餐桌椅	wyv ipkf hq hjs sds	0
-视听柜	pym kr san	1
-瘦身化学品	uvh tmd wx ip kkk	0
-书房家具	nnh yny pe hw	4
-塑料打火机	ubtf ou rs ooo sm	5
-烫发剂	inro v yjjh	8
-剃须膏	uxhj ed ypk	89
-童椅	ujff sds	3
-童桌	ujff hjs	0
-头发护理	udi v ryn gj	35
-围兜	lfnh qrnq	17
-卫生间清洁剂	bg tg uj ige ifk yjjh	0
-卫浴用具	bg iww et hw	4
-西餐刀叉	sghg hq vn cyi	4
-洗衣刷	itf ye nmh	0
-箱包配件	tsh qn sgn wrh	0
-鞋套机	afff ddu sm	3
-学生床	ip tg ysi	0
-学校家具	ip suq pe hw	0
-烟灰缸袋	ol do rma waye	0
-衣帽刷	ye mhj nmh	0
-衣物柔顺剂	ye tr cbts kd yjjh	4
-婴儿睡袋	mmv qt ht waye	14
-浴缸刷	iww rma nmh	0
-阅览室桌椅	uuk jtyq pgc hjs sds	0
-灶具配件	of hw sgn wrh	0
-指甲修护	rxj lhnh wht ryn	0
-职员椅	bk km sds	2
-组合产品	xeg wgk u kkk	0
-坐具套	wwf hw ddu	0
-安全相关软件	pv wg sh ud lqw wrh	1
-编程开发软件	xyna tkgg ga v lqw wrh	2
-便携式碟机	wgj rwye aa dan sm	0
-财务管理软件	mf tl tp gj lqw wrh	8
-插卡类	rtf hhu od	0
-打印机耗材	rs qgb sm ditn sft	7
-打印机配件	rs qgb sm sgn wrh	0
-等离子显示器	tffu yb bb jo fi kkd	1
-电脑产品代理	jn eyb u kkk wa gj	0
-电脑产品加工	jn eyb u kkk lk a	0
-电脑产品制造设备	jn eyb u kkk rmhj tfkp ymc tlf	0
-电脑读卡器	jn eyb yfn hhu kkd	0
-电脑加密锁	jn eyb lk pnt qim	0
-电脑相关用品	jn eyb sh ud et kkk	0
-电脑项目合作	jn eyb adm hhhh wgk wt	0
-电脑用品及外设	jn eyb et kkk ey qh ymc	0
-电脑游戏周边产品	jn eyb iytb ca mfk lp u kkk	0
-二手电脑及配件	fg rt jn eyb ey sgn wrh	0
-二手电子加工设备	fg rt jn bb lk a ymc tlf	0
-防辐用品	by lgk et kkk	0
-工控电脑产品	a rpw jn eyb u kkk	0
-光纤设备	iq xtf ymc tlf	1
-轨迹球鼠标	lv yop gfi vnu sfi	4
-行业专用软件	tf og fny et lqw wrh	0
-绘图机	xwf ltu sm	0
-机械鼠标	sm sa vnu sfi	5
-教育教学软件	ftbt yce ftbt ip lqw wrh	0
-客户管理软件	pt yne tp gj lqw wrh	7
-刻字机	ynt pb sm	0
-库存电脑产品	ylk dhb jn eyb u kkk	0
-墨盒水	lfof wgkl ii	0
-其他插卡类	adw wb rtf hhu od	0
-其他打印机	adw wb rs qgb sm	0
-其他打印机耗材	adw wb rs qgb sm ditn sft	0
-其他电脑相关用品	adw wb jn eyb sh ud et kkk	0
-其他工具软件	adw wb a hw lqw wrh	0
-其他管理软件	adw wb tp gj lqw wrh	1
-其他光盘	adw wb iq tel	0
-其他驱动器	adw wb caq fcl kkd	0
-其他鼠标	adw wb vnu sfi	0
-其他网络设备	adw wb mqq xtk ymc tlf	1
-其他显示器	adw wb jo fi kkd	0
-其他移动存储	adw wb tqq fcl dhb wyf	0
-企业管理软件	whf og tp gj lqw wrh	36
-热转印机	rvyo lfn qgb sm	0
-软件代理	lqw wrh wa gj	0
-视保屏	pym wk nua	0
-视讯会议系统	pym ynf wf yyq txi xyc	0
-数码录音笔	ovt dcg vi ujf tt	2
-数码配件	ovt dcg sgn wrh	21
-数码摄像头	ovt dcg rbcc wqj udi	1
-条码设备	ts dcg ymc tlf	0
-图文处理软件	ltu yygy th gj lqw wrh	0
-网络工具软件	mqq xtk a hw lqw wrh	0
-文件管理软件	yygy wrh tp gj lqw wrh	11
-信息技术项目合作	wy thn rfc sy adm hhhh wgk wt	0
-游戏娱乐软件	iytb ca vkgd qi lqw wrh	0
-编辑控制器	xyna lkb rpw rmhj kkd	0
-编辑制作设备	xyna lkb rmhj wt ymc tlf	0
-充气模型	yc rnb saj gajf	1
-冲印彩扩设备	ukh qgb ese ry ymc tlf	0
-出版项目合作	bm thgc adm hhhh wgk wt	0
-促销台	wkh qie ck	0
-灯箱布	os tsh dmh	6
-电影放映设备	jn jyie yt jmd ymc tlf	1
-二手广电设备	fg rt yygt jn ymc tlf	0
-放音设备	yt ujf ymc tlf	3
-非线性编辑系统	djd xg ntg xyna lkb txi xyc	3
-分配系统放大器	wv sgn txi xyc yt dd kkd	0
-分支器	wv fc kkd	1
-广播发射机	yygt rtol v tmdf sm	0
-广电信号分配器	yygt jn wy kgn wv sgn kkd	0
-广电信号混合器	yygt jn wy kgn ijx wgk kkd	0
-广电信号解调器	yygt jn wy kgn qev ymf kkd	0
-广电信号滤波器	yygt jn wy kgn iha ihc kkd	0
-广电信号调制器	yygt jn wy kgn ymf rmhj kkd	0
-广告旗杆	yygt tfkf yta sfh	0
-光学摄像机	iq ip rbcc wqj sm	1
-光学相机	iq ip sh sm	8
-科学技术类	tu ip rfc sy od	3
-空白录像带	pw rrr vi wqj gkp	2
-空白录音带	pw rrr vi ujf gkp	0
-库存图书	ylk dhb ltu nnh	1
-库存音像制品	ylk dhb ujf wqj rmhj kkk	0
-录音设备	vi ujf ymc tlf	185
-频道转换器	hid uthp lfn rq kkd	0
-其他编辑制作设备	adw wb xyna lkb rmhj wt ymc tlf	0
-其他播出	adw wb rtol bm	1
-其他广告	adw wb yygt tfkf	0
-其他摄像器材	adw wb rbcc wqj kkd sft	0
-其他摄影器材	adw wb rbcc jyie kkd sft	0
-其他书籍	adw wb nnh tdij	0
-其他舞台设备	adw wb rlg ck ymc tlf	0
-其他无线微波设备	adw wb fq xg tmg ihc ymc tlf	0
-其他无线卫星设备	adw wb fq xg bg jtg ymc tlf	0
-其他音像制品	adw wb ujf wqj rmhj kkk	0
-其他有线光缆设备	adw wb e xg iq xjt ymc tlf	0
-其他有线线缆设备	adw wb e xg xg xjt ymc tlf	0
-其他专业录音	adw wb fny og vi ujf	0
-前端设备	ue umd ymc tlf	18
-社会科学类	py wf tu ip od	37
-摄录一体机	rbcc vi g wsg sm	19
-摄像器材	rbcc wqj kkd sft	6
-摄影背景	rbcc jyie uxe jy	0
-生活时尚类	tg itd jf imkf od	0
-实时压缩系统	pu jf dfy xpw txi xyc	0
-数字卫星接收机	ovt pb bg jtg ruv nh sm	1
-特技机	trf rfc sm	1
-特技切换台	trf rfc av rq ck	0
-贴纸相机	mhkg xqa sh sm	3
-图书代理	ltu nnh wa gj	0
-卫星接收天线	bg jtg ruv nh gd xg	1
-文学艺术类	yygy ip anb sy od	15
-舞台机械	rlg ck sm sa	1
-舞台幕布	rlg ck ajdh dmh	5
-舞台设备	rlg ck ymc tlf	10
-无线微波设备	fq xg tmg ihc ymc tlf	0
-无线卫星设备	fq xg bg jtg ymc tlf	0
-学习教育类	ip nu ftbt yce od	1
-音像制品代理	ujf wqj rmhj kkk wa gj	0
-音像制品加工	ujf wqj rmhj kkk lk a	0
-影视节目合作	jyie pym ab hhhh wgk wt	0
-有线光缆设备	e xg iq xjt ymc tlf	0
-有线线缆设备	e xg xg xjt ymc tlf	0
-展览器材	nae jtyq kkd sft	0
-展览帐篷	nae jtyq mht ttdp	0
-专业话筒	fny og ytd tmgk	1
-专业录音	fny og vi ujf	0
-包装产品代理	qn ufy u kkk wa gj	0
-包装产品加工	qn ufy u kkk lk a	0
-包装成型机械	qn ufy dn gajf sm sa	0
-包装服务	qn ufy eb tl	0
-包装检测设备	qn ufy sw imj ymc tlf	0
-包装胶带	qn ufy eu gkp	1
-包装生产线	qn ufy tg u xg	2
-包装相关设备	qn ufy sh ud ymc tlf	0
-包装项目合作	qn ufy adm hhhh wgk wt	0
-包装制品	qn ufy rmhj kkk	0
-包装制品配附件	qn ufy rmhj kkk sgn bwf wrh	0
-玻璃包装材料	ghc gyb qn ufy sft ou	0
-玻璃包装制品	ghc gyb qn ufy rmhj kkk	0
-不干胶标签	i fggh eu sfi twgi	0
-布类包装材料	dmh od qn ufy sft ou	0
-布料包装制品	dmh ou qn ufy rmhj kkk	0
-充填机械	yc ffh sm sa	0
-多功能包装机	qq al ce qn ufy sm	0
-二手包装机械	fg rt qn ufy sm sa	0
-封口机械	fffy kkkk sm sa	0
-复合包装材料	tjt wgk qn ufy sft ou	0
-复合材料包装制品	tjt wgk sft ou qn ufy rmhj kkk	0
-辅助包装材料	lgey egl qn ufy sft ou	0
-辅助包装设备	lgey egl qn ufy ymc tlf	0
-工业胶带	a og eu gkp	0
-灌装机械	iak ufy sm sa	0
-裹包机械	yjse qn sm sa	0
-集装机械	wys ufy sm sa	0
-金属包装材料	qqqq ntk qn ufy sft ou	0
-金属包装机械	qqqq ntk qn ufy sm sa	0
-金属包装制品	qqqq ntk qn ufy rmhj kkk	0
-金属盖	qqqq ntk ugl	6
-金属盒	qqqq ntk wgkl	20
-金属桶	qqqq ntk sce	13
-金属托盘	qqqq ntk rta tel	1
-警示胶带	aqky fi eu gkp	0
-捆扎机械	rls rnn sm sa	0
-其他包装材料	adw wb qn ufy sft ou	0
-其他包装成型机械	adw wb qn ufy dn gajf sm sa	0
-其他包装相关设备	adw wb qn ufy sh ud ymc tlf	0
-其他标签	adw wb sfi twgi	0
-其他玻璃包装制品	adw wb ghc gyb qn ufy rmhj kkk	0
-其他胶带	adw wb eu gkp	0
-其他金属包装制品	adw wb qqqq ntk qn ufy rmhj kkk	0
-其他托盘	adw wb rta tel	0
-其他纸类包装制品	adw wb xqa od qn ufy rmhj kkk	0
-其他竹木包装制品	adw wb ttg ssss qn ufy rmhj kkk	0
-清洗机械	ige itf sm sa	0
-塑胶标签	ubtf eu sfi twgi	0
-塑料包装材料	ubtf ou qn ufy sft ou	5
-塑料包装机械	ubtf ou qn ufy sm sa	0
-贴标机械	mhkg sfi sm sa	0
-文具胶带	yygy hw eu gkp	0
-扎带	rnn gkp	48
-纸包装机械	xqa qn ufy sm sa	0
-纸浆模塑	xqa uqi saj ubtf	1
-纸类包装制品	xqa od qn ufy rmhj kkk	0
-纸类标签	xqa od sfi twgi	0
-纸桶罐	xqa sce rmay	0
-纸筒管	xqa tmgk tp	0
-竹木包装制品	ttg ssss qn ufy rmhj kkk	0
-氨基树脂	rnp ad scf ex	0
-板式塔	src aa fawk	0
-钡氧化物	qmy rnu wx tr	0
-苯醌	asg sgjx	19
-玻璃机械	ghc gyb sm sa	0
-玻璃加工	ghc gyb lk a	0
-不饱和聚酯树脂	i qnqn t bct sgx scf ex	0
-槽式反应器	sgmj aa rc yid kkd	0
-除沫器	bwt igs kkd	0
-储运容器	wyf fcp pww kkd	0
-储运设备	wyf fcp ymc tlf	0
-传热设备	wfny rvyo ymc tlf	0
-传质设备	wfny rfm ymc tlf	0
-萃取设备	ayw bc ymc tlf	1
-带式干燥设备	gkp aa fggh okk ymc tlf	0
-底阀	yqa uwa	3
-蝶阀	jan uwa	0
-二手化工设备	fg rt wx a ymc tlf	0
-发酵提取设备	v sgfb rj bc ymc tlf	0
-反应设备	rc yid ymc tlf	0
-放料阀	yt ou uwa	0
-沸腾干燥机	ixj eud fggh okk sm	0
-酚类	sgw od	65
-分离设备	wv yb ymc tlf	2
-分凝器	wv uxt kkd	0
-分散机	wv aet sm	0
-粉碎设备	ow dyw ymc tlf	5
-分析试剂	wv sr yaa yjjh	4
-砜类	dmqy od	3
-呋喃树脂	kfw kfm scf ex	0
-钙氧化物	qgh rnu wx tr	0
-隔膜阀	bgk eajd uwa	0
-铬氧化物	qtk rnu wx tr	0
-工业淀粉	a og ipgh ow	0
-钴氧化物	qdg rnu wx tr	1
-管式反应器	tp aa rc yid kkd	0
-硅氧化物	dff rnu wx tr	1
-滚筒刮板干燥机	iuc tmgk tdjh src fggh okk sm	0
-化工产品加工	wx a u kkk lk a	0
-化工成套设备	wx a dn ddu ymc tlf	0
-化工成型设备	wx a dn gajf ymc tlf	0
-化工管道及配件	wx a tp uthp ey sgn wrh	0
-化工设备	wx a ymc tlf	14
-化工设备代理	wx a ymc tlf wa gj	0
-化工设备配件	wx a ymc tlf sgn wrh	0
-化工实验设备	wx a pu cwg ymc tlf	0
-化工项目合作	wx a adm hhhh wgk wt	0
-化工原料代理	wx a dr ou wa gj	0
-磺酸衍生物	dam sgc tif tg tr	0
-混流泵	ijx iyc diu	0
-火工产品	ooo a u kkk	1
-加料机	lk ou sm	0
-角阀	qe uwa	47
-脚踏阀	efcb khij uwa	0
-结晶设备	xf jjj ymc tlf	0
-金属单质	qqqq ntk ujfj rfm	59
-腈类	egeg od	2
-聚氨酯树脂	bct rnp sgx scf ex	2
-聚酰胺树脂	bct sgtq epv scf ex	0
-均质设备	fqu rfm ymc tlf	0
-氪气	rndq rnb	14
-空心桨叶干燥机	pw ny uqs kf fggh okk sm	0
-库存化工设备	ylk dhb wx a ymc tlf	0
-库存化工原料	ylk dhb wx a dr ou	0
-醌类	sgjx od	16
-淋水装置	iss ii ufy lfhf	0
-磷氧化物	doq rnu wx tr	0
-流程泵	iyc tkgg diu	0
-流化床干燥设备	iyc wx ysi fggh okk ymc tlf	0
-硫磺	dyc dam	471
-流量控制阀	iyc jg rpw rmhj uwa	1
-卤酸盐	hl sgc fhl	0
-铝氧化物	qkk rnu wx tr	1
-镁氧化物	qug rnu wx tr	0
-锰氧化物	qbl rnu wx tr	2
-醚类	sgo od	18
-耐腐蚀泵	dmjf ywfw qnj diu	0
-萘醌	adfi sgjx	0
-氖气	rne rnb	29
-捏合机	rjfg wgk sm	0
-偶氮化合物	wjm rno wx wgk tr	0
-盘式干燥机	tel aa fggh okk sm	0
-喷雾干燥机	kfa ftl fggh okk sm	0
-屏蔽泵	nua aum diu	0
-瓶体	uag wsg	27
-普通玻璃	uo cep ghc gyb	0
-气流干燥设备	rnb iyc fggh okk ymc tlf	0
-其他泵	adw wb diu	0
-其他玻璃	adw wb ghc gyb	0
-其他储运设备	adw wb wyf fcp ymc tlf	0
-其他传热设备	adw wb wfny rvyo ymc tlf	0
-其他传质设备	adw wb wfny rfm ymc tlf	0
-其他醇类	adw wb sgyb od	0
-其他单质	adw wb ujfj rfm	0
-其他阀门	adw wb uwa uyh	0
-其他反应设备	adw wb rc yid ymc tlf	0
-其他分离设备	adw wb wv yb ymc tlf	0
-其他粉碎设备	adw wb ow dyw ymc tlf	0
-其他干燥设备	adw wb fggh okk ymc tlf	0
-其他合成树脂	adw wb wgk dn scf ex	0
-其他化学试剂	adw wb wx ip yaa yjjh	0
-其他混合设备	adw wb ijx wgk ymc tlf	0
-其他聚合物	adw wb bct wgk tr	0
-其他醌类	adw wb sgjx od	0
-其他气体	adw wb rnb wsg	0
-其他实验室用品	adw wb pu cwg pgc et kkk	0
-其他输送设备	adw wb lwg udp ymc tlf	0
-其他羧酸衍生物	adw wb udct sgc tif tg tr	0
-其他碳水化合物	adw wb dmd ii wx wgk tr	4
-其他烃类	adw wb oc od	0
-其他无机碱	adw wb fq sm ddg	0
-其他无机酸	adw wb fq sm sgc	0
-其他无机盐	adw wb fq sm fhl	0
-其他氧化物	adw wb rnu wx tr	3
-其他杂环化合物	adw wb vs ggi wx wgk tr	0
-其他制冷设备	adw wb rmhj uwyc ymc tlf	0
-铅氧化物	qmk rnu wx tr	0
-醛类	sgag od	97
-燃气阀	oqdo rnb uwa	3
-三元醇	dg fqb sgyb	0
-砂磨机	di yssd sm	0
-生化试剂	tg wx yaa yjjh	5
-实验室用品	pu cwg pgc et kkk	1
-手动阀	rt fcl uwa	0
-疏水阀	nhy ii uwa	0
-羧酸盐	udct sgc fhl	3
-羧酸衍生物	udct sgc tif tg tr	5
-塔式反应器	fawk aa rc yid kkd	0
-钛氧化物	qdy rnu wx tr	0
-陶瓷加工	bqr uqwn lk a	0
-锑氧化物	qux rnu wx tr	0
-填料塔	ffh ou fawk	0
-铁氧化物	qr rnu wx tr	16
-铜氧化物	qmgk rnu wx tr	44
-通用无机试剂	cep et fq sm yaa yjjh	0
-通用有机试剂	cep et e sm yaa yjjh	0
-往复泵	tyg tjt diu	0
-微波干燥设备	tmg ihc fggh okk ymc tlf	0
-涡流泵	ikm iyc diu	0
-无机化工原料	fq sm wx a dr ou	0
-无机碱	fq sm ddg	0
-钨酸	qqn sgc	4
-硒氧化物	dsg rnu wx tr	0
-酰卤	sgtq hl	3
-箱式干燥设备	tsh aa fggh okk ymc tlf	0
-硝基化合物	die ad wx wgk tr	10
-锌氧化物	quh rnu wx tr	0
-旋塞阀	ytn pfjf uwa	0
-漩涡泵	iyth ikm diu	0
-仪表阀	wyq ge uwa	0
-有机硅树脂	e sm dff scf ex	2
-有机化工原料	e sm wx a dr ou	1
-再沸器	gmf ixj kkd	0
-针阀	qf uwa	0
-真空干燥机	fhw pw fggh okk sm	0
-蒸馏设备	abi qnql ymc tlf	10
-脂环烃	ex ggi oc	0
-制粒干燥设备	rmhj oug fggh okk ymc tlf	0
-重氮化合物	tgj rno wx wgk tr	0
-柱塞阀	syg pfjf uwa	0
-转子泵	lfn bb diu	0
-自吸泵	thd ke diu	0
-邦定机	dtb pg sm	0
-泵配件	diu sgn wrh	1
-标价机	sfi wwj sm	0
-剥线机	vijh xg sm	0
-插床	rtf ysi	0
-齿轮加工机床	hwb lwx lk a sm ysi	0
-充磁机	yc du sm	1
-储能机	wyf ce sm	0
-出入口机	bm ty kkkk sm	0
-打胶机	rs eu sm	0
-导线剥皮机	nf xg vijh hc sm	0
-等离子焊机	tffu yb bb ojf sm	0
-等离子切割机	tffu yb bb av pdhj sm	4
-电镀加工	jn qya lk a	1
-电镀设备	jn qya ymc tlf	2
-点胶设备	hko eu ymc tlf	2
-电容剪脚机	jn pww uejv efcb sm	0
-电子产品制造设备	jn bb u kkk rmhj tfkp ymc tlf	0
-电子电器生产线	jn bb jn kkd tg u xg	0
-电子元件成型机	jn bb fqb wrh dn gajf sm	0
-电阻焊机	jn begg ojf sm	0
-端子机	umd bb sm	0
-二手工程机械	fg rt a tkgg sm sa	0
-二手锅炉	fg rt qkm oyn	0
-二手机床	fg rt sm ysi	0
-阀门配件	uwa uyh sgn wrh	2
-纺纱设备纺机	xy xi ymc tlf xy sm	0
-纺织配件	xy xkw sgn wrh	0
-非织造布机械	djd xkw tfkp dmh sm sa	0
-服装加工设备	eb ufy lk a ymc tlf	0
-工业锅炉及配件	a og qkm oyn ey sgn wrh	0
-工业制品代理	a og rmhj kkk wa gj	0
-柜员机设备	san km sm ymc tlf	0
-滚焊机	iuc ojf sm	0
-国外机床	l qh sm ysi	0
-焊管机	ojf tp sm	0
-焊接和粘接	ojf ruv t oh ruv	0
-焊台	ojf ck	7
-焊锡机	ojf qjq sm	0
-焊线机	ojf xg sm	0
-行业专业设备	tf og fny og ymc tlf	0
-行业专用设备加工	tf og fny et ymc tlf lk a	0
-回单管理系统	lkd ujfj tp gj txi xyc	0
-回流焊接机	lkd iyc ojf ruv sm	0
-活动围栏	itd fcl lfnh suf	0
-激光焊机	iry iq ojf sm	0
-激光切割机	iry iq av pdhj sm	12
-机械项目合作	sm sa adm hhhh wgk wt	0
-家电制造设备	pe jn rmhj tfkp ymc tlf	0
-家具制造机械	pe hw rmhj tfkp sm sa	0
-绞线机	xuq xg sm	0
-金融专用设备	qqqq gkm fny et ymc tlf	0
-卷板机床	udbb src sm ysi	0
-库存设备及工业用品	ylk dhb ymc tlf ey a og et kkk	0
-捆钞机	rls qit sm	0
-螺纹加工机床	jlx xyy lk a sm ysi	0
-铆接设备	qqt ruv ymc tlf	0
-密码键盘	pnt dcg qvfp tel	17
-摩擦焊机	yssr rpwi ojf sm	0
-木工机床	ssss a sm ysi	1
-排焊机	rdj ojf sm	0
-碰焊机	duo ojf sm	0
-其他传动件	adw wb wfny fcl wrh	0
-其他电焊	adw wb jn ojf	0
-其他电子产品制造设备	adw wb jn bb u kkk rmhj tfkp ymc tlf	0
-其他纺织设备和器材	adw wb xy xkw ymc tlf t kkd sft	0
-其他行业专用设备	adw wb tf og fny et ymc tlf	0
-其他机床	adw wb sm ysi	0
-其他金融专用设备	adw wb qqqq gkm fny et ymc tlf	0
-其他金属加工	adw wb qqqq ntk lk a	2
-其他商业专用设备	adw wb um og fny et ymc tlf	0
-切割设备	av pdhj ymc tlf	2
-商超货架	um fhv wxm lks	0
-商业专用设备	um og fny et ymc tlf	0
-塑焊机	ubtf ojf sm	0
-梭织设备	scw xkw ymc tlf	0
-跳线机	khi xg sm	0
-涂装设备	iwt ufy ymc tlf	2
-玩具加工设备	gfq hw lk a ymc tlf	0
-线切割加工	xg av pdhj lk a	0
-橡塑设备	sqj ubtf ymc tlf	0
-鞋帽设备	afff mhj ymc tlf	0
-压焊机	dfy ojf sm	1
-压接机	dfy ruv sm	0
-压力加工	dfy lt lk a	1
-液压机械及部件	iyw dfy sm sa ey uk wrh	0
-仪器仪表加工	wyq kkd wyq ge lk a	0
-印染整机械与设备	qgb ivs gkih sm sa gn ymc tlf	0
-硬币清分机	dgj tmh ige wv sm	3
-扎把机	rnn rcn sm	0
-扎口机	rnn kkkk sm	0
-针织机械	qf xkw sm sa	0
-整熨洗涤设备	gkih nfio itf its ymc tlf	0
-制冷空调设备	rmhj uwyc pw ymf ymc tlf	0
-纸业设备	xqa og ymc tlf	0
-铸造机床	qdt tfkp sm ysi	0
-专用机床	fny et sm ysi	1
-组合机床	xeg wgk sm ysi	0
-倍捻机	wuk rwyn sm	1
-荧光颜料	apo iq utem ou	1
-蒸馏塔	abi qnql fawk	2
-厌氧胶	ddi rnu eu	1
-吹塑机	kqw ubtf sm	1
-打标机	rs sfi sm	1
-拉力机	ru lt sm	1
-检针机	sw qf sm	1
-洗瓶机	itf uag sm	2
-粉粹机	ow oyw sm	2
-起锚机	fhn qal sm	0
-绞柱	xuq syg	0
+版材	thfb xqlm	4
+包装薄膜	ajba tbyz rcbf mrns	2
+包装防伪	ajba tbyz ilfa svov	0
+包装印刷加工	ajba tbyz hqjy hyzs okji dgon	0
+标识防伪	xvbi lkis ilfa svov	0
+玻璃类印刷	fubo fliw osle hqjy hyzs	0
+玻璃油墨	fubo fliw cbyo vbmo	0
+不干胶印刷	i ygan myrj hqjy hyzs	0
+产品防伪	gmch kkkp ilfa svov	1
+打样机	doda xwya xxji	0
+电晕笔	nddi nugy tubi	0
+镀锡板卷马口铁	zhrf znyx xhfb gsjj wma kkou ztst	0
+二手印刷设备	wer dsho hqjy hyzs lxfs fbbe	0
+防伪技术产品	ilfa svov dpfj xvsh gmch kkkp	0
+纺织及皮革类印刷	ulfa ukiz lvji upi uge osle hqjy hyzs	0
+分离薄膜	izfe liwl rcbf mrns	0
+复合类印刷	tnff skge osle hqjy hyzs	0
+覆膜机	egtf mrns xxji	0
+功能薄膜	dogo j rcbf mrns	1
+挂历印刷	dbbg holi hqjy hyzs	0
+刮墨刀	lkzg vbmo zdao	0
+瓜米石	ogua omi fdan	0
+海报印刷	ctah djfb hqjy hyzs	6
+降解薄膜	ifgj aozw rcbf mrns	0
+胶辊	myrj gnhg	1
+搅墨棒	diuh vbmo xesd	0
+胶印机	myrj hqjy xxji	1
+金属类印刷	zjin hmkw osle hqjy hyzs	0
+开槽机	qrka xrnn xxji	0
+名片印刷	nkmi tpia hqjy hyzs	0
+模切机	xrns uzqi xxji	0
+农用薄膜	uyno oyon rcbf mrns	1
+票据印刷	evpi dhmj hqjy hyzs	0
+其他包装印刷加工	tqi slta ajba tbyz hqjy hyzs okji dgon	0
+其他防伪技术产品	tqi slta ilfa svov dpfj xvsh gmch kkkp	0
+其他商业印刷加工	tqi slta yuik rye hqjy hyzs okji dgon	0
+其他塑料薄膜	tqi slta gmbs onpl rcbf mrns	0
+其他文化	tqi slta lwen shhu	0
+其他印后加工设备	tqi slta hqjy hkho okji dgon lxfs fbbe	0
+其他印前处理设备	tqi slta hqjy gmzq fvch fywl lxfs fbbe	0
+其他印刷机	tqi slta hqjy hyzs xxji	0
+其他印刷机械专用配件	tqi slta hqjy hyzs xxji xzrx uzhu oyon eqjp swji	0
+其他油墨	tqi slta cbyo vbmo	0
+柔印机	fmxr hqjy xxji	0
+晒版机	nesh thfb xxji	0
+商标防伪	yuik xvbi ilfa svov	0
+上光机	v ihgu xxji	0
+商业印刷加工	yuik rye hqjy hyzs okji dgon	0
+书刊印刷加工	ddlv yzka hqjy hyzs okji dgon	0
+书刊纸	ddlv yzka uhuz	0
+数码印刷机	oafs fwma hqjy hyzs xxji	1
+水辊	cshu gnhg	0
+水印纸	cshu hqjy uhuz	3
+丝印机	usi hqjy xxji	1
+塑料类印刷	gmbs onpl osle hqjy hyzs	0
+塑料油墨	gmbs onpl cbyo vbmo	0
+台历印刷	jkta holi hqjy hyzs	0
+烫金机	cdmv zjin xxji	0
+陶瓷类印刷	iaot nsoc osle hqjy hyzs	0
+陶瓷油墨	iaot nsoc cbyo vbmo	0
+文件防伪	lwen swji ilfa svov	0
+橡皮布	xakw upi fybu	0
+信封印刷	slxi bbff hqjy hyzs	0
+信息用化学品	slxi jjxi oyon shhu iuhx kkkp	0
+压痕机	hbvy hfyh xxji	0
+压纹机	hbvy ulwe xxji	0
+压纸轮	hbvy uhuz gshl	0
+艺术纸	rdyi xvsh uhuz	17
+移印机	onny hqjy xxji	0
+印布油墨	hqjy fybu cbyo vbmo	0
+印后加工设备	hqjy hkho okji dgon lxfs fbbe	0
+印前处理设备	hqjy gmzq fvch fywl lxfs fbbe	0
+印刷材料	hqjy hyzs xqlm onpl	25
+印刷服务	hqjy hyzs mjff fowu	3
+印刷耗材代理	hqjy hyzs ouha xqlm suda fywl	0
+印刷机械专用配件	hqjy hyzs xxji xzrx uzhu oyon eqjp swji	0
+印刷检测仪器	hqjy hyzs xsji cazc svry kkwk	0
+印刷配套设备	hqjy hyzs eqjp suta lxfs fbbe	0
+印刷项目合作	hqjy hyzs dfax jmu skge stlw	0
+印刷用纸	hqjy hyzs oyon uhuz	8
+印铁油墨	hqjy ztst cbyo vbmo	0
+印章防伪	hqjy gnzh ilfa svov	0
+印纸油墨	hqjy uhuz cbyo vbmo	0
+有价证券防伪	fmyo ssij lgzh gszq ilfa svov	0
+邮票纸	biyo evpi uhuz	1
+折页机	dxsh faye xxji	0
+制版机	wuzz thfb xxji	0
+纸类印刷	uhuz osle hqjy hyzs	2
+竹木类印刷	tzhu xmu osle hqjy hyzs	0
+字典纸	phzi urid uhuz	1
+薄膜拉丝机	rcbf mrns dgla usi xxji	0
+标胶	xvbi myrj	3
+吹膜机	ksch mrns xxji	0
+吹塑加工	ksch gmbs okji dgon	0
+发泡设备	dfvf cajp lxfs fbbe	0
+工程机械轮胎	dgon okfc xxji xzrx gshl mjkt	0
+工农业用塑料制品	dgon uyno rye oyon gmbs onpl wuzz kkkp	0
+工业用橡胶制品	dgon rye oyon xakw myrj wuzz kkkp	1
+光稳定剂	ihgu oafj pqgd lizj	0
+合成材料抗氧化剂	skge z xqlm onpl dlxk nwya shhu lizj	0
+合成材料助剂	skge z xqlm onpl tozh lizj	0
+合成材料阻燃剂	skge z xqlm onpl itzu vmwv lizj	0
+混炼机	cnhh vudi xxji	0
+挤塑加工	dlij gmbs okji dgon	0
+加料再生破碎机	okji onpl fuza hshe fupo flsp xxji	0
+家用塑料制品	pwji oyon gmbs onpl wuzz kkkp	0
+聚氨酯橡胶	jfsj npaa eqhn xakw myrj	1
+抗冲击剂	dlxk nklc diji lizj	0
+硫化罐	fljc shhu orke	0
+硫化机	fljc shhu xxji	1
+摩托车轮胎	hxdm dmut gche gshl mjkt	3
+农业用橡胶制品	uyno rye oyon xakw myrj wuzz kkkp	0
+农用车轮胎	uyno oyon gche gshl mjkt	0
+普通塑料工艺品	grnp jogt gmbs onpl dgon rdyi kkkp	0
+其他工程塑料	tqi slta dgon okfc gmbs onpl	1
+其他合成材料助剂	tqi slta skge z xqlm onpl tozh lizj	0
+其他合成橡胶	tqi slta skge z xakw myrj	0
+其他轮胎	tqi slta gshl mjkt	0
+其他热塑性弹性体	tqi slta dovr gmbs jhxi xiod jhxi sxti	0
+其他塑料包装制品	tqi slta gmbs onpl ajba tbyz wuzz kkkp	0
+其他塑料工艺品	tqi slta gmbs onpl dgon rdyi kkkp	0
+其他塑料管	tqi slta gmbs onpl tpig	0
+其他塑料机械	tqi slta gmbs onpl xxji xzrx	0
+其他塑料加工	tqi slta gmbs onpl okji dgon	0
+其他塑料制品	tqi slta gmbs onpl wuzz kkkp	0
+其他天然橡胶	tqi slta ntia mwvr xakw myrj	0
+其他通用塑料	tqi slta jogt oyon gmbs onpl	0
+其他橡胶机械	tqi slta xakw myrj xxji xzrx	0
+其他橡胶加工	tqi slta xakw myrj okji dgon	0
+其他橡胶制品	tqi slta xakw myrj wuzz kkkp	0
+其他再生塑料	tqi slta fuza hshe gmbs onpl	0
+切胶机	uzqi myrj xxji	0
+热稳定剂	dovr oafj pqgd lizj	7
+生活日用橡胶制品	hshe clkh nri oyon xakw myrj wuzz kkkp	0
+塑机辅机	gmbs xxji gbfu xxji	0
+塑胶工艺品	gmbs myrj dgon rdyi kkkp	0
+塑料棒	gmbs onpl xesd	7
+塑料包装制品	gmbs onpl ajba tbyz wuzz kkkp	1
+塑料表面处理	gmbs onpl rybi lemi fvch fywl	0
+塑料成型机	gmbs onpl z qrzb xxji	0
+塑料工艺品	gmbs onpl dgon rdyi kkkp	0
+塑料挤出机	gmbs onpl dlij r xxji	0
+塑料桶罐	gmbs onpl xjot orke	0
+塑料压延机	gmbs onpl hbvy mggy xxji	0
+塑料造粒机	gmbs onpl wkgz ogli xxji	0
+特种塑料	wbft oklc gmbs onpl	1
+通用塑料	jogt oyon gmbs onpl	5
+脱硫机	mikh fljc xxji	0
+脱模剂	mikh xrns lizj	1
+文教用橡胶制品	lwen hhfj oyon xakw myrj wuzz kkkp	0
+吸塑加工	klvx gmbs okji dgon	0
+橡胶裁断机	xakw myrj pzyc odxd xxji	0
+橡胶成型机	xakw myrj z qrzb xxji	0
+橡胶成型加工	xakw myrj z qrzb okji dgon	0
+橡胶定型机	xakw myrj pqgd qrzb xxji	0
+橡胶后处理加工	xakw myrj hkho fvch fywl okji dgon	0
+橡胶挤出机	xakw myrj dlij r xxji	0
+橡胶机械	xakw myrj xxji xzrx	0
+橡胶加工	xakw myrj okji dgon	0
+橡胶接头机	xakw myrj dgaj jtou xxji	0
+橡胶贴合机	xakw myrj avkt skge xxji	0
+橡胶压延机	xakw myrj hbvy mggy xxji	0
+橡胶压延加工	xakw myrj hbvy mggy okji dgon	0
+橡胶原料	xakw myrj hciy onpl	2
+橡胶造粒机	xakw myrj wkgz ogli xxji	0
+压克力工艺品	hbvy mhke oli dgon rdyi kkkp	0
+压塑加工	hbvy gmbs okji dgon	0
+烟胶	vksy myrj	1
+乙丙橡胶	dyi qusb xakw myrj	0
+医用橡胶制品	ityi oyon xakw myrj wuzz kkkp	0
+再生料	fuza hshe onpl	7
+制袋机	wuzz suyd xxji	0
+中空吹塑机	k pdko ksch gmbs xxji	0
+铸塑加工	zemf gmbs okji dgon	0
+半金属	idba zjin hmkw	52
+半金属矿产	idba zjin hmkw fhku gmch	0
+板卷材	xhfb gsjj xqlm	0
+板坯	xhfb biqp	6
+爆破设备	vnrc fupo lxfs fbbe	1
+不锈钢板卷	i zolx zurg xhfb gsjj	0
+不锈钢棒材	i zolx zurg xesd xqlm	0
+不锈钢坯	i zolx zurg biqp	1
+不锈钢线材不锈钢圆钢	i zolx zurg uzxi xqlm i zolx zurg kkay zurg	0
+彩涂板卷	exuc csxt xhfb gsjj	0
+长石	mqdv fdan	66
+齿轮钢	jchi gshl zurg	0
+磁选设备	fguu whgx lxfs fbbe	0
+碲锭	fyuy zpqg	1
+低合金管	shuv skge zjin tpig	0
+地矿勘测设备	b fhku tdok cazc lxfs fbbe	0
+低中压锅炉管	shuv k hbvy zkus vplu tpig	0
+镀铬板卷	zhrf zfkg xhfb gsjj	0
+镀铝锌	zhrf zkkl zgpx	0
+镀锌板卷	zhrf zgpx xhfb gsjj	0
+二手矿业设备	wer dsho fhku rye lxfs fbbe	0
+二手冶炼设备	wer dsho njky vudi lxfs fbbe	0
+防火材料	ilfa vhuo xqlm onpl	11
+方矩管	lfan tiij tpig	0
+方坯	lfan biqp	2
+非金属粉末	efei zjin hmkw oizf xmo	0
+非金属矿产	efei zjin hmkw fhku gmch	4
+非金属矿物制品	efei zjin hmkw fhku wywu wuzz kkkp	0
+废铝	hdfv zkkl	7
+废镁	hdfv zwsm	0
+废镍	hdfv zjxn	0
+废锡	hdfv znyx	0
+废锌	hdfv zgpx	0
+分级设备	izfe ulvj lxfs fbbe	0
+浮选设备	cehf whgx lxfs fbbe	0
+高压锅炉管	pukg hbvy zkus vplu tpig	0
+高压合金管	pukg hbvy skge zjin tpig	0
+工业炉	dgon rye vplu	0
+钴及钴锭	zmgu lvji zmgu zpqg	0
+管坯	tpig biqp	0
+贵金属合金	klqa zjin hmkw skge zjin	7
+贵金属矿产	klqa zjin hmkw fhku gmch	0
+锅炉板	zkus vplu xhfb	0
+合结钢	skge ubkj zurg	0
+合金板	skge zjin xhfb	5
+合金粉末	skge zjin oizf xmo	3
+合金钢管	skge zjin zurg tpig	1
+黑色金属矿产	vhei awse zjin hmkw fhku gmch	0
+花纹板卷	rshh ulwe xhfb gsjj	0
+焦化设备	evji shhu lxfs fbbe	0
+结构钢管	ubkj xajg zurg tpig	0
+金属板网	zjin hmkw xhfb urrw	0
+金属材料代理	zjin hmkw xqlm onpl suda fywl	0
+金属成型设备	zjin hmkw z qrzb lxfs fbbe	0
+金属丝绳	zjin hmkw usi uknd	0
+库存及废料	hgku flhc lvji hdfv onpl	0
+库存金属材料	hgku flhc zjin hmkw xqlm onpl	0
+矿山施工设备	fhku isha ltls dgon lxfs fbbe	0
+矿物代理	fhku wywu suda fywl	0
+矿业测量仪器	fhku rye cazc nywl svry kkwk	0
+矿业输送设备	fhku rye gsmz gsgs lxfs fbbe	0
+矿业物探仪器	fhku rye wywu duix svry kkwk	0
+矿业项目合作	fhku rye dfax jmu skge stlw	0
+矿业装卸设备	fhku rye tbyz tqgj lxfs fbbe	0
+矿用提升设备	fhku oyon dngd mrsh lxfs fbbe	0
+蓝晶石	rjto nnnj fdan	5
+冷拔钢	nmvl dffv zurg	0
+冷墩钢	nmvl bphf zurg	0
+冷拉钢	nmvl dgla zurg	0
+冷弯型钢	nmvl lvxw qrzb zurg	1
+冷轧板卷	nmvl gdya xhfb gsjj	0
+炼钢设备	vudi zurg lxfs fbbe	4
+炼铁设备	vudi ztst lxfs fbbe	0
+硫矿	fljc fhku	0
+流体管	cljc sxti tpig	0
+铝及铝锭	zkkl lvji zkkl zpqg	0
+铝丝网	zkkl usi urrw	0
+镁及镁锭	zwsm lvji zwsm zpqg	0
+耐腐蚀钢	lfna hsfs oesh zurg	0
+耐侯钢	lfna sith zurg	0
+耐热钢	lfna dovr zurg	0
+镍及镍锭	zjxn lvji zjxn zpqg	0
+破碎设备	fupo flsp lxfs fbbe	9
+普通圆钢	grnp jogt kkay zurg	0
+普中板	grnp k xhfb	0
+其他半金属	tqi slta idba zjin hmkw	0
+其他板卷材	tqi slta xhfb gsjj xqlm	0
+其他不锈钢材	tqi slta i zolx zurg xqlm	0
+其他磁性材料	tqi slta fguu jhxi xqlm onpl	0
+其他地矿勘测设备	tqi slta b fhku tdok cazc lxfs fbbe	0
+其他废金属	tqi slta hdfv zjin hmkw	0
+其他非金属矿产	tqi slta efei zjin hmkw fhku gmch	0
+其他非金属矿物制品	tqi slta efei zjin hmkw fhku wywu wuzz kkkp	0
+其他粉末冶金	tqi slta oizf xmo njky zjin	0
+其他钢坯	tqi slta zurg biqp	0
+其他管材	tqi slta tpig xqlm	1
+其他黑色金属矿产	tqi slta vhei awse zjin hmkw fhku gmch	0
+其他建筑钢材	tqi slta fdgj tdxz zurg xqlm	0
+其他金属丝	tqi slta zjin hmkw usi	0
+其他金属网	tqi slta zjin hmkw urrw	0
+其他矿山施工设备	tqi slta fhku isha ltls dgon lxfs fbbe	0
+其他炉料	tqi slta vplu onpl	0
+其他轻有色金属	tqi slta gcdq fmyo awse zjin hmkw	0
+其他涂镀产品	tqi slta csxt zhrf gmch kkkp	0
+其他型材	tqi slta qrzb xqlm	0
+其他选矿设备	tqi slta whgx fhku lxfs fbbe	0
+其他冶炼设备	tqi slta njky vudi lxfs fbbe	0
+其他有色金属合金	tqi slta fmyo awse zjin hmkw skge zjin	0
+其他有色金属加工材	tqi slta fmyo awse zjin hmkw okji dgon xqlm	0
+其他有色金属矿产	tqi slta fmyo awse zjin hmkw fhku gmch	0
+其他优特钢	tqi slta swyo wbft zurg	0
+其他重有色金属	tqi slta lnwc fmyo awse zjin hmkw	0
+其他铸造及热处理设备	tqi slta zemf wkgz lvji dovr fvch fywl lxfs fbbe	0
+铅及铅锭	zxkq lvji zxkq zpqg	0
+切断设备	uzqi odxd lxfs fbbe	0
+轻有色金属	gcdq fmyo awse zjin hmkw	0
+轻有色金属矿产	gcdq fmyo awse zjin hmkw fhku gmch	0
+燃气管道	vmwv nqi tpig gjgd	30
+热轧板卷	dovr gdya xhfb gsjj	0
+容器板	pskr kkwk xhfb	0
+筛分设备	tiqy izfe lxfs fbbe	0
+石墨及碳素产品	fdan vbmo lvji fifv rusu gmch kkkp	0
+水力选矿设备	cshu oli whgx fhku lxfs fbbe	0
+酸洗板卷	eqjf cwhx xhfb gsjj	0
+碳结钢	fifv ubkj zurg	0
+铜及铜锭	zukt lvji zukt zpqg	0
+铜丝网	zukt usi urrw	0
+涂镀产品	csxt zhrf gmch kkkp	0
+无缝管	whmo ufeg tpig	1
+锡及锡锭	znyx lvji znyx zpqg	0
+稀有金属合金	orfy fmyo zjin hmkw skge zjin	0
+稀有金属矿产	orfy fmyo zjin hmkw fhku gmch	0
+稀有色金属	orfy fmyo awse zjin hmkw	0
+相关服务	xjxi gsgu mjff fowu	0
+锌及锌锭	zgpx lvji zgpx zpqg	0
+冶金设备	njky zjin lxfs fbbe	6
+冶金项目合作	njky zjin dfax jmu skge stlw	0
+冶炼成套设备	njky vudi z suta lxfs fbbe	0
+冶炼加工	njky vudi okji dgon	4
+异型钢	jryi qrzb zurg	0
+永奇昱祥	vdcy sokj ngyu vwxi	0
+有色金属板材	fmyo awse zjin hmkw xhfb xqlm	0
+有色金属棒材	fmyo awse zjin hmkw xesd xqlm	0
+有色金属带材	fmyo awse zjin hmkw rluy xqlm	0
+有色金属管材	fmyo awse zjin hmkw tpig xqlm	0
+有色金属合金	fmyo awse zjin hmkw skge zjin	0
+有色金属及加工材	fmyo awse zjin hmkw lvji okji dgon xqlm	0
+有色金属加工材	fmyo awse zjin hmkw okji dgon xqlm	0
+有色金属矿产	fmyo awse zjin hmkw fhku gmch	1
+有色金属线材	fmyo awse zjin hmkw uzxi xqlm	0
+优特钢	swyo wbft zurg	0
+优质线材	swyo hpaz uzxi xqlm	0
+造船板	wkgz gxkc xhfb	0
+凿岩机械	rgpi ifya xxji xzrx	0
+轧钢设备	gdya zurg lxfs fbbe	0
+蛭石	eqjb fdan	180
+中频电源	k ggfa nddi chci	0
+重有色金属	lnwc fmyo awse zjin hmkw	0
+重有色金属矿产	lnwc fmyo awse zjin hmkw fhku gmch	0
+铸造及热处理设备	zemf wkgz lvji dovr fvch fywl lxfs fbbe	0
+铸造设备	zemf wkgz lxfs fbbe	1
+钻采设备	zvkz exca lxfs fbbe	0
+白灵菇	cbai fvli ramg	1
+鳖类	yfqb osle	4
+饼干糕点	ogrb ygan owvg vkvd	2
+炒货类	vich shah osle	0
+冲饮品	nklc osyi kkkp	1
+炊事设备	vsch kfls lxfs fbbe	0
+粗加工水产品	otcu okji dgon cshu gmch kkkp	0
+豆荚类	odou rsgj osle	4
+二手食品机械	wer dsho oshi kkkp xxji xzrx	0
+改善记忆	jfga wgks ljji jdyi	0
+改善视力	jfga wgks vuhs oli	35
+改善胃肠	jfga wgks bmwe mdmm	3
+干果类	ygan nxgu osle	20
+柑桔	xrwg xbkj	34
+干制水产品	ygan wuzz cshu gmch kkkp	0
+瓜果类	ogua nxgu osle	8
+罐头食品加工设备	orke jtou oshi kkkp okji dgon lxfs fbbe	0
+果冻类	nxgu nuid osle	1
+果露酒	nxgu ngfk ceqj	1
+果蔬加工设备	nxgu rdgc okji dgon lxfs fbbe	0
+护色剂	dphu awse lizj	2
+花菜类	rshh rexc osle	4
+灰树花	fvhu xffs rshh	1
+即冲汤料	fjjj nklc cdmm onpl	0
+简加工类	tpnj okji dgon osle	0
+酒及饮料生产设备	ceqj lvji osyi onpl hshe gmch lxfs fbbe	0
+库存食品	hgku flhc oshi kkkp	1
+块茎类	bisk rcdj osle	14
+冷冻粗加工水产品	nmvl nuid otcu okji dgon cshu gmch kkkp	0
+冷冻食品加工设备	nmvl nuid oshi kkkp okji dgon lxfs fbbe	0
+冷冻蔬菜	nmvl nuid rdgc rexc	12
+麦类	rfma osle	25
+蜜饯类	pjme ozji osle	6
+米面类	omi lemi osle	8
+蜜制品	pjme wuzz kkkp	0
+免疫抗疲劳	akhm hxfy dlxk hupi ruol	0
+农牧渔类	uyno wfmu cqyu osle	0
+其他保健食品	tqi slta skxb sfdg oshi kkkp	0
+其他茶叶	tqi slta rsxc kpxi	0
+其他冲饮品	tqi slta nklc osyi kkkp	0
+其他粗加工水产品	tqi slta otcu okji dgon cshu gmch kkkp	0
+其他方便食品	tqi slta lfan sqnr oshi kkkp	0
+其他罐头食品	tqi slta orke jtou oshi kkkp	1
+其他酒类	tqi slta ceqj osle	24
+其他粮食	tqi slta ovfy oshi	0
+其他米面类	tqi slta omi lemi osle	0
+其他禽类	tqi slta sliw osle	0
+其他肉类	tqi slta ussr osle	0
+其他肉制品	tqi slta ussr wuzz kkkp	0
+其他软饮料	tqi slta gsru osyi onpl	1
+其他生鲜水果	tqi slta hshe qwxi cshu nxgu	0
+其他食品添加剂	tqi slta oshi kkkp cnjt okji lizj	1
+其他食用菌	tqi slta oshi oyon rkoj	0
+其他食用油	tqi slta oshi oyon cbyo	5
+其他蔬菜制品	tqi slta rdgc rexc wuzz kkkp	0
+其他糖类	tqi slta ohfk osle	3
+其他鲜活水产品	tqi slta qwxi clkh cshu gmch kkkp	0
+其他新鲜蔬菜	tqi slta gxxx qwxi rdgc rexc	1
+其他休闲食品	tqi slta sxxi pxxi oshi kkkp	0
+肉干肉脯	ussr ygan ussr mbfu	0
+肉制品加工设备	ussr wuzz kkkp okji dgon lxfs fbbe	0
+乳制品加工设备	ehdr wuzz kkkp okji dgon lxfs fbbe	1
+深加工类	cuix okji dgon osle	0
+生鲜水果	hshe qwxi cshu nxgu	23
+食品储运设备	oshi kkkp slhn ngyu lxfs fbbe	0
+食品烘焙设备	oshi kkkp vrih vgkb lxfs fbbe	0
+食品饮料代理	oshi kkkp osyi onpl suda fywl	0
+食品饮料加工	oshi kkkp osyi onpl okji dgon	1
+食品饮料项目合作	oshi kkkp osyi onpl dfax jmu skge stlw	0
+食用菌罐头	oshi oyon rkoj orke jtou	0
+蔬菜罐头	rdgc rexc orke jtou	4
+水产罐头	cshu gmch orke jtou	0
+水生菜类	cshu hshe rexc osle	0
+速冻面点	xkgs nuid lemi vkvd	0
+速溶茶	xkgs cpsk rsxc	3
+碳酸饮料	fifv eqjf osyi onpl	439
+调味品加工设备	lubk kxwe kkkp okji dgon lxfs fbbe	0
+鲜活水产品	qwxi clkh cshu gmch kkkp	0
+蟹类	aoze osle	14
+休闲食品	sxxi pxxi oshi kkkp	102
+休闲食品加工设备	sxxi pxxi oshi kkkp okji dgon lxfs fbbe	0
+腌制水产品	msnd wuzz cshu gmch kkkp	0
+养肾	wviy jfms	71
+野生菜类	ywfy hshe rexc osle	0
+饮料加工设备	osyi onpl okji dgon lxfs fbbe	0
+营养饮品	rukk wviy osyi kkkp	2
+鱼干鱼丝	qyu ygan qyu usi	0
+竹笋类	tzhu tfsu osle	1
+安全仪器	paan sfqu svry kkwk	0
+百分表	fnba izfe rybi	1
+包装件试验机	ajba tbyz swji luds wsya xxji	0
+玻璃温度计	fubo fliw cnow hrfd lpji	0
+测厚仪	cazc hnhh svry	4
+测力仪表	cazc oli svry rybi	0
+车用仪表	gche oyon svry rybi	0
+冲击试验机	nklc diji luds wsya xxji	0
+船用仪器仪表	gxkc oyon svry kkwk svry rybi	0
+地上衡	b v gqsg	0
+地震仪器	b nnzh svry kkwk	2
+电磁学计量标准器具	nddi fguu iuhx lpji nywl xvbi nezh kkwk tiju	0
+电导仪器	nddi jfda svry kkwk	0
+电动单元组合仪表	nddi nodo ioch qhyu utzu skge svry rybi	0
+电工仪器仪表	nddi dgon svry kkwk svry rybi	2
+电离辐射计量标准器具	nddi liwl gkbf jfsh lpji nywl xvbi nezh kkwk tiju	0
+电流测量仪表	nddi cljc cazc nywl svry rybi	0
+电能仪表	nddi j svry rybi	0
+电位差计	nddi sgwe wdch lpji	0
+电压测量仪表	nddi hbvy cazc nywl svry rybi	0
+电阻测量仪表	nddi itzu cazc nywl svry rybi	0
+吊秤	kydi oyic	0
+定量秤	pqgd nywl oyic	0
+定硫仪	pqgd fljc svry	0
+二手仪器仪表	wer dsho svry kkwk svry rybi	0
+纺织用仪器	ulfa ukiz oyon svry kkwk	0
+非接触式温度计	efei dgaj aoec udsh cnow hrfd lpji	0
+非金属材料试验机	efei zjin hmkw xqlm onpl luds wsya xxji	0
+腐蚀试验箱	hsfs oesh luds wsya txjx	0
+功率测量仪表	dogo lucp cazc nywl svry rybi	0
+工业计时器	dgon rye lpji nfsh kkwk	0
+工艺试验机	dgon rdyi luds wsya xxji	0
+光学计量标准器具	ihgu iuhx lpji nywl xvbi nezh kkwk tiju	0
+轨道衡	gogu gjgd gqsg	1
+恒温试验设备	jqnh cnow luds wsya lxfs fbbe	0
+化工仪表	shhu dgon svry rybi	1
+化学计量标准器具	shhu iuhx lpji nywl xvbi nezh kkwk tiju	0
+基地式仪表	tbji b udsh svry rybi	0
+激光器件	cclf ihgu kkwk swji	3
+计价秤	lpji ssij oyic	0
+计量标准器具	lpji nywl xvbi nezh kkwk tiju	0
+机械量仪表	xxji xzrx nywl svry rybi	0
+集中控制装置	exji k dpdk wuzz tbyz optz	0
+控制调节仪表	dpdk wuzz lubk rjji svry rybi	0
+拉力试验机	dgla oli luds wsya xxji	0
+沥青试验仪器	chol rmqi luds wsya svry kkwk	0
+力学计量标准器具	oli iuhx lpji nywl xvbi nezh kkwk tiju	0
+力与变形检测仪	oli wdyu lvfb qrux xsji cazc svry	0
+量热仪	nywl dovr svry	1
+量仪	nywl svry	0
+流量变送器	cljc nywl lvfb gsgs kkwk	0
+流量仪表	cljc nywl svry rybi	1
+粘度计	ovkn hrfd lpji	0
+扭转试验机	ddbn guzh luds wsya xxji	0
+配料秤	eqjp onpl oyic	0
+皮带秤	upi rluy oyic	0
+疲劳试验机	hupi ruol luds wsya xxji	8
+频率测量仪表	ggfa lucp cazc nywl svry rybi	0
+汽车试验设备	cnqi gche luds wsya lxfs fbbe	0
+气动单元组合仪表	nqi nodo ioch qhyu utzu skge svry rybi	0
+气动量仪	nqi nodo nywl svry	0
+其他电工仪器仪表	tqi slta nddi dgon svry kkwk svry rybi	0
+其他分析仪器	tqi slta izfe xxxi svry kkwk	0
+其他光学仪器	tqi slta ihgu iuhx svry kkwk	1
+其他计量标准器具	tqi slta lpji nywl xvbi nezh kkwk tiju	0
+其他机械量仪表	tqi slta xxji xzrx nywl svry rybi	0
+其他量具	tqi slta nywl tiju	0
+其他量仪	tqi slta nywl svry	0
+其他流量仪表	tqi slta cljc nywl svry rybi	0
+其他试验机	tqi slta luds wsya xxji	0
+其他实验仪器装置	tqi slta pjsh wsya svry kkwk tbyz optz	0
+其他未分类	tqi slta xwei izfe osle	0
+其他压力仪表	tqi slta hbvy oli svry rybi	0
+其他仪器仪表配附件	tqi slta svry kkwk svry rybi eqjp isff swji	0
+其他专用仪器仪表	tqi slta uzhu oyon svry kkwk svry rybi	0
+气象仪器	nqi akwx svry kkwk	1
+千分表	lqia izfe rybi	1
+钳型表	zrwq qrzb rybi	0
+强度试验机	xkej hrfd luds wsya xxji	0
+热量计	dovr nywl lpji	1
+热学计量标准器具	dovr iuhx lpji nywl xvbi nezh kkwk tiju	0
+三坐标测量机	esan ssbz xvbi cazc nywl xxji	3
+色差计	awse wdch lpji	1
+时间频率计量标准器具	nfsh pnji ggfa lucp lpji nywl xvbi nezh kkwk tiju	0
+实验仪器装置	pjsh wsya svry kkwk tbyz optz	0
+双金属温度计	ffsh zjin hmkw cnow hrfd lpji	0
+水分计	cshu izfe lpji	0
+水文仪器	cshu lwen svry kkwk	0
+水质分析仪	cshu hpaz izfe xxxi svry	0
+速度测量仪表	xkgs hrfd cazc nywl svry rybi	0
+天平仪器	ntia yipi svry kkwk	0
+通讯检测仪器	jogt ldpx xsji cazc svry kkwk	0
+万能试验机	lmo j luds wsya xxji	0
+弯曲试验机	lvxw krqu luds wsya xxji	0
+温度变送器	cnow hrfd lvfb gsgs kkwk	0
+温度校验仪表	cnow hrfd xyrj wsya svry rybi	0
+温度控制调节器	cnow hrfd dpdk wuzz lubk rjji kkwk	0
+温度仪表	cnow hrfd svry rybi	1
+无损检测仪器	whmo dkas xsji cazc svry kkwk	1
+物位仪表	wywu sgwe svry rybi	1
+显示仪表	nrxi vshi svry rybi	3
+压力校验仪表	hbvy oli xyrj wsya svry rybi	0
+压力式温度计	hbvy oli udsh cnow hrfd lpji	0
+压力试验机	hbvy oli luds wsya xxji	0
+压力仪表	hbvy oli svry rybi	0
+仪表盒	svry rybi skoh	0
+仪表壳体	svry rybi buxk sxti	0
+仪器仪表配附件	svry kkwk svry rybi eqjp isff swji	0
+仪用电源	svry oyon nddi chci	0
+圆度仪	kkay hrfd svry	0
+造纸检测仪器	wkgz uhuz xsji cazc svry kkwk	0
+折射仪	dxsh jfsh svry	1
+真空测量仪器	ptiz pdko cazc nywl svry kkwk	0
+专用仪器仪表	uzhu oyon svry kkwk svry rybi	0
+浊度计	cezh hrfd lpji	0
+自动化成套控制系统	jzi nodo shhu z suta dpdk wuzz muji uljh	0
+保龄球用品	skxb jmvl fqcv oyon kkkp	0
+蹦极用品	gimm xlvj oyon kkkp	0
+宾馆服务	piib opig mjff fowu	0
+宾馆酒店用品	piib opig ceqj hvkd oyon kkkp	0
+裁判教练用具	pzyc idzp hhfj uudi oyon tiju	0
+餐饮设备	vnfo osyi lxfs fbbe	1
+场地铺设器材	bdmm b zbpu lxfs kkwk xqlm	0
+充气沙发	ljhc nqi cish dfvf	13
+宠物服装	pwmc wywu mjff tbyz	2
+宠物链圈	pwmc wywu zggl kgsj	0
+宠物清洁用品	pwmc wywu crmq cbkj oyon kkkp	0
+宠物食具	pwmc wywu oshi tiju	0
+宠物玩具	pwmc wywu fqhw tiju	13
+宠物窝	pwmc wywu pkus	3
+垂钓用品	lrwc zavd oyon kkkp	0
+吹奏类乐器	ksch esnz osle hile kkwk	9
+打击类乐器	doda diji osle hile kkwk	2
+大型游艺机	sda qrzb clth rdyi xxji	0
+电动滑板车	nddi nodo cjhu xhfb gche	15
+钓鱼帽	zavd qyu ynjm	0
+多功能鞋	nndu dogo j ubbx	0
+二手体育休闲设施	wer dsho sxti ljmy sxxi pxxi lxfs ltls	0
+二手通用零部件	wer dsho jogt oyon nmvl gkib swji	0
+飞行鞋	efei ggha ubbx	1
+橄榄球帽	xdjf xjth fqcv ynjm	0
+橄榄球用品	xdjf xjth fqcv oyon kkkp	0
+高尔夫练习器具	pukg aier wsfu uudi dnxi kkwk tiju	0
+高尔夫球车	pukg aier wsfu fqcv gche	5
+高尔夫球袋	pukg aier wsfu fqcv suyd	0
+高尔夫球钉	pukg aier wsfu fqcv zodi	0
+高尔夫球杆	pukg aier wsfu fqcv xyga	140
+高尔夫球帽	pukg aier wsfu fqcv ynjm	0
+高尔夫鞋	pukg aier wsfu ubbx	0
+高尔夫用品	pukg aier wsfu oyon kkkp	13
+高尔夫组合球具	pukg aier wsfu utzu skge fqcv tiju	0
+护踝	dphu gnxh	50
+护头	dphu jtou	57
+户外运动服装	phu nvwa ngyu nodo mjff tbyz	3
+滑板车配件	cjhu xhfb gche eqjp swji	0
+滑雪固定器	cjhu nfxu kmgu pqgd kkwk	0
+滑雪靴	cjhu nfxu ushx	4
+滑雪用品	cjhu nfxu oyon kkkp	4
+计时记分用具	lpji nfsh ljji izfe oyon tiju	0
+极限运动用品	xlvj ifyx ngyu nodo oyon kkkp	0
+健腹器	sfdg mtnf kkwk	0
+键盘类乐器	zfdg gopa osle hile kkwk	30
+健身路径	sfdg jshe gfkl gcdj	1
+脚踏滑板车	mbjj gcnt cjhu xhfb gche	0
+酒店茶几	ceqj hvkd rsxc xji	0
+酒店成套家具	ceqj hvkd z suta pwji tiju	0
+酒店床头柜	ceqj hvkd hxch jtou xiig	0
+酒店大堂用品	ceqj hvkd sda ibta oyon kkkp	0
+酒店电视柜	ceqj hvkd nddi vuhs xiig	0
+酒店客房床	ceqj hvkd pfkk plfa hxch	0
+酒店客房用品	ceqj hvkd pfkk plfa oyon kkkp	1
+酒店沙发	ceqj hvkd cish dfvf	0
+酒店梳妆台	ceqj hvkd xljc tazh jkta	0
+酒店行李柜	ceqj hvkd ggha xhli xiig	0
+酒店椅	ceqj hvkd xsok	0
+酒店桌	ceqj hvkd vnxz	0
+举重用品	iqid lnwc oyon kkkp	0
+空中运动用品	pdko k ngyu nodo oyon kkkp	0
+库存体育运动产品	hgku flhc sxti ljmy ngyu nodo gmch kkkp	0
+库存娱乐休闲产品	hgku flhc akny hile sxxi pxxi gmch kkkp	0
+拉弦类乐器	dgla xlux osle hile kkwk	3
+篮球用品	tjto fqcv oyon kkkp	0
+垒球用品	jjjb fqcv oyon kkkp	0
+练功鞋	uudi dogo ubbx	0
+马术用具	wma xvsh oyon tiju	0
+排球用品	depa fqcv oyon kkkp	0
+攀岩用品	xrrd ifya oyon kkkp	0
+漂流用品	cevp cljc oyon kkkp	0
+票务服务	evpi fowu mjff fowu	2
+乒乓球用品	impi ivpa fqcv oyon kkkp	0
+汽动滑板车	cnqi nodo cjhu xhfb gche	0
+棋牌桌	xtqi tclp vnxz	5
+其他宠物用品	tqi slta pwmc wywu oyon kkkp	1
+其他高尔夫用品	tqi slta pukg aier wsfu oyon kkkp	0
+其他户外用品	tqi slta phu nvwa oyon kkkp	0
+其他滑板车	tqi slta cjhu xhfb gche	0
+其他极限运动用品	tqi slta xlvj ifyx ngyu nodo oyon kkkp	0
+其他健身器材	tqi slta sfdg jshe kkwk xqlm	19
+其他酒店家具	tqi slta ceqj hvkd pwji tiju	0
+其他溜冰	tqi slta chvb ncbi	0
+其他棋牌	tqi slta xtqi tclp	0
+其他烧烤用具	tqi slta vumh vhkk oyon tiju	0
+其他体育运动配套产品	tqi slta sxti ljmy ngyu nodo eqjp suta gmch kkkp	0
+其他休闲家具	tqi slta sxxi pxxi pwji tiju	0
+其他游艺设施	tqi slta clth rdyi lxfs ltls	0
+其他运动服装	tqi slta ngyu nodo mjff tbyz	0
+其他运动护具	tqi slta ngyu nodo dphu tiju	0
+其他运动帽	tqi slta ngyu nodo ynjm	0
+其他运动鞋	tqi slta ngyu nodo ubbx	0
+潜水用品	cwsn cshu oyon kkkp	0
+球裤	fqcv yhgk	27
+球类打气筒	fqcv osle doda nqi tukt	0
+拳击器械	gsdq diji kkwk xzrx	0
+赛车帽	pria gche ynjm	0
+沙狐球用品	cish wohu fqcv oyon kkkp	0
+沙滩席	cish cfet hryx	0
+烧烤叉	vumh vhkk fvch	1
+烧烤网	vumh vhkk urrw	1
+烧烤用具	vumh vhkk oyon tiju	1
+射箭用品	jfsh tgmz oyon kkkp	2
+室内健身服装	pqjb usne sfdg jshe mjff tbyz	0
+手球用品	dsho fqcv oyon kkkp	0
+水上游艺设施	cshu v clth rdyi lxfs ltls	0
+水上运动用品	cshu v ngyu nodo oyon kkkp	0
+水族器材	cshu lttz kkwk xqlm	0
+台球用品	jkta fqcv oyon kkkp	0
+弹拨类乐器	xiod ddfv osle hile kkwk	8
+体操用品	sxti dkkx oyon kkkp	0
+体育运动产品代理	sxti ljmy ngyu nodo gmch kkkp suda fywl	0
+体育运动产品加工	sxti ljmy ngyu nodo gmch kkkp okji dgon	0
+体育运动配套产品	sxti ljmy ngyu nodo eqjp suta gmch kkkp	0
+体育运动项目合作	sxti ljmy ngyu nodo dfax jmu skge stlw	0
+田径用品	btia gcdj oyon kkkp	0
+跳床	ghct hxch	3
+网球用品	urrw fqcv oyon kkkp	2
+网羽运动鞋	urrw uyu ngyu nodo ubbx	0
+武术用品	qugw xvsh oyon kkkp	0
+戏剧用品	fzxi hmzj oyon kkkp	0
+休闲家具	sxxi pxxi pwji tiju	3
+野营灯	ywfy rukk vode	0
+游戏棋	clth fzxi xtqi	4
+游艺设施	clth rdyi lxfs ltls	5
+娱乐休闲产品代理	akny hile sxxi pxxi gmch kkkp suda fywl	0
+娱乐休闲产品加工	akny hile sxxi pxxi gmch kkkp okji dgon	0
+娱乐休闲项目合作	akny hile sxxi pxxi dfax jmu skge stlw	0
+娱乐休闲用品	akny hile sxxi pxxi oyon kkkp	0
+羽毛球用品	uyu umao fqcv oyon kkkp	2
+乐器配件	hile kkwk eqjp swji	0
+运动测试仪器	ngyu nodo cazc luds svry kkwk	0
+运动垫子	ngyu nodo dobd hzi	0
+运动服饰	ngyu nodo mjff otys	27
+运动护具	ngyu nodo dphu tiju	12
+折叠床行军床	dxsh ffft hxch ggha ugju hxch	0
+中式武术服装	k udsh qugw xvsh mjff tbyz	0
+自行车帽	jzi ggha gche ynjm	0
+组合滑梯	utzu skge cjhu xixm	0
+组合健身器械	utzu skge sfdg jshe kkwk xzrx	0
+组合烤具	utzu skge vhkk tiju	0
+组合运动护具	utzu skge ngyu nodo dphu tiju	0
+足球用品	gzu fqcv oyon kkkp	1
+足浴设备	gzu cisk lxfs fbbe	0
+补偿装置	yvbu siun tbyz optz	1
+柴油发电机组	ghxc cbyo dfvf nddi xxji utzu	5
+车用润滑油	gche oyon cpfr cjhu cbyo	1
+灯用煤油	vode oyon vrwx cbyo	1
+电池组配件	nddi clch utzu eqjp swji	0
+电源变压器	nddi chci lvfb hbvy kkwk	3
+电源柜	nddi chci xiig	2
+发电机组零部件	dfvf nddi xxji utzu nmvl gkib swji	0
+风力发电机组	xrfe oli dfvf nddi xxji utzu	5
+风能设备	xrfe j lxfs fbbe	2
+工业润滑油	dgon rye cpfr cjhu cbyo	2
+恒压变压器	jqnh hbvy lvfb hbvy kkwk	0
+节电设备	rjji nddi lxfs fbbe	0
+节水设备	rjji cshu lxfs fbbe	0
+节油设备	rjji cbyo lxfs fbbe	0
+炼化设备	vudi shhu lxfs fbbe	2
+脉冲变压器	mvdc nklc lvfb hbvy kkwk	0
+煤制品	vrwx wuzz kkkp	0
+能源产品代理	j chci gmch kkkp suda fywl	0
+能源产品加工	j chci gmch kkkp okji dgon	0
+能源项目合作	j chci dfax jmu skge stlw	0
+耦合变压器	onwo skge lvfb hbvy kkwk	0
+配电屏	eqjp nddi hgrb	1
+配电器	eqjp nddi kkwk	0
+配电输电设备	eqjp nddi gsmz nddi lxfs fbbe	0
+其他变压器	tqi slta lvfb hbvy kkwk	0
+其他电池	tqi slta nddi clch	0
+其他发电机	tqi slta dfvf nddi xxji	0
+其他节能设备	tqi slta rjji j lxfs fbbe	0
+其他煤制品	tqi slta vrwx wuzz kkkp	0
+其他配电输电设备	tqi slta eqjp nddi gsmz nddi lxfs fbbe	0
+其他润滑油脂	tqi slta cpfr cjhu cbyo mhnz	0
+其他石油加工设备	tqi slta fdan cbyo okji dgon lxfs fbbe	0
+其他石油燃料	tqi slta fdan cbyo vmwv onpl	0
+其他太阳能设备	tqi slta svta inya j lxfs fbbe	0
+其他添加剂	tqi slta cnjt okji lizj	21
+其他原煤	tqi slta hciy vrwx	0
+汽油发电机组	cnqi cbyo dfvf nddi xxji utzu	0
+燃料油添加剂	vmwv onpl cbyo cnjt okji lizj	0
+燃煤发电机组	vmwv vrwx dfvf nddi xxji utzu	2
+燃气发电机组	vmwv nqi dfvf nddi xxji utzu	2
+燃气设备	vmwv nqi lxfs fbbe	0
+润滑油添加剂	cpfr cjhu cbyo cnjt okji lizj	1
+石油产品添加剂	fdan cbyo gmch kkkp cnjt okji lizj	0
+石油和天然气	fdan cbyo o ntia mwvr nqi	82
+石油加工设备	fdan cbyo okji dgon lxfs fbbe	0
+石油蜡	fdan cbyo ernl	0
+石油燃料	fdan cbyo vmwv onpl	2
+水力发电机组	cshu oli dfvf nddi xxji utzu	0
+太阳能发电机组	svta inya j dfvf nddi xxji utzu	1
+太阳能设备	svta inya j lxfs fbbe	9
+网络变压器	urrw ufkl lvfb hbvy kkwk	1
+异步发电机	jryi ggbu dfvf nddi xxji	0
+音频变压器	gnyi ggfa lvfb hbvy kkwk	0
+沼气设备	czkz nqi lxfs fbbe	0
+自耦变压器	jzi onwo lvfb hbvy kkwk	1
+曝气设备	nnrc nqi lxfs fbbe	1
+滗水器	ctub cshu kkwk	0
+超声波清洗设备	gzkc bhls cubo crmq cwhx lxfs fbbe	0
+除氧设备	isxc nwya lxfs fbbe	0
+道路清扫车	gjgd gfkl crmq dfsa gche	1
+电渗析设备	nddi cjsu xxxi lxfs fbbe	0
+二手环保设备	wer dsho fihu skxb lxfs fbbe	0
+反渗透设备	hffa cjsu olgt lxfs fbbe	1
+芳香除臭化学品	rlfa onxi isxc jwch shhu iuhx kkkp	0
+纺织废料	ulfa ukiz hdfv onpl	0
+废布	hdfv fybu	5
+废催化剂	hdfv siec shhu lizj	1
+废电子电器	hdfv nddi hzi nddi kkwk	0
+废海绵	hdfv ctah ucym	0
+废化纤	hdfv shhu ulqi	0
+废料回收	hdfv onpl khui dlfs	15
+废麻	hdfv hxma	0
+废毛绒	hdfv umao uzfr	0
+废尼龙	hdfv hhni wmlo	0
+废气处理成套设备	hdfv nqi fvch fywl z suta lxfs fbbe	0
+废气吸附装置	hdfv nqi klvx isff tbyz optz	0
+风幕机	xrfe rnsy xxji	0
+风叶	xrfe kpxi	71
+高纯水制取设备	pukg urch cshu wuzz jfqu lxfs fbbe	0
+高压水流清洗机	pukg hbvy cshu cljc crmq cwhx xxji	0
+公共环卫设施	ijgo rigo fihu jqwe lxfs ltls	0
+供水设备	srig cshu lxfs fbbe	7
+工业风扇	dgon rye xrfe push	16
+工业吸尘设备	dgon rye klvx ibch lxfs fbbe	0
+工业噪声控制设备	dgon rye kkkx bhls dpdk wuzz lxfs fbbe	0
+贵金属盐废料	klqa zjin hmkw bvoy hdfv onpl	0
+过滤材料	fggu cwjl xqlm onpl	8
+海水淡化设备	ctah cshu cvvd shhu lxfs fbbe	5
+化工废料	shhu dgon hdfv onpl	3
+环保厕所	fihu skxb hazc hixs	0
+环保设备代理	fihu skxb lxfs fbbe suda fywl	0
+环保设备加工	fihu skxb lxfs fbbe okji dgon	0
+环保项目合作	fihu skxb dfax jmu skge stlw	0
+环保用品	fihu skxb oyon kkkp	1
+环卫垃圾桶	fihu jqwe bgla blvj xjot	0
+家用净水器	pwji oyon nafl cshu kkwk	8
+净水絮凝剂	nafl cshu akux nhtg lizj	0
+空气处理化学品	pdko nqi fvch fywl shhu iuhx kkkp	0
+空气净化装置	pdko nqi nafl shhu tbyz optz	13
+垃圾处理机	bgla blvj fvch fywl xxji	7
+离子风机	liwl hzi xrfe xxji	0
+离子交换设备	liwl hzi yrji daus lxfs fbbe	1
+滤板	cwjl xhfb	2
+滤片	cwjl tpia	10
+滤油机	cwjl cbyo xxji	0
+美废	wsme hdfv	2
+欧废	irso hdfv	0
+排风设备	depa xrfe lxfs fbbe	1
+排风设备配件	depa xrfe lxfs fbbe eqjp swji	0
+抛丸清理机	doop owan crmq fywl xxji	0
+喷洒车	kpra cesa gche	1
+皮革废料	upi uge hdfv onpl	0
+汽车滤清器	cnqi gche cwjl crmq kkwk	0
+汽车消声器	cnqi gche cimx bhls kkwk	0
+气浮设备	nqi cehf lxfs fbbe	0
+其他纺织废料	tqi slta ulfa ukiz hdfv onpl	0
+其他废纸	tqi slta hdfv uhuz	0
+其他风机	tqi slta xrfe xxji	0
+其他公共环卫设施	tqi slta ijgo rigo fihu jqwe lxfs ltls	0
+其他过滤材料	tqi slta fggu cwjl xqlm onpl	0
+其他过滤设备	tqi slta fggu cwjl lxfs fbbe	0
+其他化工废料	tqi slta shhu dgon hdfv onpl	0
+其他空气处理化学品	tqi slta pdko nqi fvch fywl shhu iuhx kkkp	0
+其他空气净化装置	tqi slta pdko nqi nafl shhu tbyz optz	0
+其他皮革废料	tqi slta upi uge hdfv onpl	0
+其他清洗	tqi slta crmq cwhx	0
+其他水处理化学品	tqi slta cshu fvch fywl shhu iuhx kkkp	0
+其他污水处理设备	tqi slta cqkw cshu fvch fywl lxfs fbbe	0
+其他消音降噪设备	tqi slta cimx gnyi ifgj kkkx lxfs fbbe	0
+其他原水处理设备	tqi slta hciy cshu fvch fywl lxfs fbbe	0
+清理设备	crmq fywl lxfs fbbe	2
+人造皮革废料	sren wkgz upi uge hdfv onpl	0
+日废	nri hdfv	0
+软化水设备	gsru shhu cshu lxfs fbbe	0
+杀菌灭藻剂	rxsh rkoj qvmi rckx lizj	0
+生活饮用水处理设备	hshe clkh osyi oyon cshu fvch fywl lxfs fbbe	0
+水处理化学品	cshu fvch fywl shhu iuhx kkkp	0
+水杀菌消毒设备	cshu rxsh rkoj cimx radu lxfs fbbe	0
+酸雾净化器	eqjf nfow nafl shhu kkwk	0
+脱硫除尘设备	mikh fljc isxc ibch lxfs fbbe	0
+尾气处理装置	huwe nqi fvch fywl tbyz optz	7
+污泥处理设备	cqkw chhn fvch fywl lxfs fbbe	0
+污水处理成套设备	cqkw cshu fvch fywl z suta lxfs fbbe	0
+污水处理设备	cqkw cshu fvch fywl lxfs fbbe	12
+消音降噪设备	cimx gnyi ifgj kkkx lxfs fbbe	0
+压滤设备	hbvy cwjl lxfs fbbe	0
+泳池水处理设备	cvdc clch cshu fvch fywl lxfs fbbe	0
+油水分离设备	cbyo cshu izfe liwl lxfs fbbe	0
+油烟净化设备	cbyo vksy nafl shhu lxfs fbbe	0
+原水处理设备	hciy cshu fvch fywl lxfs fbbe	0
+杂质泵	oxza hpaz fcbe	0
+真皮废料	ptiz upi hdfv onpl	0
+蒸汽清洗机	rhcv cnqi crmq cwhx xxji	1
+装修污染清除剂	tbyz slfu cqkw coxr crmq isxc lizj	0
+安全绳	paan sfqu uknd	127
+办公锁	oiba ijgo zias	0
+板岩	xhfb ifya	23
+报警器材及系统	djfb rakl kkwk xqlm lvji muji uljh	0
+杯架	xibe okxj	50
+铲土运输机械	zgmc btu ngyu gsmz xxji xzrx	0
+超市购物车	gzkc lysh aajg wywu gche	2
+厨卫设施	hofc jqwe lxfs ltls	3
+窗轨	pmkn gogu	0
+窗锁	pmkn zias	1
+炊具挂盘	vsch tiju dbbg gopa	0
+磁卡锁	fguu vvka zias	0
+瓷砖胶	nsoc fuzh myrj	35
+地板料	b xhfb onpl	0
+电梯及配件	nddi xixm lvji eqjp swji	0
+二手建材加工设备	wer dsho fdgj xqlm okji dgon lxfs fbbe	0
+法兰盘	cbjf gwla gopa	5
+阀片	pszf tpia	11
+阀芯	pszf rjxi	19
+防潮材料	ilfa cpnm xqlm onpl	2
+防护耳塞耳罩	ilfa dphu jer prib jer ovnz	0
+防护面罩面具	ilfa dphu lemi ovnz lemi tiju	0
+防护鞋	ilfa dphu ubbx	0
+防护眼镜眼罩	ilfa dphu jfyy zgnh jfyy ovnz	0
+肥皂架	mwfe cuza okxj	3
+复合窗	tnff skge pmkn	0
+钢筋和预应力机械	zurg tmoj o ffay hiqy oli xxji xzrx	0
+隔断与吊顶	ikul odxd wdyu kydi ofad	0
+格栅灯	xfkg xuuq vode	1
+工程机械配件	dgon okfc xxji xzrx eqjp swji	1
+工程与建筑机械	dgon okfc wdyu fdgj tdxz xxji xzrx	0
+工地施工材料	dgon b ltls dgon xqlm onpl	0
+挂镜线	dbbg zgnh uzxi	2
+管道辅助材料	tpig gjgd gbfu tozh xqlm onpl	0
+管件管材	tpig swji tpig xqlm	1
+焊接钢管	vnyh dgaj zurg tpig	2
+花洒及配件	rshh cesa lvji eqjp swji	0
+花洒软管	rshh cesa gsru tpig	2
+混凝土搅拌机械	cnhh nhtg btu diuh didb xxji xzrx	0
+混水阀	cnhh cshu pszf	14
+机械门锁	xxji xzrx pmen zias	1
+家具锁	pwji tiju zias	0
+建材机械及用具	fdgj xqlm xxji xzrx lvji oyon tiju	0
+建材加工	fdgj xqlm okji dgon	0
+建材类管材	fdgj xqlm osle tpig xqlm	0
+建材类管件	fdgj xqlm osle tpig swji	0
+建材生产加工机械	fdgj xqlm hshe gmch okji dgon xxji xzrx	0
+监控器材及系统	jtoj dpdk kkwk xqlm lvji muji uljh	0
+建筑玻璃	fdgj tdxz fubo fliw	4
+建筑门窗及五金	fdgj tdxz pmen pmkn lvji twu zjin	0
+建筑配套设施及其他	fdgj tdxz eqjp suta lxfs ltls lvji tqi slta	0
+建筑图纸	fdgj tdxz kfnt uhuz	20
+建筑项目合作	fdgj tdxz dfax jmu skge stlw	0
+建筑用粘合剂	fdgj tdxz oyon ovkn skge lizj	1
+建筑装潢工程承包	fdgj tdxz tbyz crbi dgon okfc hecc ajba	0
+匠作工具	ixji stlw dgon tiju	0
+金属窗	zjin hmkw pmkn	0
+金属建材	zjin hmkw fdgj xqlm	0
+金属胶	zjin hmkw myrj	0
+绝缘板	uawj uwwy xhfb	0
+绝缘带	uawj uwwy rluy	0
+绝缘垫片	uawj uwwy dobd tpia	0
+绝缘隔离柱	uawj uwwy ikul liwl xvfz	0
+绝缘套管	uawj uwwy suta tpig	0
+开门器	qrka pmen kkwk	1
+库存及相关服务	hgku flhc lvji xjxi gsgu mjff fowu	0
+库存建材	hgku flhc fdgj xqlm	0
+快开	jisk qrka	46
+冷热水系统	nmvl dovr cshu muji uljh	0
+楼梯及配件	xoal xixm lvji eqjp swji	0
+楼宇对讲设备	xoal pwly ffdu lwij lxfs fbbe	0
+楼宇设施	xoal pwly lxfs ltls	0
+路面机械	gfkl lemi xxji xzrx	0
+毛巾杆	umao yjin xyga	19
+门窗挂钩	pmen pmkn dbbg zajg	0
+门夹	pmen sgga	20
+门禁考勤器材及系统	pmen xvji hkka uwoq kkwk xqlm lvji muji uljh	0
+门碰	pmen fgrp	0
+门吸	pmen klvx	27
+面盆及配件	lemi izop lvji eqjp swji	0
+抹泥板	dxma chhn xhfb	0
+摩托车锁	hxdm dmut gche zias	0
+木工胶	xmu dgon myrj	14
+木工铣刀	xmu dgon zwhx zdao	0
+木工油漆	xmu dgon cbyo cxsc	0
+幕墙胶	rnsy bpgk myrj	0
+木质材料	xmu hpaz xqlm onpl	41
+木质片材	xmu hpaz tpia xqlm	0
+木质线材	xmu hpaz uzxi xqlm	0
+木质型材	xmu hpaz qrzb xqlm	0
+耐磨砖	lfna hxfm fuzh	3
+其他不动产	tqi slta i nodo gmch	8
+其他厨房设施	tqi slta hofc plfa lxfs ltls	0
+其他窗	tqi slta pmkn	0
+其他地板	tqi slta b xhfb	0
+其他工程承包	tqi slta dgon okfc hecc ajba	0
+其他工程与建筑机械	tqi slta dgon okfc wdyu fdgj tdxz xxji xzrx	0
+其他管道系统	tqi slta tpig gjgd muji uljh	0
+其他管件	tqi slta tpig swji	0
+其他建筑	tqi slta fdgj tdxz	0
+其他建筑玻璃	tqi slta fdgj tdxz fubo fliw	0
+其他建筑陶瓷	tqi slta fdgj tdxz iaot nsoc	0
+其他建筑涂料	tqi slta fdgj tdxz csxt onpl	0
+其他建筑用粘合剂	tqi slta fdgj tdxz oyon ovkn skge lizj	0
+其他匠作工具	tqi slta ixji stlw dgon tiju	0
+其他绝缘材料	tqi slta uawj uwwy xqlm onpl	0
+其他楼宇设施	tqi slta xoal pwly lxfs ltls	0
+其他门	tqi slta pmen	0
+其他门窗五金	tqi slta pmen pmkn twu zjin	0
+其他木质材料	tqi slta xmu hpaz xqlm onpl	0
+其他石材石料	tqi slta fdan xqlm fdan onpl	0
+其他室内照明灯具	tqi slta pqjb usne nzkv nmmi vode tiju	0
+其他水暖五金	tqi slta cshu newf twu zjin	0
+其他锁具	tqi slta zias tiju	0
+其他卫浴用五金件	tqi slta jqwe cisk oyon twu zjin swji	0
+其他装饰线板	tqi slta tbyz otys uzxi xhfb	0
+其他作业保护	tqi slta stlw rye skxb dphu	0
+墙纸胶	bpgk uhuz myrj	4
+燃气系统	vmwv nqi muji uljh	1
+三角阀	esan aoji pszf	5
+上水系统	v cshu muji uljh	0
+深加工玻璃	cuix okji dgon fubo fliw	0
+石材干挂胶	fdan xqlm ygan dbbg myrj	0
+石材加工	fdan xqlm okji dgon	3
+石材石料	fdan xqlm fdan onpl	0
+石材养护	fdan xqlm wviy dphu	0
+室内涂料	pqjb usne csxt onpl	0
+室内照明灯具	pqjb usne nzkv nmmi vode tiju	0
+室外涂料	pqjb nvwa csxt onpl	0
+市政和环境卫生机械	lysh gfzh o fihu bgnh jqwe hshe xxji xzrx	0
+手工刨	dsho dgon ajzb	1
+手纸架	dsho uhuz okxj	1
+水暖五金	cshu newf twu zjin	0
+水嘴	cshu kgho	0
+锁具配件	zias tiju eqjp swji	0
+陶瓷生产加工机械	iaot nsoc hshe gmch okji dgon xxji xzrx	0
+特种建材	wbft oklc fdgj xqlm	1
+筒灯	tukt vode	156
+卫浴用五金件	jqwe cisk oyon twu zjin swji	0
+污物桶	cqkw wywu xjot	2
+箱包锁	txjx ajba zias	0
+信报箱	slxi djfb txjx	0
+压实机械	hbvy pjsh xxji xzrx	2
+檐口线脚	xahl kkou uzxi mbjj	0
+羊眼	wyan jfyy	5
+营业房	rukk rye plfa	4
+油灰刀	cbyo fvhu zdao	2
+浴缸及配件	cisk odga lvji eqjp swji	0
+园林和高空作业机械	kqhy xlin o pukg pdko stlw rye xxji xzrx	0
+原片玻璃	hciy tpia fubo fliw	6
+砖瓦及砌块	fuzh owa lvji fuzq bisk	0
+桩工机械	xhbz dgon xxji xzrx	1
+装饰建材代理	tbyz otys fdgj xqlm suda fywl	0
+装饰线板	tbyz otys uzxi xhfb	0
+装修机械	tbyz slfu xxji xzrx	0
+装载机械	tbyz pzgz xxji xzrx	1
+座厕及配件	hssb hazc lvji eqjp swji	0
+作业保护	stlw rye skxb dphu	0
+保健品代理	skxb sfdg kkkp suda fywl	0
+保健项目合作	skxb sfdg dfax jmu skge stlw	0
+保健用品加工	skxb sfdg oyon kkkp okji dgon	0
+畜用药	lubc oyon ruav	0
+电子脉冲治疗仪	nddi hzi mvdc nklc cjkz hhli svry	2
+动物原药材	nodo wywu hciy ruav xqlm	0
+儿科用药	her onpk oyon ruav	1
+二手医疗设备	wer dsho ityi hhli lxfs fbbe	0
+二手制药设备	wer dsho wuzz ruav lxfs fbbe	0
+妇科用药	affu onpk oyon ruav	0
+骨及关节康复用品	jgu lvji gsgu rjji hfck tnff oyon kkkp	0
+骨伤科用药	jgu stos onpk oyon ruav	0
+护创材料	dphu sjzc xqlm onpl	0
+家用血糖仪	pwji oyon moxi ohfk svry	8
+家用血压计	pwji oyon moxi hbvy lpji	1
+减肥用品	nzkj mwfe oyon kkkp	0
+监护设备	jtoj dphu lxfs fbbe	6
+检验分析设备	xsji wsya izfe xxxi lxfs fbbe	0
+矫正设备	tmsi gzhe lxfs fbbe	2
+介入性材料	siji mvru jhxi xqlm onpl	0
+康复理疗设备	hfck tnff fywl hhli lxfs fbbe	0
+库存医药用品	hgku flhc ityi ruav oyon kkkp	0
+矿物原药材	fhku wywu hciy ruav xqlm	0
+酶酵素制剂	eqta eqhh rusu wuzz lizj	0
+内科用药	usne onpk oyon ruav	3
+其他保健用品	tqi slta skxb sfdg oyon kkkp	0
+其他生物制品	tqi slta hshe wywu wuzz kkkp	0
+其它未分类	tqi phta xwei izfe osle	0
+其他医疗器具	tqi slta ityi hhli kkwk tiju	0
+其他医用材料	tqi slta ityi oyon xqlm onpl	0
+其他制药设备	tqi slta wuzz ruav lxfs fbbe	0
+其他中成药	tqi slta k z ruav	1
+气血循环机	nqi moxi ghpj fihu xxji	0
+人造器官及植入体	sren wkgz kkwk pigu lvji xptz mvru sxti	0
+生物诊断试剂	hshe wywu lsuz odxd luds lizj	0
+视力保健用品	vuhs oli skxb sfdg oyon kkkp	0
+手术卫生用品	dsho xvsh jqwe hshe oyon kkkp	0
+手术专用设备	dsho xvsh uzhu oyon lxfs fbbe	0
+睡眠保健用品	jlrw jidu skxb sfdg oyon kkkp	0
+通用医疗器具	jogt oyon ityi hhli kkwk tiju	0
+外科用药	nvwa onpk oyon ruav	0
+五官科用药	twu pigu onpk oyon ruav	0
+消毒防腐药剂	cimx radu ilfa hsfs ruav lizj	0
+消毒灭菌设备	cimx radu qvmi rkoj lxfs fbbe	1
+血压调节用品	moxi hbvy lubk rjji oyon kkkp	0
+药品包装机械	ruav kkkp ajba tbyz xxji xzrx	0
+药品加工	ruav kkkp okji dgon	0
+药用包装材料	ruav oyon ajba tbyz xqlm onpl	0
+药用粉碎机械	ruav oyon oizf flsp xxji xzrx	0
+一次性医用耗材	q nsci jhxi ityi oyon ouha xqlm	0
+医护辅助设备	ityi dphu gbfu tozh lxfs fbbe	0
+医疗保健服务	ityi hhli skxb sfdg mjff fowu	19
+医疗器具	ityi hhli kkwk tiju	7
+医疗器械代理	ityi hhli kkwk xzrx suda fywl	0
+医疗器械加工	ityi hhli kkwk xzrx okji dgon	0
+医疗器械制造设备	ityi hhli kkwk xzrx wuzz wkgz lxfs fbbe	0
+医药项目合作	ityi ruav dfax jmu skge stlw	0
+医用材料	ityi oyon xqlm onpl	22
+医用车	ityi oyon gche	0
+医用器皿	ityi oyon kkwk omin	1
+饮片机械	osyi tpia xxji xzrx	0
+原料药设备及机械	hciy onpl ruav lxfs fbbe lvji xxji xzrx	0
+诊察设备	lsuz pmvc lxfs fbbe	0
+制剂机械	wuzz lizj xxji xzrx	0
+治疗设备	cjkz hhli lxfs fbbe	0
+植物提取物	xptz wywu dngd jfqu wywu	81
+植物原药材	xptz wywu hciy ruav xqlm	0
+制药辅料	wuzz ruav gbfu onpl	0
+制药设备	wuzz ruav lxfs fbbe	6
+中医器械	k ityi kkwk xzrx	0
+注射穿刺器械	cvfz jfsh pjch xuzc kkwk xzrx	0
+办公设备维修及安装	oiba ijgo lxfs fbbe uewe slfu lvji paan tbyz	0
+保险服务	skxb isxi mjff fowu	0
+财务咨询	aqlm fowu nskz lanx	58
+餐饮娱乐加盟	vnfo osyi akny hile okji nmom	0
+仓储与配送	sjca slhn wdyu eqjp gsgs	3
+产权债权转让	gmch xfqu sraz xfqu guzh lvra	0
+超市加盟	gzkc lysh okji nmom	0
+出版展	r thfb hryz	0
+电器维修及安装	nddi kkwk uewe slfu lvji paan tbyz	0
+公关服务	ijgo gsgu mjff fowu	4
+公司注册服务	ijgo dksi cvfz uuqc mjff fowu	2
+工艺品展	dgon rdyi kkkp hryz	0
+管理人员招聘	tpig fywl sren kayu dzkz jbkp	0
+广告发布	hgua wkga dfvf fybu	0
+国际陆运	kfvg ivji idil ngyu	0
+国内空运	kfvg usne pdko ngyu	0
+国内陆运	kfvg usne idil ngyu	0
+国内水运	kfvg usne cshu ngyu	0
+环保展	fihu skxb hryz	1
+会务及活动策划	snhu fowu lvji clkh nodo txuc zzhu	0
+技术人员招聘	dpfj xvsh sren kayu dzkz jbkp	1
+建筑及模型设计	fdgj tdxz lvji xrns qrzb lxfs lpji	0
+建筑展	fdgj tdxz hryz	10
+教育培训加盟	hhfj ljmy bgkp lcxu okji nmom	3
+进出口代理	wigj r kkou suda fywl	1
+会计服务	snhu lpji mjff fowu	0
+美容健身加盟	wsme pskr sfdg jshe okji nmom	0
+农业展	uyno rye hryz	2
+配件展	eqjp swji hryz	0
+皮革展	upi uge hryz	0
+其他创意设计	tqi slta sjzc gnjy lxfs lpji	1
+其他公关服务	tqi slta ijgo gsgu mjff fowu	0
+其他广告服务	tqi slta hgua wkga mjff fowu	0
+其他行业展会	tqi slta ggha rye hryz snhu	0
+其他教育培训	tqi slta hhfj ljmy bgkp lcxu	0
+其他商务服务	tqi slta yuik fowu mjff fowu	1
+其他特许经营	tqi slta wbft ltpx ucdj rukk	0
+其他维修及安装	tqi slta uewe slfu lvji paan tbyz	0
+其他招聘	tqi slta dzkz jbkp	0
+其他知识产权服务	tqi slta tkzh lkis gmch xfqu mjff fowu	0
+其他中介服务	tqi slta k siji mjff fowu	0
+其他咨询	tqi slta nskz lanx	0
+其他租赁	tqi slta otzu slqa	1
+企业日常服务	sgqi rye nri iych mjff fowu	0
+迁厂搬家	lgqi hcha dgxf pwji	0
+清洗及保洁服务	crmq cwhx lvji skxb cbkj mjff fowu	0
+认证服务	lsre lgzh mjff fowu	0
+商标注册申请	yuik xvbi cvfz uuqc nlsh lrmq	70
+商旅服务	yuik ltmy mjff fowu	0
+设备展	lxfs fbbe hryz	2
+摄影摄像服务	djff npiu djff sakw mjff fowu	0
+生产设备维修及安装	hshe gmch lxfs fbbe uewe slfu lvji paan tbyz	0
+特种物流	wbft oklc wywu cljc	0
+玩具展	fqhw tiju hryz	16
+维修及安装服务	uewe slfu lvji paan tbyz mjff fowu	0
+销售人员招聘	zimx eksh sren kayu dzkz jbkp	0
+信息展	slxi jjxi hryz	1
+行政人员招聘	ggha gfzh sren kayu dzkz jbkp	0
+演出服务	cpqi r mjff fowu	0
+影视节目制作	npiu vuhs rjji jmu wuzz stlw	4
+语言培训	ltky lyan bgkp lcxu	0
+展会服务	hryz snhu mjff fowu	3
+展览设计制作	hryz jtuh lxfs lpji wuzz stlw	0
+知识产权服务	tkzh lkis gmch xfqu mjff fowu	49
+纸业展	uhuz rye hryz	0
+中介服务加盟	k siji mjff fowu okji nmom	0
+专利版权申请	uzhu ozli thfb xfqu nlsh lrmq	0
+专利版权转让	uzhu ozli thfb xfqu guzh lvra	0
+资格考试培训	nsaz xfkg hkka luds bgkp lcxu	2
+综合类展会	upvz skge osle hryz snhu	0
+租赁服务	otzu slqa mjff fowu	53
+邦定加工	emib pqgd okji dgon	0
+杯灯	xibe vode	1
+彩色灯泡	exuc awse vode cajp	2
+草坪灯	rnca byip vode	0
+插件加工	dlbc swji okji dgon	0
+充电手电筒	ljhc nddi dsho nddi tukt	0
+触片	aoec tpia	2
+道路照明灯	gjgd gfkl nzkv nmmi vode	1
+灯具配附件	vode tiju eqjp isff swji	0
+灯柱灯杆	vode xvfz vode xyga	0
+电光源材料	nddi ihgu chci xqlm onpl	1
+电子粉	nddi hzi oizf	0
+电子加工	nddi hzi okji dgon	0
+电子组装加工	nddi hzi utzu tbyz okji dgon	0
+二手照明器材	wer dsho nzkv nmmi kkwk xqlm	0
+防爆灯具	ilfa vnrc vode tiju	0
+高杆灯	pukg xyga vode	0
+工矿灯具	dgon fhku vode tiju	0
+工艺装饰灯具	dgon rdyi tbyz otys vode tiju	0
+广告灯具	hgua wkga vode tiju	0
+光源器	ihgu chci kkwk	0
+焊接加工	vnyh dgaj okji dgon	3
+航空障碍灯	glxh pdko ignz fnfa vode	0
+红外线灯泡	udho nvwa uzxi vode cajp	2
+环型荧光灯管	fihu qrzb ruvy ihgu vode tpig	0
+机床灯具	xxji hxch vode tiju	0
+检修灯	xsji slfu vode	0
+角灯	aoji vode	12
+交通警示灯	yrji jogt rakl vshi vode	1
+金卤灯	zjin vkrl vode	2
+聚光灯泡	jfsj ihgu vode cajp	0
+库存照明器材	hgku flhc nzkv nmmi kkwk xqlm	0
+冷光片	nmvl ihgu tpia	0
+冷阴极荧光灯	nmvl imyi xlvj ruvy ihgu vode	1
+两极电源插头	quss xlvj nddi chci dlbc jtou	0
+两极电源插座	quss xlvj nddi chci dlbc hssb	0
+卤钨灯泡	vkrl zadq vode cajp	2
+螺旋型荧光灯管	ebul ltdg qrzb ruvy ihgu vode tpig	0
+埋地灯	bywm b vode	0
+霓虹灯管	nbhn edho vode tpig	2
+泡壳	cajp buxk	1
+普通手电筒	grnp jogt dsho nddi tukt	1
+普通照明白炽灯	grnp jogt nzkv nmmi cbai vkic vode	1
+其他白炽灯	tqi slta cbai vkic vode	0
+其他插头	tqi slta dlbc jtou	0
+其他插座	tqi slta dlbc hssb	0
+其他车灯	tqi slta gche vode	0
+其他灯具配附件	tqi slta vode tiju eqjp isff swji	0
+其他电光源材料	tqi slta nddi ihgu chci xqlm onpl	0
+其他电子加工	tqi slta nddi hzi okji dgon	0
+其他冷光源	tqi slta nmvl ihgu chci	0
+其他气体放电灯	tqi slta nqi sxti lffa nddi vode	0
+其他室外照明灯具	tqi slta pqjb nvwa nzkv nmmi vode tiju	0
+其他手电筒	tqi slta dsho nddi tukt	0
+其他指示灯具	tqi slta dhnz vshi vode tiju	0
+其他专门用途灯具	tqi slta uzhu pmen oyon sxgt vode tiju	0
+气体放电灯	nqi sxti lffa nddi vode	5
+桥梁灯具	xmsi czix vode tiju	0
+三极电源插头	esan xlvj nddi chci dlbc jtou	0
+三极电源插座	esan xlvj nddi chci dlbc hssb	0
+设备指示灯	lxfs fbbe dhnz vshi vode	0
+摄影灯具	djff npiu vode tiju	0
+摄影灯泡	djff npiu vode cajp	0
+视频插头	vuhs ggfa dlbc jtou	0
+视频插座	vuhs ggfa dlbc hssb	0
+室外照明灯具	pqjb nvwa nzkv nmmi vode tiju	0
+水下灯具	cshu vxia vode tiju	0
+水下灯泡	cshu vxia vode cajp	0
+隧道灯具	iiwg gjgd vode tiju	0
+太阳能手电筒	svta inya j dsho nddi tukt	0
+贴片加工	avkt tpia okji dgon	1
+微型灯泡	giqf qrzb vode cajp	0
+无电源手电筒	whmo nddi chci dsho nddi tukt	0
+舞台灯具	trjg jkta vode tiju	0
+芯柱	rjxi xvfz	2
+型荧光灯管	qrzb ruvy ihgu vode tpig	0
+医疗灯具	ityi hhli vode tiju	0
+应急指示灯具	hiqy afjj dhnz vshi vode tiju	0
+运动场馆灯具	ngyu nodo bdmm opig vode tiju	0
+照明配附件	nzkv nmmi eqjp isff swji	0
+照明器材代理	nzkv nmmi kkwk xqlm suda fywl	0
+照明器材项目合作	nzkv nmmi kkwk xqlm dfax jmu skge stlw	0
+指示灯具	dhnz vshi vode tiju	0
+指示灯泡	dhnz vshi vode cajp	0
+直型荧光灯管	ptzh qrzb ruvy ihgu vode tpig	0
+转换插座	guzh daus dlbc hssb	3
+专门用途灯具	uzhu pmen oyon sxgt vode tiju	0
+装饰灯串	tbyz otys vode kklc	0
+按摩鞋	dpaa hxdm ubbx	2
+棒球运动手套	xesd fqcv ngyu nodo dsho suta	0
+保安帽	skxb paan ynjm	1
+保暖鞋	skxb newf ubbx	2
+布拖鞋	fybu dtlt ubbx	0
+布制工作手套	fybu wuzz dgon stlw dsho suta	0
+裁断机	pzyc odxd xxji	0
+长统袜	mqdv uljh yxwa	7
+成品鞋	z kkkp ubbx	0
+成品鞋代理	z kkkp ubbx suda fywl	0
+成品鞋加工	z kkkp ubbx okji dgon	0
+厨师帽	hofc iqys ynjm	9
+穿刺饰	pjch xuzc otys	0
+打钉机	doda zodi xxji	0
+袋鼠皮革	suyd wshu upi uge	0
+涤丝提花领带	cfxd usi dngd rshh mvfa rluy	0
+涤丝印花领带	cfxd usi hqjy rshh mvfa rluy	0
+电工作鞋	nddi dgon stlw ubbx	0
+钉跟机	zodi gfyg xxji	0
+多功能擦地拖鞋	nndu dogo j dpmv b dtlt ubbx	0
+二手制鞋设备	wer dsho wuzz ubbx lxfs fbbe	0
+儿童短袜	her gywt todu yxwa	0
+儿童连裤袜	her gywt ggli yhgk yxwa	0
+儿童腰带	her gywt meay rluy	0
+防尘帽	ilfa ibch ynjm	1
+防静电工作鞋	ilfa rmal nddi dgon stlw ubbx	0
+仿皮带	slfa upi rluy	0
+仿丝长巾	slfa usi mqdv yjin	0
+仿丝大方巾	slfa usi sda lfan yjin	0
+仿丝小方巾	slfa usi ixia lfan yjin	0
+仿羊绒围巾	slfa wyan uzfr kddw yjin	0
+服饰代理	mjff otys suda fywl	0
+服饰加工	mjff otys okji dgon	0
+服饰手套	mjff otys dsho suta	0
+服饰项目合作	mjff otys dfax jmu skge stlw	0
+钢包头工作鞋	zurg ajba jtou dgon stlw ubbx	0
+高尔夫运动手套	pukg aier wsfu ngyu nodo dsho suta	0
+工艺鞋	dgon rdyi ubbx	0
+工作手套	dgon stlw dsho suta	0
+鼓乐队帽	opfg hile isdu ynjm	0
+合成胶粘剂	skge z myrj ovkn lizj	1
+后帮机	hkho emiy xxji	0
+护士帽	dphu bshi ynjm	5
+滑雪运动手套	cjhu nfxu ngyu nodo dsho suta	0
+混纺围巾	cnhh ulfa kddw yjin	0
+挤水机	dlij cshu xxji	0
+加脂剂	okji mhnz lizj	0
+减肥鞋	nzkj mwfe ubbx	0
+脚饰	mbjj otys	0
+结帮机	ubkj emiy xxji	0
+浸灰剂	cfuf fvhu lizj	0
+金属腰带	zjin hmkw meay rluy	4
+浸水助剂	cfuf cshu tozh lizj	0
+浸酸剂	cfuf eqjf lizj	0
+刻楦机	lzke xpqn xxji	0
+扣饰	dkko otys	2
+库存服饰	hgku flhc mjff otys	1
+库存领带	hgku flhc mvfa rluy	0
+库存帽子	hgku flhc ynjm hzi	0
+库存手套	hgku flhc dsho suta	0
+库存袜子	hgku flhc yxwa hzi	0
+库存围巾	hgku flhc kddw yjin	0
+库存鞋材	hgku flhc ubbx xqlm	0
+库存腰带	hgku flhc meay rluy	0
+烂花绒围巾	vgwl rshh uzfr kddw yjin	0
+礼仪手套	vdli svry dsho suta	0
+量革机	nywl uge xxji	0
+驴皮革	wplv upi uge	0
+马皮革	wma upi uge	0
+毛呢帽	umao khhn ynjm	0
+毛绒拖鞋	umao uzfr dtlt ubbx	6
+帽子手套二件套	ynjm hzi dsho suta wer swji suta	0
+帽子围巾二件套	ynjm hzi kddw yjin wer swji suta	0
+帽子围巾手套三件套	ynjm hzi kddw yjin dsho suta esan swji suta	0
+门童帽	pmen gywt ynjm	0
+民族帽	idum lttz ynjm	0
+木拖鞋	xmu dtlt ubbx	0
+耐酸碱鞋	lfna eqjf fzkj ubbx	0
+男包系列	bona ajba muji jzli	0
+男棉袜	bona xcym yxwa	0
+男式凉拖鞋	bona udsh npil dtlt ubbx	0
+男式凉鞋	bona udsh npil ubbx	0
+男式休闲布鞋	bona udsh sxxi pxxi fybu ubbx	0
+男式休闲仿皮鞋	bona udsh sxxi pxxi slfa upi ubbx	0
+男式休闲皮鞋	bona udsh sxxi pxxi upi ubbx	0
+男式正装仿皮鞋	bona udsh gzhe tbyz slfa upi ubbx	0
+男式正装皮鞋	bona udsh gzhe tbyz upi ubbx	0
+男丝袜	bona usi yxwa	0
+男靴	bona ushx	3
+尼龙手套	hhni wmlo dsho suta	1
+牛皮革	wniu upi uge	17
+女包系列	anv ajba muji jzli	0
+女短丝袜	anv todu usi yxwa	0
+女棉袜	anv xcym yxwa	0
+女式低靴	anv udsh shuv ushx	0
+女式高靴	anv udsh pukg ushx	0
+女式凉拖鞋	anv udsh npil dtlt ubbx	0
+女式凉鞋	anv udsh npil ubbx	1
+女式休闲布鞋	anv udsh sxxi pxxi fybu ubbx	0
+女式休闲仿皮鞋	anv udsh sxxi pxxi slfa upi ubbx	0
+女式休闲皮鞋	anv udsh sxxi pxxi upi ubbx	0
+女式正装仿皮鞋	anv udsh gzhe tbyz slfa upi ubbx	0
+女式正装皮鞋	anv udsh gzhe tbyz upi ubbx	0
+女式中靴	anv udsh k ushx	0
+皮包头工作鞋	upi ajba jtou dgon stlw ubbx	0
+皮革服饰手套	upi uge mjff otys dsho suta	0
+皮革化学品	upi uge shhu iuhx kkkp	0
+皮革加工设备	upi uge okji dgon lxfs fbbe	0
+皮拖鞋	upi dtlt ubbx	0
+皮制工作手套	upi wuzz dgon stlw dsho suta	0
+片皮机	tpia upi xxji	0
+剖层机	gkzp hnce xxji	0
+普通针织手套	grnp jogt zpzh ukiz dsho suta	0
+其他服饰手套	tqi slta mjff otys dsho suta	0
+其他功能鞋	tqi slta dogo j ubbx	0
+其他工作手套	tqi slta dgon stlw dsho suta	0
+其他工作鞋	tqi slta dgon stlw ubbx	0
+其他库存服饰	tqi slta hgku flhc mjff otys	0
+其他类型功能鞋	tqi slta osle qrzb dogo j ubbx	0
+其他凉鞋	tqi slta npil ubbx	0
+其他领带	tqi slta mvfa rluy	0
+其他皮革	tqi slta upi uge	0
+其他皮革化学品	tqi slta upi uge shhu iuhx kkkp	0
+其他皮革加工设备	tqi slta upi uge okji dgon lxfs fbbe	0
+其他生活帽	tqi slta hshe clkh ynjm	0
+其他时尚配饰	tqi slta nfsh isha eqjp otys	0
+其他时装帽	tqi slta nfsh tbyz ynjm	0
+其他丝巾	tqi slta usi yjin	0
+其他童鞋	tqi slta gywt ubbx	0
+其他拖鞋	tqi slta dtlt ubbx	0
+其他袜子	tqi slta yxwa hzi	2
+其他围巾	tqi slta kddw yjin	1
+其他围巾帽子手套套件	tqi slta kddw yjin ynjm hzi dsho suta suta swji	0
+其他鞋材化工	tqi slta ubbx xqlm shhu dgon	0
+其他鞋底	tqi slta ubbx hhuv	0
+其他鞋辅件	tqi slta ubbx gbfu swji	0
+其他休闲鞋	tqi slta sxxi pxxi ubbx	0
+其他靴子	tqi slta ushx hzi	0
+其他腰带	tqi slta meay rluy	0
+其他运动手套	tqi slta ngyu nodo dsho suta	0
+其他正装鞋	tqi slta gzhe tbyz ubbx	0
+其他制鞋机械	tqi slta wuzz ubbx xxji xzrx	0
+其他职业帽	tqi slta jkiz rye ynjm	0
+前帮机	gmzq emiy xxji	0
+乾祥	pntd vwxi	1
+乾祥服饰	pntd vwxi mjff otys	0
+乾祥服饰旗舰店	pntd vwxi mjff otys lttq guhj hvkd	0
+乔丹篮球鞋	msiq ulda tjto fqcv ubbx	2
+晴纶围巾	nrmq ushg kddw yjin	0
+情侣手套	jrmq skkl dsho suta	0
+裘皮围巾	qcvy upi kddw yjin	0
+全棉围巾	sfqu xcym kddw yjin	0
+人棉围巾	sren xcym kddw yjin	0
+绒帽	uzfr ynjm	8
+乳胶工作手套	ehdr myrj dgon stlw dsho suta	0
+赛车手套	pria gche dsho suta	4
+三角丝巾	esan aoji usi yjin	0
+裳尚芊	iysh isha rlqi	0
+生活帽	hshe clkh ynjm	0
+时尚配饰	nfsh isha eqjp otys	11
+时装帽	nfsh tbyz ynjm	0
+手饰	dsho otys	8
+首饰包装	gjsh otys ajba tbyz	0
+丝绒手套	usi uzfr dsho suta	0
+丝绒围巾	usi uzfr kddw yjin	0
+丝袜裤	usi yxwa yhgk	0
+塑料拖鞋	gmbs onpl dtlt ubbx	18
+塑料腰带	gmbs onpl meay rluy	0
+特种工作手套	wbft oklc dgon stlw dsho suta	0
+童凉鞋	gywt npil ubbx	0
+童帽	gywt ynjm	0
+童皮鞋	gywt upi ubbx	1
+童拖鞋	gywt dtlt ubbx	0
+童靴	gywt ushx	51
+童运动鞋	gywt ngyu nodo ubbx	0
+涂层工作手套	csxt hnce dgon stlw dsho suta	0
+涂饰剂	csxt otys lizj	0
+脱灰剂	mikh fvhu lizj	0
+围巾帽子手套套件	kddw yjin ynjm hzi dsho suta suta swji	0
+围巾手套二件套	kddw yjin dsho suta wer swji suta	0
+橡胶鞋底	xakw myrj ubbx hhuv	14
+鞋材化工	ubbx xqlm shhu dgon	0
+鞋材鞋件	ubbx xqlm ubbx swji	0
+鞋撑	ubbx didc	7
+鞋成型机	ubbx z qrzb xxji	0
+鞋辅件	ubbx gbfu swji	0
+鞋花	ubbx rshh	0
+鞋机配件	ubbx xxji eqjp swji	0
+鞋件	ubbx swji	0
+鞋件代理	ubbx swji suda fywl	0
+鞋件加工	ubbx swji okji dgon	0
+鞋蜡	ubbx ernl	2
+鞋乳	ubbx ehdr	0
+鞋眼机	ubbx jfyy xxji	0
+修鞋设备	slfu ubbx lxfs fbbe	0
+雪纺围巾	nfxu ulfa kddw yjin	0
+压底机	hbvy hhuv xxji	0
+压合机	hbvy skge xxji	0
+炎焱妖	vvya vvvy amsy	0
+炎焱妖服饰	vvya vvvy amsy mjff otys	0
+羊毛围巾	wyan umao kddw yjin	10
+羊皮革	wyan upi uge	0
+羊绒手套	wyan uzfr dsho suta	0
+羊绒围巾	wyan uzfr kddw yjin	9
+腰带配件	meay rluy eqjp swji	0
+摇立绒手套	deoy gli uzfr dsho suta	0
+鱼皮革	qyu upi uge	1
+运动手套	ngyu nodo dsho suta	4
+真皮带	ptiz upi rluy	2
+真皮女靴	ptiz upi anv ushx	0
+真丝长巾	ptiz usi mqdv yjin	0
+真丝大方巾	ptiz usi sda lfan yjin	0
+真丝提花领带	ptiz usi dngd rshh mvfa rluy	0
+真丝小方巾	ptiz usi ixia lfan yjin	0
+真丝印花领带	ptiz usi hqjy rshh mvfa rluy	0
+针织工作手套	zpzh ukiz dgon stlw dsho suta	0
+针织线帽	zpzh ukiz uzxi ynjm	0
+织布腰带	ukiz fybu meay rluy	0
+制鞋机械	wuzz ubbx xxji xzrx	0
+制鞋设备	wuzz ubbx lxfs fbbe	0
+职业帽	jkiz rye ynjm	0
+中统袜	k uljh yxwa	0
+自行车手套	jzi ggha gche dsho suta	0
+场上作业机械	bdmm v stlw rye xxji xzrx	0
+除草剂混剂	isxc rnca lizj cnhh lizj	0
+动物毛鬃	nodo wywu umao uupv	0
+动物提取物	nodo wywu dngd jfqu wywu	0
+动物种苗	nodo wywu oklc rbmi	0
+二手农业机械	wer dsho uyno rye xxji xzrx	0
+肥料加工设备	mwfe onpl okji dgon lxfs fbbe	0
+工业用动植物油	dgon rye oyon nodo xptz wywu cbyo	0
+灌溉工具	crke cfjh dgon tiju	0
+含油子仁	mkha cbyo hzi swre	0
+花草盆景	rshh rnca izop npij	0
+花盆容器	rshh izop pskr kkwk	0
+库存农产品	hgku flhc uyno gmch kkkp	0
+粮食加工设备	ovfy oshi okji dgon lxfs fbbe	0
+林业机械	xlin rye xxji xzrx	0
+绿化苗木	ufcl shhu rbmi xmu	0
+棉麻毛初加工设备	xcym hxma umao yzch okji dgon lxfs fbbe	0
+农产品代理	uyno gmch kkkp suda fywl	0
+农副产品加工	uyno kbzf gmch kkkp okji dgon	2
+农机配件	uyno xxji eqjp swji	0
+农林牧渔项目合作	uyno xlin wfmu cqyu dfax jmu skge stlw	0
+农药制剂	uyno ruav wuzz lizj	2
+农业实验设备	uyno rye pjsh wsya lxfs fbbe	0
+农业用具	uyno rye oyon tiju	2
+农用工具	uyno oyon dgon tiju	4
+农作物种子	uyno stlw wywu oklc hzi	7
+排灌机械	depa crke xxji xzrx	1
+攀援植物	xrrd dewf xptz wywu	3
+其他含油子仁	tqi slta mkha cbyo hzi swre	0
+其他化肥	tqi slta shhu mwfe	0
+其他花卉	tqi slta rshh prhu	6
+其他坚果	tqi slta jfbj nxgu	7
+其他绿化苗木	tqi slta ufcl shhu rbmi xmu	0
+其他农药原药	tqi slta uyno ruav hciy ruav	0
+其他农药制剂	tqi slta uyno ruav wuzz lizj	0
+其他农业机械	tqi slta uyno rye xxji xzrx	0
+其他农业用具	tqi slta uyno rye oyon tiju	0
+其他牲畜	tqi slta whsh lubc	3
+其他生皮	tqi slta hshe upi	0
+其他饲料	tqi slta odks onpl	0
+其他饲料添加剂	tqi slta odks onpl cnjt okji lizj	0
+其他辛辣蔬菜	tqi slta gpxi gfxk rdgc rexc	0
+其他园艺用具	tqi slta kqhy rdyi oyon tiju	0
+其他种子	tqi slta oklc hzi	0
+球类植物	fqcv osle xptz wywu	0
+杀菌剂混剂	rxsh rkoj lizj cnhh lizj	0
+杀螨混剂	rxsh erqs cnhh lizj	0
+生白果	hshe cbai nxgu	0
+生板栗	hshe xhfb exli	10
+生瓜子	hshe ogua hzi	1
+生核桃	hshe xlhe xhct	2
+生开心果	hshe qrka jxin nxgu	0
+生榛子	hshe xeso hzi	1
+施肥机械	ltls mwfe xxji xzrx	0
+室内观果植物	pqjb usne fuhg nxgu xptz wywu	0
+室内观花植物	pqjb usne fuhg rshh xptz wywu	0
+室内观叶植物	pqjb usne fuhg kpxi xptz wywu	3
+食用菌菌种	oshi oyon rkoj rkoj oklc	0
+食用油加工设备	oshi oyon cbyo okji dgon lxfs fbbe	0
+收获机械	dlfs rwwh xxji xzrx	0
+树木盆景	xffs xmu izop npij	0
+饲料保藏剂	odks onpl skxb rtzj lizj	0
+饲料加工设备	odks onpl okji dgon lxfs fbbe	0
+特种养殖动物	wbft oklc wviy jpts nodo wywu	0
+藤苇	rmgc rddw	0
+土壤耕整机械	btu bykr owig xkfg xxji xzrx	0
+屠宰及肉类初加工设备	hhnt pgpz lvji ussr osle yzch okji dgon lxfs fbbe	0
+辛辣蔬菜	gpxi gfxk rdgc rexc	0
+养殖业机械	wviy jpts rye xxji xzrx	0
+药物性添加剂	ruav wywu jhxi cnjt okji lizj	0
+一二年生草花	q wer tgni hshe rnca rshh	0
+营养性添加剂	rukk wviy jhxi cnjt okji lizj	0
+渔业机械	cqyu rye xxji xzrx	1
+渔业用具	cqyu rye oyon tiju	0
+园林石工艺品	kqhy xlin fdan dgon rdyi kkkp	0
+园艺护栏	kqhy rdyi dphu xgwl	0
+园艺剪	kqhy rdyi gmzz	3
+园艺用具	kqhy rdyi oyon tiju	1
+栽培基质	pzxz bgkp tbji hpaz	8
+植保机械	xptz skxb xxji xzrx	0
+植物性饲料	xptz wywu jhxi odks onpl	2
+种植机械	oklc xptz xxji xzrx	0
+竹类植物	tzhu osle xptz wywu	2
+棕榈类植物	xpvz xpkk osle xptz wywu	0
+安检探测器	paan xsji duix cazc kkwk	0
+安全防护产品项目合作	paan sfqu ilfa dphu gmch kkkp dfax jmu skge stlw	0
+安全检查设备	paan sfqu xsji xnch lxfs fbbe	0
+安全凸面镜	paan sfqu lqlq lemi zgnh	0
+报警设备	djfb rakl lxfs fbbe	3
+窗磁	pmkn fguu	1
+道路减速设备	gjgd gfkl nzkj xkgs lxfs fbbe	0
+电话报警设备	nddi llkh djfb rakl lxfs fbbe	0
+二手安防设备	wer dsho paan ilfa lxfs fbbe	0
+反窃听器材	hffa puzq kxti kkwk xqlm	0
+反偷拍	hffa ssmz dcpa	4
+防暴器材	ilfa nric kkwk xqlm	0
+防护用品代理	ilfa dphu oyon kkkp suda fywl	0
+防护用品加工	ilfa dphu oyon kkkp okji dgon	0
+防静电产品	ilfa rmal nddi gmch kkkp	0
+防静电工具	ilfa rmal nddi dgon tiju	0
+防静电用品	ilfa rmal nddi oyon kkkp	0
+防雷避雷产品	ilfa nble hkgg nble gmch kkkp	0
+防身用具	ilfa jshe oyon tiju	0
+防撞设施	ilfa dgyw lxfs ltls	0
+非可视对讲	efei okke vuhs ffdu lwij	0
+隔离栅	ikul liwl xuuq	0
+个人报警器	t sren djfb rakl kkwk	0
+公共广播系统	ijgo rigo hgua doib muji uljh	0
+画面处理器	qbih lemi fvch fywl kkwk	0
+火警探测	vhuo rakl duix cazc	0
+集成防盗报警系统	exji z ilfa nsod djfb rakl muji uljh	0
+集成监控系统	exji z jtoj dpdk muji uljh	0
+记录设备	ljji fclu lxfs fbbe	0
+监控器支架	jtoj dpdk kkwk pfzh okxj	0
+监控摄像机	jtoj dpdk djff sakw xxji	9
+监控主机	jtoj dpdk vfzh xxji	10
+交通安全标志	yrji jogt paan sfqu xvbi bjzh	0
+交通安全服装	yrji jogt paan sfqu mjff tbyz	0
+交通安全设备	yrji jogt paan sfqu lxfs fbbe	0
+交通指挥设备	yrji jogt dhnz dugh lxfs fbbe	0
+救生器材	qcvf hshe kkwk xqlm	0
+军需用品	ugju nlxu oyon kkkp	9
+库存安全防护产品	hgku flhc paan sfqu ilfa dphu gmch kkkp	0
+离子风棒	liwl hzi xrfe xesd	0
+离子风枪	liwl hzi xrfe xsjq	0
+门禁读卡器	pmen xvji lpdj vvka kkwk	1
+门禁考勤系统	pmen xvji hkka uwoq muji uljh	0
+门禁控制器	pmen xvji dpdk wuzz kkwk	1
+灭火器材	qvmi vhuo kkwk xqlm	2
+其他安全检查设备	tqi slta paan sfqu xsji xnch lxfs fbbe	0
+其他防盗	tqi slta ilfa nsod	0
+其他防静电产品	tqi slta ilfa rmal nddi gmch kkkp	0
+其他监控器材及系统	tqi slta jtoj dpdk kkwk xqlm lvji muji uljh	0
+其他交通安全设备	tqi slta yrji jogt paan sfqu lxfs fbbe	0
+其他楼宇对讲设备	tqi slta xoal pwly ffdu lwij lxfs fbbe	0
+其他门禁考勤器材及系统	tqi slta pmen xvji hkka uwoq kkwk xqlm lvji muji uljh	0
+其他消防设备	tqi slta cimx ilfa lxfs fbbe	0
+其他智能卡	tqi slta tknz j vvka	0
+球罩	fqcv ovnz	1
+条码卡	fxti fwma vvka	0
+消防警示标志	cimx ilfa rakl vshi xvbi bjzh	0
+一卡通管理系统	q vvka jogt tpig fywl muji uljh	0
+指纹采集仪	dhnz ulwe exca exji svry	0
+自然灾害防护产品	jzi mwvr pvza pelk ilfa dphu gmch kkkp	0
+豹纹面料	wavb ulwe lemi onpl	0
+编结工艺品	upur ubkj dgon rdyi kkkp	0
+变色布	lvfb awse fybu	0
+冰袋布	ncbi suyd fybu	0
+朝阳格	pnmc inya xfkg	0
+车用面料	gche oyon lemi onpl	0
+绸类	uubk osle	0
+厨房用纺织品	hofc plfa oyon ulfa ukiz kkkp	0
+春秋丁	esnc ovqi odin	0
+春亚纺	esnc qrya ulfa	0
+刺绣面料	xuzc uolx lemi onpl	0
+大豆纤维	sda odou ulqi uewe	21
+大麻系列面料	sda hxma muji jzli lemi onpl	0
+地巾	b yjin	5
+涤美丽	cfxd wsme quvv	0
+涤丝纺	cfxd usi ulfa	0
+滴塑布	cyum gmbs fybu	0
+涤塔夫	cfxd brsk wsfu	1
+地毯面料	b uvvt lemi onpl	0
+电热水袋布	nddi dovr cshu suyd fybu	0
+点塑布	vkvd gmbs fybu	0
+缎类	urxf osle	0
+多款供选	nndu bvsk srig whgx	0
+二手纺织加工设备	wer dsho ulfa ukiz okji dgon lxfs fbbe	0
+二手皮革加工设备	wer dsho upi uge okji dgon lxfs fbbe	0
+仿动物毛皮	slfa nodo wywu umao upi	0
+防辐射面料	ilfa gkbf jfsh lemi onpl	0
+防静电面料	ilfa rmal nddi lemi onpl	0
+纺类	ulfa osle	0
+仿皮面料	slfa upi lemi onpl	0
+纺纱加工	ulfa uish okji dgon	0
+防酸面料	ilfa eqjf lemi onpl	0
+纺织辅料	ulfa ukiz gbfu onpl	0
+纺织加工	ulfa ukiz okji dgon	1
+纺织皮革相关项目合作	ulfa ukiz upi uge xjxi gsgu dfax jmu skge stlw	0
+纺织品加工	ulfa ukiz kkkp okji dgon	5
+纺织染整助剂	ulfa ukiz coxr xkfg tozh lizj	0
+纺织设备和器材	ulfa ukiz lxfs fbbe o kkwk xqlm	0
+防紫外线面料	ilfa ghuz nvwa uzxi lemi onpl	0
+废料与库存	hdfv onpl wdyu hgku flhc	0
+非织造及工业用布	efei ukiz wkgz lvji dgon rye oyon fybu	0
+高丝宝	pukg usi pfvb	0
+功能纤维	dogo j ulqi uewe	1
+功能性面料	dogo j jhxi lemi onpl	5
+工艺布料	dgon rdyi fybu onpl	0
+工装面料	dgon tbyz lemi onpl	0
+工作服面料	dgon stlw mjff lemi onpl	0
+绗缝加工	uggh ufeg okji dgon	0
+绗缝面料	uggh ufeg lemi onpl	0
+虎纹面料	wxhu ulwe lemi onpl	0
+花色布	rshh awse fybu	0
+花色纱线	rshh awse uish uzxi	0
+化纤类混纺	shhu ulqi osle cnhh ulfa	0
+化纤坯布	shhu ulqi biqp fybu	0
+化纤系列纱线	shhu ulqi muji jzli uish uzxi	0
+花瑶	rshh feoy	2
+环保布	fihu skxb fybu	0
+黄麻系列面料	rbih hxma muji jzli lemi onpl	0
+混纺坯布	cnhh ulfa biqp fybu	0
+混纺系列纱线	cnhh ulfa muji jzli uish uzxi	0
+婚纱面料	ahun uish lemi onpl	0
+麂皮绒	wxji upi uzfr	9
+佳绩布	sbbj uraj fybu	0
+甲壳素纤维	yjia buxk rusu ulqi uewe	1
+剪花布	gmzz rshh fybu	0
+剑麻系列面料	szji hxma muji jzli lemi onpl	0
+胶点布	myrj vkvd fybu	0
+交织类	yrji ukiz osle	0
+交织类面料	yrji ukiz osle lemi onpl	0
+锦涤纺	zcyj cfxd ulfa	0
+锦类	zcyj osle	1
+锦棉绸	zcyj xcym uubk	0
+绢类	ukmj osle	0
+卡丹绒	vvka ulda uzfr	0
+库存纺织品	hgku flhc ulfa ukiz kkkp	0
+库存皮革及制品	hgku flhc upi uge lvji wuzz kkkp	0
+烂花布	vgwl rshh fybu	0
+劳保面料	ruol skxb lemi onpl	0
+粒点布	ogli vkvd fybu	0
+丽新布	quvv gxxx fybu	1
+凉液垫布	npil clsv dobd fybu	0
+领带面料	mvfa rluy lemi onpl	0
+绫类	ubif osle	0
+麻纺系列纱线	hxma ulfa muji jzli uish uzxi	0
+麻类系列面料	hxma osle muji jzli lemi onpl	0
+毛纺系列面料	umao ulfa muji jzli lemi onpl	0
+毛纺系列纱线	umao ulfa muji jzli uish uzxi	0
+美佳布	wsme sbbj fybu	0
+美丽绸	wsme quvv uubk	0
+米通面料	omi jogt lemi onpl	0
+棉类系列面料	xcym osle muji jzli lemi onpl	0
+棉麻混纺	xcym hxma cnhh ulfa	12
+棉毛混纺	xcym umao cnhh ulfa	0
+棉坯布	xcym biqp fybu	1
+莫代尔纤维	rnsm suda aier ulqi uewe	2
+磨毛布	hxfm umao fybu	0
+纳米面料	uusn omi lemi onpl	0
+呢类系列	khhn osle muji jzli	0
+尼丝纺	hhni usi ulfa	0
+牛奶纤维	wniu alna ulqi uewe	0
+皮革加工	upi uge okji dgon	1
+皮革制品代理	upi uge wuzz kkkp suda fywl	0
+漂白布	cevp cbai fybu	0
+平纹呢	yipi ulwe khhn	0
+其他纺织辅料	tqi slta ulfa ukiz gbfu onpl	0
+其他纺织加工	tqi slta ulfa ukiz okji dgon	0
+其他非织造及工业用布	tqi slta efei ukiz wkgz lvji dgon rye oyon fybu	0
+其他服装辅料	tqi slta mjff tbyz gbfu onpl	0
+其他合成革	tqi slta skge z uge	0
+其他化学纤维	tqi slta shhu iuhx ulqi uewe	0
+其他混纺	tqi slta cnhh ulfa	0
+其他麻类系列面料	tqi slta hxma osle muji jzli lemi onpl	0
+其他毛纺系列面料	tqi slta umao ulfa muji jzli lemi onpl	0
+其他毛巾	tqi slta umao yjin	1
+其他面料	tqi slta lemi onpl	0
+其他坯布	tqi slta biqp fybu	0
+其他人造革	tqi slta sren wkgz uge	0
+其他纱线	tqi slta uish uzxi	0
+其他丝绸系列面料	tqi slta usi uubk muji jzli lemi onpl	0
+其他毯子	tqi slta uvvt hzi	0
+其他天然纺织原料	tqi slta ntia mwvr ulfa ukiz hciy onpl	0
+其他纬编	tqi slta uddw upur	0
+青年布	rmqi tgni fybu	2
+染整加工	coxr xkfg okji dgon	0
+色丁	awse odin	2
+沙滩巾	cish cfet yjin	0
+时装面料	nfsh tbyz lemi onpl	0
+手工编织加工	dsho dgon upur ukiz okji dgon	0
+手绘面料	dsho usnh lemi onpl	0
+手套布	dsho suta fybu	0
+双色布	ffsh awse fybu	0
+水刺无纺布	cshu xuzc whmo ulfa fybu	1
+水松胶	cshu xijs myrj	0
+水洗绒	cshu cwhx uzfr	0
+睡衣面料	jlrw yyi lemi onpl	3
+丝绸系列面料	usi uubk muji jzli lemi onpl	0
+梭织布	xjif ukiz fybu	6
+塔丝隆	brsk usi ifqh	0
+特斯林面料	wbft txsi xlin lemi onpl	0
+天然纺织原料	ntia mwvr ulfa ukiz hciy onpl	0
+天丝	ntia usi	40
+天丝面料	ntia usi lemi onpl	7
+条花布	fxti rshh fybu	0
+涂层布	csxt hnce fybu	0
+五枚缎	twu xfme urxf	0
+洗涤标	cwhx cfxd xvbi	0
+吸湿排汗面料	klvx cnrs depa cyha lemi onpl	1
+箱包布	txjx ajba fybu	0
+箱包面料	txjx ajba lemi onpl	0
+校服面料	xyrj mjff lemi onpl	0
+消光春亚纺	cimx ihgu esnc qrya ulfa	0
+消光涤塔夫	cimx ihgu cfxd brsk wsfu	0
+消光锦棉绸	cimx ihgu zcyj xcym uubk	0
+消光面料	cimx ihgu lemi onpl	0
+消光尼丝纺	cimx ihgu hhni usi ulfa	0
+消光塔丝隆	cimx ihgu brsk usi ifqh	0
+新型功能性面料	gxxx qrzb dogo j jhxi lemi onpl	0
+新型纤维	gxxx qrzb ulqi uewe	1
+绣花加工	uolx rshh okji dgon	0
+绣花面料	uolx rshh lemi onpl	0
+休闲面料	sxxi pxxi lemi onpl	0
+亚麻系列面料	qrya hxma muji jzli lemi onpl	0
+应墩布	hiqy bphf fybu	0
+泳装面料	cvdc tbyz lemi onpl	0
+玉米纤维	fvyu omi ulqi uewe	0
+雨衣布	nyu yyi fybu	1
+扎染布	ddza coxr fybu	1
+针刺无纺布	zpzh xuzc whmo ulfa fybu	1
+真丝系列纱线	ptiz usi muji jzli uish uzxi	0
+珍珠纱	fsuz fmxz uish	0
+制服面料	wuzz mjff lemi onpl	0
+止滑布	gzhi cjhu fybu	0
+植绒面料	xptz uzfr lemi onpl	2
+织造加工	ukiz wkgz okji dgon	0
+皱布	afuz fybu	0
+绉类	uafz osle	0
+皱纹布	afuz ulwe fybu	0
+苎麻系列面料	rpqz hxma muji jzli lemi onpl	0
+装饰用纺织品	tbyz otys oyon ulfa ukiz kkkp	0
+阻燃面料	itzu vmwv lemi onpl	6
+坐垫面料	ssbz dobd lemi onpl	1
+摆挂件饰品	dobj dbbg swji otys kkkp	0
+办公挂摆饰	oiba ijgo dbbg dobj otys	0
+宝石首饰	pfvb fdan gjsh otys	1
+宝石玉石工艺品	pfvb fdan fvyu fdan dgon rdyi kkkp	0
+编纺工艺品	upur ulfa dgon rdyi kkkp	0
+编织工艺品	upur ukiz dgon rdyi kkkp	0
+殡葬用品	jpii rjhr oyon kkkp	4
+铂金首饰	zcbo zjin gjsh otys	29
+玻璃摆饰	fubo fliw dobj otys	0
+玻璃工艺品	fubo fliw dgon rdyi kkkp	5
+博缘轩貔貅	pbfb uwwy gyxu wmkh wsxx	0
+彩瓷工艺品	exuc nsoc dgon rdyi kkkp	0
+彩陶工艺品	exuc iaot dgon rdyi kkkp	0
+草编工艺品	rnca upur dgon rdyi kkkp	0
+春节用品	esnc rjji oyon kkkp	0
+纯银首饰	urch zfyy gjsh otys	4
+刺绣工艺品	xuzc uolx dgon rdyi kkkp	0
+大理石工艺品	sda fywl fdan dgon rdyi kkkp	0
+雕刻工艺品	ubke lzke dgon rdyi kkkp	3
+多功能匙扣	nndu dogo j nghc dkko	0
+仿古工艺品	slfa mgu dgon rdyi kkkp	0
+仿生仿真工艺品	slfa hshe slfa ptiz dgon rdyi kkkp	0
+复活节用品	tnff clkh rjji oyon kkkp	0
+钢艺品	zurg rdyi kkkp	0
+工艺画	dgon rdyi qbih	0
+工艺蜡烛	dgon rdyi ernl vezh	0
+工艺礼品代理	dgon rdyi vdli kkkp suda fywl	0
+工艺礼品加工	dgon rdyi vdli kkkp okji dgon	0
+工艺礼品加工设备	dgon rdyi vdli kkkp okji dgon lxfs fbbe	0
+工艺礼品项目合作	dgon rdyi vdli kkkp dfax jmu skge stlw	0
+工艺伞	dgon rdyi sips	0
+工艺原料	dgon rdyi hciy onpl	4
+工艺钟	dgon rdyi zklz	0
+广告促销礼品	hgua wkga sgcu zimx vdli kkkp	0
+鬼节用品	chjg rjji oyon kkkp	0
+航海模型	glxh ctah xrns qrzb	0
+合金艺品	skge zjin rdyi kkkp	0
+黑陶工艺品	vhei iaot dgon rdyi kkkp	0
+红陶工艺品	udho iaot dgon rdyi kkkp	0
+葫芦工艺品	rmmh rplu dgon rdyi kkkp	0
+花岗岩工艺品	rshh iurg ifya dgon rdyi kkkp	0
+节庆用品	rjji hsqi oyon kkkp	0
+金属匙扣	zjin hmkw nghc dkko	0
+金属工艺品	zjin hmkw dgon rdyi kkkp	0
+金银珠宝首饰	zjin zfyy fmxz pfvb gjsh otys	0
+景泰蓝工艺品	npij esct rjto dgon rdyi kkkp	0
+卡通表	vvka jogt rybi	1
+库存工艺礼品	hgku flhc dgon rdyi vdli kkkp	0
+框饰配件	xifk otys eqjp swji	0
+蜡烛及烛台	ernl vezh lvji vezh jkta	0
+蜡烛器皿及配件	ernl vezh kkwk omin lvji eqjp swji	0
+柳编工艺品	xhmj upur dgon rdyi kkkp	0
+琉璃水晶玻璃工艺品	fljc fliw cshu nnnj fubo fliw dgon rdyi kkkp	0
+流苏工艺品	cljc rois dgon rdyi kkkp	0
+铝艺品	zkkl rdyi kkkp	0
+民间工艺品	idum pnji dgon rdyi kkkp	1
+木鱼石工艺品	xmu qyu fdan dgon rdyi kkkp	0
+泥塑工艺品	chhn gmbs dgon rdyi kkkp	0
+皮质匙扣	upi hpaz nghc dkko	0
+汽车挂摆饰	cnqi gche dbbg dobj otys	0
+漆器工艺品	cxsc kkwk dgon rdyi kkkp	0
+其他摆挂件饰品	tqi slta dobj dbbg swji otys kkkp	0
+其他编纺工艺品	tqi slta upur ulfa dgon rdyi kkkp	0
+其他雕刻工艺品	tqi slta ubke lzke dgon rdyi kkkp	0
+其他节庆用品	tqi slta rjji hsqi oyon kkkp	0
+其他金属工艺品	tqi slta zjin hmkw dgon rdyi kkkp	0
+其他金银珠宝首饰	tqi slta zjin zfyy fmxz pfvb gjsh otys	0
+其他蜡烛及烛台	tqi slta ernl vezh lvji vezh jkta	0
+其他民间工艺品	tqi slta idum pnji dgon rdyi kkkp	0
+其他模型玩具	tqi slta xrns qrzb fqhw tiju	0
+其他盆景	tqi slta izop npij	0
+其他石料工艺品	tqi slta fdan onpl dgon rdyi kkkp	0
+其他手机饰品	tqi slta dsho xxji otys kkkp	0
+其他水晶工艺品	tqi slta cshu nnnj dgon rdyi kkkp	0
+其他陶瓷工艺品	tqi slta iaot nsoc dgon rdyi kkkp	0
+其他相框	tqi slta xjxi xifk	0
+其他钥匙扣	tqi slta zmya nghc dkko	0
+其他钟表	tqi slta zklz rybi	0
+其他字画	tqi slta phzi qbih	0
+青瓷工艺品	rmqi nsoc dgon rdyi kkkp	0
+日用挂摆饰	nri oyon dbbg dobj otys	0
+日用蜡烛	nri oyon ernl vezh	0
+软陶工艺品	gsru iaot dgon rdyi kkkp	0
+砂岩工艺品	fish ifya dgon rdyi kkkp	0
+闪光用品	pssh ihgu oyon kkkp	0
+山水盆景	isha cshu izop npij	5
+绳带扣	uknd rluy dkko	0
+石料工艺品	fdan onpl dgon rdyi kkkp	0
+饰品加工	otys kkkp okji dgon	0
+手机保护膜	dsho xxji skxb dphu mrns	0
+手机挂件	dsho xxji dbbg swji	10
+手机来电闪	dsho xxji x nddi pssh	0
+手机饰品	dsho xxji otys kkkp	0
+手机贴纸	dsho xxji avkt uhuz	2
+手机座	dsho xxji hssb	3
+树脂工艺品	xffs mhnz dgon rdyi kkkp	0
+水晶摆饰	cshu nnnj dobj otys	0
+水晶匙扣	cshu nnnj nghc dkko	0
+水晶工艺品	cshu nnnj dgon rdyi kkkp	0
+水晶内雕画	cshu nnnj usne ubke qbih	0
+水晶器皿	cshu nnnj kkwk omin	2
+水晶首饰	cshu nnnj gjsh otys	1
+塑料匙扣	gmbs onpl nghc dkko	0
+陶瓷工艺品	iaot nsoc dgon rdyi kkkp	2
+藤编工艺品	rmgc upur dgon rdyi kkkp	0
+天然工艺品	ntia mwvr dgon rdyi kkkp	0
+铁艺品	ztst rdyi kkkp	0
+铜雕	zukt ubke	9
+铜艺品	zukt rdyi kkkp	0
+微型盆景	giqf qrzb izop npij	0
+锡艺品	znyx rdyi kkkp	0
+熏香及熏香炉	lkiv onxi lvji lkiv onxi vplu	0
+烟花鞭炮	vksy rshh usqr vajb	5
+玉石首饰	fvyu fdan gjsh otys	0
+扎染工艺品	ddza coxr dgon rdyi kkkp	0
+针钩工艺品	zpzh zajg dgon rdyi kkkp	0
+纸制工艺品	uhuz wuzz dgon rdyi kkkp	0
+钟表配件	zklz rybi eqjp swji	0
+竹编工艺品	tzhu upur dgon rdyi kkkp	0
+竹木雕	tzhu xmu ubke	0
+竹木工艺品	tzhu xmu dgon rdyi kkkp	0
+装饰盒	tbyz otys skoh	2
+紫砂工艺品	ghuz fish dgon rdyi kkkp	0
+宗教工艺品	pvzo hhfj dgon rdyi kkkp	0
+钻石首饰	zvkz fdan gjsh otys	11
+拨号器	ddfv kkha kkwk	0
+布线产品	fybu uzxi gmch kkkp	0
+插卡电话机	dlbc vvka nddi llkh xxji	0
+触摸屏电话机	aoec drns hgrb nddi llkh xxji	0
+电话管理器	nddi llkh tpig fywl kkwk	0
+电话计费器	nddi llkh lpji xiaf kkwk	0
+电话机配附件	nddi llkh xxji eqjp isff swji	0
+电缆接线盒	nddi ujth dgaj uzxi skoh	0
+电脑接口线	nddi mlin dgaj kkou uzxi	0
+多功能电话机	nndu dogo j nddi llkh xxji	0
+二手通信器材	wer dsho jogt slxi kkwk xqlm	0
+二手通讯产品	wer dsho jogt ldpx gmch kkkp	0
+复用设备	tnff oyon lxfs fbbe	0
+光发射机	ihgu dfvf jfsh xxji	0
+光接收机	ihgu dgaj dlfs xxji	0
+光缆接头盒	ihgu ujth dgaj jtou skoh	0
+光衰减器	ihgu ykqs nzkj kkwk	2
+光纤波分复用器	ihgu ulqi cubo izfe tnff oyon kkwk	0
+光纤放大器	ihgu ulqi lffa sda kkwk	9
+光纤连接器	ihgu ulqi ggli dgaj kkwk	0
+光纤跳线	ihgu ulqi ghct uzxi	7
+红外线适配器	udho nvwa uzxi lkgs eqjp kkwk	0
+集团电话	exji kqlm nddi llkh	0
+接入设备	dgaj mvru lxfs fbbe	34
+接续设备	dgaj updj lxfs fbbe	0
+卡备份器	vvka fbbe sizf kkwk	1
+可视电话机	okke vuhs nddi llkh xxji	0
+库存通信器材	hgku flhc jogt slxi kkwk xqlm	0
+库存通讯产品	hgku flhc jogt ldpx gmch kkkp	0
+来电显示电话机	x nddi nrxi vshi nddi llkh xxji	0
+来电显示器	x nddi nrxi vshi kkwk	0
+理线架	fywl uzxi okxj	2
+录音电话机	fclu gnyi nddi llkh xxji	0
+迷你造型电话	ogmi s wkgz qrzb nddi llkh	0
+普通电话机	grnp jogt nddi llkh xxji	1
+汽车天线	cnqi gche ntia uzxi	0
+其他布线产品	tqi slta fybu uzxi gmch kkkp	0
+其他传输	tqi slta such gsmz	0
+其他电话机配附件	tqi slta nddi llkh xxji eqjp isff swji	0
+其他电话卡	tqi slta nddi llkh vvka	0
+其他固定电话	tqi slta kmgu pqgd nddi llkh	0
+其他接续设备	tqi slta dgaj updj lxfs fbbe	0
+其他频率元件	tqi slta ggfa lucp qhyu swji	0
+其他天线	tqi slta ntia uzxi	0
+其他通信线缆	tqi slta jogt slxi uzxi ujth	0
+其他移动电话	tqi slta onny nodo nddi llkh	0
+其他移动电话配附件	tqi slta onny nodo nddi llkh eqjp isff swji	0
+声讯系统	bhls ldpx muji uljh	0
+手机按键	dsho xxji dpaa zfdg	8
+手机充电器	dsho xxji ljhc nddi kkwk	60
+手机读卡器	dsho xxji lpdj vvka kkwk	5
+手机耳机	dsho xxji jer xxji	0
+手机连接器	dsho xxji ggli dgaj kkwk	1
+手机免提设备	dsho xxji akhm dngd lxfs fbbe	0
+手机模型	dsho xxji xrns qrzb	0
+手机双卡通	dsho xxji ffsh vvka jogt	0
+手机天线	dsho xxji ntia uzxi	13
+手机外壳	dsho xxji nvwa buxk	20
+手机显示屏	dsho xxji nrxi vshi hgrb	9
+手机转接头	dsho xxji guzh dgaj jtou	0
+收音机天线	dlfs gnyi xxji ntia uzxi	3
+跳线架	ghct uzxi okxj	0
+通信器材代理	jogt slxi kkwk xqlm suda fywl	0
+通信天线	jogt slxi ntia uzxi	20
+通信线缆	jogt slxi uzxi ujth	2
+通讯产品代理	jogt ldpx gmch kkkp suda fywl	0
+通讯产品加工	jogt ldpx gmch kkkp okji dgon	0
+通讯电缆	jogt ldpx nddi ujth	3
+通讯终端	jogt ldpx ufnz gild	7
+投币电话机	dxft mybi nddi llkh xxji	1
+网络测试设备	urrw ufkl cazc luds lxfs fbbe	0
+网络电话机	urrw ufkl nddi llkh xxji	0
+网络机柜	urrw ufkl xxji xiig	5
+卫星移动电话	jqwe nhxi onny nodo nddi llkh	0
+无线固话	whmo uzxi kmgu llkh	0
+无线网络设备	whmo uzxi urrw ufkl lxfs fbbe	3
+线扣	uzxi dkko	1
+信息面板	slxi jjxi lemi xhfb	16
+移动电话配附件	onny nodo nddi llkh eqjp isff swji	0
+语音传真网关	ltky gnyi such ptiz urrw gsgu	0
+中框	k xifk	132
+半挂牵引车	idba dbbg suwq xlyi gche	5
+保温车	skxb cnow gche	0
+边三轮摩托车	ogbi esan gshl hxdm dmut gche	2
+仓储货架	sjca slhn shah okxj	1
+仓储笼	sjca slhn twml	0
+船舶专用配件	gxkc gcbo uzhu oyon eqjp swji	0
+船用发动机配件	gxkc oyon dfvf nodo xxji eqjp swji	0
+船用五金配件	gxkc oyon twu zjin eqjp swji	0
+登车桥	gode gche xmsi	0
+电动车电机	nddi nodo gche nddi xxji	8
+电动车控制器	nddi nodo gche dpdk wuzz kkwk	5
+堆高车	bedu pukg gche	0
+二手船舶	wer dsho gxkc gcbo	0
+二手交通工具	wer dsho yrji jogt dgon tiju	0
+二手摩托车	wer dsho hxdm dmut gche	6
+二手物流设备	wer dsho wywu cljc lxfs fbbe	0
+非机动车配件	efei xxji nodo gche eqjp swji	0
+飞机及配件	efei xxji lvji eqjp swji	0
+粉粒物料运输车	oizf ogli wywu onpl ngyu gsmz gche	0
+轨道交通设备器材	gogu gjgd yrji jogt lxfs fbbe kkwk xqlm	0
+航道设施	glxh gjgd lxfs ltls	0
+护角	dphu aoji	4
+混凝土搅拌车	cnhh nhtg btu diuh didb gche	5
+集装袋	exji tbyz suyd	0
+集装桶	exji tbyz xjot	0
+集装整理设备	exji tbyz xkfg fywl lxfs fbbe	0
+加油站设备	okji cbyo gvkz lxfs fbbe	0
+交通工具代理	yrji jogt dgon tiju suda fywl	0
+交通工具项目合作	yrji jogt dgon tiju dfax jmu skge stlw	0
+交通配套设施	yrji jogt eqjp suta lxfs ltls	0
+交通运输产品加工	yrji jogt ngyu gsmz gmch kkkp okji dgon	0
+交通运输工具	yrji jogt ngyu gsmz dgon tiju	14
+库存交通工具	hgku flhc yrji jogt dgon tiju	0
+两轮摩托车	quss gshl hxdm dmut gche	2
+旅居车	ltmy hmju gche	11
+锚绳	zrbm uknd	2
+其他仓储设备	tqi slta sjca slhn lxfs fbbe	0
+其他船舶专用配件	tqi slta gxkc gcbo uzhu oyon eqjp swji	0
+其他二手交通工具	tqi slta wer dsho yrji jogt dgon tiju	0
+其他非机动车	tqi slta efei xxji nodo gche	0
+其他非机动车配件	tqi slta efei xxji nodo gche eqjp swji	0
+其他集装整理设备	tqi slta exji tbyz xkfg fywl lxfs fbbe	0
+其他类型专用汽车	tqi slta osle qrzb uzhu oyon cnqi gche	0
+其他摩托车	tqi slta hxdm dmut gche	0
+其他起重装卸设备	tqi slta gjqi lnwc tbyz tqgj lxfs fbbe	0
+其他商用车	tqi slta yuik oyon gche	0
+其他通用输送设备	tqi slta jogt oyon gsmz gsgs lxfs fbbe	0
+其他物流辅助器材	tqi slta wywu cljc gbfu tozh kkwk xqlm	0
+其他运输搬运设备	tqi slta ngyu gsmz dgxf ngyu lxfs fbbe	0
+其他专用汽车	tqi slta uzhu oyon cnqi gche	0
+起重装卸设备	gjqi lnwc tbyz tqgj lxfs fbbe	0
+轻便摩托车	gcdq sqnr hxdm dmut gche	9
+调速转把	lubk xkgs guzh dwba	0
+停车场设备	spuo gche bdmm lxfs fbbe	2
+通用输送设备	jogt oyon gsmz gsgs lxfs fbbe	0
+物流辅助器材	wywu cljc gbfu tozh kkwk xqlm	0
+物流管理软件	wywu cljc tpig fywl gsru swji	2
+物流手推车	wywu cljc dsho detu gche	0
+物流台车	wywu cljc jkta gche	0
+液罐车	clsv orke gche	0
+液化气运输车	clsv shhu nqi ngyu gsmz gche	0
+运输搬运设备	ngyu gsmz dgxf ngyu lxfs fbbe	0
+闸把	pyzh dwba	1
+正三轮摩托车	gzhe esan gshl hxdm dmut gche	0
+办公用纸	oiba ijgo oyon uhuz	3
+板纸	xhfb uhuz	3
+包装用纸	ajba tbyz oyon uhuz	1
+杯纸	xibe uhuz	1
+草浆	rnca tncj	16
+抄纸助剂	dich uhuz tozh lizj	0
+电容器纸	nddi pskr kkwk uhuz	0
+二手造纸设备	wer dsho wkgz uhuz lxfs fbbe	0
+二手纸加工设备	wer dsho uhuz okji dgon lxfs fbbe	0
+防锈纸	ilfa zolx uhuz	0
+废纸浆	hdfv uhuz tncj	2
+分纸机	izfe uhuz xxji	0
+工业用纸	dgon rye oyon uhuz	0
+硅油纸	fbbg cbyo uhuz	21
+鸡皮纸	feji upi uhuz	0
+卷烟用纸	gsjj vksy oyon uhuz	0
+绝缘纸	uawj uwwy uhuz	3
+淋膜纸	cxli mrns uhuz	0
+其他办公用纸	tqi slta oiba ijgo oyon uhuz	0
+其他包装用纸	tqi slta ajba tbyz oyon uhuz	0
+其他工业用纸	tqi slta dgon rye oyon uhuz	0
+其他生活用纸	tqi slta hshe clkh oyon uhuz	0
+其他用途纸	tqi slta oyon sxgt uhuz	0
+其他造纸化学品	tqi slta wkgz uhuz shhu iuhx kkkp	0
+其他纸加工机械	tqi slta uhuz okji dgon xxji xzrx	0
+其他纸浆	tqi slta uhuz tncj	0
+生活用纸	hshe clkh oyon uhuz	25
+收银纸	dlfs zfyy uhuz	0
+碳素纸	fifv rusu uhuz	0
+涂布剂	csxt fybu lizj	0
+涂布助剂	csxt fybu tozh lizj	0
+瓦楞原纸	owa xoll hciy uhuz	0
+造纸化学品	wkgz uhuz shhu iuhx kkkp	1
+造纸设备及配件	wkgz uhuz lxfs fbbe lvji eqjp swji	0
+造纸原料及助剂	wkgz uhuz hciy onpl lvji tozh lizj	0
+纸成型机械	uhuz z qrzb xxji xzrx	0
+纸袋纸	uhuz suyd uhuz	3
+纸及纸品代理	uhuz lvji uhuz kkkp suda fywl	0
+纸及纸品项目合作	uhuz lvji uhuz kkkp dfax jmu skge stlw	0
+纸加工	uhuz okji dgon	0
+纸加工机械	uhuz okji dgon xxji xzrx	0
+制浆助剂	wuzz tncj tozh lizj	0
+纸类设备及服务	uhuz osle lxfs fbbe lvji mjff fowu	0
+纸品加工	uhuz kkkp okji dgon	1
+板弹簧	xhfb xiod trbi	0
+抱箍	dajb tdiy	0
+扁嘴钳	purb kgho zrwq	0
+剥线钳	fczb uzxi zrwq	5
+布轮	fybu gshl	1
+裁缝剪	pzyc ufeg gmzz	0
+插齿刀	dlbc jchi zdao	0
+成型模	z qrzb xrns	0
+齿轮刀具	jchi gshl zdao tiju	2
+齿轮加工	jchi gshl okji dgon	2
+冲压模	nklc hbvy xrns	1
+厨用刀	hofc oyon zdao	2
+伺服阀	sdkc mjff pszf	1
+打孔钳	doda hdko zrwq	0
+大力钳	sda oli zrwq	0
+单头呆扳手	ioch jtou kxda dhfb dsho	0
+刀带	zdao rluy	0
+刀杆	zdao xyga	11
+导套	jfda suta	0
+电池钳	nddi clch zrwq	0
+电动扳手	nddi nodo dhfb dsho	2
+电动雕刻机	nddi nodo ubke lzke xxji	0
+电动坡口机	nddi nodo bupo kkou xxji	0
+电动砂轮机	nddi nodo fish gshl xxji	0
+电动套丝机	nddi nodo suta usi xxji	0
+电工刀	nddi dgon zdao	1
+电工钳	nddi dgon zrwq	2
+电焊钳	nddi vnyh zrwq	0
+电剪刀	nddi gmzz zdao	0
+电缆钳	nddi ujth zrwq	0
+电子五金件	nddi hzi twu zjin swji	0
+碟形弹簧	frdx qrux xiod trbi	0
+斗齿	npdo jchi	1
+断线钳	odxd uzxi zrwq	0
+锻造模	zrxf wkgz xrns	0
+多功能刀钳	nndu dogo j zdao zrwq	0
+多用扳手	nndu oyon dhfb dsho	0
+多用螺丝刀	nndu oyon ebul usi zdao	0
+二手电动工具	wer dsho nddi nodo dgon tiju	0
+防爆工具	ilfa vnrc dgon tiju	0
+非标零件加工	efei xvbi nmvl swji okji dgon	0
+分度盘	izfe hrfd gopa	0
+分度头	izfe hrfd jtou	0
+粉末冶金模	oizf xmo njky zjin xrns	0
+钢锉	zurg zssb	9
+钢镐	zurg zpuk	0
+钢号码	zurg kkha fwma	0
+钢锯架	zurg zhmj okxj	0
+钢丝轮	zurg usi gshl	1
+割炬	pelz viij	0
+工装夹具	dgon tbyz sgga tiju	5
+钩形扳手	zajg qrux dhfb dsho	0
+管类加工	tpig osle okji dgon	0
+管螺纹丝锥	tpig ebul ulwe usi zezh	0
+观赏刀具	fuhg iash zdao tiju	0
+管子扳手	tpig hzi dhfb dsho	0
+管子割刀	tpig hzi pelz zdao	0
+光饰机	ihgu otys xxji	0
+滚筒刷	cyij tukt hyzs	7
+海绵轮	ctah ucym gshl	0
+海绵刷	ctah ucym hyzs	4
+焊接材料与附件	vnyh dgaj xqlm onpl wdyu isff swji	0
+焊炬	vnyh viij	2
+胡桃钳	mmhu xhct zrwq	0
+划线器	zzhu uzxi kkwk	1
+回火防止器	khui vhuo ilfa gzhi kkwk	0
+机床刀架	xxji hxch zdao okxj	0
+机床垫铁	xxji hxch dobd ztst	0
+机床附件	xxji hxch isff swji	1
+机床护罩	xxji hxch dphu ovnz	0
+机床减震装置	xxji hxch nzkj nnzh tbyz optz	0
+机床接杆	xxji hxch dgaj xyga	0
+机床丝杆	xxji hxch usi xyga	0
+机床用虎钳	xxji hxch oyon wxhu zrwq	0
+机床主轴	xxji hxch vfzh gbzh	1
+机械零部件加工	xxji xzrx nmvl gkib swji okji dgon	0
+机械密封件	xxji xzrx pjmi bbff swji	0
+机械五金件	xxji xzrx twu zjin swji	0
+机用刀片	xxji oyon zdao tpia	0
+机用锯片	xxji oyon zhmj tpia	0
+机用锯条	xxji oyon zhmj fxti	0
+家用剪	pwji oyon gmzz	0
+剪切类气动工具	gmzz uzqi osle nqi nodo dgon tiju	0
+建筑装饰五金	fdgj tdxz tbyz otys twu zjin	0
+铰板	zyrj xhfb	0
+角磨机	aoji hxfm xxji	21
+紧线钳	jfuj uzxi zrwq	0
+锯锉	zhmj zssb	3
+卡簧钳	vvka trbi zrwq	0
+卡圈	vvka kgsj	17
+孔加工	hdko okji dgon	2
+库存五金	hgku flhc twu zjin	0
+快速经济模具	jisk xkgs ucdj clij xrns tiju	0
+拉刀	dgla zdao	4
+拉铆枪	dgla zhmj xsjq	0
+拉丝模	dgla usi xrns	0
+烙铁咀	vfkl ztst ktju	0
+冷压接钳	nmvl hbvy dgaj zrwq	0
+冷轧线钳	nmvl gdya uzxi zrwq	0
+理发剪	fywl dfvf gmzz	4
+鲤鱼钳	qywl qyu zrwq	0
+螺纹刀具	ebul ulwe zdao tiju	0
+密封垫圈	pjmi bbff dobd kgsj	6
+密封垫片	pjmi bbff dobd tpia	4
+磨块	hxfm bisk	3
+磨抛光电动工具	hxfm doop ihgu nddi nodo dgon tiju	0
+磨片	hxfm tpia	11
+木工锉	xmu dgon zssb	1
+木工雕刻机	xmu dgon ubke lzke xxji	0
+木工锯	xmu dgon zhmj	1
+木工修边机	xmu dgon slfu ogbi xxji	0
+模具标准件	xrns tiju xvbi nezh swji	0
+模具设备	xrns tiju lxfs fbbe	0
+内四方扳手	usne rsi lfan dhfb dsho	0
+扭力扳手	ddbn oli dhfb dsho	9
+扭转弹簧	ddbn guzh xiod trbi	0
+抛光刷	doop ihgu hyzs	1
+喷涂工具	kpra csxt dgon tiju	2
+片弹簧	tpia xiod trbi	0
+瓶阀	grop pszf	1
+普通螺纹丝锥	grnp jogt ebul ulwe usi zezh	0
+气动铲	nqi nodo zgmc	0
+气动接头	nqi nodo dgaj jtou	0
+气割器材	nqi pelz kkwk xqlm	0
+其他扳手	tqi slta dhfb dsho	0
+其他锉	tqi slta zssb	0
+其他刀	tqi slta zdao	0
+其他刀具	tqi slta zdao tiju	0
+其他电子五金件	tqi slta nddi hzi twu zjin swji	0
+其他焊接材料与附件	tqi slta vnyh dgaj xqlm onpl wdyu isff swji	0
+其他机床附件	tqi slta xxji hxch isff swji	0
+其他机械零部件加工	tqi slta xxji xzrx nmvl gkib swji okji dgon	0
+其他剪	tqi slta gmzz	0
+其他紧固件	tqi slta jfuj kmgu swji	0
+其他锯	tqi slta zhmj	0
+其他类型钳工工具	tqi slta osle qrzb zrwq dgon dgon tiju	0
+其他螺丝刀	tqi slta ebul usi zdao	0
+其他密封件	tqi slta pjmi bbff swji	0
+其他磨具	tqi slta hxfm tiju	0
+其他磨料	tqi slta hxfm onpl	1
+其他磨抛光电动工具	tqi slta hxfm doop ihgu nddi nodo dgon tiju	0
+其他农用工具	tqi slta uyno oyon dgon tiju	0
+其他气动工具	tqi slta nqi nodo dgon tiju	0
+其他气动元件	tqi slta nqi nodo qhyu swji	0
+其他气焊	tqi slta nqi vnyh	0
+其他钳工工具	tqi slta zrwq dgon dgon tiju	0
+其他钳子	tqi slta zrwq hzi	0
+其他切削电动工具	tqi slta uzqi imzx nddi nodo dgon tiju	0
+其他刷	tqi slta hyzs	0
+其他丝锥	tqi slta usi zezh	0
+其他弹簧	tqi slta xiod trbi	0
+其他通用五金配件	tqi slta jogt oyon twu zjin eqjp swji	0
+其他液压元件	tqi slta clsv hbvy qhyu swji	0
+其他轴承	tqi slta gbzh hecc	0
+其他装配电动工具	tqi slta tbyz eqjp nddi nodo dgon tiju	0
+气源处理器	nqi chci fvch fywl kkwk	0
+铅封钳	zxkq bbff zrwq	0
+壳体加工	buxk sxti okji dgon	0
+切刀	uzqi zdao	192
+切割片	uzqi pelz tpia	0
+切削电动工具	uzqi imzx nddi nodo dgon tiju	0
+曲线锯条	krqu uzxi zhmj fxti	0
+人造磨料	sren wkgz hxfm onpl	0
+砂带	fish rluy	6
+砂带机	fish rluy xxji	4
+石材切割机	fdan xqlm uzqi pelz xxji	0
+十字扳手	pshi phzi dhfb dsho	0
+十字螺丝刀	pshi phzi ebul usi zdao	15
+手动工具	dsho nodo dgon tiju	10
+手用锯条	dsho oyon zhmj fxti	0
+数控刀具	oafs dpdk zdao tiju	2
+双头呆扳手	ffsh jtou kxda dhfb dsho	0
+水泵钳	cshu fcbe zrwq	0
+丝锥扳手	usi zezh dhfb dsho	0
+丝锥板牙套装	usi zezh xhfb jya suta tbyz	0
+台钻	jkta zvkz	5
+镗刀	zibt zdao	0
+套筒扳手	suta tukt dhfb dsho	3
+套装电动工具	suta tbyz nddi nodo dgon tiju	0
+剃齿刀	ixlz jchi zdao	0
+天然磨料	ntia mwvr hxfm onpl	0
+铁皮剪	ztst upi gmzz	0
+通用五金配件	jogt oyon twu zjin eqjp swji	0
+推力滚子轴承	detu oli cyij hzi gbzh hecc	0
+推力球轴承	detu oli fqcv gbzh hecc	0
+托辊	dmut gnhg	0
+拖链	dtlt zggl	1
+弯管器	lvxw tpig kkwk	1
+弯嘴钳	lvxw kgho zrwq	0
+涡卷弹簧	ckus gsjj xiod trbi	0
+五金工具代理	twu zjin dgon tiju suda fywl	0
+五金工具加工	twu zjin dgon tiju okji dgon	0
+五金工具项目合作	twu zjin dgon tiju dfax jmu skge stlw	0
+五金配附件	twu zjin eqjp isff swji	0
+橡胶模	xakw myrj xrns	0
+向心滚子轴承	mukx jxin cyij hzi gbzh hecc	0
+向心球轴承	mukx jxin fqcv gbzh hecc	0
+斜嘴钳	sxnp kgho zrwq	0
+型扳手	qrzb dhfb dsho	1
+型材切割机	qrzb xqlm uzqi pelz xxji	0
+鸭嘴钳	yeya kgho zrwq	2
+页轮	faye gshl	0
+页片	faye tpia	13
+液压管件	clsv hbvy tpig swji	0
+液压接头	clsv hbvy dgaj jtou	0
+野营刀具	ywfy rukk zdao tiju	0
+乙炔发生器	dyi visq dfvf hshe kkwk	1
+异形锉	jryi qrux zssb	0
+一字螺丝刀	q phzi ebul usi zdao	8
+圆盘刷	kkay gopa hyzs	0
+圆嘴钳	kkay kgho zrwq	0
+直线运动轴承	ptzh uzxi ngyu nodo gbzh hecc	0
+轴承附属件	gbzh hecc isff hmkw swji	0
+轴承加工	gbzh hecc okji dgon	0
+轴类加工	gbzh osle okji dgon	0
+铸造模	zemf wkgz xrns	0
+抓钩	dezh zajg	76
+装配电动工具	tbyz eqjp nddi nodo dgon tiju	0
+装配类气动工具	tbyz eqjp osle nqi nodo dgon tiju	0
+组合扳手	utzu skge dhfb dsho	0
+组合工具	utzu skge dgon tiju	0
+组合螺丝刀	utzu skge ebul usi zdao	0
+钻套	zvkz suta	17
+座钻	hssb zvkz	0
+伴热设备	sidb dovr lxfs fbbe	0
+波段开关	cubo rxfd qrka gsgu	0
+触控产品	aoec dpdk gmch kkkp	0
+船型开关	gxkc qrzb qrka gsgu	0
+伺服定位系统	sdkc mjff pqgd sgwe muji uljh	0
+倒顺开关	sqjz cfas qrka gsgu	1
+低压接触器	shuv hbvy dgaj aoec kkwk	0
+低压开关柜	shuv hbvy qrka gsgu xiig	23
+低压控制器	shuv hbvy dpdk wuzz kkwk	0
+低压熔断器	shuv hbvy vpsk odxd kkwk	0
+电池充电器	nddi clch ljhc nddi kkwk	8
+电动车充电器	nddi nodo gche ljhc nddi kkwk	23
+电动车用电动机	nddi nodo gche oyon nddi nodo xxji	0
+电动工具开关	nddi nodo dgon tiju qrka gsgu	0
+电动工具用电动机	nddi nodo dgon tiju oyon nddi nodo xxji	0
+电动机保护器	nddi nodo xxji skxb dphu kkwk	1
+电工电气产品代理	nddi dgon nddi nqi gmch kkkp suda fywl	0
+电工电气产品加工	nddi dgon nddi nqi gmch kkkp okji dgon	0
+电工电气项目合作	nddi dgon nddi nqi dfax jmu skge stlw	0
+电工设备	nddi dgon lxfs fbbe	0
+电缆连接器	nddi ujth ggli dgaj kkwk	0
+电脑连接器	nddi mlin ggli dgaj kkwk	0
+电气设备用电缆	nddi nqi lxfs fbbe oyon nddi ujth	0
+电热带	nddi dovr rluy	0
+电热盘	nddi dovr gopa	8
+电热片	nddi dovr tpia	0
+电热圈	nddi dovr kgsj	0
+电热设备	nddi dovr lxfs fbbe	0
+电热线	nddi dovr uzxi	1
+电源连接器	nddi chci ggli dgaj kkwk	0
+电子工业用助剂	nddi hzi dgon rye oyon tozh lizj	0
+端子台	gild hzi jkta	0
+二手电工电气产品	wer dsho nddi dgon nddi nqi gmch kkkp	0
+发热盘	dfvf dovr gopa	35
+发热芯	dfvf dovr rjxi	0
+浮球开关	cehf fqcv qrka gsgu	0
+高压成套电器	pukg hbvy z suta nddi kkwk	0
+高压断路器	pukg hbvy odxd gfkl kkwk	6
+高压接触器	pukg hbvy dgaj aoec kkwk	0
+高压开关柜	pukg hbvy qrka gsgu xiig	3
+高压熔断器	pukg hbvy vpsk odxd kkwk	0
+工控系统及装备	dgon dpdk muji uljh lvji tbyz fbbe	0
+工业电气	dgon rye nddi nqi	1
+工业烤箱	dgon rye vhkk txjx	0
+光电开关	ihgu nddi qrka gsgu	0
+硅碳棒	fbbg fifv xesd	0
+机械设备用电动机	xxji xzrx lxfs fbbe oyon nddi nodo xxji	0
+家电用电动机	pwji nddi oyon nddi nodo xxji	0
+接线座	dgaj uzxi hssb	0
+矩形连接器	tiij qrux ggli dgaj kkwk	0
+绝缘导线	uawj uwwy jfda uzxi	11
+库存电工电气产品	hgku flhc nddi dgon nddi nqi gmch kkkp	0
+流量开关	cljc nywl qrka gsgu	1
+裸电线	ynxl nddi uzxi	0
+钮子开关	zdbn hzi qrka gsgu	0
+排母	depa amu	0
+排针	depa zpzh	7
+汽车连接器	cnqi gche ggli dgaj kkwk	0
+起动器	gjqi nodo kkwk	2
+其他充电器	tqi slta ljhc nddi kkwk	0
+其他低压电器	tqi slta shuv hbvy nddi kkwk	0
+其他电动机	tqi slta nddi nodo xxji	0
+其他电热设备	tqi slta nddi dovr lxfs fbbe	0
+其他电线	tqi slta nddi uzxi	7
+其他高压电器	tqi slta pukg hbvy nddi kkwk	0
+其他工控系统及装备	tqi slta dgon dpdk muji uljh lvji tbyz fbbe	0
+其他开关	tqi slta qrka gsgu	0
+其他连接器	tqi slta ggli dgaj kkwk	0
+墙壁开关	bpgk hkgb qrka gsgu	34
+熔锡炉	vpsk znyx vplu	0
+射频同轴连接器	jfsh ggfa ukto gbzh ggli dgaj kkwk	0
+视频连接器	vuhs ggfa ggli dgaj kkwk	0
+实验电炉	pjsh wsya nddi vplu	0
+特殊电机	wbft jmxs nddi xxji	0
+调速开关	lubk xkgs qrka gsgu	0
+条形连接器	fxti qrux ggli dgaj kkwk	0
+微型电动机	giqf qrzb nddi nodo xxji	0
+压力开关	hbvy oli qrka gsgu	3
+印刷板连接器	hqjy hyzs xhfb ggli dgaj kkwk	0
+应急充电器	hiqy afjj ljhc nddi kkwk	1
+圆形连接器	kkay qrux ggli dgaj kkwk	0
+振动盘	dnzh nodo gopa	1
+主令电器	vfzh mvli nddi kkwk	0
+按摩用品	dpaa hxdm oyon kkkp	1
+办公沙发	oiba ijgo cish dfvf	2
+办公台	oiba ijgo jkta	1
+抱带	dajb rluy	0
+保温壶	skxb cnow burh	52
+保温容器	skxb cnow pskr kkwk	1
+彩妆化学品	exuc tazh shhu iuhx kkkp	0
+餐具附件	vnfo tiju isff swji	0
+餐厅家具	vnfo hoti pwji tiju	6
+厕所刷	hazc hixs hyzs	1
+厨房清洁剂	hofc plfa crmq cbkj lizj	2
+除毛	isxc umao	26
+炊具配件	vsch tiju eqjp swji	0
+打火机及烟具	doda vhuo xxji lvji vksy tiju	0
+打火机配件	doda vhuo xxji eqjp swji	0
+地柜	b xiig	185
+电灶具	nddi vbza tiju	0
+定型水	pqgd qrzb cshu	1
+儿童护肤品	her gywt dphu mwsf kkkp	0
+儿童家具	her gywt pwji tiju	98
+防蛀用品	ilfa evfz oyon kkkp	0
+缝纫编织	ufeg uzvr upur ukiz	0
+丰胸化学品	elfe mari shhu iuhx kkkp	0
+个人护理用具	t sren dphu fywl oyon tiju	0
+公共场所家具	ijgo rigo bdmm hixs pwji tiju	0
+锅刷	zkus hyzs	14
+护肤膏霜	dphu mwsf pukm nxjs	0
+护肤乳液	dphu mwsf ehdr clsv	3
+会客椅	snhu pfkk xsok	0
+家具配件附件	pwji tiju eqjp swji isff swji	0
+家居清洗用品	pwji hmju crmq cwhx oyon kkkp	0
+家居用品代理	pwji hmju oyon kkkp suda fywl	0
+家居用品加工	pwji hmju oyon kkkp okji dgon	0
+家居用品项目合作	pwji hmju oyon kkkp dfax jmu skge stlw	0
+家用玻璃制品	pwji oyon fubo fliw wuzz kkkp	0
+家用衡器	pwji oyon gqsg kkwk	0
+家用金属制品	pwji oyon zjin hmkw wuzz kkkp	0
+家用陶瓷	pwji oyon iaot nsoc	0
+家用竹	pwji oyon tzhu	0
+金属打火机	zjin hmkw doda vhuo xxji	0
+揩布	dhck fybu	0
+客厅茶几	pfkk hoti rsxc xji	20
+口腔清爽剂	kkou mpdq crmq srrr lizj	0
+口腔用化学品	kkou mpdq oyon shhu iuhx kkkp	0
+口腔用具	kkou mpdq oyon tiju	0
+库存家居用品	hgku flhc pwji hmju oyon kkkp	0
+毛发用化学品	umao dfvf oyon shhu iuhx kkkp	0
+美容材料及用具	wsme pskr xqlm onpl lvji oyon tiju	0
+美容仪器	wsme pskr svry kkwk	35
+门厅家具	pmen hoti pwji tiju	1
+内嵌式燃气灶具	usne irws udsh vmwv nqi vbza tiju	0
+尿垫	hcni dobd	16
+皮肤用化学品	upi mwsf oyon shhu iuhx kkkp	0
+瓶刷	grop hyzs	0
+平台式燃气灶具	yipi jkta udsh vmwv nqi vbza tiju	0
+其他办公家具	tqi slta oiba ijgo pwji tiju	1
+其他保温容器	tqi slta skxb cnow pskr kkwk	0
+其他彩妆化学品	tqi slta exuc tazh shhu iuhx kkkp	0
+其他餐具	tqi slta vnfo tiju	1
+其他餐厅家具	tqi slta vnfo hoti pwji tiju	0
+其他厨房用纺织品	tqi slta hofc plfa oyon ulfa ukiz kkkp	0
+其他厨具	tqi slta hofc tiju	7
+其他床上用品	tqi slta hxch v oyon kkkp	0
+其他炊具	tqi slta vsch tiju	0
+其他打火机及烟具	tqi slta doda vhuo xxji lvji vksy tiju	0
+其他儿童家具	tqi slta her gywt pwji tiju	0
+其他芳香除臭化学品	tqi slta rlfa onxi isxc jwch shhu iuhx kkkp	0
+其他个人护理用具	tqi slta t sren dphu fywl oyon tiju	0
+其他家居清洗用品	tqi slta pwji hmju crmq cwhx oyon kkkp	0
+其他客厅家具	tqi slta pfkk hoti pwji tiju	0
+其他口腔用化学品	tqi slta kkou mpdq oyon shhu iuhx kkkp	0
+其他毛发用化学品	tqi slta umao dfvf oyon shhu iuhx kkkp	0
+其他门厅家具	tqi slta pmen hoti pwji tiju	0
+其他皮肤用化学品	tqi slta upi mwsf oyon shhu iuhx kkkp	0
+其他清洁用具	tqi slta crmq cbkj oyon tiju	0
+其他驱虫灭害化学品	tqi slta wirq echo qvmi pelk shhu iuhx kkkp	0
+其他卧室家具	tqi slta jvwo pqjb pwji tiju	1
+其他箱包	tqi slta txjx ajba	0
+其他学校家具	tqi slta iuhx xyrj pwji tiju	0
+其他婴儿用品	tqi slta aaay her oyon kkkp	0
+其他雨具	tqi slta nyu tiju	0
+其他灶具	tqi slta vbza tiju	0
+其他装饰用纺织品	tqi slta tbyz otys oyon ulfa ukiz kkkp	0
+驱虫灭害化学品	wirq echo qvmi pelk shhu iuhx kkkp	0
+祛臭液	vbjq jwch clsv	0
+驱蚊用品	wirq elwe oyon kkkp	4
+驱蝇用品	wirq eknd oyon kkkp	0
+日化用品	nri shhu oyon kkkp	43
+乳房护理	ehdr plfa dphu fywl	0
+伞附属品	sips isff hmkw kkkp	0
+杀鼠用品	rxsh wshu oyon kkkp	0
+杀蟑用品	rxsh egnz oyon kkkp	0
+食堂餐桌椅	oshi ibta vnfo vnxz xsok	0
+视听柜	vuhs kxti xiig	1
+瘦身化学品	hblf jshe shhu iuhx kkkp	0
+书房家具	ddlv plfa pwji tiju	4
+塑料打火机	gmbs onpl doda vhuo xxji	5
+烫发剂	cdmv dfvf lizj	8
+剃须膏	ixlz ufax pukm	89
+童椅	gywt xsok	3
+童桌	gywt vnxz	0
+头发护理	jtou dfvf dphu fywl	35
+围兜	kddw chih	17
+卫生间清洁剂	jqwe hshe pnji crmq cbkj lizj	0
+卫浴用具	jqwe cisk oyon tiju	4
+西餐刀叉	exi vnfo zdao fvch	4
+洗衣刷	cwhx yyi hyzs	0
+箱包配件	txjx ajba eqjp swji	0
+鞋套机	ubbx suta xxji	3
+学生床	iuhx hshe hxch	0
+学校家具	iuhx xyrj pwji tiju	0
+烟灰缸袋	vksy fvhu odga suyd	0
+衣帽刷	yyi ynjm hyzs	0
+衣物柔顺剂	yyi wywu fmxr cfas lizj	4
+婴儿睡袋	aaay her jlrw suyd	14
+浴缸刷	cisk odga hyzs	0
+阅览室桌椅	pikh jtuh pqjb vnxz xsok	0
+灶具配件	vbza tiju eqjp swji	0
+指甲修护	dhnz yjia slfu dphu	0
+职员椅	jkiz kayu xsok	2
+组合产品	utzu skge gmch kkkp	0
+坐具套	ssbz tiju suta	0
+安全相关软件	paan sfqu xjxi gsgu gsru swji	1
+编程开发软件	upur okfc qrka dfvf gsru swji	2
+便携式碟机	sqnr delx udsh frdx xxji	0
+财务管理软件	aqlm fowu tpig fywl gsru swji	8
+插卡类	dlbc vvka osle	0
+打印机耗材	doda hqjy xxji ouha xqlm	7
+打印机配件	doda hqjy xxji eqjp swji	0
+等离子显示器	tbfd liwl hzi nrxi vshi kkwk	1
+电脑产品代理	nddi mlin gmch kkkp suda fywl	0
+电脑产品加工	nddi mlin gmch kkkp okji dgon	0
+电脑产品制造设备	nddi mlin gmch kkkp wuzz wkgz lxfs fbbe	0
+电脑读卡器	nddi mlin lpdj vvka kkwk	0
+电脑加密锁	nddi mlin okji pjmi zias	0
+电脑相关用品	nddi mlin xjxi gsgu oyon kkkp	0
+电脑项目合作	nddi mlin dfax jmu skge stlw	0
+电脑用品及外设	nddi mlin oyon kkkp lvji nvwa lxfs	0
+电脑游戏周边产品	nddi mlin clth fzxi ubkz ogbi gmch kkkp	0
+二手电脑及配件	wer dsho nddi mlin lvji eqjp swji	0
+二手电子加工设备	wer dsho nddi hzi okji dgon lxfs fbbe	0
+防辐用品	ilfa gkbf oyon kkkp	0
+工控电脑产品	dgon dpdk nddi mlin gmch kkkp	0
+光纤设备	ihgu ulqi lxfs fbbe	1
+轨迹球鼠标	gogu lvgj fqcv wshu xvbi	4
+行业专用软件	ggha rye uzhu oyon gsru swji	0
+绘图机	usnh kfnt xxji	0
+机械鼠标	xxji xzrx wshu xvbi	5
+教育教学软件	hhfj ljmy hhfj iuhx gsru swji	0
+客户管理软件	pfkk phu tpig fywl gsru swji	7
+刻字机	lzke phzi xxji	0
+库存电脑产品	hgku flhc nddi mlin gmch kkkp	0
+墨盒水	vbmo skoh cshu	0
+其他插卡类	tqi slta dlbc vvka osle	0
+其他打印机	tqi slta doda hqjy xxji	0
+其他打印机耗材	tqi slta doda hqjy xxji ouha xqlm	0
+其他电脑相关用品	tqi slta nddi mlin xjxi gsgu oyon kkkp	0
+其他工具软件	tqi slta dgon tiju gsru swji	0
+其他管理软件	tqi slta tpig fywl gsru swji	1
+其他光盘	tqi slta ihgu gopa	0
+其他驱动器	tqi slta wirq nodo kkwk	0
+其他鼠标	tqi slta wshu xvbi	0
+其他网络设备	tqi slta urrw ufkl lxfs fbbe	1
+其他显示器	tqi slta nrxi vshi kkwk	0
+其他移动存储	tqi slta onny nodo flhc slhn	0
+企业管理软件	sgqi rye tpig fywl gsru swji	36
+热转印机	dovr guzh hqjy xxji	0
+软件代理	gsru swji suda fywl	0
+视保屏	vuhs skxb hgrb	0
+视讯会议系统	vuhs ldpx snhu lvry muji uljh	0
+数码录音笔	oafs fwma fclu gnyi tubi	2
+数码配件	oafs fwma eqjp swji	21
+数码摄像头	oafs fwma djff sakw jtou	1
+条码设备	fxti fwma lxfs fbbe	0
+图文处理软件	kfnt lwen fvch fywl gsru swji	0
+网络工具软件	urrw ufkl dgon tiju gsru swji	0
+文件管理软件	lwen swji tpig fywl gsru swji	11
+信息技术项目合作	slxi jjxi dpfj xvsh dfax jmu skge stlw	0
+游戏娱乐软件	clth fzxi akny hile gsru swji	0
+编辑控制器	upur gkjj dpdk wuzz kkwk	0
+编辑制作设备	upur gkjj wuzz stlw lxfs fbbe	0
+充气模型	ljhc nqi xrns qrzb	1
+冲印彩扩设备	nklc hqjy exuc dhku lxfs fbbe	0
+出版项目合作	r thfb dfax jmu skge stlw	0
+促销台	sgcu zimx jkta	0
+灯箱布	vode txjx fybu	6
+电影放映设备	nddi npiu lffa nusy lxfs fbbe	1
+二手广电设备	wer dsho hgua nddi lxfs fbbe	0
+放音设备	lffa gnyi lxfs fbbe	3
+非线性编辑系统	efei uzxi jhxi upur gkjj muji uljh	3
+分配系统放大器	izfe eqjp muji uljh lffa sda kkwk	0
+分支器	izfe pfzh kkwk	1
+广播发射机	hgua doib dfvf jfsh xxji	0
+广电信号分配器	hgua nddi slxi kkha izfe eqjp kkwk	0
+广电信号混合器	hgua nddi slxi kkha cnhh skge kkwk	0
+广电信号解调器	hgua nddi slxi kkha aozw lubk kkwk	0
+广电信号滤波器	hgua nddi slxi kkha cwjl cubo kkwk	0
+广电信号调制器	hgua nddi slxi kkha lubk wuzz kkwk	0
+广告旗杆	hgua wkga lttq xyga	0
+光学摄像机	ihgu iuhx djff sakw xxji	1
+光学相机	ihgu iuhx xjxi xxji	8
+科学技术类	onpk iuhx dpfj xvsh osle	3
+空白录像带	pdko cbai fclu sakw rluy	2
+空白录音带	pdko cbai fclu gnyi rluy	0
+库存图书	hgku flhc kfnt ddlv	1
+库存音像制品	hgku flhc gnyi sakw wuzz kkkp	0
+录音设备	fclu gnyi lxfs fbbe	185
+频道转换器	ggfa gjgd guzh daus kkwk	0
+其他编辑制作设备	tqi slta upur gkjj wuzz stlw lxfs fbbe	0
+其他播出	tqi slta doib r	1
+其他广告	tqi slta hgua wkga	0
+其他摄像器材	tqi slta djff sakw kkwk xqlm	0
+其他摄影器材	tqi slta djff npiu kkwk xqlm	0
+其他书籍	tqi slta ddlv torn	0
+其他舞台设备	tqi slta trjg jkta lxfs fbbe	0
+其他无线微波设备	tqi slta whmo uzxi giqf cubo lxfs fbbe	0
+其他无线卫星设备	tqi slta whmo uzxi jqwe nhxi lxfs fbbe	0
+其他音像制品	tqi slta gnyi sakw wuzz kkkp	0
+其他有线光缆设备	tqi slta fmyo uzxi ihgu ujth lxfs fbbe	0
+其他有线线缆设备	tqi slta fmyo uzxi uzxi ujth lxfs fbbe	0
+其他专业录音	tqi slta uzhu rye fclu gnyi	0
+前端设备	gmzq gild lxfs fbbe	18
+社会科学类	vbsh snhu onpk iuhx osle	37
+摄录一体机	djff fclu q sxti xxji	19
+摄像器材	djff sakw kkwk xqlm	6
+摄影背景	djff npiu thmb npij	0
+生活时尚类	hshe clkh nfsh isha osle	0
+实时压缩系统	pjsh nfsh hbvy upsn muji uljh	0
+数字卫星接收机	oafs phzi jqwe nhxi dgaj dlfs xxji	1
+特技机	wbft dpfj xxji	1
+特技切换台	wbft dpfj uzqi daus jkta	0
+贴纸相机	avkt uhuz xjxi xxji	3
+图书代理	kfnt ddlv suda fywl	0
+卫星接收天线	jqwe nhxi dgaj dlfs ntia uzxi	1
+文学艺术类	lwen iuhx rdyi xvsh osle	15
+舞台机械	trjg jkta xxji xzrx	1
+舞台幕布	trjg jkta rnsy fybu	5
+舞台设备	trjg jkta lxfs fbbe	10
+无线微波设备	whmo uzxi giqf cubo lxfs fbbe	0
+无线卫星设备	whmo uzxi jqwe nhxi lxfs fbbe	0
+学习教育类	iuhx dnxi hhfj ljmy osle	1
+音像制品代理	gnyi sakw wuzz kkkp suda fywl	0
+音像制品加工	gnyi sakw wuzz kkkp okji dgon	0
+影视节目合作	npiu vuhs rjji jmu skge stlw	0
+有线光缆设备	fmyo uzxi ihgu ujth lxfs fbbe	0
+有线线缆设备	fmyo uzxi uzxi ujth lxfs fbbe	0
+展览器材	hryz jtuh kkwk xqlm	0
+展览帐篷	hryz jtuh ymqv tfeg	0
+专业话筒	uzhu rye llkh tukt	1
+专业录音	uzhu rye fclu gnyi	0
+包装产品代理	ajba tbyz gmch kkkp suda fywl	0
+包装产品加工	ajba tbyz gmch kkkp okji dgon	0
+包装成型机械	ajba tbyz z qrzb xxji xzrx	0
+包装服务	ajba tbyz mjff fowu	0
+包装检测设备	ajba tbyz xsji cazc lxfs fbbe	0
+包装胶带	ajba tbyz myrj rluy	1
+包装生产线	ajba tbyz hshe gmch uzxi	2
+包装相关设备	ajba tbyz xjxi gsgu lxfs fbbe	0
+包装项目合作	ajba tbyz dfax jmu skge stlw	0
+包装制品	ajba tbyz wuzz kkkp	0
+包装制品配附件	ajba tbyz wuzz kkkp eqjp isff swji	0
+玻璃包装材料	fubo fliw ajba tbyz xqlm onpl	0
+玻璃包装制品	fubo fliw ajba tbyz wuzz kkkp	0
+不干胶标签	i ygan myrj xvbi tsqi	0
+布类包装材料	fybu osle ajba tbyz xqlm onpl	0
+布料包装制品	fybu onpl ajba tbyz wuzz kkkp	0
+充填机械	ljhc bpti xxji xzrx	0
+多功能包装机	nndu dogo j ajba tbyz xxji	0
+二手包装机械	wer dsho ajba tbyz xxji xzrx	0
+封口机械	bbff kkou xxji xzrx	0
+复合包装材料	tnff skge ajba tbyz xqlm onpl	0
+复合材料包装制品	tnff skge xqlm onpl ajba tbyz wuzz kkkp	0
+辅助包装材料	gbfu tozh ajba tbyz xqlm onpl	0
+辅助包装设备	gbfu tozh ajba tbyz lxfs fbbe	0
+工业胶带	dgon rye myrj rluy	0
+灌装机械	crke tbyz xxji xzrx	0
+裹包机械	ynxg ajba xxji xzrx	0
+集装机械	exji tbyz xxji xzrx	0
+金属包装材料	zjin hmkw ajba tbyz xqlm onpl	0
+金属包装机械	zjin hmkw ajba tbyz xxji xzrx	0
+金属包装制品	zjin hmkw ajba tbyz wuzz kkkp	0
+金属盖	zjin hmkw woga	6
+金属盒	zjin hmkw skoh	20
+金属桶	zjin hmkw xjot	13
+金属托盘	zjin hmkw dmut gopa	1
+警示胶带	rakl vshi myrj rluy	0
+捆扎机械	dkxk ddza xxji xzrx	0
+其他包装材料	tqi slta ajba tbyz xqlm onpl	0
+其他包装成型机械	tqi slta ajba tbyz z qrzb xxji xzrx	0
+其他包装相关设备	tqi slta ajba tbyz xjxi gsgu lxfs fbbe	0
+其他标签	tqi slta xvbi tsqi	0
+其他玻璃包装制品	tqi slta fubo fliw ajba tbyz wuzz kkkp	0
+其他胶带	tqi slta myrj rluy	0
+其他金属包装制品	tqi slta zjin hmkw ajba tbyz wuzz kkkp	0
+其他托盘	tqi slta dmut gopa	0
+其他纸类包装制品	tqi slta uhuz osle ajba tbyz wuzz kkkp	0
+其他竹木包装制品	tqi slta tzhu xmu ajba tbyz wuzz kkkp	0
+清洗机械	crmq cwhx xxji xzrx	0
+塑胶标签	gmbs myrj xvbi tsqi	0
+塑料包装材料	gmbs onpl ajba tbyz xqlm onpl	5
+塑料包装机械	gmbs onpl ajba tbyz xxji xzrx	0
+贴标机械	avkt xvbi xxji xzrx	0
+文具胶带	lwen tiju myrj rluy	0
+扎带	ddza rluy	48
+纸包装机械	uhuz ajba tbyz xxji xzrx	0
+纸浆模塑	uhuz tncj xrns gmbs	1
+纸类包装制品	uhuz osle ajba tbyz wuzz kkkp	0
+纸类标签	uhuz osle xvbi tsqi	0
+纸桶罐	uhuz xjot orke	0
+纸筒管	uhuz tukt tpig	0
+竹木包装制品	tzhu xmu ajba tbyz wuzz kkkp	0
+氨基树脂	npaa tbji xffs mhnz	0
+板式塔	xhfb udsh brsk	0
+钡氧化物	zabe nwya shhu wywu	0
+苯醌	rxbe eqnh	19
+玻璃机械	fubo fliw xxji xzrx	0
+玻璃加工	fubo fliw okji dgon	0
+不饱和聚酯树脂	i oajb o jfsj eqhn xffs mhnz	0
+槽式反应器	xrnn udsh hffa hiqy kkwk	0
+除沫器	isxc cxmo kkwk	0
+储运容器	slhn ngyu pskr kkwk	0
+储运设备	slhn ngyu lxfs fbbe	0
+传热设备	such dovr lxfs fbbe	0
+传质设备	such hpaz lxfs fbbe	0
+萃取设备	rlsp jfqu lxfs fbbe	1
+带式干燥设备	rluy udsh ygan vkkx lxfs fbbe	0
+底阀	hhuv pszf	3
+蝶阀	erdx pszf	0
+二手化工设备	wer dsho shhu dgon lxfs fbbe	0
+发酵提取设备	dfvf eqhh dngd jfqu lxfs fbbe	0
+反应设备	hffa hiqy lxfs fbbe	0
+放料阀	lffa onpl pszf	0
+沸腾干燥机	cxif mgsw ygan vkkx xxji	0
+酚类	eqiz osle	65
+分离设备	izfe liwl lxfs fbbe	2
+分凝器	izfe nhtg kkwk	0
+分散机	izfe rmfs xxji	0
+粉碎设备	oizf flsp lxfs fbbe	5
+分析试剂	izfe xxxi luds lizj	4
+砜类	fxrf osle	3
+呋喃树脂	kwsf kpup xffs mhnz	0
+钙氧化物	zvdg nwya shhu wywu	0
+隔膜阀	ikul mrns pszf	0
+铬氧化物	zfkg nwya shhu wywu	0
+工业淀粉	dgon rye cpqg oizf	0
+钴氧化物	zmgu nwya shhu wywu	1
+管式反应器	tpig udsh hffa hiqy kkwk	0
+硅氧化物	fbbg nwya shhu wywu	1
+滚筒刮板干燥机	cyij tukt lkzg xhfb ygan vkkx xxji	0
+化工产品加工	shhu dgon gmch kkkp okji dgon	0
+化工成套设备	shhu dgon z suta lxfs fbbe	0
+化工成型设备	shhu dgon z qrzb lxfs fbbe	0
+化工管道及配件	shhu dgon tpig gjgd lvji eqjp swji	0
+化工设备	shhu dgon lxfs fbbe	14
+化工设备代理	shhu dgon lxfs fbbe suda fywl	0
+化工设备配件	shhu dgon lxfs fbbe eqjp swji	0
+化工实验设备	shhu dgon pjsh wsya lxfs fbbe	0
+化工项目合作	shhu dgon dfax jmu skge stlw	0
+化工原料代理	shhu dgon hciy onpl suda fywl	0
+磺酸衍生物	frbi eqjf gcgy hshe wywu	0
+混流泵	cnhh cljc fcbe	0
+火工产品	vhuo dgon gmch kkkp	1
+加料机	okji onpl xxji	0
+角阀	aoji pszf	47
+脚踏阀	mbjj gcnt pszf	0
+结晶设备	ubkj nnnj lxfs fbbe	0
+金属单质	zjin hmkw ioch hpaz	59
+腈类	mrmj osle	2
+聚氨酯树脂	jfsj npaa eqhn xffs mhnz	2
+聚酰胺树脂	jfsj eqwh mpaa xffs mhnz	0
+均质设备	banj hpaz lxfs fbbe	0
+氪气	nmhk nqi	14
+空心桨叶干燥机	pdko jxin tnxj kpxi ygan vkkx xxji	0
+库存化工设备	hgku flhc shhu dgon lxfs fbbe	0
+库存化工原料	hgku flhc shhu dgon hciy onpl	0
+醌类	eqnh osle	16
+淋水装置	cxli cshu tbyz optz	0
+磷氧化物	fong nwya shhu wywu	0
+流程泵	cljc okfc fcbe	0
+流化床干燥设备	cljc shhu hxch ygan vkkx lxfs fbbe	0
+硫磺	fljc frbi	471
+流量控制阀	cljc nywl dpdk wuzz pszf	1
+卤酸盐	vkrl eqjf bvoy	0
+铝氧化物	zkkl nwya shhu wywu	1
+镁氧化物	zwsm nwya shhu wywu	0
+锰氧化物	zhom nwya shhu wywu	2
+醚类	eqog osle	18
+耐腐蚀泵	lfna hsfs oesh fcbe	0
+萘醌	rsvn eqnh	0
+氖气	nlna nqi	29
+捏合机	dnbn skge xxji	0
+偶氮化合物	snwo nvvd shhu skge wywu	0
+盘式干燥机	gopa udsh ygan vkkx xxji	0
+喷雾干燥机	kpra nfow ygan vkkx xxji	0
+屏蔽泵	hgrb ryfb fcbe	0
+瓶体	grop sxti	27
+普通玻璃	grnp jogt fubo fliw	0
+气流干燥设备	nqi cljc ygan vkkx lxfs fbbe	0
+其他泵	tqi slta fcbe	0
+其他玻璃	tqi slta fubo fliw	0
+其他储运设备	tqi slta slhn ngyu lxfs fbbe	0
+其他传热设备	tqi slta such dovr lxfs fbbe	0
+其他传质设备	tqi slta such hpaz lxfs fbbe	0
+其他醇类	tqi slta eqph osle	0
+其他单质	tqi slta ioch hpaz	0
+其他阀门	tqi slta pszf pmen	0
+其他反应设备	tqi slta hffa hiqy lxfs fbbe	0
+其他分离设备	tqi slta izfe liwl lxfs fbbe	0
+其他粉碎设备	tqi slta oizf flsp lxfs fbbe	0
+其他干燥设备	tqi slta ygan vkkx lxfs fbbe	0
+其他合成树脂	tqi slta skge z xffs mhnz	0
+其他化学试剂	tqi slta shhu iuhx luds lizj	0
+其他混合设备	tqi slta cnhh skge lxfs fbbe	0
+其他聚合物	tqi slta jfsj skge wywu	0
+其他醌类	tqi slta eqnh osle	0
+其他气体	tqi slta nqi sxti	0
+其他实验室用品	tqi slta pjsh wsya pqjb oyon kkkp	0
+其他输送设备	tqi slta gsmz gsgs lxfs fbbe	0
+其他羧酸衍生物	tqi slta wjif eqjf gcgy hshe wywu	0
+其他碳水化合物	tqi slta fifv cshu shhu skge wywu	4
+其他烃类	tqi slta vcdt osle	0
+其他无机碱	tqi slta whmo xxji fzkj	0
+其他无机酸	tqi slta whmo xxji eqjf	0
+其他无机盐	tqi slta whmo xxji bvoy	0
+其他氧化物	tqi slta nwya shhu wywu	3
+其他杂环化合物	tqi slta oxza fihu shhu skge wywu	0
+其他制冷设备	tqi slta wuzz nmvl lxfs fbbe	0
+铅氧化物	zxkq nwya shhu wywu	0
+醛类	eqrf osle	97
+燃气阀	vmwv nqi pszf	3
+三元醇	esan qhyu eqph	0
+砂磨机	fish hxfm xxji	0
+生化试剂	hshe shhu luds lizj	5
+实验室用品	pjsh wsya pqjb oyon kkkp	1
+手动阀	dsho nodo pszf	0
+疏水阀	dglc cshu pszf	0
+羧酸盐	wjif eqjf bvoy	3
+羧酸衍生物	wjif eqjf gcgy hshe wywu	5
+塔式反应器	brsk udsh hffa hiqy kkwk	0
+钛氧化物	zsvt nwya shhu wywu	0
+陶瓷加工	iaot nsoc okji dgon	0
+锑氧化物	zixm nwya shhu wywu	0
+填料塔	bpti onpl brsk	0
+铁氧化物	ztst nwya shhu wywu	16
+铜氧化物	zukt nwya shhu wywu	44
+通用无机试剂	jogt oyon whmo xxji luds lizj	0
+通用有机试剂	jogt oyon fmyo xxji luds lizj	0
+往复泵	gvfw tnff fcbe	0
+微波干燥设备	giqf cubo ygan vkkx lxfs fbbe	0
+涡流泵	ckus cljc fcbe	0
+无机化工原料	whmo xxji shhu dgon hciy onpl	0
+无机碱	whmo xxji fzkj	0
+钨酸	zadq eqjf	4
+硒氧化物	fexi nwya shhu wywu	0
+酰卤	eqwh vkrl	3
+箱式干燥设备	txjx udsh ygan vkkx lxfs fbbe	0
+硝基化合物	fimx tbji shhu skge wywu	10
+锌氧化物	zgpx nwya shhu wywu	0
+旋塞阀	ltdg prib pszf	0
+漩涡泵	cltg ckus fcbe	0
+仪表阀	svry rybi pszf	0
+有机硅树脂	fmyo xxji fbbg xffs mhnz	2
+有机化工原料	fmyo xxji shhu dgon hciy onpl	1
+再沸器	fuza cxif kkwk	0
+针阀	zpzh pszf	0
+真空干燥机	ptiz pdko ygan vkkx xxji	0
+蒸馏设备	rhcv ohvb lxfs fbbe	10
+脂环烃	mhnz fihu vcdt	0
+制粒干燥设备	wuzz ogli ygan vkkx lxfs fbbe	0
+重氮化合物	lnwc nvvd shhu skge wywu	0
+柱塞阀	xvfz prib pszf	0
+转子泵	guzh hzi fcbe	0
+自吸泵	jzi klvx fcbe	0
+邦定机	emib pqgd xxji	0
+泵配件	fcbe eqjp swji	1
+标价机	xvbi ssij xxji	0
+剥线机	fczb uzxi xxji	0
+插床	dlbc hxch	0
+齿轮加工机床	jchi gshl okji dgon xxji hxch	0
+充磁机	ljhc fguu xxji	1
+储能机	slhn j xxji	0
+出入口机	r mvru kkou xxji	0
+打胶机	doda myrj xxji	0
+导线剥皮机	jfda uzxi fczb upi xxji	0
+等离子焊机	tbfd liwl hzi vnyh xxji	0
+等离子切割机	tbfd liwl hzi uzqi pelz xxji	4
+电镀加工	nddi zhrf okji dgon	1
+电镀设备	nddi zhrf lxfs fbbe	2
+点胶设备	vkvd myrj lxfs fbbe	2
+电容剪脚机	nddi pskr gmzz mbjj xxji	0
+电子产品制造设备	nddi hzi gmch kkkp wuzz wkgz lxfs fbbe	0
+电子电器生产线	nddi hzi nddi kkwk hshe gmch uzxi	0
+电子元件成型机	nddi hzi qhyu swji z qrzb xxji	0
+电阻焊机	nddi itzu vnyh xxji	0
+端子机	gild hzi xxji	0
+二手工程机械	wer dsho dgon okfc xxji xzrx	0
+二手锅炉	wer dsho zkus vplu	0
+二手机床	wer dsho xxji hxch	0
+阀门配件	pszf pmen eqjp swji	2
+纺纱设备纺机	ulfa uish lxfs fbbe ulfa xxji	0
+纺织配件	ulfa ukiz eqjp swji	0
+非织造布机械	efei ukiz wkgz fybu xxji xzrx	0
+服装加工设备	mjff tbyz okji dgon lxfs fbbe	0
+工业锅炉及配件	dgon rye zkus vplu lvji eqjp swji	0
+工业制品代理	dgon rye wuzz kkkp suda fywl	0
+柜员机设备	xiig kayu xxji lxfs fbbe	0
+滚焊机	cyij vnyh xxji	0
+国外机床	kfvg nvwa xxji hxch	0
+焊管机	vnyh tpig xxji	0
+焊接和粘接	vnyh dgaj o ovkn dgaj	0
+焊台	vnyh jkta	7
+焊锡机	vnyh znyx xxji	0
+焊线机	vnyh uzxi xxji	0
+行业专业设备	ggha rye uzhu rye lxfs fbbe	0
+行业专用设备加工	ggha rye uzhu oyon lxfs fbbe okji dgon	0
+回单管理系统	khui ioch tpig fywl muji uljh	0
+回流焊接机	khui cljc vnyh dgaj xxji	0
+活动围栏	clkh nodo kddw xgwl	0
+激光焊机	cclf ihgu vnyh xxji	0
+激光切割机	cclf ihgu uzqi pelz xxji	12
+机械项目合作	xxji xzrx dfax jmu skge stlw	0
+家电制造设备	pwji nddi wuzz wkgz lxfs fbbe	0
+家具制造机械	pwji tiju wuzz wkgz xxji xzrx	0
+绞线机	uyrj uzxi xxji	0
+金融专用设备	zjin kuge uzhu oyon lxfs fbbe	0
+卷板机床	gsjj xhfb xxji hxch	0
+库存设备及工业用品	hgku flhc lxfs fbbe lvji dgon rye oyon kkkp	0
+捆钞机	dkxk zich xxji	0
+螺纹加工机床	ebul ulwe okji dgon xxji hxch	0
+铆接设备	zhmj dgaj lxfs fbbe	0
+密码键盘	pjmi fwma zfdg gopa	17
+摩擦焊机	hxdm dpmv vnyh xxji	0
+木工机床	xmu dgon xxji hxch	1
+排焊机	depa vnyh xxji	0
+碰焊机	fgrp vnyh xxji	0
+其他传动件	tqi slta such nodo swji	0
+其他电焊	tqi slta nddi vnyh	0
+其他电子产品制造设备	tqi slta nddi hzi gmch kkkp wuzz wkgz lxfs fbbe	0
+其他纺织设备和器材	tqi slta ulfa ukiz lxfs fbbe o kkwk xqlm	0
+其他行业专用设备	tqi slta ggha rye uzhu oyon lxfs fbbe	0
+其他机床	tqi slta xxji hxch	0
+其他金融专用设备	tqi slta zjin kuge uzhu oyon lxfs fbbe	0
+其他金属加工	tqi slta zjin hmkw okji dgon	2
+其他商业专用设备	tqi slta yuik rye uzhu oyon lxfs fbbe	0
+切割设备	uzqi pelz lxfs fbbe	2
+商超货架	yuik gzkc shah okxj	0
+商业专用设备	yuik rye uzhu oyon lxfs fbbe	0
+塑焊机	gmbs vnyh xxji	0
+梭织设备	xjif ukiz lxfs fbbe	0
+跳线机	ghct uzxi xxji	0
+涂装设备	csxt tbyz lxfs fbbe	2
+玩具加工设备	fqhw tiju okji dgon lxfs fbbe	0
+线切割加工	uzxi uzqi pelz okji dgon	0
+橡塑设备	xakw gmbs lxfs fbbe	0
+鞋帽设备	ubbx ynjm lxfs fbbe	0
+压焊机	hbvy vnyh xxji	1
+压接机	hbvy dgaj xxji	0
+压力加工	hbvy oli okji dgon	1
+液压机械及部件	clsv hbvy xxji xzrx lvji gkib swji	0
+仪器仪表加工	svry kkwk svry rybi okji dgon	0
+印染整机械与设备	hqjy coxr xkfg xxji xzrx wdyu lxfs fbbe	0
+硬币清分机	fqnr mybi crmq izfe xxji	3
+扎把机	ddza dwba xxji	0
+扎口机	ddza kkou xxji	0
+针织机械	zpzh ukiz xxji xzrx	0
+整熨洗涤设备	xkfg hvfv cwhx cfxd lxfs fbbe	0
+制冷空调设备	wuzz nmvl pdko lubk lxfs fbbe	0
+纸业设备	uhuz rye lxfs fbbe	0
+铸造机床	zemf wkgz xxji hxch	0
+专用机床	uzhu oyon xxji hxch	1
+组合机床	utzu skge xxji hxch	0
+倍捻机	sgkb dmjn xxji	1
+荧光颜料	ruvy ihgu gmua onpl	1
+蒸馏塔	rhcv ohvb brsk	2
+厌氧胶	hwya nwya myrj	1
+吹塑机	ksch gmbs xxji	1
+打标机	doda xvbi xxji	1
+拉力机	dgla oli xxji	1
+检针机	xsji zpzh xxji	1
+洗瓶机	cwhx grop xxji	2
+粉粹机	oizf olsp xxji	2
+起锚机	gjqi zrbm xxji	0
+绞柱	uyrj xvfz	0

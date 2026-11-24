@@ -10,7 +10,7 @@
 #
 
 ---
-name: wubi86.extended
+name: ziyuan.extended
 version: "2016.06.26"
 sort: by_weight  #字典初始排序，可選original或by_weight
 use_preset_vocabulary: false
@@ -18,20 +18,25 @@ use_preset_vocabulary: false
 #雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
 
 import_tables:
-  ## 雾凇拼音 https://github.com/iDvel/rime-ice
-  - cn_dicts_wb/8105     # 字表
-  - cn_dicts_wb/41448
+  - cn_dicts_ziyuan/8105     # 字表
+  - cn_dicts_ziyuan/41448
   
-  - cn_dicts_wb/base     # 基础词库
-  - cn_dicts_wb/ext      # 扩展词库
-  - cn_dicts_wb/others   # 一些杂项 容错音和错字 可以不开
+  - cn_dicts_ziyuan/base     # 基础词库
+  - cn_dicts_ziyuan/ext      # 扩展词库
+  - cn_dicts_ziyuan/others   # 一些杂项 容错音和错字 可以不开
 
-  # - cn_dicts_common/tencent_core # 精简的腾讯词库
+  - cn_dicts_common/tencent_core # 精简的腾讯词库
   # - cn_dicts_common/tencent  # 腾讯词向量（大词库，部署时间较长 选择性开启）
   - cn_dicts_common/user # 用户自定义词典
 
-  ## 白霜拼音细胞词库（已转换为五笔码） https://github.com/gaboolic/rime-frost
-  ## 由 program/deal_ice_dict_to_cell.py --scheme wubi 生成，每日自动同步
+  
+  # - cn_dicts_cell/luna_pinyin.poetry    # 细胞词库 古诗文
+  # - cn_dicts_cell/luna_pinyin.place  # 细胞词库 地名
+  # - cn_dicts_cell/luna_pinyin.computer
+  # - cn_dicts_cell/luna_pinyin.history
+
+  ## 白霜拼音细胞词库（已转换为 字源 码） https://github.com/gaboolic/rime-frost
+  ## 由 program/deal_ice_dict_to_cell.py --scheme ziyuan 生成，每日自动同步
   - cn_dicts_cell/animal
   - cn_dicts_cell/chess
   - cn_dicts_cell/chess2

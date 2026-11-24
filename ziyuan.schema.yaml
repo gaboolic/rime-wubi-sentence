@@ -3,13 +3,13 @@
 # https://github.com/gaboolic/rime-shuangpin-fuzhuma
 
 schema:
-  schema_id: wubi86
-  name: 五笔86整句
+  schema_id: ziyuan
+  name: 字源整句
   version: "2024-04-24"
   author:
     - gaboolic （裁缝)
   description: |
-    五笔整句 https://github.com/gaboolic/rime-shuangpin-fuzhuma
+    字源整句 https://github.com/gaboolic/rime-shuangpin-fuzhuma
   dependencies:
     - stroke
     - emoji
@@ -38,8 +38,9 @@ speller:
   algebra:
     __include: moqi.yaml:/speller_algebra
 
+
 user_dict_set:
-  dictionary: wubi86.extended
+  dictionary: ziyuan.extended
   initial_quality: 0
   enable_completion: false
   enable_sentence: false
@@ -49,15 +50,15 @@ user_dict_set:
   comment_format:
     - "xform/(^|[ '])[^[]+[[]/$1/" ## 编码提示只显示辅助码部分
   enable_user_dict: true # 是否开启自动调频
-  user_dict: user_ff.custom.dict
+  user_dict: user_tg.custom.dict
   db_class: tabledb
 
 # 自定义词典加词(ac引导)
 add_user_dict:
   tag: add_user_dict
-  dictionary: wubi86.extended
+  dictionary: ziyuan.extended
   initial_quality: -1
-  user_dict: user_ff.custom.dict
+  user_dict: user_tg.custom.dict
 # ↓ 用户词典格式，tabledb（文本） 或 userdb （二进制）。
   db_class: tabledb
   enable_charset_filter: false
@@ -74,7 +75,7 @@ add_user_dict:
   tips: "〔自造词〕"
 
 translator:
-  dictionary: wubi86.extended
+  dictionary: ziyuan.extended
   initial_quality: 10000
   enable_completion: false
   ##  默认为不超过 2 个字的候选项显示输入码；将 2 改为 0 可关闭编码提示，
@@ -107,21 +108,23 @@ key_binder:
     # - { when: composing, match: "[a-z]{2}", accept: Tab, send: '|' }
 
     ## 启用光标回退至特定音节后、补充辅助码的功能。补充完辅助码后，可以再按一次tab回到整句检查
-    - { when: composing, accept: Control+1, send_sequence: '{Home}{Shift+Right}' }
-    - { when: composing, accept: Control+2, send_sequence: '{Home}{Shift+Right}{Shift+Right}' }
-    - { when: composing, accept: Control+3, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}' }
-    - { when: composing, accept: Control+4, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}' }
-    - { when: composing, accept: Control+5, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}' }
-    - { when: composing, accept: Control+6, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}' }
-    - { when: composing, accept: Control+7, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}' }
+    - { when: composing, accept: Control+1, send_sequence: '{Home}{Shift+Right}[' }
+    - { when: composing, accept: Control+2, send_sequence: '{Home}{Shift+Right}{Shift+Right}[' }
+    - { when: composing, accept: Control+3, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}[' }
+    - { when: composing, accept: Control+4, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}[' }
+    - { when: composing, accept: Control+5, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}[' }
+    - { when: composing, accept: Control+6, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}[' }
+    - { when: composing, accept: Control+7, send_sequence: '{Home}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}[' }
 
 # 启用語言模型
 #__include: moqi:/octagram/enable_for_sentence
 
-custom_phrase_mqzg:
+
+
+custom_phrase:
   dictionary: ""
-  user_dict: custom_phrase/custom_phrase_xhzg
+  user_dict: custom_phrase/custom_phrase_ziyuan
   db_class: stabledb
-  enable_sentence: false
   enable_completion: false
-  initial_quality: -1 #本表词和系统词重码居后
+  enable_sentence: false
+  initial_quality: 1000000
