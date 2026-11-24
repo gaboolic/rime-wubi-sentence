@@ -3,32 +3,110 @@ name: release
 on:
   release:
     types: [published]
+  # 每天定时构建 nightly（北京时间 01:00，即 UTC 17:00）
+  schedule:
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  generate-txt:
+  build:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - branch: master
+            name: wubi86
+            asset: rime-wubi86-schemas.zip
+          - branch: tiger
+            name: tiger
+            asset: rime-tiger-schemas.zip
+          - branch: ziyuan
+            name: ziyuan
+            asset: rime-ziyuan-schemas.zip
+          - branch: yucloud
+            name: yucloud
+            asset: rime-yucloud-schemas.zip
+          - branch: yustar
+            name: yustar
+            asset: rime-yustar-schemas.zip
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout ${{ matrix.branch }}
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ matrix.branch }}
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.10'  # 你可以根据需要选择 Python 版本
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
 
-        
-    - name: Generate rime zip
-      run: |
-        python program/release/generate_rime_all_schema_zip.py  # 运行你的 Python 脚本
-        
+      - name: Generate rime zip for ${{ matrix.name }}
+        run: |
+          python program/release/generate_rime_all_schema_zip.py "${{ matrix.asset }}"
+          ls -lh "${{ matrix.asset }}"
 
-    - name: Upload rime-schemas
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      with:
-        asset_path: rime-sentence-schemas.zip
-        asset_name: rime-sentence-schemas.zip
-        asset_content_type: application/zip
-        upload_url: ${{ github.event.release.upload_url }}
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.asset }}
+          path: ${{ matrix.asset }}
+          if-no-files-found: error
+
+      # 正式 release 发布时，把每个方案的 zip 作为附件上传
+      - name: Upload release asset
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.release.tag_name }}
+          files: ${{ matrix.asset }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN || github.token }}
+
+  nightly:
+    needs: build
+    if: github.event_name != 'release'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Download all nightly zips
+        uses: actions/download-artifact@v4
+        with:
+          path: nightly
+          merge-multiple: true
+
+      - name: Show artifacts
+        run: ls -lh nightly/*.zip
+
+      - name: Publish nightly release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifactErrorsFailBuild: true
+          artifacts: nightly/rime-wubi86-schemas.zip,nightly/rime-tiger-schemas.zip,nightly/rime-ziyuan-schemas.zip,nightly/rime-yucloud-schemas.zip,nightly/rime-yustar-schemas.zip
+          body: |
+            Automated nightly build of all shape-code schemes.
+
+            - wubi86 (master): rime-wubi86-schemas.zip
+            - tiger: rime-tiger-schemas.zip
+            - ziyuan: rime-ziyuan-schemas.zip
+            - yucloud: rime-yucloud-schemas.zip
+            - yustar: rime-yustar-schemas.zip
+
+            Commit: ${{ github.sha }}
+          name: Nightly Build
+          prerelease: true
+          replacesArtifacts: true
+          tag: nightly
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN || github.token }}
