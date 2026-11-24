@@ -1,0 +1,34 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 音乐相关
+
+---
+name: music
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+点弦	hko xyx	0
+琶音	ggc ujf	359
+中央音	k md ujf	0
+纯律	xgb tvfh	266
+协和音程	fl t ujf tkgg	38
+不协和音程	i fl t ujf tkgg	38
+无调性	fq ymf ntg	197
+平行五度	gu tf gg ya	13
+单调音乐	ujfj ymf ujf qi	0
+复调音乐	tjt ymf ujf qi	233
+复调	tjt ymf	840
+滑奏	ime dwg	9
+符头	twf udi	35
+符干	twf fggh	48
+延音线	thp ujf xg	18
+连音线	lpk ujf xg	19
+延音	thp ujf	198
+还原记号	gip dr yn kgn	7
+歌芮拉	sksw amwu ru	18
+拿火	wgkr ooo	148
+瑞声	gmd fnr	22
+打品	rs kkk	158
+云宫迅音	fcu pk nfp ujf	4

@@ -1,6 +1,16 @@
+import argparse
 import os
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from sync_utils import add_upstream_arg, load_word_freq, upstream_root
 
 # Function to read a file
+# 上游 rime-frost 根目录
+_parser = add_upstream_arg(argparse.ArgumentParser(description=__doc__ or "同步 rime-frost 词库"))
+_args = _parser.parse_args()
+UPSTREAM_ROOT = upstream_root(_args.upstream_dir)
+
 def read_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
@@ -65,20 +75,8 @@ def update_missing_encodings(file_path, write_file_path, dict_data):
     # Write the updated content back to the file
     write_file(write_file_path, updated_content)
 
-# 载入频率
-freq_file = open(r"D:\vscode\rime-frost\others\知频.txt", 'r', encoding='utf-8')
-word_freq = {}
-for line in freq_file:
-    line = line.strip()
-    params = line.split("\t")
-    word = params[0]
-    freq = int(params[1])
-
-    if word in word_freq:
-        word_freq[word] += freq
-    else:
-        word_freq[word] = freq
-
+# 载入频率（上游目录可通过 --upstream-dir / RIME_FROST_DIR 指定）
+word_freq = load_word_freq(UPSTREAM_ROOT)
 dict_data = {}
 
 
@@ -135,8 +133,8 @@ print(dict_data['𩽾'])
 file_list = ['8105.dict.yaml', '41448.dict.yaml', 'base.dict.yaml', 'ext.dict.yaml', 'others.dict.yaml']
 for file_name in file_list:
     # File paths
-    cn_dicts_path = r"D:\vscode\rime-frost\cn_dicts"
-    yaml_file_path = os.path.join(cn_dicts_path, file_name)
+    cn_dicts_path = UPSTREAM_ROOT / "cn_dicts"
+    yaml_file_path = cn_dicts_path / file_name
     write_file_path = os.path.join('cn_dicts_yustar', file_name)
 
     print(yaml_file_path)

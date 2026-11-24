@@ -1,0 +1,1364 @@
+# Rime dictionary
+# encoding: utf-8
+# 名字
+# 名字 要降频
+#
+---
+name: name
+version: "2024-05-21"
+sort: by_weight
+...
+季伯	tb wr	0
+季伯长	tb wr ta	0
+季伯常	tb wr ipkh	0
+季伯英	tb wr amd	0
+季伯达	tb wr dp	0
+季伯初	tb wr puv	0
+泰勒斯威夫特	dwiu afl adwr dgv fw trf	1495
+远坂凛	fqp frc uyl	141
+弓凛	xng uyl	2
+小林薫	ih ss atgo	0
+和田薫	t lll atgo	17
+八千草薫	wty tfk ajj atgo	0
+栗本薫	ssu sg atgo	0
+高村薫	ym sf atgo	0
+明石薫	je dgtg atgo	0
+吉田薫	fk lll atgo	0
+岩元薫	mdf fqb atgo	0
+真嗣	fhw kma	333
+渚薰	ift atgo	99
+庵薰	ydjn atgo	3
+#Q薰	qq xun
+贞薰	hm atgo	3
+嗣香	kma tjf	0
+嗣丽	kma gmy	0
+薰嗣	atgo kma	0
+薰丽	atgo gmy	0
+棚町薰	see lsh atgo	0
+莫伊莱	ajd wvt ago	2
+龙丹妮	dx myd vnx	139
+龚琳娜	dxa gss vvf	226
+龚翔宇	dxa udng pgf	143
+丁威迪	sgh dgv mp	113
+黛博拉	wal fge ru	152
+黄子韬	amw bb fnhv	253
+黄雨萱	amw fghy apgg	124
+黄旭东	amw vj ai	207
+黄有龙	amw e dx	101
+麦瑞克	gtu gmd dq	1008
+麦道夫	gtu uthp fw	165
+亥姆霍兹	yntw vx fwyf uxx	89
+亨特拉尔	ybj trf ru qiu	111
+伊东丰雄	wvt ai dh dcw	139
+伊卡尔迪	wvt hhu qiu mp	140
+伊坂幸太郎	wvt frc fuf dy yvcb	119
+伊巴卡	wvt cnh hhu	398
+伊戈达拉	wvt agnt dp ru	337
+伊斯科	wvt adwr tu	218
+妃英理	vnn amd gj	189
+姆巴佩	vx cnh wmg	1390
+姚主席	viq y yam	161
+姆希塔良	vx qdm fawk yv	191
+徐涛	twt idt	307
+腿姐	eve veg	394
+武磊	gah ddd	287
+艾顿	aqu gbnm	177
+卫庄	bg yfd	220
+夏洛	dht itk	185
+羽生	nny tg	226
+德善	tfl uduk	170
+斯威夫特	adwr dgv fw trf	202
+成德善	dn tfl uduk	20
+哈莉	kwg atj	159
+短短的	tdg tdg r	1145
+没地去	im f fcu	14
+知群	td vtk	194
+来答	go tw	228
+唐军	yvh pl	141
+迪伦	mp wwx	110
+白玲	rrr gwy	123
+郎平	yvcb gu	104
+米莱	oy ago	101
+韩烁	fjfh oqi	109
+德约	tfl xq	161
+适马	tdp cn	121
+朱婷	ri vyp	96
+秦廷	dwt tfpd	102
+王澍	ggg ifkf	73
+盛瑾	dnnl gakg	103
+罗夏	lq dht	122
+魔禁	yssc ssf	98
+直子	fh bb	89
+阿泽	bs icf	110
+西昊	sghg jgd	89
+立信	uu wy	107
+梁博	ivw fge	76
+戈恩	agnt ldn	77
+晴子	jge bb	86
+伯格	wr st	62
+博子	fge bb	86
+莱万	ago dnv	112
+大超	dd fhv	89
+慕若	ajdn adk	79
+今敏	wynb txgt	70
+泽北	icf ux	105
+燕姿	au uqwv	80
+俞佩彤	wgej wmg mye	100
+梅罗	stx lq	74
+平成	gu dn	57
+切嗣	av kma	83
+江歌	ia sksw	70
+灰原	do dr	73
+扎导	rnn nf	76
+比伯	xx wr	69
+元起	fqb fhn	55
+林奇	ss dskf	57
+李陵	sb bfw	58
+艺兴	anb iw	59
+小津	ih ivfh	61
+郑微	udb tmg	49
+马内	cn mw	57
+伍迪	wgg mp	41
+黄章	amw ujj	46
+友盟	dc jel	39
+雪穗	fv tgjn	58
+穆迪	tri mp	30
+痛仰	uce wqbh	36
+淘系	iqr txi	50
+富坚	pgk jcf	51
+某音	afs ujf	46
+王攀	ggg sqq	31
+纪淮	xn iwy	47
+西决	sghg un	39
+素媛	gxi vefc	37
+快本	nnw sg	48
+饶毅	qna uem	30
+当贝	iv mhny	33
+肖途	ie wtp	4
+复星	tjt jtg	14
+石昊	dgtg jgd	41
+蒙氏	apg qa	33
+赵姬	fhq vah	36
+范雎	aib egw	43
+杨紫	sn hxx	45
+黄洋	amw iu	34
+柯哀	ssk yeu	35
+刚铎	mqj qcf	34
+拓海	rd itx	42
+林静	ss geq	35
+波洛	ihc itk	34
+某度	afs ya	31
+武周	gah mfk	31
+张剑	xt wgi	33
+黄峥	amw mqv	25
+高思	ym ln	24
+蒙特卡洛	apg trf hhu itk	287
+霍尊	fwyf usg	30
+值乎	wfhg tuh	32
+宋眠	psu hna	30
+彭越	fkue fha	31
+于敏	gf txgt	27
+途锐	wtp quk	25
+任然	wtf qd	31
+渣叔	isjg hic	36
+余得水	wtu tj ii	356
+眉庄	nhd yfd	33
+李泌	sb int	29
+唐探	yvh rpws	24
+李信	sb wy	33
+乐夏	qi dht	34
+顾星染	db jtg ivs	301
+某鱼	afs qgf	26
+黄轩	amw lf	24
+圣墟	cff fhag	23
+朗道	yvc uthp	32
+川崎	kthh mds	16
+田静	lll geq	30
+静茹	geq avk	29
+花粥	awx xox	25
+莫迪	ajd mp	25
+艾梅柏	aqu stx srg	249
+某乎	afs tuh	25
+顾曾	db ul	32
+光遇	iq jm	14
+速激	gkip iry	25
+有赞	e tfqm	27
+哭悲	kkdu djdn	16
+北语	ux ygk	20
+二看	fg rhf	23
+数院	ovt bpf	21
+理塘	gj fyv	21
+骨相	me sh	21
+隋末	bda gs	21
+花材	awx sft	24
+炖菜	ogbn ae	22
+带教	gkp ftbt	30
+亮司	ypm ngk	26
+秦奋	dwt dlf	20
+老饭骨	ftx qnr me	186
+赛睿	pfjm hpgh	26
+墓主	ajdf y	22
+打本	rs sg	30
+实车	pu lg	23
+花活	awx itd	33
+陆鸿	bfm iaqg	26
+陆奇	bfm dskf	19
+御坂	trh frc	33
+微视	tmg pym	18
+酷安	sgtk pv	23
+魏冉	tvr mfd	21
+郑薇	udb atm	13
+蔡澜	awf iugi	17
+武忠祥	gah khn pyu	197
+浪姐	iyv veg	20
+胜七	etg ag	30
+莫蒂	ajd aup	18
+玄策	yxu tgm	12
+莎翁	aiit wcn	17
+狄俄涅索斯	qtoy wtr ijfg fpx adwr	201
+曼恩	jlc ldn	24
+伯明顿	wr je gbnm	73
+游卡	iytb hhu	22
+旷视	jyt pym	9
+胡斐	de djdy	21
+倪匡	wvq agd	17
+牛客	rhk pt	19
+乙一	nnl g	28
+甜薪	tdaf aus	16
+杨慧兰	sn dhd uff	148
+管虎	tp ha	13
+安欣	pv rqw	16
+缠师	xyj jgm	17
+武藤	gah aeu	22
+博人	fge w	15
+同程	m tkgg	7
+五竹	gg ttg	15
+双笙	cc ttgf	13
+灵汐	vo iqy	14
+途家	wtp pe	16
+堆糖	fwy oyvk	13
+泰格	dwiu st	11
+关谷	ud wwk	12
+齐绍安	yjj xvk pv	138
+韩立	fjfh uu	21
+剑南	wgi fm	8
+菊厂	aqo dgt	13
+曾哥	ul sks	12
+金妮	qqqq vnx	11
+庄生	yfd tg	13
+董酒	atg isgg	11
+席慕容	yam ajdn pww	61
+霍奇	fwyf dskf	12
+云村	fcu sf	11
+华数	wxf ovt	12
+牧原	trt dr	5
+拉斯	ru adwr	5
+任素汐	wtf gxi iqy	78
+宫二	pk fg	132
+岛村	qynm sf	89
+悟饭	ngkg qnr	152
+梁欢	ivw cqw	73
+美琴	ugdu ggw	77
+沙赞	iit tfqm	68
+唐迟	yvh nyp	64
+安藤	pv aeu	73
+柯布	ssk dmh	55
+穆帅	tri jmh	65
+佐为	wda o	68
+美里	ugdu jfd	68
+川端	kthh umd	77
+青峰	gef mtd	48
+陈巍	ba mtv	49
+圆谷	lkmi wwk	52
+加缪	lk xnw	45
+托比	rta xx	46
+羽然	nny qd	50
+刘据	yj rnd	48
+童哲	ujff rrk	47
+格策	st tgm	49
+信长	wy ta	45
+佐菲	wda adj	49
+洛瑞	itk gmd	60
+叶藏	kf adnt	58
+黄霄云	amw fie fcu	532
+李靓蕾	sb gem aflf	433
+费艾诺	xjm aqu yad	329
+周思成	mfk ln dn	301
+狄承弼	qtoy bd xdj	292
+康石石	yvi dgtg dgtg	319
+袁小凛	fke ih uyl	281
+王孝杰	ggg ftb so	271
+杨嘉煜	sn fkuk oju	230
+图恒宇	ltu ngj pgf	219
+李正元	sb ghd fqb	188
+郑山傲	udb mmm wgqt	186
+游一庆	iytb g yd	199
+秦怀久	dwt ng qy	174
+崔尼蒂	mwy nx aup	159
+钟秀勇	qkhh te cel	152
+宫宝森	pk pgy sss	160
+付庭彦	wfy ytfp uter	151
+阳振坤	bj rdf fjhh	154
+布里渊	dmh jfd ito	134
+无学斋	fq ip ydm	133
+苏沁宁	alw in ps	135
+杨娅娟	sn vgo vke	129
+梁星烁	ivw jtg oqi	134
+真由理	fhw mh gj	138
+严耕望	god dif yneg	126
+贺成筠	lkm dn tfqu	125
+索洛佐	fpx itk wda	131
+李睿珺	sb hpgh gvtk	117
+鄢梦萱	ghgb ssq apgg	118
+郭守杰	ybb pf so	113
+于春茂	gf dw adn	140
+张培仁	xt fuk wfg	116
+柏辽兹	srg bp uxx	111
+倪海厦	wvq itx ddh	114
+叶诚尘	kf ydn iff	116
+孙雅杰	bi ahty so	108
+志津子	fn ivfh bb	109
+文格勒	yygy st afl	105
+红莉栖	xa atj ssg	108
+顾思哲	db ln rrk	110
+董雯琦	atg fyu gds	103
+小沐子	ih isy bb	102
+文少玲	yygy it gwy	104
+有希子	e qdm bb	163
+刘丽玲	yj gmy gwy	100
+黄洁洵	amw ifk iqj	104
+法金汉	if qqqq ic	98
+叶驰敏	kf cbn txgt	105
+谢明辰	ytm je dfe	106
+冯鹤葵	uc pwy awg	96
+瓦尔拉	gny qiu ru	95
+李仲久	sb wkhh qy	109
+朱庆育	ri yd yce	93
+斯雷因	adwr flf ld	112
+斯塔夫	adwr fawk fw	91
+黄雨勋	amw fghy kml	91
+姜波克	ugv ihc dq	92
+狄利娅	qtoy tjh vgo	89
+里亚诺	jfd gog yad	98
+朱重八	ri tgj wty	87
+蒋先玲	auq tfq gwy	87
+闵可夫	uyi sk fw	87
+沃尔塔	itdy qiu fawk	100
+史波克	kq ihc dq	90
+施宁杰	ytb ps so	86
+刘凤科	yj mc tu	86
+宋慕瑶	psu ajdn ger	86
+霍亨索	fwyf ybj fpx	98
+展学恺	nae ip nmn	92
+埃勒里	fct afl jfd	87
+曼涅托	jlc ijfg rta	89
+庄祖琴	yfd pye ggw	87
+田惠萍	lll gjh aigh	89
+刘灿波	yj om ihc	83
+赵永勇	fhq yni cel	82
+钟兴民	qkhh iw n	82
+德米特	tfl oy trf	82
+深学邦	ipw ip dtb	82
+赵学洲	fhq ip iyt	82
+江寒彦	ia pfj uter	85
+曼督斯	jlc hich adwr	94
+张乃霞	xt etn fnhc	81
+碧昂斯	grd jqb adwr	106
+弗兰妮	xjk uff vnx	81
+董亚千	atg gog tfk	97
+曹名长	gma qk ta	97
+阿莉塞	bs atj pfjf	93
+霍廷恩	fwyf tfpd ldn	83
+颜维群	utem xwy vtk	92
+林清落	ss ige ait	83
+杜明柏	sfg je srg	81
+唐长孺	yvh ta bfd	79
+程婉琳	tkgg vpq gss	80
+朱昊鲲	ri jgd qgjx	77
+李森科	sb sss tu	77
+什维利	wfh xwy tjh	77
+胡太明	de dy je	76
+胡三省	de dg ith	76
+林其龙	ss adw dx	90
+赵志全	fhq fn wg	85
+施利芬	ytb tjh awv	76
+伦斯基	wwx adwr ad	75
+崔枝意	mwy sfc ujn	78
+沈延知	ipq thp td	75
+谢千舸	ytm tfk tes	75
+李兰云	sb uff fcu	75
+王吉营	ggg fk apk	75
+轩岚诺	lf mmqu yad	76
+陈桂彬	ba sff sse	74
+陈章良	ba ujj yv	73
+侯玉英	wnt gy amd	73
+王亚菊	ggg gog aqo	79
+柯尔莫	ssk qiu ajd	72
+阎步克	uqvd hi dq	72
+阎肃	uqvd vij	1
+郄鹏恩	qdc eeq ldn	72
+奚君羊	exd vtkd udj	81
+张崇邦	xt mpf dtb	72
+普罗特	uo lq trf	73
+世野井	an jfc fjk	87
+王不三	ggg i dg	77
+海劳德	itx apl tfl	77
+叶渭渠	kf ile ians	72
+鲍君甫	qgq vtkd geh	70
+石乐志	dgtg qi fn	71
+格劳龙	st apl dx	104
+弗丽达	xjk gmy dp	71
+韩仁均	fjfh wfg fqu	74
+沈一朗	ipq g yvc	69
+赵靖忠	fhq uge khn	74
+清十郎	ige fgh yvcb	70
+武智冲	gah tdkj ukh	75
+赵小鸠	fhq ih vqyg	68
+王度庐	ggg ya yyne	67
+江阿生	ia bs tg	88
+刘桂娟	yj sff vke	67
+网叔点财	mqq hic hko mf	73
+基尔霍夫	ad qiu fwyf fw	100
+尼瑞瓦因	nx gmd gny ld	116
+横山光辉	sam mmm iq iqpl	70
+浅川玲子	igt kthh gwy bb	66
+切夫斯基	av fw adwr ad	63
+拉巴次仁	ru cnh uqw wfg	62
+慕容景岳	ajdn pww jy rgm	56
+钱德拉塞卡	qg tfl ru pfjf hhu	54
+米泽穗信	oy icf tgjn wy	55
+上官太后	h pn dy rg	49
+代银遥熙	wa qve er ahko	46
+赤井务武	fo fjk tl gah	53
+原濑京子	dr igkm yiu bb	46
+亚奇洛贝	gog dskf itk mhny	49
+木暮公延	ssss ajdj wc thp	43
+麻耶雄嵩	yss bbh dcw mym	37
+章怀太子	ujj ng dy bb	35
+马斯洛夫	cn adwr itk fw	34
+林若宁	ss adk ps	84
+西迪厄斯	sghg mp dbv adwr	38
+小林多喜	ih ss qq fku	33
+亚德里亚	gog tfl jfd gog	32
+瓦尔德海姆	gny qiu tfl itx vx	32
+约瑟夫森	xq ggn fw sss	31
+阿维兰热	bs xwy uff rvyo	31
+蓬塔阿雷纳斯	atdp fawk bs flf xmw adwr	30
+布兰代斯	dmh uff wa adwr	29
+增田宗昭	fu lll pfi jvk	34
+圣范锦意	cff aib qrm ujn	28
+伊熙尔杜	wvt ahko qiu sfg	33
+和田晓霞	t lll jat fnhc	28
+相田彦一	sh lll uter g	31
+瓦斯卡尔	gny adwr hhu qiu	27
+奥尔梅克	tmo qiu stx dq	26
+谢苗诺夫	ytm alf yad fw	26
+竹鹤政孝	ttg pwy ght ftb	28
+卢贝兹基	hn mhny uxx ad	27
+伊奥尼亚	wvt tmo nx gog	23
+斯菲尔德	adwr adj qiu tfl	20
+一之仓聪	g pp wbb bukn	25
+浅川和行	igt kthh t tf	30
+拉斯韦尔	ru adwr fnh qiu	23
+光田康典	iq lll yvi maw	23
+户粟郁子	yne sou deb bb	33
+梅克夫人	stx dq fw w	22
+长井龙雪	ta fjk dx fv	25
+久木和凛子	qy ssss t uyl bb	24
+格里夫斯	st jfd fw adwr	21
+歌野晶午	sksw jfc jjj tfj	21
+梓泽广一	suh icf yygt g	21
+阿波利奈	bs ihc tjh dfi	21
+冲野洋子	ukh jfc iu bb	23
+别失八里	klj rw wty jfd	21
+藤原基经	aeu dr ad x	21
+迈斯亚夫	dnp adwr gog fw	22
+华伦夫人	wxf wwx fw w	20
+阿代勒吉	bs wa afl fk	22
+马嘎尔尼	cn kdh qiu nx	21
+当惹雍错	iv adkn yxt qaj	19
+小中千昭	ih k tfk jvk	25
+文昭皇后	yygy jvk rgf rg	19
+缪尔塞思	xnw qiu pfjf ln	20
+索西琴尼	fpx sghg ggw nx	18
+广井王子	yygt fjk ggg bb	18
+宗文皇帝	pfi yygy rgf up	19
+施纳贝尔	ytb xmw mhny qiu	18
+安加拉河	pv lk ru isk	18
+卡尔纳克	hhu qiu xmw dq	18
+大三巴牌坊	dd dg cnh thgf fyn	18
+马克西马	cn dq sghg cn	18
+艾博卫泰	aqu fge bg dwiu	18
+安尼斯顿	pv nx adwr gbnm	18
+成都五牛	dn ftjb gg rhk	17
+克莱门蒂	dq ago uyh aup	26
+洛维夫人	itk xwy fw w	17
+司马相公	ngk cn sh wc	17
+高梨康治	ym tjs yvi ick	19
+马利喀斯	cn tjh kpt adwr	17
+彼得罗夫斯基	thc tj lq fw adwr ad	16
+奥洛忒尔	tmo itk ani qiu	19
+霍扬斯克镇	fwyf rnr adwr dq qfhw	16
+令狐少侠	wyc qtr it wgu	16
+卡佩家族	hhu wmg pe ytt	16
+阿勒曼尼	bs afl jlc nx	16
+奥斯特瓦尔德	tmo adwr trf gny qiu tfl	16
+欧阳文忠	aqq bj yygy khn	16
+帕布莉卡	mhr dmh atj hhu	18
+董鄂皇后	atg kkfb rgf rg	16
+维尼亚夫	xwy nx gog fw	15
+阿彼察邦	bs thc pwfi dtb	15
+筱山纪信	twh mmm xn wy	15
+成濑巳喜	dn igkm nngn fku	15
+安瑟尔谟	pv ggn qiu yaj	16
+阿恩海姆	bs ldn itx vx	15
+安哈尔特	pv kwg qiu trf	15
+王太庆	ggg dy yd	21
+张企泰	xt whf dwiu	8
+徐梵澄	twt ssm iwgu	13
+施赖伯	ytb gkim wr	11
+邓嘉宛	cb fkuk pq	40
+戚国淦	dhi l iqg	6
+梁守锵	ivw pf quqf	10
+陈太先	ba dy tfq	15
+张草纫	xt ajj xvy	6
+胡企林	de whf ss	12
+王天锡	ggg gd qjq	6
+黎廷弼	tqt tfpd xdj	5
+卡斯托尔	hhu adwr rta qiu	5
+塔涅耶夫	fawk ijfg bbh fw	5
+藤原良房	aeu dr yv yny	5
+佐佐冈智	wda wda mqi tdkj	5
+阿贝拉尔	bs mhny ru qiu	9
+科马罗夫	tu cn lq fw	9
+相田剑介	sh lll wgi wj	9
+北濑佳范	ux igkm wffg aib	9
+达夫尼斯	dp fw nx adwr	8
+清武弘嗣	ige gah xcy kma	10
+阿维森纳	bs xwy sss xmw	8
+野坂昭如	jfc frc jvk vk	12
+申公巫臣	jhk wc aww ahn	9
+筱山久子	twh mmm qy bb	8
+上里翔流	h jfd udng iyc	9
+布伦塔诺	dmh wwx fawk yad	13
+远藤周作	fqp aeu mfk wt	9
+韦克斯勒	fnh dq adwr afl	8
+乔特鲁德	tdj trf qgj tfl	8
+欧阳永叔	aqq bj yni hic	8
+耶律重元	bbh tvfh tgj fqb	8
+潮崎哲士	ifj mds rrk fghg	8
+列昂惕夫	gq jqb njq fw	7
+格劳秀斯	st apl te adwr	7
+真岛吾朗	fhw qynm gkf yvc	7
+梶田隆章	sntn lll btg ujj	7
+堀川雷鼓	fnbm kthh flf fkuc	7
+李凯尔特	sb mnm qiu trf	7
+真木舜一	fhw ssss epqh g	7
+池田菊苗	ib lll aqo alf	7
+叶尔马克	kf qiu cn dq	7
+丹羽久秀	myd nny qy te	6
+纳斯尔丁	xmw adwr qiu sgh	6
+布尔加宁	dmh qiu lk ps	6
+丰田佐吉	dh lll wda fk	6
+浜田省吾	irgw lll ith gkf	6
+真角大古	fhw qe dd dgh	7
+蝶野晴美	jan jfc jge ugdu	14
+海野隆雄	itx jfc btg dcw	6
+彼得洛夫	thc tj itk fw	6
+高滨雅己	ym ipr ahty nng	7
+齐藤隆夫	yjj aeu btg fw	6
+奥田诚治	tmo lll ydn ick	6
+本宫广志	sg pk yygt fn	5
+保坂嘉内	wk frc fkuk mw	5
+叶山嘉树	kf mmm fkuk scf	6
+井本蓉子	fjk sg apw bb	5
+桐野夏生	smgk jfc dht tg	6
+恩格尔曼	ldn st qiu jlc	5
+胡亚雷斯	de gog flf adwr	5
+弗雷德曼	xjk flf tfl jlc	5
+相原琴子	sh dr ggw bb	6
+乌兰诺娃	qng uff yad vff	5
+雷日科夫	flf jjjj tu fw	5
+小渊惠三	ih ito gjh dg	5
+金田一一	qqqq lll g g	5
+松平容保	swc gu pww wk	9
+山白朝子	mmm rrr fje bb	6
+森本晃司	sss sg ji ngk	5
+和田伯光	t lll wr iq	5
+麻原彰晃	yss dr uje ji	5
+权藤俊辅	sc aeu wcw lgey	5
+歌德巴赫	sksw tfl cnh fof	5
+梓川咲太	suh kthh kudy dy	6
+川濑巴水	kthh igkm cnh ii	5
+弗里斯特	xjk jfd adwr trf	9
+马格丽特	cn st gmy trf	8
+阿尔玛格	bs qiu gcg st	7
+克列门蒂	dq gq uyh aup	9
+卡瓦列里	hhu gny gq jfd	7
+布兰迪斯	dmh uff mp adwr	7
+布劳威尔	dmh apl dgv qiu	7
+艾尔维斯	aqu qiu xwy adwr	7
+赫伊津哈	fof wvt ivfh kwg	8
+阿尔谢尼	bs qiu ytm nx	6
+伊什特万	wvt wfh trf dnv	5
+巴拉诺夫	cnh ru yad fw	5
+皮尔卡丹	hc qiu hhu myd	5
+迪伦马特	mp wwx cn trf	5
+拉普捷夫	ru uo rgv fw	5
+特拉弗斯	trf ru xjk adwr	5
+托纳托雷	rta xmw rta flf	5
+卡巴雷罗	hhu cnh flf lq	5
+霍尔瓦特	fwyf qiu gny trf	5
+赫梅尔尼	fof stx qiu nx	5
+志茂文彦	fn adn yygy uter	5
+新井白石	usr fjk rrr dgtg	5
+衣拉木江	ye ru ssss ia	5
+小弗郎士	ih xjk yvcb fghg	7
+池田晶子	ib lll jjj bb	5
+唐泽礼子	yvh icf pynn bb	5
+弗莱克斯	xjk ago dq adwr	5
+伊萨科夫	wvt abu tu fw	5
+欧利蒂丝	aqq tjh aup xxg	5
+普罗霍洛	uo lq fwyf itk	5
+利努契尼	tjh vcl dhv nx	8
+实藤惠秀	pu aeu gjh te	5
+叶尔莫洛	kf qiu ajd itk	5
+格林奈尔	st ss dfi qiu	5
+李二先生	sb fg tfq tg	5
+山本英夫	mmm sg amd fw	5
+梅赫利斯	stx fof tjh adwr	5
+齐格琳德	yjj st gss tfl	5
+柳鸣九	sqt kqy vt	21
+申荷永	jhk awsk yni	15
+图伦拔	ltu wwx rdc	68
+林朝英	ss fje amd	66
+尹东柱	vte ai syg	66
+季延清	tb thp ige	80
+崔松旺	mwy swc jgg	67
+达梅尔	dp stx qiu	65
+张志凤	xt fn mc	64
+尤长靖	dnv ta uge	63
+多维奇	qq xwy dskf	63
+周喆直	mfk fkfk fh	80
+秦嗣新	dwt kma usr	74
+周子雷	mfk bb flf	67
+秦嗣谭	dwt kma ysj	64
+摩瑞亚	yssr gmd gog	67
+徐文祖	twt yygy pye	61
+何嘉驹	wsk fkuk cqk	60
+陈省身	ba ith tmd	60
+赵主父	fhq y wqu	60
+宋连娣	psu lpk vux	62
+阿尔基	bs qiu ad	60
+杜子俊	sfg bb wcw	64
+克索斯	dq fpx adwr	61
+秦言续	dwt yyy xfn	58
+斯拉法	adwr ru if	58
+顾仲安	db wkhh pv	72
+欧西亚	aqq sghg gog	57
+武帝纪	gah up xn	84
+文棠生	yygy ipks tg	74
+叶谨安	kf yak pv	66
+陈柏龄	ba srg hwbc	56
+武学修	gah ip wht	56
+宋智鸣	psu tdkj kqy	56
+瓦列利	gny gq tjh	56
+科尔托	tu qiu rta	56
+林甘泉	ss afd riu	55
+贝烈格	mhny gqjo st	57
+李重润	sb tgj iugg	55
+陆君川	bfm vtkd kthh	58
+陆霆烨	bfm ftf owx	56
+萨拉班	abu ru gyt	53
+刘别谦	yj klj yuv	54
+许泽渊	ytf icf ito	55
+妮涅尔	vnx ijfg qiu	61
+温洪喜	ijl iaw fku	54
+格瑞塔	st gmd fawk	62
+罗树标	lq scf sfi	66
+白思雪	rrr ln fv	64
+程惟星	tkgg nwy jtg	59
+田浩龙	lll itfk dx	55
+吴逸然	kgd qkqp qd	58
+黄继新	amw xo usr	61
+格雷茨	st flf auqw	52
+李世默	sb an lfod	54
+江赫言	ia fof yyy	57
+方小庚	yy ih yvw	57
+常宗琳	ipkh pfi gss	53
+安格班	pv st gyt	61
+科雷利	tu flf tjh	61
+冯去疾	uc fcu utd	51
+沈舟诚	ipq tei ydn	51
+马西亚	cn sghg gog	52
+阿布辛	bs dmh uygh	50
+袁行霈	fke tf fig	50
+邓智天	cb tdkj gd	51
+李承意	sb bd ujn	50
+李洪枢	sb iaw saq	53
+江溶月	ia ipwk eee	51
+尹冰霁	vte ui fyj	55
+佟景易	wtuy jy jqr	52
+聂永真	bcc yni fhw	63
+王仲荦	ggg wkhh apr	49
+拉飞奇	ru nui dskf	60
+尼乌斯	nx qng adwr	54
+徐君猷	twt vtkd usgd	51
+达格斯	dp st adwr	48
+王晓晔	ggg jat jwx	57
+奥伯伦	tmo wr wwx	98
+车洪才	lg iaw ft	70
+陈依妙	ba wye vit	52
+刘翠青	yj nywf gef	50
+王嘉梅	ggg fkuk stx	49
+张田岚	xt lll mmqu	49
+张孟谈	xt blf yoo	47
+仲甫兄	wkhh geh kqb	49
+顾卫方	db bg yy	58
+科西莫	tu sghg ajd	46
+艾丽丝	aqu gmy xxg	46
+菲纳芬	adj xmw awv	55
+包大仁	qn dd wfg	48
+白敬祺	rrr aqk pya	52
+布列兹	dmh gq uxx	46
+郝爱国	fob ep l	46
+徐斯年	twt adwr rh	46
+孟献贵	blf fmud khgm	52
+墨瑞亚	lfof gmd gog	48
+克特西	dq trf sghg	45
+刘未鹏	yj fii eeq	48
+赵鑫全	fhq qqq wg	45
+贺国伟	lkm l wfn	48
+伦科夫	wwx tu fw	45
+何汉立	wsk ic uu	62
+白卫军	rrr bg pl	45
+丝塔雅	xxg fawk ahty	47
+王希元	ggg qdm fqb	47
+李英贤	sb amd jcm	50
+姜晓龙	ugv jat dx	47
+叶安君	kf pv vtkd	46
+李梅亭	sb stx yps	44
+卫希礼	bg qdm pynn	49
+洪翼舟	iaw nla tei	48
+张亦春	xt you dw	46
+孔明曰	bnn je jhng	44
+洛丝罗	itk xxg lq	48
+索末菲	fpx gs adj	44
+黄雪涛	amw fv idt	45
+邓尼兹	cb nx uxx	44
+村西透	sf sghg tep	54
+帅嘉谟	jmh fkuk yaj	47
+雷妮亚	flf vnx gog	51
+安哲罗	pv rrk lq	44
+张敬富	xt aqk pgk	51
+陈伟群	ba wfn vtk	57
+贺光启	lkm iq ynk	46
+斯巴赫	adwr cnh fof	44
+周炎斯	mfk oo adwr	45
+宋丞辅	psu big lgey	43
+林剑鸣	ss wgi kqy	48
+王跃琨	ggg khtd gjx	43
+图尔斯	ltu qiu adwr	42
+尼采蒂	nx es aup	42
+德梅尔	tfl stx qiu	44
+袁世卿	fke an qtvb	42
+冯提尔	uc rj qiu	42
+程祐启	tkgg pydk ynk	43
+郝振东	fob rdf ai	44
+宋一坤	psu g fjhh	48
+米勒特	oy afl trf	42
+杜俊威	sfg wcw dgv	43
+高慧勤	ym dhd akgl	42
+奇尔丹	dskf qiu myd	46
+许寒澈	ytf pfj iyct	41
+黄世华	amw an wxf	46
+顾怀峥	db ng mqv	42
+姜玉雯	ugv gy fyu	42
+周怀钰	mfk ng qgyy	43
+尼瑞瓦	nx gmd gny	20
+克普鲁	dq uo qgj	61
+张仲武	xt wkhh gah	52
+托尔特	rta qiu trf	40
+布里索	dmh jfd fpx	40
+张人凤	xt w mc	45
+李大帅	sb dd jmh	40
+孙国友	bi l dc	40
+可丽奥	sk gmy tmo	44
+萨伏伊	abu wdy wvt	39
+张召重	xt vkf tgj	39
+卡尔达	hhu qiu dp	45
+赛尔达	pfjm qiu dp	39
+斯托夫	adwr rta fw	41
+柯尼希	ssk nx qdm	39
+伍碧丝	wgg grd xxg	39
+周时锐	mfk jf quk	42
+程景硕	tkgg jy ddm	45
+宋逸轩	psu qkqp lf	38
+刘汝佳	yj ivg wffg	38
+梁昆淼	ivw jx iiiu	42
+林哈夫	ss kwg fw	44
+安德列	pv tfl gq	38
+陈宗明	ba pfi je	41
+刘俊麟	yj wcw ynjh	39
+宋祈予	psu pyr cbj	41
+何兹全	wsk uxx wg	37
+格尔利	st qiu tjh	37
+王弼注	ggg xdj iy	41
+孔庆普	bnn yd uo	37
+孙培青	bi fuk gef	41
+白乐天	rrr qi gd	37
+高永夏	ym yni dht	47
+顾禹书	db tkm nnh	38
+秦芳语	dwt ay ygk	37
+别尔卡	klj qiu hhu	37
+杜哲宁	sfg rrk ps	41
+秦小茉	dwt ih ags	54
+李载义	sb fa yq	36
+王俊波	ggg wcw ihc	36
+刘宛婷	yj pq vyp	36
+西莫夫	sghg ajd fw	36
+帕夫利	mhr fw tjh	36
+高伟同	ym wfn m	40
+顾北知	db ux td	38
+尹钟宇	vte qkhh pgf	38
+江雨薇	ia fghy atm	35
+法丽达	if gmy dp	37
+赫马尼	fof cn nx	35
+梁思禽	ivw ln wyb	36
+罗维奇	lq xwy dskf	35
+陈泽杉	ba icf set	36
+保加尔	wk lk qiu	35
+沈鲍洪	ipq qgq iaw	40
+兰尼加	uff nx lk	35
+孙国伟	bi l wfn	35
+吴芷兰	kgd ahf uff	35
+范疯子	aib umq bb	35
+许云洁	ytf fcu ifk	36
+吴至贞	kgd gcf hm	34
+冯卓斌	uc hjj yga	34
+刘维尔	yj xwy qiu	34
+祝春亭	pyk dw yps	36
+雷奕安	flf yod pv	45
+伊纳里	wvt xmw jfd	35
+米拉波	oy ru ihc	34
+莫里亚	ajd jfd gog	34
+维斯瓦	xwy adwr gny	35
+高韶青	ym ujv gef	35
+王城岗	ggg fd mmq	34
+普鲁托	uo qgj rta	37
+许南周	ytf fm mfk	39
+塔帕斯	fawk mhr adwr	34
+吴临轩	kgd jty lf	34
+周子国	mfk bb l	35
+寇静瑶	pfqc geq ger	37
+冯一贤	uc g jcm	34
+石察卡	dgtg pwfi hhu	51
+张艾菲	xt aqu adj	33
+卡丽熙	hhu gmy ahko	33
+伊莫库	wvt ajd ylk	35
+王霸之	ggg faf pp	33
+张克友	xt dq dc	40
+同同家	m m pe	45
+梁直导	ivw fh nf	41
+贝格曼	mhny st jlc	33
+顾运涛	db fcp idt	34
+范学昌	aib ip jj	35
+谢誉铭	ytm iwyf qqk	33
+林祖武	ss pye gah	36
+克莉斯	dq atj adwr	33
+郭小鲁	ybb ih qgj	36
+诺尔德	yad qiu tfl	32
+波利尼	ihc tjh nx	34
+奥涅格	tmo ijfg st	32
+朱锦清	ri qrm ige	41
+王晓湘	ggg jat ishg	32
+刘儒德	yj wfd tfl	32
+丘维声	rgd xwy fnr	33
+史坦利	kq fjg tjh	38
+马泽尔	cn icf qiu	31
+伊妮德	wvt vnx tfl	33
+郭庆光	ybb yd iq	34
+塔肖妮	fawk ie vnx	32
+朱贞木	ri hm ssss	30
+腾哈赫	eud kwg fof	32
+阙特勤	uub trf akgl	30
+塞莱什	pfjf ago wfh	30
+王绍军	ggg xvk pl	30
+车智澈	lg tdkj iyct	35
+森博嗣	sss fge kma	31
+柳文扬	sqt yygy rnr	29
+柳宗理	sqt pfi gj	30
+罗泓轸	lq ixc lwe	32
+贾木许	smu ssss ytf	31
+焦安溥	wyo pv igef	28
+杰文斯	so yygy adwr	28
+堀辰雄	fnbm dfe dcw	46
+王珮瑜	ggg gmgh gwg	32
+梅里爱	stx jfd ep	27
+童庆炳	ujff yd ogm	27
+王曾瑜	ggg ul gwg	27
+吕世浩	kk an itfk	31
+钱端升	qg umd tak	27
+辻真先	fpk fhw tfq	31
+瞿同祖	hhwy m pye	47
+夏侯懋	dht wnt scbn	26
+何凯明	wsk mnm je	30
+杜子春	sfg bb dw	26
+邓之诚	cb pp ydn	25
+李方桂	sb yy sff	25
+焦雄屏	wyo dcw nua	26
+比鲁尼	xx qgj nx	30
+熊朝忠	cexo fje khn	26
+梁方仲	ivw yy wkhh	24
+陈旭麓	ba vj ssyx	24
+阿伽松	bs wlk swc	43
+杰斐琳	so djdy gss	36
+周坚玉	mfk jcf gy	44
+卡兹文	hhu uxx yygy	32
+芮普莉	amwu uo atj	32
+关巧红	ud agnn xa	47
+雅凡娜	ahty my vvf	35
+黎永廉	tqt yni yuvo	32
+杰泽罗	so icf lq	36
+王洪浩	ggg iaw itfk	33
+马普切	cn uo av	36
+杜一楠	sfg g sfm	32
+李慎强	sb nfh xk	36
+武贾伟	gah smu wfn	35
+李学英	sb ip amd	32
+陆韵章	bfm ujqu ujj	32
+陈有丽	ba e gmy	33
+李建贵	sb vfhp khgm	50
+陈正康	ba ghd yvi	34
+海刚峰	itx mqj mtd	31
+安永透	pv yni tep	35
+张匡龙	xt agd dx	31
+海沃氏	itx itdy qa	31
+克罗伊	dq lq wvt	31
+格鲁塞	st qgj pfjf	31
+波特尔	ihc trf qiu	31
+格雷果	st flf js	31
+梅丽桑	stx gmy cccs	31
+祝鸿才	pyk iaqg ft	31
+盖拉赫	ugl ru fof	31
+黄锐华	amw quk wxf	31
+胡梅梅	de stx stx	31
+张宝义	xt pgy yq	31
+林成峰	ss dn mtd	35
+多伊奇	qq wvt dskf	30
+莎莉曼	aiit atj jlc	34
+阿韦罗	bs fnh lq	55
+法洛斯	if itk adwr	30
+季耶夫	tb bbh fw	31
+施特拉	ytb trf ru	33
+乔班尼	tdj gyt nx	33
+陶森特	bqr sss trf	31
+杨惠兰	sn gjh uff	31
+宫若梅	pk adk stx	32
+麦世宏	gtu an pdc	32
+沈济川	ipq iyj kthh	30
+蒋沛川	auq igmh kthh	32
+洛泰尔	itk dwiu qiu	30
+王洪富	ggg iaw pgk	34
+韦维尔	fnh xwy qiu	30
+周子雯	mfk bb fyu	29
+施托克	ytb rta dq	30
+登美彦	wgku ugdu uter	30
+贝尔蒂	mhny qiu aup	30
+白清羽	rrr ige nny	29
+丰聪耳	dh bukn bgh	29
+伊斯玛	wvt adwr gcg	29
+阿格里	bs st jfd	29
+武攸嗣	gah whty kma	31
+陆逸林	bfm qkqp ss	31
+麦世森	gtu an sss	33
+陈得才	ba tj ft	29
+杜布切	sfg dmh av	29
+贺淑杰	lkm ihic so	29
+苏思瑾	alw ln gakg	30
+黄紫君	amw hxx vtkd	29
+王开阳	ggg ga bj	28
+爱蕾雯	ep aflf fyu	29
+肖树生	ie scf tg	28
+孟特娇	blf trf vtdj	28
+邵云蛟	vkb fcu juq	28
+哈维兰	kwg xwy uff	28
+乌尔班	qng qiu gyt	28
+查泽雷	sj icf flf	29
+谢玉岗	ytm gy mmq	28
+吴庆隆	kgd yd btg	28
+克里普	dq jfd uo	28
+逄锦聚	tah qrm bct	28
+卢剑星	hn wgi jtg	30
+施莱歇	ytb ago jqw	28
+陈思王	ba ln ggg	28
+叶正勋	kf ghd kml	32
+尹玫瑜	vte gt gwg	28
+萝切莉	alq av atj	30
+胡里改	de jfd nty	28
+霍亨斯	fwyf ybj adwr	28
+邵利铎	vkb tjh qcf	28
+沈乔菁	ipq tdj agef	28
+吴凯声	kgd mnm fnr	28
+刘天斌	yj gd yga	29
+周斯年	mfk adwr rh	29
+顾怀夕	db ng qtny	28
+野泽君	jfc icf vtkd	30
+梁思安	ivw ln pv	37
+叶沂锦	kf irh qrm	28
+张晓洪	xt jat iaw	28
+菜津奈	ae ivfh dfi	32
+阿佐格	bs wda st	29
+美弥子	ugdu xqi bb	30
+李骏硕	sb ccw ddm	30
+孔多塞	bnn qq pfjf	27
+克莱登	dq ago wgku	27
+张国静	xt l geq	28
+伊塞亚	wvt pfjf gog	28
+宋佑硕	psu wdk ddm	28
+利亚诺	tjh gog yad	28
+姜白石	ugv rrr dgtg	27
+李必湖	sb nt ide	27
+叶廷芳	kf tfpd ay	27
+克罗恩	dq lq ldn	28
+丁世光	sgh an iq	32
+惠特妮	gjh trf vnx	27
+汪丛青	ig wwg gef	28
+陈虎平	ba ha gu	30
+波尔加	ihc qiu lk	27
+谢孟媛	ytm blf vefc	32
+时剑波	jf wgi ihc	27
+萨拉曼	abu ru jlc	27
+靳俊辰	afr wcw dfe	27
+萨伏依	abu wdy wye	27
+斯黛琳	adwr wal gss	32
+孙一冰	bi g ui	31
+沈牧清	ipq trt ige	32
+陈诗鱼	ba yff qgf	31
+玛博隆	gcg fge btg	28
+王重荣	ggg tgj aps	26
+布鲁明	dmh qgj je	26
+唐忆鲁	yvh nn qgj	32
+林广茂	ss yygt adn	26
+徐瑞辰	twt gmd dfe	27
+赵礼显	fhq pynn jo	28
+阿尔帕	bs qiu mhr	26
+格雷欣	st flf rqw	26
+田冈茂	lll mqi adn	28
+陈立杰	ba uu so	26
+王多权	ggg qq sc	26
+田不礼	lll i pynn	26
+堀口悠	fnbm kkkk whtn	28
+朱莉亚	ri atj gog	26
+史济怀	kq iyj ng	35
+米海尔	oy itx qiu	26
+陆渊雷	bfm ito flf	29
+赛普汀	pfjm uo ish	28
+陈敬济	ba aqk iyj	26
+姚匡乙	viq agd nnl	30
+魏普龙	tvr uo dx	27
+谭昌杰	ysj jj so	26
+许月珍	ytf eee gw	27
+辛怀星	uygh ng jtg	26
+陆明磊	bfm je ddd	27
+沈胜强	ipq etg xk	27
+韩鹤晓	fjfh pwy jat	26
+苏凌芳	alw ufw ay	26
+迟思梁	nyp ln ivw	25
+许荣洲	ytf aps iyt	25
+马耀歧	cn iqny hfc	31
+佛索威	wxj fpx dgv	27
+瓦里诺	gny jfd yad	25
+李桥忠	sb std khn	25
+马斯塔	cn adwr fawk	25
+闫华红	udd wxf xa	27
+陈选娟	ba tfqp vke	25
+周振甫	mfk rdf geh	25
+姬矢准	vah tdu uwy	31
+莫瑞亚	ajd gmd gog	28
+锦织博	qrm xkw fge	31
+邓俊辉	cb wcw iqpl	25
+徐中舒	twt k wfkb	25
+费弗尔	xjm xjk qiu	25
+贝伦斯	mhny wwx adwr	25
+俞逊发	wgej bip v	26
+狄奥尼	qtoy tmo nx	25
+罗斯塔	lq adwr fawk	25
+杨延玉	sn thp gy	27
+刘兴居	yj iw nd	25
+依什卡	wye wfh hhu	29
+卢祥勇	hn pyu cel	25
+科伊桑	tu wvt cccs	25
+戈罗恩	agnt lq ldn	25
+阿尔伯	bs qiu wr	25
+瓦伊纳	gny wvt xmw	25
+王俊煜	ggg wcw oju	27
+沈灿明	ipq om je	25
+伍治坚	wgg ick jcf	30
+汤星强	inr jtg xk	27
+赖明珠	gkim je gr	25
+黄关军	amw ud pl	25
+莫霍利	ajd fwyf tjh	30
+陈炳锡	ba ogm qjq	34
+王奉光	ggg dwf iq	25
+李承熙	sb bd ahko	25
+梁汝波	ivw ivg ihc	26
+瑟拉芬	ggn ru awv	27
+李园妹	sb lfq vfi	25
+徐淡庐	twt io yyne	29
+童敬侠	ujff aqk wgu	25
+别诺尼	klj yad nx	24
+顾惊鹊	db nyiy ajqg	28
+郭万超	ybb dnv fhv	32
+李嘉晖	sb fkuk jplh	24
+曹崇帅	gma mpf jmh	25
+雨宫哲	fghy pk rrk	38
+查内姆	sj mw vx	27
+库茹芬	ylk avk awv	40
+克尔克	dq qiu dq	24
+芬尼根	awv nx sve	24
+弗洛依	xjk itk wye	24
+于长平	gf ta gu	27
+安敦尼	pv ybt nx	24
+铁木辛	qr ssss uygh	24
+马拉美	cn ru ugdu	24
+苏晓樯	alw jat sfu	24
+罗敏萨	lq txgt abu	25
+艾勒里	aqu afl jfd	26
+欧阳峰	aqq bj mtd	24
+郭化楠	ybb wx sfm	24
+乌戈尔	qng agnt qiu	24
+宋世泊	psu an ir	24
+程丛夫	tkgg wwg fw	26
+卡帕克	hhu mhr dq	24
+邱惜珍	rgb najg gw	25
+包小柏	qn ih srg	25
+信迪利	wy mp tjh	29
+裴李岗	djde sb mmq	24
+斯坎德	adwr fqw tfl	24
+汪耀元	ig iqny fqb	25
+杜宝良	sfg pgy yv	24
+叶佳桐	kf wffg smgk	26
+高继胜	ym xo etg	32
+浩司案	itfk ngk pvs	26
+王司马	ggg ngk cn	34
+刘一林	yj g ss	25
+谢隽意	ytm wyeb ujn	24
+夏可欣	dht sk rqw	24
+香利奈	tjf tjh dfi	24
+缪德树	xnw tfl scf	28
+戴洪昌	falw iaw jj	24
+韩达硕	fjfh dp ddm	25
+常学红	ipkh ip xa	28
+施可汗	ytb sk ifh	24
+陆淮光	bfm iwy iq	30
+顾伯健	db wr wvf	26
+郑周敏	udb mfk txgt	24
+郑舜功	udb epqh al	23
+努基奇	vcl ad dskf	25
+那托列	vfb rta gq	23
+黄修源	amw wht idr	23
+巴齐尼	cnh yjj nx	23
+李一冰	sb g ui	36
+于省吾	gf ith gkf	23
+郭源潮	ybb idr ifj	23
+乔普林	tdj uo ss	23
+林同炎	ss m oo	23
+李千欢	sb tfk cqw	23
+鲇川哲	qghk kthh rrk	23
+朱维铮	ri xwy qqv	23
+王竹溪	ggg ttg iex	23
+昆塔莎	jx fawk aiit	26
+管晨辰	tp jd dfe	24
+茉蕊儿	ags ann qt	25
+严振东	god rdf ai	24
+高惠真	ym gjh fhw	34
+朱苏力	ri alw lt	23
+罗耀拉	lq iqny ru	23
+杨敬年	sn aqk rh	34
+齐世荣	yjj an aps	23
+贾鹏芳	smu eeq ay	23
+葛俊琦	ajq wcw gds	30
+依克多	wye dq qq	23
+希尔特	qdm qiu trf	23
+古罗斯	dgh lq adwr	23
+乌仁吉	qng wfg fk	23
+钮先铭	qnf tfq qqk	25
+杰诺米	so yad oy	24
+马启琴	cn ynk ggw	23
+郭霭明	ybb fyjn je	25
+阿柏星	bs srg jtg	23
+博伽茹	fge wlk avk	25
+赵木成	fhq ssss dn	23
+叶倾仙	kf wxd wm	32
+崔折玉	mwy rr gy	23
+阿赫梅	bs fof stx	23
+纳依斯	xmw wye adwr	23
+陈传兴	ba wfny iw	24
+江可儿	ia sk qt	45
+蔡元琪	awf fqb gad	23
+尹忠宇	vte khn pgf	25
+张光北	xt iq ux	36
+鱼朝恩	qgf fje ldn	20
+源赖朝	idr gkim fje	34
+曾子	ul bb	8
+站酷	uh sgtk	51
+中为	k o	9
+金专	qqqq fny	51
+北师	ux jgm	39
+融创	gkm wbj	43
+东映	ai jmd	39
+机核	sm synw	47
+保友	wk dc	40
+林皇	ss rgf	49
+法大	if dd	63
+舒华	wfkb wxf	43
+长帝	ta up	40
+唯冠	kwyg pfqf	40
+国关	l ud	46
+奥创	tmo wbj	37
+丰玉	dh gy	43
+宾大	pr dd	60
+上理	h gj	42
+城大	fd dd	55
+辉夜	iqpl ywt	49
+中传	k wfny	51
+国开	l ga	45
+魏书	tvr nnh	36
+新专	usr fny	53
+万刀	dnv vn	37
+兴全	iw wg	36
+大工	dd a	33
+矿大	dyt dd	48
+阿联	bs bu	31
+爱康	ep yvi	37
+瑞信	gmd wy	37
+墨刀	lfof vn	33
+北卡	ux hhu	43
+中公	k wc	45
+华理	wxf gj	29
+上港	h iawn	41
+桥水	std ii	37
+名柯	qk ssk	36
+翔阳	udng bj	47
+诺多	yad qq	42
+致炫	gcft oyx	42
+定寿	pg dtf	32
+雷鬼	flf rqc	27
+朗文	yvc yygy	27
+鬼灭	rqc goi	33
+苇名	afn qk	38
+华图	wxf ltu	29
+欧联	aqq bu	29
+河大	isk dd	29
+超兽	fhv ulg	29
+图虫	ltu jhny	27
+垦丁	vef sgh	25
+狗镇	qtq qfhw	32
+软微	lqw tmg	28
+软科	lqw tu	26
+郑外	udb qh	27
+恋练	yon xan	26
+杰顿	so gbnm	28
+玛氏	gcg qa	26
+大创	dd wbj	33
+戒灵	aak vo	28
+江充	ia yc	24
+雷伊	flf wvt	38
+科软	tu lqw	32
+陶寺	bqr ff	25
+草东	ajj ai	27
+御主	trh y	28
+游族	iytb ytt	26
+汉仪	ic wyq	27
+途虎	wtp ha	30
+暗荣	ju aps	22
+秦简	dwt tuj	28
+毛姆	tfn vx	46
+张枣	xt gmiu	43
+思嘉	ln fkuk	54
+马三	cn dg	68
+霍顿	fwyf gbnm	41
+宝拉	pgy ru	54
+甄氏	sfgn qa	40
+诺德	yad tfl	42
+俞渝	wgej iwgj	49
+未麻	fii yss	43
+少平	it gu	53
+芒格	ayn st	42
+唐尼	yvh nx	41
+绿子	xv bb	39
+善宇	uduk pgf	47
+陈寻	ba vf	40
+丹特	myd trf	42
+冯唐	uc yvh	33
+苏神	alw pyj	41
+苏力	alw lt	34
+时臣	jf ahn	33
+基顿	ad gbnm	30
+宁次	ps uqw	35
+褚嬴	pufj ynky	43
+老虚	ftx hao	41
+良秀	yv te	34
+肖老	ie ftx	48
+波本	ihc sg	34
+寡姐	pde veg	30
+鱼住	qgf wygg	42
+维塔	xwy fawk	28
+班纳	gyt xmw	32
+阳菜	bj ae	33
+浅川	igt kthh	30
+费舍	xjm wfk	31
+阿虚	bs hao	34
+丁霞	sgh fnhc	29
+斋藤	ydm aeu	27
+龙司	dx ngk	31
+藤真	aeu fhw	39
+袁老	fke ftx	39
+夜斗	ywt ufk	31
+剑介	wgi wj	29
+佛母	wxj xgu	36
+图尔	ltu qiu	26
+牛姨	rhk vg	29
+平次	gu uqw	31
+麦哥	gtu sks	32
+边江	lp ia	29
+戴安	falw pv	28
+明兰	je uff	30
+塞尚	pfjf imkf	25
+奥巴	tmo cnh	27
+休顿	ws gbnm	25
+庵野	ydjn jfc	36
+达奇	dp dskf	25
+李笛	sb tmf	25
+河田	isk lll	29
+项燕	adm au	27
+卡马	hhu cn	24
+张耳	xt bgh	28
+郭帆	ybb mhm	23
+王离	ggg yb	28
+食蜂	wyv jtd	26
+马奈	cn dfi	26
+劳勃	apl fpb	24
+李敢	sb nb	24
+阿敖	bs gqty	24
+爱娃	ep vff	26
+霍普	fwyf uo	27
+尤因	dnv ld	24
+巴赞	cnh tfqm	24
+谢伊	ytm wvt	26
+抚子	rfq bb	25
+齐祖	yjj pye	24
+萨内	abu mw	25
+阿良	bs yv	22
+基里	ad jfd	23
+张巍	xt mtv	23
+赤井	fo fjk	26
+宇哥	pgf sks	37
+王霜	ggg fs	24
+维托	xwy rta	28
+小扎	ih rnn	26
+泡利	iqn tjh	23
+老霉	ftx ftxu	23
+蒋桃	auq siq	22
+梁文峰	ivw yygy mtd	100

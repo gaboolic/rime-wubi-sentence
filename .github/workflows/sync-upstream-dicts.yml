@@ -1,0 +1,114 @@
+name: sync-upstream-dicts
+
+on:
+  schedule:
+    # 每天 00:00 北京时间（UTC+8）。GitHub Actions 的 cron 固定使用 UTC，对应 16:00 UTC。
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+    inputs:
+      upstream_ref:
+        description: "上游 rime-frost 的分支或标签"
+        required: false
+        default: "master"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream-dicts
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - branch: master
+            scheme: wubi
+            main_dict_dir: cn_dicts_wb
+          - branch: tiger
+            scheme: tiger
+            main_dict_dir: cn_dicts_tiger
+          - branch: ziyuan
+            scheme: ziyuan
+            main_dict_dir: cn_dicts_ziyuan
+          - branch: yucloud
+            scheme: yucloud
+            main_dict_dir: cn_dicts_yucloud
+          - branch: yustar
+            scheme: yustar
+            main_dict_dir: cn_dicts_yustar
+
+    steps:
+      - name: Checkout this repository (${{ matrix.branch }})
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ matrix.branch }}
+
+      - name: Checkout upstream rime-frost
+        uses: actions/checkout@v4
+        with:
+          repository: gaboolic/rime-frost
+          ref: ${{ inputs.upstream_ref || 'master' }}
+          path: .upstream/rime-frost
+          fetch-depth: 1
+          sparse-checkout: |
+            cn_dicts
+            cn_dicts_cell
+            others/知频.txt
+          sparse-checkout-cone-mode: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Sync main dictionaries (${{ matrix.scheme }})
+        run: |
+          SCHEME="${{ matrix.scheme }}"
+          case "$SCHEME" in
+            wubi)    SCRIPT=program/deal_ice_dict_to_wubi_1.py ;;
+            tiger)   SCRIPT=program/tiger/deal_ice_dict_to_tiger.py ;;
+            ziyuan)  SCRIPT=program/ziyuan/deal_ice_dict_to_ziyuan.py ;;
+            yucloud) SCRIPT=program/yustar/deal_ice_dict_to_yucloud.py ;;
+            yustar)  SCRIPT=program/yustar/deal_ice_dict_to_yustar.py ;;
+          esac
+          python "$SCRIPT" --upstream-dir .upstream/rime-frost
+        env:
+          RIME_FROST_DIR: .upstream/rime-frost
+
+      - name: Sync cell dictionaries to shape codes (${{ matrix.scheme }})
+        run: |
+          python program/deal_ice_dict_to_cell.py \
+            --upstream-dir .upstream/rime-frost \
+            --scheme "${{ matrix.scheme }}"
+
+      - name: Commit changes
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${{ matrix.main_dict_dir }}" cn_dicts_cell
+
+          if git diff --cached --quiet; then
+            echo "上游词库无变化，跳过提交"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          UPSTREAM_SHA=$(git -C .upstream/rime-frost rev-parse --short HEAD)
+          git commit -m "chore: 同步上游词库与细胞词库 (rime-frost@${UPSTREAM_SHA}) [${{ matrix.branch }}]"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Push changes
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          if [ -n "$TOKEN" ]; then
+            git remote set-url origin "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          fi
+          git push origin HEAD:${{ matrix.branch }}
