@@ -9,3225 +9,3225 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-兵八进一	rgw wty fj g	0
-兵八平九	rgw wty gu vt	0
-兵八平七	rgw wty gu ag	0
-兵二进一	rgw fg fj g	0
-兵二平三	rgw fg gu dg	0
-兵二平一	rgw fg gu g	0
-兵九进一	rgw vt fj g	7
-兵九平八	rgw vt gu wty	0
-兵六进一	rgw uy fj g	1
-兵六平七	rgw uy gu ag	0
-兵六平五	rgw uy gu gg	0
-兵七进一	rgw ag fj g	7
-兵七平八	rgw ag gu wty	0
-兵七平六	rgw ag gu uy	0
-兵三进一	rgw dg fj g	6
-兵三平二	rgw dg gu fg	0
-兵三平四	rgw dg gu lh	0
-兵四进一	rgw lh fj g	0
-兵四平三	rgw lh gu dg	0
-兵四平五	rgw lh gu gg	0
-兵五进一	rgw gg fj g	4
-兵五平六	rgw gg gu uy	1
-兵五平四	rgw gg gu lh	0
-兵一进一	rgw g fj g	0
-兵一平二	rgw g gu fg	0
-车八进八	lg wty fj wty	0
-车八进二	lg wty fj fg	0
-车八进九	lg wty fj vt	0
-车八进六	lg wty fj uy	0
-车八进七	lg wty fj ag	0
-车八进三	lg wty fj dg	0
-车八进四	lg wty fj lh	0
-车八进五	lg wty fj gg	0
-车八进一	lg wty fj g	0
-车八平二	lg wty gu fg	0
-车八平九	lg wty gu vt	0
-车八平六	lg wty gu uy	0
-车八平七	lg wty gu ag	0
-车八平三	lg wty gu dg	0
-车八平四	lg wty gu lh	0
-车八平五	lg wty gu gg	0
-车八平一	lg wty gu g	0
-车八退八	lg wty vep wty	0
-车八退二	lg wty vep fg	0
-车八退九	lg wty vep vt	0
-车八退六	lg wty vep uy	0
-车八退七	lg wty vep ag	0
-车八退三	lg wty vep dg	0
-车八退四	lg wty vep lh	0
-车八退五	lg wty vep gg	0
-车八退一	lg wty vep g	0
-车二进八	lg fg fj wty	0
-车二进二	lg fg fj fg	0
-车二进九	lg fg fj vt	0
-车二进六	lg fg fj uy	6
-车二进七	lg fg fj ag	0
-车二进三	lg fg fj dg	0
-车二进四	lg fg fj lh	0
-车二进五	lg fg fj gg	0
-车二进一	lg fg fj g	0
-车二平八	lg fg gu wty	0
-车二平九	lg fg gu vt	0
-车二平六	lg fg gu uy	0
-车二平七	lg fg gu ag	1
-车二平三	lg fg gu dg	2
-车二平四	lg fg gu lh	0
-车二平五	lg fg gu gg	0
-车二平一	lg fg gu g	0
-车二退八	lg fg vep wty	0
-车二退二	lg fg vep fg	0
-车二退九	lg fg vep vt	0
-车二退六	lg fg vep uy	0
-车二退七	lg fg vep ag	0
-车二退三	lg fg vep dg	0
-车二退四	lg fg vep lh	0
-车二退五	lg fg vep gg	0
-车二退一	lg fg vep g	0
-车进	lg fj	11
-车九进八	lg vt fj wty	0
-车九进二	lg vt fj fg	1
-车九进九	lg vt fj vt	0
-车九进六	lg vt fj uy	0
-车九进七	lg vt fj ag	0
-车九进三	lg vt fj dg	0
-车九进四	lg vt fj lh	0
-车九进五	lg vt fj gg	0
-车九进一	lg vt fj g	4
-车九平八	lg vt gu wty	1
-车九平二	lg vt gu fg	1
-车九平六	lg vt gu uy	6
-车九平七	lg vt gu ag	0
-车九平三	lg vt gu dg	0
-车九平四	lg vt gu lh	0
-车九平五	lg vt gu gg	0
-车九平一	lg vt gu g	0
-车九退八	lg vt vep wty	0
-车九退二	lg vt vep fg	0
-车九退九	lg vt vep vt	0
-车九退六	lg vt vep uy	0
-车九退七	lg vt vep ag	0
-车九退三	lg vt vep dg	0
-车九退四	lg vt vep lh	0
-车九退五	lg vt vep gg	0
-车九退一	lg vt vep g	0
-车六进八	lg uy fj wty	1
-车六进二	lg uy fj fg	1
-车六进九	lg uy fj vt	0
-车六进六	lg uy fj uy	1
-车六进七	lg uy fj ag	6
-车六进三	lg uy fj dg	0
-车六进四	lg uy fj lh	3
-车六进五	lg uy fj gg	0
-车六进一	lg uy fj g	0
-车六平八	lg uy gu wty	0
-车六平二	lg uy gu fg	0
-车六平九	lg uy gu vt	0
-车六平七	lg uy gu ag	1
-车六平三	lg uy gu dg	1
-车六平四	lg uy gu lh	5
-车六平五	lg uy gu gg	1
-车六平一	lg uy gu g	1
-车六退八	lg uy vep wty	0
-车六退二	lg uy vep fg	0
-车六退九	lg uy vep vt	0
-车六退六	lg uy vep uy	0
-车六退七	lg uy vep ag	0
-车六退三	lg uy vep dg	0
-车六退四	lg uy vep lh	0
-车六退五	lg uy vep gg	0
-车六退一	lg uy vep g	0
-车平	lg gu	0
-车七进八	lg ag fj wty	0
-车七进二	lg ag fj fg	0
-车七进九	lg ag fj vt	0
-车七进六	lg ag fj uy	0
-车七进七	lg ag fj ag	0
-车七进三	lg ag fj dg	1
-车七进四	lg ag fj lh	0
-车七进五	lg ag fj gg	0
-车七进一	lg ag fj g	0
-车七平八	lg ag gu wty	0
-车七平二	lg ag gu fg	0
-车七平九	lg ag gu vt	0
-车七平六	lg ag gu uy	0
-车七平三	lg ag gu dg	0
-车七平四	lg ag gu lh	0
-车七平五	lg ag gu gg	0
-车七平一	lg ag gu g	0
-车七退八	lg ag vep wty	0
-车七退二	lg ag vep fg	0
-车七退九	lg ag vep vt	0
-车七退六	lg ag vep uy	0
-车七退七	lg ag vep ag	0
-车七退三	lg ag vep dg	0
-车七退四	lg ag vep lh	0
-车七退五	lg ag vep gg	0
-车七退一	lg ag vep g	1
-车三进八	lg dg fj wty	0
-车三进二	lg dg fj fg	0
-车三进九	lg dg fj vt	0
-车三进六	lg dg fj uy	0
-车三进七	lg dg fj ag	0
-车三进三	lg dg fj dg	0
-车三进四	lg dg fj lh	0
-车三进五	lg dg fj gg	0
-车三进一	lg dg fj g	0
-车三平八	lg dg gu wty	0
-车三平二	lg dg gu fg	0
-车三平九	lg dg gu vt	0
-车三平六	lg dg gu uy	1
-车三平七	lg dg gu ag	0
-车三平四	lg dg gu lh	0
-车三平五	lg dg gu gg	0
-车三平一	lg dg gu g	0
-车三退八	lg dg vep wty	0
-车三退二	lg dg vep fg	1
-车三退九	lg dg vep vt	0
-车三退六	lg dg vep uy	0
-车三退七	lg dg vep ag	0
-车三退三	lg dg vep dg	0
-车三退四	lg dg vep lh	0
-车三退五	lg dg vep gg	0
-车三退一	lg dg vep g	0
-车四进八	lg lh fj wty	0
-车四进二	lg lh fj fg	0
-车四进九	lg lh fj vt	0
-车四进六	lg lh fj uy	5
-车四进七	lg lh fj ag	0
-车四进三	lg lh fj dg	0
-车四进四	lg lh fj lh	0
-车四进五	lg lh fj gg	0
-车四进一	lg lh fj g	1
-车四平八	lg lh gu wty	0
-车四平二	lg lh gu fg	0
-车四平九	lg lh gu vt	0
-车四平六	lg lh gu uy	0
-车四平七	lg lh gu ag	0
-车四平三	lg lh gu dg	0
-车四平五	lg lh gu gg	0
-车四平一	lg lh gu g	0
-车四退八	lg lh vep wty	0
-车四退二	lg lh vep fg	1
-车四退九	lg lh vep vt	0
-车四退六	lg lh vep uy	0
-车四退七	lg lh vep ag	0
-车四退三	lg lh vep dg	0
-车四退四	lg lh vep lh	0
-车四退五	lg lh vep gg	0
-车四退一	lg lh vep g	0
-车退	lg vep	1
-车五进八	lg gg fj wty	0
-车五进二	lg gg fj fg	0
-车五进九	lg gg fj vt	0
-车五进六	lg gg fj uy	0
-车五进七	lg gg fj ag	1
-车五进三	lg gg fj dg	0
-车五进四	lg gg fj lh	0
-车五进五	lg gg fj gg	0
-车五进一	lg gg fj g	0
-车五平八	lg gg gu wty	0
-车五平二	lg gg gu fg	0
-车五平九	lg gg gu vt	0
-车五平六	lg gg gu uy	0
-车五平七	lg gg gu ag	0
-车五平三	lg gg gu dg	0
-车五平四	lg gg gu lh	1
-车五平一	lg gg gu g	0
-车五退八	lg gg vep wty	0
-车五退二	lg gg vep fg	0
-车五退九	lg gg vep vt	0
-车五退六	lg gg vep uy	0
-车五退七	lg gg vep ag	0
-车五退三	lg gg vep dg	0
-车五退四	lg gg vep lh	0
-车五退五	lg gg vep gg	0
-车五退一	lg gg vep g	0
-车一进八	lg g fj wty	0
-车一进二	lg g fj fg	4
-车一进九	lg g fj vt	0
-车一进六	lg g fj uy	0
-车一进七	lg g fj ag	0
-车一进三	lg g fj dg	2
-车一进四	lg g fj lh	0
-车一进五	lg g fj gg	0
-车一进一	lg g fj g	9
-车一平八	lg g gu wty	0
-车一平二	lg g gu fg	3
-车一平九	lg g gu vt	0
-车一平六	lg g gu uy	7
-车一平七	lg g gu ag	0
-车一平三	lg g gu dg	1
-车一平四	lg g gu lh	0
-车一平五	lg g gu gg	0
-车一退八	lg g vep wty	0
-车一退二	lg g vep fg	0
-车一退九	lg g vep vt	0
-车一退六	lg g vep uy	0
-车一退七	lg g vep ag	0
-车一退三	lg g vep dg	0
-车一退四	lg g vep lh	0
-车一退五	lg g vep gg	0
-车一退一	lg g vep g	0
-二兵进一	fg rgw fj g	0
-二兵平八	fg rgw gu wty	0
-二兵平二	fg rgw gu fg	0
-二兵平九	fg rgw gu vt	0
-二兵平六	fg rgw gu uy	0
-二兵平七	fg rgw gu ag	0
-二兵平三	fg rgw gu dg	0
-二兵平四	fg rgw gu lh	0
-二兵平五	fg rgw gu gg	0
-二兵平一	fg rgw gu g	0
-二卒进	fg ywwf fj	0
-二卒平	fg ywwf gu	0
-后包进	rg qn fj	1
-后包进八	rg qn fj wty	0
-后包进二	rg qn fj fg	0
-后包进九	rg qn fj vt	0
-后包进六	rg qn fj uy	0
-后包进七	rg qn fj ag	0
-后包进三	rg qn fj dg	0
-后包进四	rg qn fj lh	0
-后包进五	rg qn fj gg	0
-后包进一	rg qn fj g	0
-后包平	rg qn gu	0
-后包平八	rg qn gu wty	0
-后包平二	rg qn gu fg	0
-后包平九	rg qn gu vt	0
-后包平六	rg qn gu uy	0
-后包平七	rg qn gu ag	0
-后包平三	rg qn gu dg	0
-后包平四	rg qn gu lh	0
-后包平五	rg qn gu gg	0
-后包平一	rg qn gu g	0
-后包退	rg qn vep	0
-后包退八	rg qn vep wty	0
-后包退二	rg qn vep fg	0
-后包退六	rg qn vep uy	0
-后包退七	rg qn vep ag	0
-后包退三	rg qn vep dg	0
-后包退四	rg qn vep lh	0
-后包退五	rg qn vep gg	0
-后包退一	rg qn vep g	0
-后兵八进一	rg rgw wty fj g	0
-后兵八平七	rg rgw wty gu ag	0
-后兵二进一	rg rgw fg fj g	0
-后兵二平三	rg rgw fg gu dg	0
-后兵进一	rg rgw fj g	0
-后兵九进一	rg rgw vt fj g	0
-后兵九平八	rg rgw vt gu wty	0
-后兵六进一	rg rgw uy fj g	0
-后兵六平七	rg rgw uy gu ag	0
-后兵六平五	rg rgw uy gu gg	0
-后兵平八	rg rgw gu wty	0
-后兵平二	rg rgw gu fg	0
-后兵平九	rg rgw gu vt	0
-后兵平六	rg rgw gu uy	0
-后兵平七	rg rgw gu ag	0
-后兵平三	rg rgw gu dg	0
-后兵平四	rg rgw gu lh	0
-后兵平五	rg rgw gu gg	0
-后兵平一	rg rgw gu g	0
-后兵七进一	rg rgw ag fj g	0
-后兵七平八	rg rgw ag gu wty	0
-后兵七平六	rg rgw ag gu uy	0
-后兵三进一	rg rgw dg fj g	0
-后兵三平二	rg rgw dg gu fg	0
-后兵三平四	rg rgw dg gu lh	0
-后兵四进一	rg rgw lh fj g	0
-后兵四平三	rg rgw lh gu dg	0
-后兵四平五	rg rgw lh gu gg	0
-后兵五进一	rg rgw gg fj g	0
-后兵五平六	rg rgw gg gu uy	0
-后兵五平四	rg rgw gg gu lh	0
-后兵一进一	rg rgw g fj g	0
-后兵一平二	rg rgw g gu fg	0
-后车进	rg lg fj	0
-后车进八	rg lg fj wty	0
-后车进二	rg lg fj fg	0
-后车进六	rg lg fj uy	0
-后车进七	rg lg fj ag	0
-后车进三	rg lg fj dg	0
-后车进四	rg lg fj lh	0
-后车进五	rg lg fj gg	0
-后车进一	rg lg fj g	0
-后车平	rg lg gu	0
-后车平八	rg lg gu wty	0
-后车平二	rg lg gu fg	0
-后车平九	rg lg gu vt	0
-后车平六	rg lg gu uy	1
-后车平七	rg lg gu ag	0
-后车平三	rg lg gu dg	0
-后车平四	rg lg gu lh	1
-后车平五	rg lg gu gg	0
-后车平一	rg lg gu g	0
-后车退	rg lg vep	0
-后车退八	rg lg vep wty	0
-后车退二	rg lg vep fg	0
-后车退六	rg lg vep uy	0
-后车退七	rg lg vep ag	0
-后车退三	rg lg vep dg	0
-后车退四	rg lg vep lh	0
-后车退五	rg lg vep gg	0
-后车退一	rg lg vep g	0
-后車进	rg lghh fj	0
-后俥进八	rg wlh fj wty	0
-后車进八	rg lghh fj wty	0
-后俥进二	rg wlh fj fg	0
-后車进二	rg lghh fj fg	0
-后俥进六	rg wlh fj uy	0
-后車进六	rg lghh fj uy	0
-后俥进七	rg wlh fj ag	0
-后車进七	rg lghh fj ag	0
-后俥进三	rg wlh fj dg	0
-后車进三	rg lghh fj dg	0
-后俥进四	rg wlh fj lh	0
-后車进四	rg lghh fj lh	0
-后俥进五	rg wlh fj gg	0
-后車进五	rg lghh fj gg	0
-后俥进一	rg wlh fj g	0
-后車进一	rg lghh fj g	0
-后車平	rg lghh gu	0
-后俥平八	rg wlh gu wty	0
-后車平八	rg lghh gu wty	0
-后俥平二	rg wlh gu fg	0
-后車平二	rg lghh gu fg	0
-后俥平九	rg wlh gu vt	0
-后車平九	rg lghh gu vt	0
-后俥平六	rg wlh gu uy	0
-后車平六	rg lghh gu uy	0
-后俥平七	rg wlh gu ag	0
-后車平七	rg lghh gu ag	0
-后俥平三	rg wlh gu dg	0
-后車平三	rg lghh gu dg	0
-后俥平四	rg wlh gu lh	0
-后車平四	rg lghh gu lh	0
-后俥平五	rg wlh gu gg	0
-后車平五	rg lghh gu gg	0
-后俥平一	rg wlh gu g	0
-后車平一	rg lghh gu g	0
-后車退	rg lghh vep	0
-后俥退八	rg wlh vep wty	0
-后車退八	rg lghh vep wty	0
-后俥退二	rg wlh vep fg	0
-后車退二	rg lghh vep fg	0
-后俥退六	rg wlh vep uy	0
-后車退六	rg lghh vep uy	0
-后俥退七	rg wlh vep ag	0
-后車退七	rg lghh vep ag	0
-后俥退三	rg wlh vep dg	0
-后車退三	rg lghh vep dg	0
-后俥退四	rg wlh vep lh	0
-后車退四	rg lghh vep lh	0
-后俥退五	rg wlh vep gg	0
-后車退五	rg lghh vep gg	0
-后俥退一	rg wlh vep g	0
-后車退一	rg lghh vep g	0
-后馬进	rg cggy fj	0
-后马进	rg cn fj	0
-后傌进八	rg wcy fj wty	0
-后馬进八	rg cggy fj wty	0
-后马进八	rg cn fj wty	0
-后傌进二	rg wcy fj fg	0
-后馬进二	rg cggy fj fg	0
-后马进二	rg cn fj fg	0
-后傌进九	rg wcy fj vt	0
-后馬进九	rg cggy fj vt	0
-后马进九	rg cn fj vt	0
-后傌进六	rg wcy fj uy	0
-后馬进六	rg cggy fj uy	0
-后马进六	rg cn fj uy	0
-后傌进七	rg wcy fj ag	0
-后馬进七	rg cggy fj ag	0
-后马进七	rg cn fj ag	0
-后傌进三	rg wcy fj dg	0
-后馬进三	rg cggy fj dg	0
-后马进三	rg cn fj dg	0
-后傌进四	rg wcy fj lh	0
-后馬进四	rg cggy fj lh	0
-后马进四	rg cn fj lh	0
-后傌进五	rg wcy fj gg	0
-后馬进五	rg cggy fj gg	0
-后马进五	rg cn fj gg	0
-后傌进一	rg wcy fj g	0
-后馬进一	rg cggy fj g	0
-后马进一	rg cn fj g	0
-后馬退	rg cggy vep	0
-后马退	rg cn vep	0
-后傌退八	rg wcy vep wty	0
-后馬退八	rg cggy vep wty	0
-后马退八	rg cn vep wty	0
-后傌退二	rg wcy vep fg	0
-后馬退二	rg cggy vep fg	0
-后马退二	rg cn vep fg	0
-后傌退九	rg wcy vep vt	0
-后馬退九	rg cggy vep vt	0
-后马退九	rg cn vep vt	0
-后傌退六	rg wcy vep uy	0
-后馬退六	rg cggy vep uy	0
-后马退六	rg cn vep uy	0
-后傌退七	rg wcy vep ag	0
-后馬退七	rg cggy vep ag	0
-后马退七	rg cn vep ag	0
-后傌退三	rg wcy vep dg	0
-后馬退三	rg cggy vep dg	0
-后马退三	rg cn vep dg	0
-后傌退四	rg wcy vep lh	0
-后馬退四	rg cggy vep lh	0
-后马退四	rg cn vep lh	0
-后傌退五	rg wcy vep gg	0
-后馬退五	rg cggy vep gg	0
-后马退五	rg cn vep gg	0
-后傌退一	rg wcy vep g	0
-后馬退一	rg cggy vep g	0
-后马退一	rg cn vep g	0
-后炮进	rg oq fj	0
-后砲进	rg dqnn fj	0
-后炮进八	rg oq fj wty	0
-后砲进八	rg dqnn fj wty	0
-后炮进二	rg oq fj fg	0
-后砲进二	rg dqnn fj fg	0
-后炮进九	rg oq fj vt	0
-后砲进九	rg dqnn fj vt	0
-后炮进六	rg oq fj uy	0
-后砲进六	rg dqnn fj uy	0
-后炮进七	rg oq fj ag	0
-后砲进七	rg dqnn fj ag	0
-后炮进三	rg oq fj dg	0
-后砲进三	rg dqnn fj dg	0
-后炮进四	rg oq fj lh	0
-后砲进四	rg dqnn fj lh	0
-后炮进五	rg oq fj gg	0
-后砲进五	rg dqnn fj gg	0
-后炮进一	rg oq fj g	0
-后砲进一	rg dqnn fj g	0
-后炮平	rg oq gu	0
-后砲平	rg dqnn gu	0
-后炮平八	rg oq gu wty	0
-后砲平八	rg dqnn gu wty	0
-后炮平二	rg oq gu fg	0
-后砲平二	rg dqnn gu fg	0
-后炮平九	rg oq gu vt	0
-后砲平九	rg dqnn gu vt	0
-后炮平六	rg oq gu uy	0
-后砲平六	rg dqnn gu uy	0
-后炮平七	rg oq gu ag	0
-后砲平七	rg dqnn gu ag	0
-后炮平三	rg oq gu dg	0
-后砲平三	rg dqnn gu dg	0
-后炮平四	rg oq gu lh	0
-后砲平四	rg dqnn gu lh	0
-后炮平五	rg oq gu gg	0
-后砲平五	rg dqnn gu gg	0
-后炮平一	rg oq gu g	0
-后砲平一	rg dqnn gu g	0
-后炮退	rg oq vep	0
-后砲退	rg dqnn vep	0
-后炮退八	rg oq vep wty	0
-后砲退八	rg dqnn vep wty	0
-后炮退二	rg oq vep fg	0
-后砲退二	rg dqnn vep fg	0
-后炮退六	rg oq vep uy	0
-后砲退六	rg dqnn vep uy	0
-后炮退七	rg oq vep ag	0
-后砲退七	rg dqnn vep ag	0
-后炮退三	rg oq vep dg	0
-后砲退三	rg dqnn vep dg	0
-后炮退四	rg oq vep lh	0
-后砲退四	rg dqnn vep lh	0
-后炮退五	rg oq vep gg	0
-后砲退五	rg dqnn vep gg	0
-后炮退一	rg oq vep g	0
-后砲退一	rg dqnn vep g	0
-后卒进	rg ywwf fj	0
-后卒平	rg ywwf gu	0
-将进	uqf fj	0
-將进	nhdf fj	0
-将平	uqf gu	1
-將平	nhdf gu	2
-将退	uqf vep	0
-將退	nhdf vep	1
-俥八进八	wlh wty fj wty	0
-車八进八	lghh wty fj wty	0
-俥八进二	wlh wty fj fg	0
-車八进二	lghh wty fj fg	0
-俥八进九	wlh wty fj vt	0
-車八进九	lghh wty fj vt	0
-俥八进六	wlh wty fj uy	0
-車八进六	lghh wty fj uy	0
-俥八进七	wlh wty fj ag	0
-車八进七	lghh wty fj ag	0
-俥八进三	wlh wty fj dg	0
-車八进三	lghh wty fj dg	0
-俥八进四	wlh wty fj lh	0
-車八进四	lghh wty fj lh	0
-俥八进五	wlh wty fj gg	0
-車八进五	lghh wty fj gg	0
-俥八进一	wlh wty fj g	0
-車八进一	lghh wty fj g	0
-俥八平二	wlh wty gu fg	0
-車八平二	lghh wty gu fg	0
-俥八平九	wlh wty gu vt	0
-車八平九	lghh wty gu vt	0
-俥八平六	wlh wty gu uy	0
-車八平六	lghh wty gu uy	0
-俥八平七	wlh wty gu ag	0
-車八平七	lghh wty gu ag	0
-俥八平三	wlh wty gu dg	0
-車八平三	lghh wty gu dg	0
-俥八平四	wlh wty gu lh	0
-車八平四	lghh wty gu lh	0
-俥八平五	wlh wty gu gg	0
-車八平五	lghh wty gu gg	0
-俥八平一	wlh wty gu g	0
-車八平一	lghh wty gu g	0
-俥八退八	wlh wty vep wty	0
-車八退八	lghh wty vep wty	0
-俥八退二	wlh wty vep fg	0
-車八退二	lghh wty vep fg	0
-俥八退九	wlh wty vep vt	0
-車八退九	lghh wty vep vt	0
-俥八退六	wlh wty vep uy	0
-車八退六	lghh wty vep uy	0
-俥八退七	wlh wty vep ag	0
-車八退七	lghh wty vep ag	0
-俥八退三	wlh wty vep dg	0
-車八退三	lghh wty vep dg	0
-俥八退四	wlh wty vep lh	0
-車八退四	lghh wty vep lh	0
-俥八退五	wlh wty vep gg	0
-車八退五	lghh wty vep gg	0
-俥八退一	wlh wty vep g	0
-車八退一	lghh wty vep g	0
-俥二进八	wlh fg fj wty	0
-車二进八	lghh fg fj wty	0
-俥二进二	wlh fg fj fg	0
-車二进二	lghh fg fj fg	0
-俥二进九	wlh fg fj vt	0
-車二进九	lghh fg fj vt	0
-俥二进六	wlh fg fj uy	0
-車二进六	lghh fg fj uy	0
-俥二进七	wlh fg fj ag	0
-車二进七	lghh fg fj ag	0
-俥二进三	wlh fg fj dg	0
-車二进三	lghh fg fj dg	0
-俥二进四	wlh fg fj lh	0
-車二进四	lghh fg fj lh	0
-俥二进五	wlh fg fj gg	0
-車二进五	lghh fg fj gg	0
-俥二进一	wlh fg fj g	0
-車二进一	lghh fg fj g	0
-俥二平八	wlh fg gu wty	0
-車二平八	lghh fg gu wty	0
-俥二平九	wlh fg gu vt	0
-車二平九	lghh fg gu vt	0
-俥二平六	wlh fg gu uy	0
-車二平六	lghh fg gu uy	0
-俥二平七	wlh fg gu ag	0
-車二平七	lghh fg gu ag	0
-俥二平三	wlh fg gu dg	0
-車二平三	lghh fg gu dg	0
-俥二平四	wlh fg gu lh	0
-車二平四	lghh fg gu lh	0
-俥二平五	wlh fg gu gg	0
-車二平五	lghh fg gu gg	0
-俥二平一	wlh fg gu g	0
-車二平一	lghh fg gu g	0
-俥二退八	wlh fg vep wty	0
-車二退八	lghh fg vep wty	0
-俥二退二	wlh fg vep fg	0
-車二退二	lghh fg vep fg	0
-俥二退九	wlh fg vep vt	0
-車二退九	lghh fg vep vt	0
-俥二退六	wlh fg vep uy	0
-車二退六	lghh fg vep uy	0
-俥二退七	wlh fg vep ag	0
-車二退七	lghh fg vep ag	0
-俥二退三	wlh fg vep dg	0
-車二退三	lghh fg vep dg	0
-俥二退四	wlh fg vep lh	0
-車二退四	lghh fg vep lh	0
-俥二退五	wlh fg vep gg	0
-車二退五	lghh fg vep gg	0
-俥二退一	wlh fg vep g	0
-車二退一	lghh fg vep g	0
-車进	lghh fj	0
-俥九进八	wlh vt fj wty	0
-車九进八	lghh vt fj wty	0
-俥九进二	wlh vt fj fg	0
-車九进二	lghh vt fj fg	1
-俥九进九	wlh vt fj vt	0
-車九进九	lghh vt fj vt	0
-俥九进六	wlh vt fj uy	0
-車九进六	lghh vt fj uy	0
-俥九进七	wlh vt fj ag	0
-車九进七	lghh vt fj ag	0
-俥九进三	wlh vt fj dg	0
-車九进三	lghh vt fj dg	1
-俥九进四	wlh vt fj lh	0
-車九进四	lghh vt fj lh	0
-俥九进五	wlh vt fj gg	0
-車九进五	lghh vt fj gg	0
-俥九进一	wlh vt fj g	0
-車九进一	lghh vt fj g	1
-俥九平八	wlh vt gu wty	0
-車九平八	lghh vt gu wty	0
-俥九平二	wlh vt gu fg	0
-車九平二	lghh vt gu fg	0
-俥九平六	wlh vt gu uy	0
-車九平六	lghh vt gu uy	0
-俥九平七	wlh vt gu ag	0
-車九平七	lghh vt gu ag	0
-俥九平三	wlh vt gu dg	0
-車九平三	lghh vt gu dg	0
-俥九平四	wlh vt gu lh	0
-車九平四	lghh vt gu lh	0
-俥九平五	wlh vt gu gg	0
-車九平五	lghh vt gu gg	1
-俥九平一	wlh vt gu g	0
-車九平一	lghh vt gu g	0
-俥九退八	wlh vt vep wty	0
-車九退八	lghh vt vep wty	0
-俥九退二	wlh vt vep fg	0
-車九退二	lghh vt vep fg	0
-俥九退九	wlh vt vep vt	0
-車九退九	lghh vt vep vt	0
-俥九退六	wlh vt vep uy	0
-車九退六	lghh vt vep uy	0
-俥九退七	wlh vt vep ag	0
-車九退七	lghh vt vep ag	0
-俥九退三	wlh vt vep dg	0
-車九退三	lghh vt vep dg	0
-俥九退四	wlh vt vep lh	0
-車九退四	lghh vt vep lh	0
-俥九退五	wlh vt vep gg	0
-車九退五	lghh vt vep gg	0
-俥九退一	wlh vt vep g	0
-車九退一	lghh vt vep g	1
-俥六进八	wlh uy fj wty	0
-車六进八	lghh uy fj wty	0
-俥六进二	wlh uy fj fg	0
-車六进二	lghh uy fj fg	0
-俥六进九	wlh uy fj vt	0
-車六进九	lghh uy fj vt	0
-俥六进六	wlh uy fj uy	0
-車六进六	lghh uy fj uy	0
-俥六进七	wlh uy fj ag	0
-車六进七	lghh uy fj ag	0
-俥六进三	wlh uy fj dg	0
-車六进三	lghh uy fj dg	0
-俥六进四	wlh uy fj lh	0
-車六进四	lghh uy fj lh	0
-俥六进五	wlh uy fj gg	0
-車六进五	lghh uy fj gg	0
-俥六进一	wlh uy fj g	0
-車六进一	lghh uy fj g	0
-俥六平八	wlh uy gu wty	0
-車六平八	lghh uy gu wty	0
-俥六平二	wlh uy gu fg	0
-車六平二	lghh uy gu fg	0
-俥六平九	wlh uy gu vt	0
-車六平九	lghh uy gu vt	0
-俥六平七	wlh uy gu ag	0
-車六平七	lghh uy gu ag	0
-俥六平三	wlh uy gu dg	0
-車六平三	lghh uy gu dg	0
-俥六平四	wlh uy gu lh	0
-車六平四	lghh uy gu lh	0
-俥六平五	wlh uy gu gg	0
-車六平五	lghh uy gu gg	0
-俥六平一	wlh uy gu g	0
-車六平一	lghh uy gu g	0
-俥六退八	wlh uy vep wty	0
-車六退八	lghh uy vep wty	0
-俥六退二	wlh uy vep fg	0
-車六退二	lghh uy vep fg	0
-俥六退九	wlh uy vep vt	0
-車六退九	lghh uy vep vt	0
-俥六退六	wlh uy vep uy	0
-車六退六	lghh uy vep uy	0
-俥六退七	wlh uy vep ag	0
-車六退七	lghh uy vep ag	0
-俥六退三	wlh uy vep dg	0
-車六退三	lghh uy vep dg	0
-俥六退四	wlh uy vep lh	0
-車六退四	lghh uy vep lh	0
-俥六退五	wlh uy vep gg	0
-車六退五	lghh uy vep gg	0
-俥六退一	wlh uy vep g	0
-車六退一	lghh uy vep g	0
-車平	lghh gu	0
-俥七进八	wlh ag fj wty	0
-車七进八	lghh ag fj wty	0
-俥七进二	wlh ag fj fg	0
-車七进二	lghh ag fj fg	0
-俥七进九	wlh ag fj vt	0
-車七进九	lghh ag fj vt	0
-俥七进六	wlh ag fj uy	0
-車七进六	lghh ag fj uy	0
-俥七进七	wlh ag fj ag	0
-車七进七	lghh ag fj ag	0
-俥七进三	wlh ag fj dg	0
-車七进三	lghh ag fj dg	0
-俥七进四	wlh ag fj lh	0
-車七进四	lghh ag fj lh	0
-俥七进五	wlh ag fj gg	0
-車七进五	lghh ag fj gg	0
-俥七进一	wlh ag fj g	0
-車七进一	lghh ag fj g	0
-俥七平八	wlh ag gu wty	0
-車七平八	lghh ag gu wty	0
-俥七平二	wlh ag gu fg	0
-車七平二	lghh ag gu fg	0
-俥七平九	wlh ag gu vt	0
-車七平九	lghh ag gu vt	0
-俥七平六	wlh ag gu uy	0
-車七平六	lghh ag gu uy	0
-俥七平三	wlh ag gu dg	0
-車七平三	lghh ag gu dg	0
-俥七平四	wlh ag gu lh	0
-車七平四	lghh ag gu lh	0
-俥七平五	wlh ag gu gg	0
-車七平五	lghh ag gu gg	0
-俥七平一	wlh ag gu g	0
-車七平一	lghh ag gu g	0
-俥七退八	wlh ag vep wty	0
-車七退八	lghh ag vep wty	0
-俥七退二	wlh ag vep fg	0
-車七退二	lghh ag vep fg	0
-俥七退九	wlh ag vep vt	0
-車七退九	lghh ag vep vt	0
-俥七退六	wlh ag vep uy	0
-車七退六	lghh ag vep uy	0
-俥七退七	wlh ag vep ag	0
-車七退七	lghh ag vep ag	0
-俥七退三	wlh ag vep dg	0
-車七退三	lghh ag vep dg	0
-俥七退四	wlh ag vep lh	0
-車七退四	lghh ag vep lh	0
-俥七退五	wlh ag vep gg	0
-車七退五	lghh ag vep gg	0
-俥七退一	wlh ag vep g	0
-車七退一	lghh ag vep g	0
-俥三进八	wlh dg fj wty	0
-車三进八	lghh dg fj wty	0
-俥三进二	wlh dg fj fg	0
-車三进二	lghh dg fj fg	0
-俥三进九	wlh dg fj vt	0
-車三进九	lghh dg fj vt	0
-俥三进六	wlh dg fj uy	0
-車三进六	lghh dg fj uy	0
-俥三进七	wlh dg fj ag	0
-車三进七	lghh dg fj ag	0
-俥三进三	wlh dg fj dg	0
-車三进三	lghh dg fj dg	0
-俥三进四	wlh dg fj lh	0
-車三进四	lghh dg fj lh	0
-俥三进五	wlh dg fj gg	0
-車三进五	lghh dg fj gg	0
-俥三进一	wlh dg fj g	0
-車三进一	lghh dg fj g	0
-俥三平八	wlh dg gu wty	0
-車三平八	lghh dg gu wty	0
-俥三平二	wlh dg gu fg	0
-車三平二	lghh dg gu fg	0
-俥三平九	wlh dg gu vt	0
-車三平九	lghh dg gu vt	0
-俥三平六	wlh dg gu uy	0
-車三平六	lghh dg gu uy	0
-俥三平七	wlh dg gu ag	0
-車三平七	lghh dg gu ag	0
-俥三平四	wlh dg gu lh	0
-車三平四	lghh dg gu lh	0
-俥三平五	wlh dg gu gg	0
-車三平五	lghh dg gu gg	0
-俥三平一	wlh dg gu g	0
-車三平一	lghh dg gu g	0
-俥三退八	wlh dg vep wty	0
-車三退八	lghh dg vep wty	0
-俥三退二	wlh dg vep fg	0
-車三退二	lghh dg vep fg	0
-俥三退九	wlh dg vep vt	0
-車三退九	lghh dg vep vt	0
-俥三退六	wlh dg vep uy	0
-車三退六	lghh dg vep uy	0
-俥三退七	wlh dg vep ag	0
-車三退七	lghh dg vep ag	0
-俥三退三	wlh dg vep dg	0
-車三退三	lghh dg vep dg	0
-俥三退四	wlh dg vep lh	0
-車三退四	lghh dg vep lh	0
-俥三退五	wlh dg vep gg	0
-車三退五	lghh dg vep gg	0
-俥三退一	wlh dg vep g	0
-車三退一	lghh dg vep g	0
-俥四进八	wlh lh fj wty	0
-車四进八	lghh lh fj wty	0
-俥四进二	wlh lh fj fg	0
-車四进二	lghh lh fj fg	0
-俥四进九	wlh lh fj vt	0
-車四进九	lghh lh fj vt	0
-俥四进六	wlh lh fj uy	0
-車四进六	lghh lh fj uy	0
-俥四进七	wlh lh fj ag	0
-車四进七	lghh lh fj ag	0
-俥四进三	wlh lh fj dg	0
-車四进三	lghh lh fj dg	0
-俥四进四	wlh lh fj lh	0
-車四进四	lghh lh fj lh	0
-俥四进五	wlh lh fj gg	0
-車四进五	lghh lh fj gg	0
-俥四进一	wlh lh fj g	0
-車四进一	lghh lh fj g	0
-俥四平八	wlh lh gu wty	0
-車四平八	lghh lh gu wty	0
-俥四平二	wlh lh gu fg	0
-車四平二	lghh lh gu fg	0
-俥四平九	wlh lh gu vt	0
-車四平九	lghh lh gu vt	0
-俥四平六	wlh lh gu uy	0
-車四平六	lghh lh gu uy	0
-俥四平七	wlh lh gu ag	0
-車四平七	lghh lh gu ag	0
-俥四平三	wlh lh gu dg	0
-車四平三	lghh lh gu dg	0
-俥四平五	wlh lh gu gg	0
-車四平五	lghh lh gu gg	0
-俥四平一	wlh lh gu g	0
-車四平一	lghh lh gu g	0
-俥四退八	wlh lh vep wty	0
-車四退八	lghh lh vep wty	0
-俥四退二	wlh lh vep fg	0
-車四退二	lghh lh vep fg	0
-俥四退九	wlh lh vep vt	0
-車四退九	lghh lh vep vt	0
-俥四退六	wlh lh vep uy	0
-車四退六	lghh lh vep uy	0
-俥四退七	wlh lh vep ag	0
-車四退七	lghh lh vep ag	0
-俥四退三	wlh lh vep dg	0
-車四退三	lghh lh vep dg	0
-俥四退四	wlh lh vep lh	0
-車四退四	lghh lh vep lh	0
-俥四退五	wlh lh vep gg	0
-車四退五	lghh lh vep gg	0
-俥四退一	wlh lh vep g	0
-車四退一	lghh lh vep g	0
-車退	lghh vep	0
-俥五进八	wlh gg fj wty	0
-車五进八	lghh gg fj wty	0
-俥五进二	wlh gg fj fg	0
-車五进二	lghh gg fj fg	0
-俥五进九	wlh gg fj vt	0
-車五进九	lghh gg fj vt	0
-俥五进六	wlh gg fj uy	0
-車五进六	lghh gg fj uy	0
-俥五进七	wlh gg fj ag	0
-車五进七	lghh gg fj ag	0
-俥五进三	wlh gg fj dg	0
-車五进三	lghh gg fj dg	0
-俥五进四	wlh gg fj lh	0
-車五进四	lghh gg fj lh	0
-俥五进五	wlh gg fj gg	0
-車五进五	lghh gg fj gg	0
-俥五进一	wlh gg fj g	0
-車五进一	lghh gg fj g	0
-俥五平八	wlh gg gu wty	0
-車五平八	lghh gg gu wty	0
-俥五平二	wlh gg gu fg	0
-車五平二	lghh gg gu fg	0
-俥五平九	wlh gg gu vt	0
-車五平九	lghh gg gu vt	0
-俥五平六	wlh gg gu uy	0
-車五平六	lghh gg gu uy	0
-俥五平七	wlh gg gu ag	0
-車五平七	lghh gg gu ag	0
-俥五平三	wlh gg gu dg	0
-車五平三	lghh gg gu dg	0
-俥五平四	wlh gg gu lh	0
-車五平四	lghh gg gu lh	0
-俥五平一	wlh gg gu g	0
-車五平一	lghh gg gu g	0
-俥五退八	wlh gg vep wty	0
-車五退八	lghh gg vep wty	0
-俥五退二	wlh gg vep fg	0
-車五退二	lghh gg vep fg	0
-俥五退九	wlh gg vep vt	0
-車五退九	lghh gg vep vt	0
-俥五退六	wlh gg vep uy	0
-車五退六	lghh gg vep uy	0
-俥五退七	wlh gg vep ag	0
-車五退七	lghh gg vep ag	0
-俥五退三	wlh gg vep dg	0
-車五退三	lghh gg vep dg	0
-俥五退四	wlh gg vep lh	0
-車五退四	lghh gg vep lh	0
-俥五退五	wlh gg vep gg	0
-車五退五	lghh gg vep gg	0
-俥五退一	wlh gg vep g	0
-車五退一	lghh gg vep g	0
-俥一进八	wlh g fj wty	0
-車一进八	lghh g fj wty	0
-俥一进二	wlh g fj fg	0
-車一进二	lghh g fj fg	0
-俥一进九	wlh g fj vt	0
-車一进九	lghh g fj vt	0
-俥一进六	wlh g fj uy	0
-車一进六	lghh g fj uy	0
-俥一进七	wlh g fj ag	0
-車一进七	lghh g fj ag	0
-俥一进三	wlh g fj dg	0
-車一进三	lghh g fj dg	0
-俥一进四	wlh g fj lh	0
-車一进四	lghh g fj lh	0
-俥一进五	wlh g fj gg	0
-車一进五	lghh g fj gg	0
-俥一进一	wlh g fj g	0
-車一进一	lghh g fj g	0
-俥一平八	wlh g gu wty	0
-車一平八	lghh g gu wty	0
-俥一平二	wlh g gu fg	0
-車一平二	lghh g gu fg	0
-俥一平九	wlh g gu vt	0
-車一平九	lghh g gu vt	0
-俥一平六	wlh g gu uy	0
-車一平六	lghh g gu uy	0
-俥一平七	wlh g gu ag	0
-車一平七	lghh g gu ag	0
-俥一平三	wlh g gu dg	0
-車一平三	lghh g gu dg	0
-俥一平四	wlh g gu lh	0
-車一平四	lghh g gu lh	0
-俥一平五	wlh g gu gg	0
-車一平五	lghh g gu gg	0
-俥一退八	wlh g vep wty	0
-車一退八	lghh g vep wty	0
-俥一退二	wlh g vep fg	0
-車一退二	lghh g vep fg	0
-俥一退九	wlh g vep vt	0
-車一退九	lghh g vep vt	0
-俥一退六	wlh g vep uy	0
-車一退六	lghh g vep uy	0
-俥一退七	wlh g vep ag	0
-車一退七	lghh g vep ag	0
-俥一退三	wlh g vep dg	0
-車一退三	lghh g vep dg	0
-俥一退四	wlh g vep lh	0
-車一退四	lghh g vep lh	0
-俥一退五	wlh g vep gg	0
-車一退五	lghh g vep gg	0
-俥一退一	wlh g vep g	0
-車一退一	lghh g vep g	0
-傌八进九	wcy wty fj vt	0
-馬八进九	cggy wty fj vt	0
-马八进九	cn wty fj vt	3
-傌八进六	wcy wty fj uy	0
-馬八进六	cggy wty fj uy	0
-马八进六	cn wty fj uy	0
-傌八进七	wcy wty fj ag	0
-馬八进七	cggy wty fj ag	0
-马八进七	cn wty fj ag	6
-傌八退九	wcy wty vep vt	0
-馬八退九	cggy wty vep vt	0
-马八退九	cn wty vep vt	0
-傌八退六	wcy wty vep uy	0
-馬八退六	cggy wty vep uy	0
-马八退六	cn wty vep uy	0
-傌八退七	wcy wty vep ag	0
-馬八退七	cggy wty vep ag	0
-马八退七	cn wty vep ag	0
-傌二进三	wcy fg fj dg	0
-馬二进三	cggy fg fj dg	0
-马二进三	cn fg fj dg	12
-傌二进四	wcy fg fj lh	0
-馬二进四	cggy fg fj lh	0
-马二进四	cn fg fj lh	0
-傌二进一	wcy fg fj g	0
-馬二进一	cggy fg fj g	0
-马二进一	cn fg fj g	5
-傌二退三	wcy fg vep dg	0
-馬二退三	cggy fg vep dg	0
-马二退三	cn fg vep dg	2
-傌二退四	wcy fg vep lh	0
-馬二退四	cggy fg vep lh	0
-马二退四	cn fg vep lh	1
-傌二退一	wcy fg vep g	0
-馬二退一	cggy fg vep g	0
-马二退一	cn fg vep g	1
-馬进	cggy fj	0
-马进	cn fj	9
-傌九进八	wcy vt fj wty	0
-馬九进八	cggy vt fj wty	0
-马九进八	cn vt fj wty	0
-傌九进七	wcy vt fj ag	0
-馬九进七	cggy vt fj ag	0
-马九进七	cn vt fj ag	0
-傌九退八	wcy vt vep wty	0
-馬九退八	cggy vt vep wty	0
-马九退八	cn vt vep wty	0
-傌九退七	wcy vt vep ag	0
-馬九退七	cggy vt vep ag	0
-马九退七	cn vt vep ag	0
-傌六进八	wcy uy fj wty	0
-馬六进八	cggy uy fj wty	0
-马六进八	cn uy fj wty	0
-傌六进七	wcy uy fj ag	0
-馬六进七	cggy uy fj ag	0
-马六进七	cn uy fj ag	0
-傌六进四	wcy uy fj lh	0
-馬六进四	cggy uy fj lh	0
-马六进四	cn uy fj lh	0
-傌六进五	wcy uy fj gg	0
-馬六进五	cggy uy fj gg	0
-马六进五	cn uy fj gg	0
-傌六退八	wcy uy vep wty	0
-馬六退八	cggy uy vep wty	0
-马六退八	cn uy vep wty	0
-傌六退七	wcy uy vep ag	0
-馬六退七	cggy uy vep ag	0
-马六退七	cn uy vep ag	0
-傌六退四	wcy uy vep lh	0
-馬六退四	cggy uy vep lh	0
-马六退四	cn uy vep lh	0
-傌六退五	wcy uy vep gg	0
-馬六退五	cggy uy vep gg	0
-马六退五	cn uy vep gg	1
-傌七进八	wcy ag fj wty	0
-馬七进八	cggy ag fj wty	0
-马七进八	cn ag fj wty	0
-傌七进九	wcy ag fj vt	0
-馬七进九	cggy ag fj vt	0
-马七进九	cn ag fj vt	0
-傌七进六	wcy ag fj uy	0
-馬七进六	cggy ag fj uy	0
-马七进六	cn ag fj uy	0
-傌七进五	wcy ag fj gg	0
-馬七进五	cggy ag fj gg	0
-马七进五	cn ag fj gg	5
-傌七退八	wcy ag vep wty	0
-馬七退八	cggy ag vep wty	0
-马七退八	cn ag vep wty	0
-傌七退九	wcy ag vep vt	0
-馬七退九	cggy ag vep vt	0
-马七退九	cn ag vep vt	0
-傌七退六	wcy ag vep uy	0
-馬七退六	cggy ag vep uy	0
-马七退六	cn ag vep uy	0
-傌七退五	wcy ag vep gg	0
-馬七退五	cggy ag vep gg	0
-马七退五	cn ag vep gg	0
-傌三进二	wcy dg fj fg	0
-馬三进二	cggy dg fj fg	0
-马三进二	cn dg fj fg	2
-傌三进四	wcy dg fj lh	0
-馬三进四	cggy dg fj lh	0
-马三进四	cn dg fj lh	3
-傌三进五	wcy dg fj gg	0
-馬三进五	cggy dg fj gg	0
-马三进五	cn dg fj gg	0
-傌三进一	wcy dg fj g	0
-馬三进一	cggy dg fj g	0
-马三进一	cn dg fj g	3
-傌三退二	wcy dg vep fg	0
-馬三退二	cggy dg vep fg	0
-马三退二	cn dg vep fg	0
-傌三退四	wcy dg vep lh	0
-馬三退四	cggy dg vep lh	0
-马三退四	cn dg vep lh	0
-傌三退五	wcy dg vep gg	0
-馬三退五	cggy dg vep gg	0
-马三退五	cn dg vep gg	0
-傌三退一	wcy dg vep g	0
-馬三退一	cggy dg vep g	0
-马三退一	cn dg vep g	0
-傌四进二	wcy lh fj fg	0
-馬四进二	cggy lh fj fg	0
-马四进二	cn lh fj fg	1
-傌四进六	wcy lh fj uy	0
-馬四进六	cggy lh fj uy	0
-马四进六	cn lh fj uy	0
-傌四进三	wcy lh fj dg	0
-馬四进三	cggy lh fj dg	0
-马四进三	cn lh fj dg	0
-傌四进五	wcy lh fj gg	0
-馬四进五	cggy lh fj gg	0
-马四进五	cn lh fj gg	0
-傌四退二	wcy lh vep fg	0
-馬四退二	cggy lh vep fg	0
-马四退二	cn lh vep fg	1
-傌四退六	wcy lh vep uy	0
-馬四退六	cggy lh vep uy	0
-马四退六	cn lh vep uy	1
-傌四退三	wcy lh vep dg	0
-馬四退三	cggy lh vep dg	0
-马四退三	cn lh vep dg	1
-傌四退五	wcy lh vep gg	0
-馬四退五	cggy lh vep gg	0
-马四退五	cn lh vep gg	0
-馬退	cggy vep	0
-马退	cn vep	0
-傌五进六	wcy gg fj uy	0
-馬五进六	cggy gg fj uy	0
-马五进六	cn gg fj uy	0
-傌五进七	wcy gg fj ag	0
-馬五进七	cggy gg fj ag	0
-马五进七	cn gg fj ag	0
-傌五进三	wcy gg fj dg	0
-馬五进三	cggy gg fj dg	0
-马五进三	cn gg fj dg	0
-傌五进四	wcy gg fj lh	0
-馬五进四	cggy gg fj lh	0
-马五进四	cn gg fj lh	0
-傌五退六	wcy gg vep uy	0
-馬五退六	cggy gg vep uy	0
-马五退六	cn gg vep uy	0
-傌五退七	wcy gg vep ag	0
-馬五退七	cggy gg vep ag	0
-马五退七	cn gg vep ag	0
-傌五退三	wcy gg vep dg	0
-馬五退三	cggy gg vep dg	0
-马五退三	cn gg vep dg	0
-傌五退四	wcy gg vep lh	0
-馬五退四	cggy gg vep lh	0
-马五退四	cn gg vep lh	0
-傌一进二	wcy g fj fg	0
-馬一进二	cggy g fj fg	0
-马一进二	cn g fj fg	0
-傌一进三	wcy g fj dg	0
-馬一进三	cggy g fj dg	0
-马一进三	cn g fj dg	2
-傌一退二	wcy g vep fg	0
-馬一退二	cggy g vep fg	0
-马一退二	cn g vep fg	0
-傌一退三	wcy g vep dg	0
-馬一退三	cggy g vep dg	0
-马一退三	cn g vep dg	1
-炮八进八	oq wty fj wty	0
-砲八进八	dqnn wty fj wty	0
-炮八进二	oq wty fj fg	1
-砲八进二	dqnn wty fj fg	0
-炮八进九	oq wty fj vt	0
-砲八进九	dqnn wty fj vt	0
-炮八进六	oq wty fj uy	0
-砲八进六	dqnn wty fj uy	0
-炮八进七	oq wty fj ag	0
-砲八进七	dqnn wty fj ag	0
-炮八进三	oq wty fj dg	1
-砲八进三	dqnn wty fj dg	0
-炮八进四	oq wty fj lh	0
-砲八进四	dqnn wty fj lh	0
-炮八进五	oq wty fj gg	6
-砲八进五	dqnn wty fj gg	0
-炮八进一	oq wty fj g	1
-砲八进一	dqnn wty fj g	0
-炮八平二	oq wty gu fg	1
-砲八平二	dqnn wty gu fg	0
-炮八平九	oq wty gu vt	0
-砲八平九	dqnn wty gu vt	0
-炮八平六	oq wty gu uy	2
-砲八平六	dqnn wty gu uy	0
-炮八平七	oq wty gu ag	0
-砲八平七	dqnn wty gu ag	0
-炮八平三	oq wty gu dg	2
-砲八平三	dqnn wty gu dg	0
-炮八平四	oq wty gu lh	2
-砲八平四	dqnn wty gu lh	0
-炮八平五	oq wty gu gg	12
-砲八平五	dqnn wty gu gg	0
-炮八平一	oq wty gu g	0
-砲八平一	dqnn wty gu g	0
-炮八退八	oq wty vep wty	0
-砲八退八	dqnn wty vep wty	0
-炮八退二	oq wty vep fg	0
-砲八退二	dqnn wty vep fg	0
-炮八退九	oq wty vep vt	0
-砲八退九	dqnn wty vep vt	0
-炮八退六	oq wty vep uy	0
-砲八退六	dqnn wty vep uy	0
-炮八退七	oq wty vep ag	0
-砲八退七	dqnn wty vep ag	0
-炮八退三	oq wty vep dg	0
-砲八退三	dqnn wty vep dg	0
-炮八退四	oq wty vep lh	0
-砲八退四	dqnn wty vep lh	0
-炮八退五	oq wty vep gg	0
-砲八退五	dqnn wty vep gg	0
-炮八退一	oq wty vep g	3
-砲八退一	dqnn wty vep g	0
-炮二进八	oq fg fj wty	0
-砲二进八	dqnn fg fj wty	0
-炮二进二	oq fg fj fg	2
-砲二进二	dqnn fg fj fg	0
-炮二进九	oq fg fj vt	0
-砲二进九	dqnn fg fj vt	0
-炮二进六	oq fg fj uy	1
-砲二进六	dqnn fg fj uy	0
-炮二进七	oq fg fj ag	4
-砲二进七	dqnn fg fj ag	0
-炮二进三	oq fg fj dg	3
-砲二进三	dqnn fg fj dg	0
-炮二进四	oq fg fj lh	2
-砲二进四	dqnn fg fj lh	0
-炮二进五	oq fg fj gg	2
-砲二进五	dqnn fg fj gg	0
-炮二进一	oq fg fj g	2
-砲二进一	dqnn fg fj g	0
-炮二平八	oq fg gu wty	0
-砲二平八	dqnn fg gu wty	0
-炮二平九	oq fg gu vt	0
-砲二平九	dqnn fg gu vt	0
-炮二平六	oq fg gu uy	3
-砲二平六	dqnn fg gu uy	0
-炮二平七	oq fg gu ag	2
-砲二平七	dqnn fg gu ag	0
-炮二平三	oq fg gu dg	3
-砲二平三	dqnn fg gu dg	0
-炮二平四	oq fg gu lh	4
-砲二平四	dqnn fg gu lh	0
-炮二平五	oq fg gu gg	18
-砲二平五	dqnn fg gu gg	0
-炮二平一	oq fg gu g	4
-砲二平一	dqnn fg gu g	0
-炮二退八	oq fg vep wty	0
-砲二退八	dqnn fg vep wty	0
-炮二退二	oq fg vep fg	0
-砲二退二	dqnn fg vep fg	0
-炮二退九	oq fg vep vt	0
-砲二退九	dqnn fg vep vt	0
-炮二退六	oq fg vep uy	0
-砲二退六	dqnn fg vep uy	0
-炮二退七	oq fg vep ag	0
-砲二退七	dqnn fg vep ag	0
-炮二退三	oq fg vep dg	0
-砲二退三	dqnn fg vep dg	0
-炮二退四	oq fg vep lh	0
-砲二退四	dqnn fg vep lh	0
-炮二退五	oq fg vep gg	0
-砲二退五	dqnn fg vep gg	0
-炮二退一	oq fg vep g	0
-砲二退一	dqnn fg vep g	0
-炮进	oq fj	3
-砲进	dqnn fj	0
-炮九进八	oq vt fj wty	0
-砲九进八	dqnn vt fj wty	0
-炮九进二	oq vt fj fg	0
-砲九进二	dqnn vt fj fg	0
-炮九进九	oq vt fj vt	0
-砲九进九	dqnn vt fj vt	0
-炮九进六	oq vt fj uy	0
-砲九进六	dqnn vt fj uy	0
-炮九进七	oq vt fj ag	0
-砲九进七	dqnn vt fj ag	0
-炮九进三	oq vt fj dg	0
-砲九进三	dqnn vt fj dg	0
-炮九进四	oq vt fj lh	0
-砲九进四	dqnn vt fj lh	0
-炮九进五	oq vt fj gg	0
-砲九进五	dqnn vt fj gg	0
-炮九进一	oq vt fj g	0
-砲九进一	dqnn vt fj g	0
-炮九平八	oq vt gu wty	0
-砲九平八	dqnn vt gu wty	0
-炮九平二	oq vt gu fg	0
-砲九平二	dqnn vt gu fg	0
-炮九平六	oq vt gu uy	0
-砲九平六	dqnn vt gu uy	0
-炮九平七	oq vt gu ag	0
-砲九平七	dqnn vt gu ag	0
-炮九平三	oq vt gu dg	1
-砲九平三	dqnn vt gu dg	0
-炮九平四	oq vt gu lh	0
-砲九平四	dqnn vt gu lh	0
-炮九平五	oq vt gu gg	0
-砲九平五	dqnn vt gu gg	0
-炮九平一	oq vt gu g	0
-砲九平一	dqnn vt gu g	0
-炮九退八	oq vt vep wty	0
-砲九退八	dqnn vt vep wty	0
-炮九退二	oq vt vep fg	0
-砲九退二	dqnn vt vep fg	0
-炮九退九	oq vt vep vt	0
-砲九退九	dqnn vt vep vt	0
-炮九退六	oq vt vep uy	0
-砲九退六	dqnn vt vep uy	0
-炮九退七	oq vt vep ag	0
-砲九退七	dqnn vt vep ag	0
-炮九退三	oq vt vep dg	0
-砲九退三	dqnn vt vep dg	0
-炮九退四	oq vt vep lh	0
-砲九退四	dqnn vt vep lh	0
-炮九退五	oq vt vep gg	0
-砲九退五	dqnn vt vep gg	0
-炮九退一	oq vt vep g	0
-砲九退一	dqnn vt vep g	0
-炮六进八	oq uy fj wty	0
-砲六进八	dqnn uy fj wty	0
-炮六进二	oq uy fj fg	0
-砲六进二	dqnn uy fj fg	0
-炮六进九	oq uy fj vt	0
-砲六进九	dqnn uy fj vt	0
-炮六进六	oq uy fj uy	0
-砲六进六	dqnn uy fj uy	0
-炮六进七	oq uy fj ag	0
-砲六进七	dqnn uy fj ag	0
-炮六进三	oq uy fj dg	0
-砲六进三	dqnn uy fj dg	0
-炮六进四	oq uy fj lh	0
-砲六进四	dqnn uy fj lh	0
-炮六进五	oq uy fj gg	0
-砲六进五	dqnn uy fj gg	0
-炮六进一	oq uy fj g	0
-砲六进一	dqnn uy fj g	0
-炮六平八	oq uy gu wty	0
-砲六平八	dqnn uy gu wty	0
-炮六平二	oq uy gu fg	0
-砲六平二	dqnn uy gu fg	0
-炮六平九	oq uy gu vt	0
-砲六平九	dqnn uy gu vt	0
-炮六平七	oq uy gu ag	0
-砲六平七	dqnn uy gu ag	0
-炮六平三	oq uy gu dg	0
-砲六平三	dqnn uy gu dg	0
-炮六平四	oq uy gu lh	0
-砲六平四	dqnn uy gu lh	0
-炮六平五	oq uy gu gg	0
-砲六平五	dqnn uy gu gg	0
-炮六平一	oq uy gu g	0
-砲六平一	dqnn uy gu g	0
-炮六退八	oq uy vep wty	0
-砲六退八	dqnn uy vep wty	0
-炮六退二	oq uy vep fg	0
-砲六退二	dqnn uy vep fg	0
-炮六退九	oq uy vep vt	0
-砲六退九	dqnn uy vep vt	0
-炮六退六	oq uy vep uy	0
-砲六退六	dqnn uy vep uy	0
-炮六退七	oq uy vep ag	0
-砲六退七	dqnn uy vep ag	0
-炮六退三	oq uy vep dg	0
-砲六退三	dqnn uy vep dg	0
-炮六退四	oq uy vep lh	0
-砲六退四	dqnn uy vep lh	0
-炮六退五	oq uy vep gg	0
-砲六退五	dqnn uy vep gg	0
-炮六退一	oq uy vep g	0
-砲六退一	dqnn uy vep g	0
-炮平	oq gu	3
-砲平	dqnn gu	0
-炮七进八	oq ag fj wty	0
-砲七进八	dqnn ag fj wty	0
-炮七进二	oq ag fj fg	0
-砲七进二	dqnn ag fj fg	0
-炮七进九	oq ag fj vt	0
-砲七进九	dqnn ag fj vt	0
-炮七进六	oq ag fj uy	0
-砲七进六	dqnn ag fj uy	0
-炮七进七	oq ag fj ag	0
-砲七进七	dqnn ag fj ag	0
-炮七进三	oq ag fj dg	0
-砲七进三	dqnn ag fj dg	0
-炮七进四	oq ag fj lh	0
-砲七进四	dqnn ag fj lh	0
-炮七进五	oq ag fj gg	0
-砲七进五	dqnn ag fj gg	0
-炮七进一	oq ag fj g	0
-砲七进一	dqnn ag fj g	0
-炮七平八	oq ag gu wty	0
-砲七平八	dqnn ag gu wty	0
-炮七平二	oq ag gu fg	0
-砲七平二	dqnn ag gu fg	0
-炮七平九	oq ag gu vt	0
-砲七平九	dqnn ag gu vt	0
-炮七平六	oq ag gu uy	0
-砲七平六	dqnn ag gu uy	0
-炮七平三	oq ag gu dg	0
-砲七平三	dqnn ag gu dg	0
-炮七平四	oq ag gu lh	0
-砲七平四	dqnn ag gu lh	0
-炮七平五	oq ag gu gg	1
-砲七平五	dqnn ag gu gg	0
-炮七平一	oq ag gu g	0
-砲七平一	dqnn ag gu g	0
-炮七退八	oq ag vep wty	0
-砲七退八	dqnn ag vep wty	0
-炮七退二	oq ag vep fg	0
-砲七退二	dqnn ag vep fg	0
-炮七退九	oq ag vep vt	0
-砲七退九	dqnn ag vep vt	0
-炮七退六	oq ag vep uy	0
-砲七退六	dqnn ag vep uy	0
-炮七退七	oq ag vep ag	0
-砲七退七	dqnn ag vep ag	0
-炮七退三	oq ag vep dg	0
-砲七退三	dqnn ag vep dg	0
-炮七退四	oq ag vep lh	0
-砲七退四	dqnn ag vep lh	0
-炮七退五	oq ag vep gg	0
-砲七退五	dqnn ag vep gg	0
-炮七退一	oq ag vep g	1
-砲七退一	dqnn ag vep g	0
-炮三进八	oq dg fj wty	0
-砲三进八	dqnn dg fj wty	0
-炮三进二	oq dg fj fg	0
-砲三进二	dqnn dg fj fg	0
-炮三进九	oq dg fj vt	0
-砲三进九	dqnn dg fj vt	0
-炮三进六	oq dg fj uy	0
-砲三进六	dqnn dg fj uy	0
-炮三进七	oq dg fj ag	0
-砲三进七	dqnn dg fj ag	0
-炮三进三	oq dg fj dg	0
-砲三进三	dqnn dg fj dg	0
-炮三进四	oq dg fj lh	0
-砲三进四	dqnn dg fj lh	0
-炮三进五	oq dg fj gg	0
-砲三进五	dqnn dg fj gg	0
-炮三进一	oq dg fj g	0
-砲三进一	dqnn dg fj g	0
-炮三平八	oq dg gu wty	0
-砲三平八	dqnn dg gu wty	0
-炮三平二	oq dg gu fg	0
-砲三平二	dqnn dg gu fg	0
-炮三平九	oq dg gu vt	1
-砲三平九	dqnn dg gu vt	0
-炮三平六	oq dg gu uy	0
-砲三平六	dqnn dg gu uy	0
-炮三平七	oq dg gu ag	0
-砲三平七	dqnn dg gu ag	0
-炮三平四	oq dg gu lh	0
-砲三平四	dqnn dg gu lh	0
-炮三平五	oq dg gu gg	2
-砲三平五	dqnn dg gu gg	0
-炮三平一	oq dg gu g	3
-砲三平一	dqnn dg gu g	0
-炮三退八	oq dg vep wty	0
-砲三退八	dqnn dg vep wty	0
-炮三退二	oq dg vep fg	0
-砲三退二	dqnn dg vep fg	0
-炮三退九	oq dg vep vt	0
-砲三退九	dqnn dg vep vt	0
-炮三退六	oq dg vep uy	0
-砲三退六	dqnn dg vep uy	0
-炮三退七	oq dg vep ag	0
-砲三退七	dqnn dg vep ag	0
-炮三退三	oq dg vep dg	0
-砲三退三	dqnn dg vep dg	0
-炮三退四	oq dg vep lh	0
-砲三退四	dqnn dg vep lh	0
-炮三退五	oq dg vep gg	0
-砲三退五	dqnn dg vep gg	0
-炮三退一	oq dg vep g	2
-砲三退一	dqnn dg vep g	0
-炮四进八	oq lh fj wty	0
-砲四进八	dqnn lh fj wty	0
-炮四进二	oq lh fj fg	0
-砲四进二	dqnn lh fj fg	0
-炮四进九	oq lh fj vt	0
-砲四进九	dqnn lh fj vt	0
-炮四进六	oq lh fj uy	0
-砲四进六	dqnn lh fj uy	0
-炮四进七	oq lh fj ag	0
-砲四进七	dqnn lh fj ag	0
-炮四进三	oq lh fj dg	0
-砲四进三	dqnn lh fj dg	0
-炮四进四	oq lh fj lh	0
-砲四进四	dqnn lh fj lh	0
-炮四进五	oq lh fj gg	0
-砲四进五	dqnn lh fj gg	0
-炮四进一	oq lh fj g	0
-砲四进一	dqnn lh fj g	0
-炮四平八	oq lh gu wty	0
-砲四平八	dqnn lh gu wty	0
-炮四平二	oq lh gu fg	0
-砲四平二	dqnn lh gu fg	0
-炮四平九	oq lh gu vt	0
-砲四平九	dqnn lh gu vt	0
-炮四平六	oq lh gu uy	0
-砲四平六	dqnn lh gu uy	0
-炮四平七	oq lh gu ag	0
-砲四平七	dqnn lh gu ag	0
-炮四平三	oq lh gu dg	1
-砲四平三	dqnn lh gu dg	0
-炮四平五	oq lh gu gg	0
-砲四平五	dqnn lh gu gg	0
-炮四平一	oq lh gu g	0
-砲四平一	dqnn lh gu g	0
-炮四退八	oq lh vep wty	0
-砲四退八	dqnn lh vep wty	0
-炮四退二	oq lh vep fg	0
-砲四退二	dqnn lh vep fg	0
-炮四退九	oq lh vep vt	0
-砲四退九	dqnn lh vep vt	0
-炮四退六	oq lh vep uy	0
-砲四退六	dqnn lh vep uy	0
-炮四退七	oq lh vep ag	0
-砲四退七	dqnn lh vep ag	0
-炮四退三	oq lh vep dg	0
-砲四退三	dqnn lh vep dg	0
-炮四退四	oq lh vep lh	0
-砲四退四	dqnn lh vep lh	0
-炮四退五	oq lh vep gg	0
-砲四退五	dqnn lh vep gg	0
-炮四退一	oq lh vep g	0
-砲四退一	dqnn lh vep g	0
-炮退	oq vep	0
-砲退	dqnn vep	0
-炮五进八	oq gg fj wty	0
-砲五进八	dqnn gg fj wty	0
-炮五进二	oq gg fj fg	0
-砲五进二	dqnn gg fj fg	0
-炮五进九	oq gg fj vt	0
-砲五进九	dqnn gg fj vt	0
-炮五进六	oq gg fj uy	0
-砲五进六	dqnn gg fj uy	0
-炮五进七	oq gg fj ag	1
-砲五进七	dqnn gg fj ag	0
-炮五进三	oq gg fj dg	0
-砲五进三	dqnn gg fj dg	0
-炮五进四	oq gg fj lh	11
-砲五进四	dqnn gg fj lh	0
-炮五进五	oq gg fj gg	0
-砲五进五	dqnn gg fj gg	0
-炮五进一	oq gg fj g	0
-砲五进一	dqnn gg fj g	0
-炮五平八	oq gg gu wty	0
-砲五平八	dqnn gg gu wty	0
-炮五平二	oq gg gu fg	0
-砲五平二	dqnn gg gu fg	0
-炮五平九	oq gg gu vt	0
-砲五平九	dqnn gg gu vt	0
-炮五平六	oq gg gu uy	0
-砲五平六	dqnn gg gu uy	0
-炮五平七	oq gg gu ag	0
-砲五平七	dqnn gg gu ag	0
-炮五平三	oq gg gu dg	0
-砲五平三	dqnn gg gu dg	0
-炮五平四	oq gg gu lh	1
-砲五平四	dqnn gg gu lh	0
-炮五平一	oq gg gu g	0
-砲五平一	dqnn gg gu g	0
-炮五退八	oq gg vep wty	0
-砲五退八	dqnn gg vep wty	0
-炮五退二	oq gg vep fg	1
-砲五退二	dqnn gg vep fg	0
-炮五退九	oq gg vep vt	0
-砲五退九	dqnn gg vep vt	0
-炮五退六	oq gg vep uy	0
-砲五退六	dqnn gg vep uy	0
-炮五退七	oq gg vep ag	0
-砲五退七	dqnn gg vep ag	0
-炮五退三	oq gg vep dg	0
-砲五退三	dqnn gg vep dg	0
-炮五退四	oq gg vep lh	0
-砲五退四	dqnn gg vep lh	0
-炮五退五	oq gg vep gg	0
-砲五退五	dqnn gg vep gg	0
-炮五退一	oq gg vep g	1
-砲五退一	dqnn gg vep g	0
-炮一进八	oq g fj wty	0
-砲一进八	dqnn g fj wty	0
-炮一进二	oq g fj fg	0
-砲一进二	dqnn g fj fg	0
-炮一进九	oq g fj vt	0
-砲一进九	dqnn g fj vt	0
-炮一进六	oq g fj uy	1
-砲一进六	dqnn g fj uy	0
-炮一进七	oq g fj ag	0
-砲一进七	dqnn g fj ag	0
-炮一进三	oq g fj dg	0
-砲一进三	dqnn g fj dg	0
-炮一进四	oq g fj lh	0
-砲一进四	dqnn g fj lh	0
-炮一进五	oq g fj gg	0
-砲一进五	dqnn g fj gg	0
-炮一进一	oq g fj g	0
-砲一进一	dqnn g fj g	0
-炮一平八	oq g gu wty	0
-砲一平八	dqnn g gu wty	0
-炮一平二	oq g gu fg	0
-砲一平二	dqnn g gu fg	0
-炮一平九	oq g gu vt	0
-砲一平九	dqnn g gu vt	0
-炮一平六	oq g gu uy	1
-砲一平六	dqnn g gu uy	0
-炮一平七	oq g gu ag	0
-砲一平七	dqnn g gu ag	0
-炮一平三	oq g gu dg	0
-砲一平三	dqnn g gu dg	0
-炮一平四	oq g gu lh	0
-砲一平四	dqnn g gu lh	0
-炮一平五	oq g gu gg	0
-砲一平五	dqnn g gu gg	0
-炮一退八	oq g vep wty	0
-砲一退八	dqnn g vep wty	0
-炮一退二	oq g vep fg	0
-砲一退二	dqnn g vep fg	0
-炮一退九	oq g vep vt	0
-砲一退九	dqnn g vep vt	0
-炮一退六	oq g vep uy	0
-砲一退六	dqnn g vep uy	0
-炮一退七	oq g vep ag	0
-砲一退七	dqnn g vep ag	0
-炮一退三	oq g vep dg	0
-砲一退三	dqnn g vep dg	0
-炮一退四	oq g vep lh	0
-砲一退四	dqnn g vep lh	0
-炮一退五	oq g vep gg	0
-砲一退五	dqnn g vep gg	0
-炮一退一	oq g vep g	0
-砲一退一	dqnn g vep g	0
-前包进	ue qn fj	0
-前包进八	ue qn fj wty	0
-前包进二	ue qn fj fg	0
-前包进六	ue qn fj uy	0
-前包进七	ue qn fj ag	0
-前包进三	ue qn fj dg	0
-前包进四	ue qn fj lh	0
-前包进五	ue qn fj gg	0
-前包进一	ue qn fj g	0
-前包平	ue qn gu	0
-前包平八	ue qn gu wty	0
-前包平二	ue qn gu fg	0
-前包平九	ue qn gu vt	0
-前包平六	ue qn gu uy	0
-前包平七	ue qn gu ag	0
-前包平三	ue qn gu dg	0
-前包平四	ue qn gu lh	0
-前包平五	ue qn gu gg	0
-前包平一	ue qn gu g	0
-前包退	ue qn vep	0
-前包退八	ue qn vep wty	0
-前包退二	ue qn vep fg	0
-前包退九	ue qn vep vt	0
-前包退六	ue qn vep uy	0
-前包退七	ue qn vep ag	0
-前包退三	ue qn vep dg	0
-前包退四	ue qn vep lh	0
-前包退五	ue qn vep gg	0
-前包退一	ue qn vep g	0
-前兵八进一	ue rgw wty fj g	0
-前兵八平七	ue rgw wty gu ag	0
-前兵二进一	ue rgw fg fj g	0
-前兵二平三	ue rgw fg gu dg	0
-前兵进一	ue rgw fj g	0
-前兵九进一	ue rgw vt fj g	0
-前兵九平八	ue rgw vt gu wty	0
-前兵六进一	ue rgw uy fj g	0
-前兵六平七	ue rgw uy gu ag	0
-前兵六平五	ue rgw uy gu gg	0
-前兵平八	ue rgw gu wty	0
-前兵平二	ue rgw gu fg	0
-前兵平九	ue rgw gu vt	0
-前兵平六	ue rgw gu uy	0
-前兵平七	ue rgw gu ag	0
-前兵平三	ue rgw gu dg	0
-前兵平四	ue rgw gu lh	0
-前兵平五	ue rgw gu gg	0
-前兵平一	ue rgw gu g	0
-前兵七进一	ue rgw ag fj g	0
-前兵七平八	ue rgw ag gu wty	0
-前兵七平六	ue rgw ag gu uy	0
-前兵三进一	ue rgw dg fj g	0
-前兵三平二	ue rgw dg gu fg	0
-前兵三平四	ue rgw dg gu lh	0
-前兵四进一	ue rgw lh fj g	0
-前兵四平三	ue rgw lh gu dg	0
-前兵四平五	ue rgw lh gu gg	0
-前兵五进一	ue rgw gg fj g	0
-前兵五平六	ue rgw gg gu uy	0
-前兵五平四	ue rgw gg gu lh	0
-前兵一进一	ue rgw g fj g	0
-前兵一平二	ue rgw g gu fg	0
-前车进	ue lg fj	0
-前车进八	ue lg fj wty	0
-前车进二	ue lg fj fg	0
-前车进六	ue lg fj uy	0
-前车进七	ue lg fj ag	0
-前车进三	ue lg fj dg	0
-前车进四	ue lg fj lh	0
-前车进五	ue lg fj gg	0
-前车进一	ue lg fj g	5
-前车平	ue lg gu	0
-前车平八	ue lg gu wty	0
-前车平二	ue lg gu fg	0
-前车平九	ue lg gu vt	0
-前车平六	ue lg gu uy	0
-前车平七	ue lg gu ag	0
-前车平三	ue lg gu dg	0
-前车平四	ue lg gu lh	0
-前车平五	ue lg gu gg	0
-前车平一	ue lg gu g	0
-前车退	ue lg vep	0
-前车退八	ue lg vep wty	0
-前车退二	ue lg vep fg	0
-前车退六	ue lg vep uy	0
-前车退七	ue lg vep ag	0
-前车退三	ue lg vep dg	0
-前车退四	ue lg vep lh	0
-前车退五	ue lg vep gg	0
-前车退一	ue lg vep g	1
-前車进	ue lghh fj	0
-前俥进八	ue wlh fj wty	0
-前車进八	ue lghh fj wty	0
-前俥进二	ue wlh fj fg	0
-前車进二	ue lghh fj fg	0
-前俥进六	ue wlh fj uy	0
-前車进六	ue lghh fj uy	0
-前俥进七	ue wlh fj ag	0
-前車进七	ue lghh fj ag	0
-前俥进三	ue wlh fj dg	0
-前車进三	ue lghh fj dg	0
-前俥进四	ue wlh fj lh	0
-前車进四	ue lghh fj lh	0
-前俥进五	ue wlh fj gg	0
-前車进五	ue lghh fj gg	0
-前俥进一	ue wlh fj g	0
-前車进一	ue lghh fj g	0
-前車平	ue lghh gu	0
-前俥平八	ue wlh gu wty	0
-前車平八	ue lghh gu wty	0
-前俥平二	ue wlh gu fg	0
-前車平二	ue lghh gu fg	0
-前俥平九	ue wlh gu vt	0
-前車平九	ue lghh gu vt	0
-前俥平六	ue wlh gu uy	0
-前車平六	ue lghh gu uy	0
-前俥平七	ue wlh gu ag	0
-前車平七	ue lghh gu ag	0
-前俥平三	ue wlh gu dg	0
-前車平三	ue lghh gu dg	0
-前俥平四	ue wlh gu lh	0
-前車平四	ue lghh gu lh	0
-前俥平五	ue wlh gu gg	0
-前車平五	ue lghh gu gg	0
-前俥平一	ue wlh gu g	0
-前車平一	ue lghh gu g	0
-前車退	ue lghh vep	0
-前俥退八	ue wlh vep wty	0
-前車退八	ue lghh vep wty	0
-前俥退二	ue wlh vep fg	0
-前車退二	ue lghh vep fg	0
-前俥退六	ue wlh vep uy	0
-前車退六	ue lghh vep uy	0
-前俥退七	ue wlh vep ag	0
-前車退七	ue lghh vep ag	0
-前俥退三	ue wlh vep dg	0
-前車退三	ue lghh vep dg	0
-前俥退四	ue wlh vep lh	0
-前車退四	ue lghh vep lh	0
-前俥退五	ue wlh vep gg	0
-前車退五	ue lghh vep gg	0
-前俥退一	ue wlh vep g	0
-前車退一	ue lghh vep g	0
-前馬进	ue cggy fj	0
-前马进	ue cn fj	0
-前傌进八	ue wcy fj wty	0
-前馬进八	ue cggy fj wty	0
-前马进八	ue cn fj wty	0
-前傌进二	ue wcy fj fg	0
-前馬进二	ue cggy fj fg	0
-前马进二	ue cn fj fg	0
-前傌进九	ue wcy fj vt	0
-前馬进九	ue cggy fj vt	0
-前马进九	ue cn fj vt	0
-前傌进六	ue wcy fj uy	0
-前馬进六	ue cggy fj uy	0
-前马进六	ue cn fj uy	0
-前傌进七	ue wcy fj ag	0
-前馬进七	ue cggy fj ag	0
-前马进七	ue cn fj ag	0
-前傌进三	ue wcy fj dg	0
-前馬进三	ue cggy fj dg	0
-前马进三	ue cn fj dg	0
-前傌进四	ue wcy fj lh	0
-前馬进四	ue cggy fj lh	0
-前马进四	ue cn fj lh	1
-前傌进五	ue wcy fj gg	0
-前馬进五	ue cggy fj gg	0
-前马进五	ue cn fj gg	0
-前傌进一	ue wcy fj g	0
-前馬进一	ue cggy fj g	0
-前马进一	ue cn fj g	0
-前馬退	ue cggy vep	0
-前马退	ue cn vep	0
-前傌退八	ue wcy vep wty	0
-前馬退八	ue cggy vep wty	0
-前马退八	ue cn vep wty	0
-前傌退二	ue wcy vep fg	0
-前馬退二	ue cggy vep fg	0
-前马退二	ue cn vep fg	0
-前傌退九	ue wcy vep vt	0
-前馬退九	ue cggy vep vt	0
-前马退九	ue cn vep vt	0
-前傌退六	ue wcy vep uy	0
-前馬退六	ue cggy vep uy	0
-前马退六	ue cn vep uy	0
-前傌退七	ue wcy vep ag	0
-前馬退七	ue cggy vep ag	0
-前马退七	ue cn vep ag	0
-前傌退三	ue wcy vep dg	0
-前馬退三	ue cggy vep dg	0
-前马退三	ue cn vep dg	0
-前傌退四	ue wcy vep lh	0
-前馬退四	ue cggy vep lh	0
-前马退四	ue cn vep lh	0
-前傌退五	ue wcy vep gg	0
-前馬退五	ue cggy vep gg	0
-前马退五	ue cn vep gg	0
-前傌退一	ue wcy vep g	0
-前馬退一	ue cggy vep g	0
-前马退一	ue cn vep g	0
-前炮进	ue oq fj	0
-前砲进	ue dqnn fj	0
-前炮进八	ue oq fj wty	0
-前砲进八	ue dqnn fj wty	0
-前炮进二	ue oq fj fg	0
-前砲进二	ue dqnn fj fg	0
-前炮进六	ue oq fj uy	0
-前砲进六	ue dqnn fj uy	0
-前炮进七	ue oq fj ag	0
-前砲进七	ue dqnn fj ag	0
-前炮进三	ue oq fj dg	0
-前砲进三	ue dqnn fj dg	0
-前炮进四	ue oq fj lh	0
-前砲进四	ue dqnn fj lh	0
-前炮进五	ue oq fj gg	0
-前砲进五	ue dqnn fj gg	0
-前炮进一	ue oq fj g	0
-前砲进一	ue dqnn fj g	0
-前炮平	ue oq gu	0
-前砲平	ue dqnn gu	0
-前炮平八	ue oq gu wty	0
-前砲平八	ue dqnn gu wty	0
-前炮平二	ue oq gu fg	0
-前砲平二	ue dqnn gu fg	0
-前炮平九	ue oq gu vt	0
-前砲平九	ue dqnn gu vt	0
-前炮平六	ue oq gu uy	0
-前砲平六	ue dqnn gu uy	0
-前炮平七	ue oq gu ag	0
-前砲平七	ue dqnn gu ag	0
-前炮平三	ue oq gu dg	0
-前砲平三	ue dqnn gu dg	0
-前炮平四	ue oq gu lh	0
-前砲平四	ue dqnn gu lh	0
-前炮平五	ue oq gu gg	1
-前砲平五	ue dqnn gu gg	0
-前炮平一	ue oq gu g	0
-前砲平一	ue dqnn gu g	0
-前炮退	ue oq vep	0
-前砲退	ue dqnn vep	0
-前炮退八	ue oq vep wty	0
-前砲退八	ue dqnn vep wty	0
-前炮退二	ue oq vep fg	0
-前砲退二	ue dqnn vep fg	0
-前炮退九	ue oq vep vt	0
-前砲退九	ue dqnn vep vt	0
-前炮退六	ue oq vep uy	0
-前砲退六	ue dqnn vep uy	0
-前炮退七	ue oq vep ag	0
-前砲退七	ue dqnn vep ag	0
-前炮退三	ue oq vep dg	0
-前砲退三	ue dqnn vep dg	0
-前炮退四	ue oq vep lh	0
-前砲退四	ue dqnn vep lh	0
-前炮退五	ue oq vep gg	0
-前砲退五	ue dqnn vep gg	0
-前炮退一	ue oq vep g	0
-前砲退一	ue dqnn vep g	0
-前卒进	ue ywwf fj	0
-前卒平	ue ywwf gu	0
-三兵进一	dg rgw fj g	0
-三兵平八	dg rgw gu wty	0
-三兵平二	dg rgw gu fg	0
-三兵平九	dg rgw gu vt	0
-三兵平六	dg rgw gu uy	0
-三兵平七	dg rgw gu ag	0
-三兵平三	dg rgw gu dg	0
-三兵平四	dg rgw gu lh	0
-三兵平五	dg rgw gu gg	0
-三兵平一	dg rgw gu g	0
-三卒进	dg ywwf fj	0
-三卒平	dg ywwf gu	0
-士进	fghg fj	0
-仕六进五	wfg uy fj gg	0
-士六进五	fghg uy fj gg	2
-仕六退五	wfg uy vep gg	0
-士六退五	fghg uy vep gg	0
-仕四进五	wfg lh fj gg	1
-士四进五	fghg lh fj gg	0
-仕四退五	wfg lh vep gg	0
-士四退五	fghg lh vep gg	0
-士退	fghg vep	0
-仕五进六	wfg gg fj uy	0
-士五进六	fghg gg fj uy	0
-仕五进四	wfg gg fj lh	0
-士五进四	fghg gg fj lh	0
-仕五退六	wfg gg vep uy	0
-士五退六	fghg gg vep uy	0
-仕五退四	wfg gg vep lh	0
-士五退四	fghg gg vep lh	0
-帅六进一	jmh uy fj g	0
-帥六进一	wnnh uy fj g	0
-帅六平五	jmh uy gu gg	1
-帥六平五	wnnh uy gu gg	0
-帅六退一	jmh uy vep g	0
-帥六退一	wnnh uy vep g	0
-帅四进一	jmh lh fj g	0
-帥四进一	wnnh lh fj g	0
-帅四平五	jmh lh gu gg	0
-帥四平五	wnnh lh gu gg	0
-帅四退一	jmh lh vep g	0
-帥四退一	wnnh lh vep g	0
-帅五进一	jmh gg fj g	10
-帥五进一	wnnh gg fj g	0
-帅五平六	jmh gg gu uy	0
-帥五平六	wnnh gg gu uy	0
-帅五平四	jmh gg gu lh	1
-帥五平四	wnnh gg gu lh	0
-帅五退一	jmh gg vep g	1
-帥五退一	wnnh gg vep g	0
-四兵进一	lh rgw fj g	0
-四兵平八	lh rgw gu wty	0
-四兵平二	lh rgw gu fg	0
-四兵平九	lh rgw gu vt	0
-四兵平六	lh rgw gu uy	0
-四兵平七	lh rgw gu ag	0
-四兵平三	lh rgw gu dg	0
-四兵平四	lh rgw gu lh	0
-四兵平五	lh rgw gu gg	0
-四兵平一	lh rgw gu g	0
-四卒进	lh ywwf fj	0
-四卒平	lh ywwf gu	0
-象进	qje fj	4
-相九进七	sh vt fj ag	0
-相九退七	sh vt vep ag	0
-相七进九	sh ag fj vt	0
-相七进五	sh ag fj gg	1
-相七退九	sh ag vep vt	0
-相七退五	sh ag vep gg	0
-相三进五	sh dg fj gg	3
-相三进一	sh dg fj g	2
-相三退五	sh dg vep gg	2
-相三退一	sh dg vep g	1
-象退	qje vep	0
-相五进七	sh gg fj ag	0
-相五进三	sh gg fj dg	0
-相五退七	sh gg vep ag	0
-相五退三	sh gg vep dg	0
-相一进三	sh g fj dg	0
-相一退三	sh g vep dg	1
-中兵进一	k rgw fj g	1
-中兵平八	k rgw gu wty	0
-中兵平二	k rgw gu fg	0
-中兵平九	k rgw gu vt	0
-中兵平六	k rgw gu uy	0
-中兵平七	k rgw gu ag	0
-中兵平三	k rgw gu dg	0
-中兵平四	k rgw gu lh	0
-中兵平五	k rgw gu gg	0
-中兵平一	k rgw gu g	0
-中卒进	k ywwf fj	0
-中卒平	k ywwf gu	0
-卒进	ywwf fj	0
-卒平	ywwf gu	0
-暗根子	ju sve bb	0
-按规行棋	rpv fwm tf sad	0
-按时拨钟	rpv jf rnt qkhh	0
-按时加钟	rpv jf lk qkhh	0
-暗捉	ju rkh	1
-拔簧马	rdc tamw cn	5
-八角马	wty qe cn	8
-百局象棋谱	dj nnk qje sad yuo	1
-白马卧槽	rrr cn ahnh sgmj	0
-败势	mty rvyl	19
-半途列炮	uf wtp gq oq	3
-半途顺炮	uf wtp kd oq	0
-保全精兵	wk wg oge rgw	0
-北斗棋苑选粹	ux ufk sad aqb tfqp oyw	0
-北京中加	ux yiu k lk	0
-边马	lp cn	22
-边马对还中炮	lp cn cf gip k oq	0
-兵行线	rgw tf xg	0
-卜凤波	hhy mc ihc	0
-不变作负	i yo wt qm	1
-不变作和	i yo wt t	5
-布局骗着与对策	dmh nnk cyna udh gn cf tgm	1
-布局研究	dmh nnk dga pwv	0
-才溢	ft iuw	1
-蔡忠诚	awf khn ydn	0
-曹岩磊	gma mdf ddd	6
-侧面虎	wmj dm ha	5
-长打	ta rs	44
-长兑	ta ukqb	0
-长跟	ta khv	0
-长将	ta uqf	0
-长拦	ta ruf	1
-长杀	ta qsu	2
-长献	ta fmud	0
-长捉	ta rkh	6
-撤车将	ryc lg uqf	0
-车炮抽杀	lg oq rm qsu	1
-车前马后须相应	lg ue cn rg ed sh yid	1
-车入花心	lg ty awx ny	0
-陈翀	ba nkhh	0
-陈富杰	ba pgk so	0
-陈海华	ba itx wxf	2
-陈罗平	ba lq gu	0
-陈启明	ba ynk je	2
-程进超	tkgg fj fhv	0
-程鸣	tkgg kqy	2
-楚汉六凤	ssn ic uy mc	0
-从没捉到捉	ww im rkh gc rkh	0
-大胆穿心	dd ej pwat ny	1
-大连益春堂	dd lpk uwl dw ipkf	0
-大占优势	dd hk wdn rvyl	6
-待过河兵	tffy fp isk rgw	0
-待判局面	tffy udjh nnk dm	1
-单兵擒王	ujfj rgw rwyc ggg	1
-单缺仕	ujfj rmn wfg	0
-单缺相	ujfj rmn sh	1
-单提马	ujfj rj cn	12
-单霞丽	ujfj fnhc gmy	0
-党斐	ipk djdy	0
-得子得势	tj bb tj rvyl	0
-得子得先各得子	tj bb tj tfq tk tj bb	0
-得子失势	tj bb rw rvyl	0
-得子失先却是输	tj bb rw tfq fcb j lwg	1
-等着困敌	tffu udh ls tdt	0
-低兵	wqa rgw	4
-底兵	yqa rgw	12
-地方棋协大师	f yy sad fl dd jgm	0
-调动子力	ymf fcl bb lt	0
-叠炮	cccg oq	2
-东北三虎	ai ux dg ha	0
-对兵局	cf rgw nnk	3
-兑其主力	ukqb adw y lt	0
-对头兵	cf udi rgw	2
-兑子夺先	ukqb bb df tfq	0
-兑子夺子	ukqb bb df bb	0
-兑子解困	ukqb bb qev ls	0
-兑子取胜	ukqb bb bc etg	0
-兑子取势	ukqb bb bc rvyl	0
-兑子战术	ukqb bb hka sy	6
-多打对多打	qq rs cf qq rs	0
-二打对二闲	fg rs cf fg usi	0
-二打二还打	fg rs fg gip rs	0
-二打一还打	fg rs g gip rs	0
-二级棋士	fg xe sad fghg	2
-二将对二闲	fg uqf cf fg usi	0
-二将二还将	fg uqf fg gip uqf	0
-二闲对一打一闲	fg usi cf g rs g usi	0
-二捉	fg rkh	1
-二字车	fg pb lg	0
-反宫马	rc pk cn	15
-反宫马专集	rc pk cn fny wys	1
-范思远	aib ln fqp	0
-飞相	nui sh	15
-飞相对金钩炮	nui sh cf qqqq qqc oq	0
-飞相对起马	nui sh cf fhn cn	0
-飞相对挺卒	nui sh cf rtfp ywwf	0
-飞相局	nui sh nnk	15
-飞相局对右过宫炮	nui sh nnk cf dk fp pk oq	0
-飞相局对左士角炮	nui sh nnk cf da fghg qe oq	0
-飞相局对左中炮	nui sh nnk cf da k oq	0
-飞左象	nui da qje	1
-封锁敌路	fffy qim tdt kht	0
-封锁战术	fffy qim hka sy	1
-傅信仁	wge wy wfg	0
-高兵	ym rgw	0
-葛维浦	ajq xwy igey	0
-隔一步杀	bgk g hi qsu	0
-宫顶线	pk sdm xg	5
-固己乱敌	ldd nng tdn tdt	0
-古谱	dgh yuo	34
-拐角马	rkl qe cn	4
-广东东莞长安	yygt ai ai apfq ta pv	0
-龟背炮	qjn uxe oq	1
-归心马	jv ny cn	1
-过宫敛炮	fp pk wgit oq	0
-过宫马	fp pk cn	0
-过宫炮对还中炮	fp pk oq cf gip k oq	0
-过肋	fp el	0
-郭丽萍	ybb gmy aigh	2
-还中炮	gip k oq	1
-河北金环钢构	isk ux qqqq ggi qmq sq	0
-河边无青草不用多嘴牛	isk lp fq gef ajj i et qq khx rhk	0
-何刚	wsk mqj	11
-合击战术	wgk fmk hka sy	0
-河界线	isk lwj xg	1
-和势	t rvyl	0
-河头兵	isk udi rgw	0
-河头车	isk udi lg	0
-黑方变着	lfo yy yo udh	0
-黑负	lfo qm	3
-黑高右横车	lfo ym dk sam lg	0
-黑进路卒转中炮对屏风马	lfo fj kht ywwf lfn k oq cf nua mq cn	0
-黑进炮压马	lfo fj oq dfy cn	0
-黑进卒	lfo fj ywwf	0
-黑进卒右炮巡河	lfo fj ywwf dk oq vp isk	0
-黑进卒右炮压马	lfo fj ywwf dk oq dfy cn	0
-黑进卒左炮封车	lfo fj ywwf da oq fffy lg	0
-黑径冲卒	lfo tca ukh ywwf	0
-黑龙江大庆市红岗	lfo dx ia dd yd ymhj xa mmq	0
-黑平右炮亮车	lfo gu dk oq ypm lg	0
-黑弃路卒	lfo yca kht ywwf	0
-黑上右士	lfo h dk fghg	0
-黑上右象	lfo h dk qje	0
-黑上左象	lfo h da qje	0
-黑胜	lfo etg	62
-黑双横车	lfo cc sam lg	0
-黑右车巡河	lfo dk lg vp isk	0
-黑右士角炮	lfo dk fghg qe oq	0
-黑右中炮	lfo dk k oq	0
-黑左车巡河	lfo da lg vp isk	0
-黑左过宫炮	lfo da fp pk oq	0
-红兵底炮	xa rgw yqa oq	0
-红兑三路兵	xa ukqb dg kht rgw	0
-红方变着	xa yy yo udh	0
-红负	xa qm	1
-红高左横车	xa ym da sam lg	0
-红横车占左肋	xa sam lg hk da el	0
-红急进中兵	xa qvn fj k rgw	0
-红进七兵	xa fj ag rgw	0
-红进七兵边马	xa fj ag rgw lp cn	0
-红进左炮捉马	xa fj da oq rkh cn	0
-红两头蛇	xa gmww udi jpx	0
-红两头蛇左车过河	xa gmww udi jpx da lg fp isk	0
-红两头蛇左相飞边	xa gmww udi jpx da sh nui lp	0
-红平六路炮	xa gu uy kht oq	0
-红平炮压马	xa gu oq dfy cn	0
-红平七路炮	xa gu ag kht oq	0
-红七路马盘河	xa ag kht cn tel isk	0
-红上右正马	xa h dk ghd cn	0
-红胜	xa etg	16
-红双横车正马	xa cc sam lg ghd cn	0
-红双弃兵	xa cc yca rgw	0
-红五九炮	xa gg vt oq	0
-红卸中炮	xa rhb k oq	0
-红邀兑三路兵	xa rytp ukqb dg kht rgw	0
-红右车过河	xa dk lg fp isk	0
-红右中炮	xa dk k oq	0
-红正马	xa ghd cn	0
-洪智	iaw tdkj	12
-红直车正马	xa fh lg ghd cn	0
-红直横车	xa fh sam lg	0
-红左马屯边	xa da cn gb lp	0
-红左炮过河	xa da oq fp isk	0
-湖北中盐宏博队	ide ux k fhl pdc fge bw	0
-互进拐角马	gx fj rkl qe cn	0
-互进三兵	gx fj dg rgw	1
-互有顾忌	gx e db nnu	0
-胡远茂	de fqp adn	0
-虎坐中堂	ha wwf k ipkf	1
-花士象	awx fghg qje	3
-华夏七鹰	wxf dht ag ywwg	0
-花心车	awx ny lg	0
-花心卒	awx ny ywwf	0
-缓开车	xef ga lg	2
-黄海林	amw itx ss	0
-黄政	amw ght	0
-计时方案	yf jf yy pvs	2
-吉翔	fk udng	21
-夹车炮	guw lg oq	8
-蒋川	auq kthh	22
-蒋凤山	auq mc mmm	0
-江湖残局	ia ide gqg nnk	15
-江南四燕	ia fm lh au	0
-江苏金陵人酒店	ia alw qqqq bfw w isgg yhk	0
-蒋志梁	auq fn ivw	1
-借车使炮	waj lg wgkq oq	1
-借炮使马	waj oq wgkq cn	1
-金波	qqqq ihc	129
-金钩炮	qqqq qqc oq	6
-金钩炮对起马	qqqq qqc oq cf fhn cn	0
-金海英	qqqq itx amd	0
-进炮应须要辅车	fj oq yid ed s lgey lg	0
-靳玉砚	afr gy dmq	1
-禁止着法	ssf hh udh if	1
-精选着法	oge tfqp udh if	0
-景学义	jy ip yq	0
-橘中秘	scbk k tn	16
-开滦煤矿股份	ga iyos oa dyt emc wwv	0
-开通子力	ga cep bb lt	0
-空头炮	pw udi oq	8
-落子无悔	ait bb fq ntx	68
-肋车	el lg	2
-肋道	el uthp	17
-冷巷炮	uwyc awn oq	0
-黎德志	tqt tfl fn	0
-李鸿嘉	sb iaqg fkuk	0
-李家华	sb pe wxf	0
-立马车	uu cn lg	0
-李群	sb vtk	243
-李少庚	sb it yvw	1
-李望祥	sb yneg pyu	0
-敛炮	wgit oq	1
-联子配合	bu bb sgn wgk	0
-两鬼拍门	gmww rqc rrg uyh	0
-廖二平	ynw fg gu	0
-列炮	gq oq	17
-岭南双龙	mwyc fm cc dx	0
-流行布局新变探索	iyc tf dmh nnk usr yo rpws fpx	0
-刘宗泽	yj pfi icf	1
-马炮仕相全	cn oq wfg sh wg	0
-马士象全	cn fghg qje wg	5
-马头炮	cn udi oq	0
-梅花谱	stx awx yuo	3
-梅花三六	stx awx dg uy	0
-梅娜	stx vvf	0
-闷杀	uni qsu	34
-苗利明	alf tjh je	0
-苗永鹏	alf yni eeq	0
-明捉	je rkh	0
-摸子走子	rajd bb fhu bb	1
-谋而后行	yaf dmj rg tf	0
-牟海勤	cr itx akgl	0
-谋子战术	yaf bb hka sy	1
-尼姑打伞	nx vd rs wuh	0
-倪敏	wvq txgt	0
-逆手炮	ubt rt oq	0
-藕断丝牵	adiy on xxg dpr	0
-欧阳琦琳	aqq bj gds gss	0
-排局研究	rdj nnk dga pwv	1
-盘河马探秘	tel isk cn rpws tn	0
-炮碾丹砂	oq dna myd di	5
-匹马单刀	aqv cn ujfj vn	0
-七兵	ag rgw	7
-七斗星杯象甲联赛	ag ufk jtg sgi qje lhnh bu pfjm	0
-棋规	sad fwm	25
-棋规交流	sad fwm uq iyc	0
-骑河	cds isk	8
-棋理	sad gj	99
-棋例裁决	sad wgq fay un	0
-棋联大师	sad bu dd jgm	0
-起马	fhn cn	11
-起马对挺卒	fhn cn cf rtfp ywwf	0
-起马局	fhn cn nnk	9
-弃马十三着	yca cn fgh dg udh	11
-棋评	sad ygu	2
-奇趣象棋排局谱	dskf fhb qje sad rdj nnk yuo	0
-棋书	sad nnh	16
-弃象陷车	yca qje bqv lg	0
-棋协大师	sad fl dd jgm	13
-启新高尔夫杯全国象棋甲级联赛	ynk usr ym qiu fw sgi wg l qje sad lhnh xe bu pfjm	0
-起着	fhn udh	1132
-弃子成和	yca bb dn t	0
-弃子解困	yca bb qev ls	0
-弃子谋子	yca bb yaf bb	0
-弃子取势	yca bb bc rvyl	6
-弃子入局	yca bb ty nnk	0
-弃子陷子	yca bb bqv bb	0
-弃子战术	yca bb hka sy	1
-七卒	ag ywwf	0
-千里照面	tfk jfd jvko dm	0
-牵制战术	dpr rmhj hka sy	4
-巧连成局	agnn lpk dn nnk	0
-屈头屏风马	nbm udi nua mq cn	0
-权衡缓急	sc tqdh xef qvn	0
-三兵	dg rgw	17
-三车闹士	dg lg uym fghg	4
-三级棋士	dg xe sad fghg	3
-三仙炼丹	dg wm oanw myd	1
-三卒	dg ywwf	0
-杀法	qsu if	229
-杀棋	qsu sad	54
-杀着	qsu udh	35
-上海金外滩	h itx qqqq qh icw	0
-舍小救大	wfk ih fiyt dd	0
-审局	pj nnk	5
-审局度势	pj nnk ya rvyl	1
-审势	pj rvyl	4
-神州八骏	pyj ytyh wty ccw	0
-审子	pj bb	0
-胜定	etg pg	2
-士角炮对起马局	fghg qe oq cf fhn cn nnk	0
-士角炮对挺卒	fghg qe oq cf rtfp ywwf	0
-事林广记	gk ss yygt yn	5
-适情雅趣	tdp nge ahty fhb	16
-适情雅趣象棋古谱新编	tdp nge ahty fhb qje sad dgh yuo usr xyna	0
-实用残局	pu et gqg nnk	12
-实战中的误区	pu hka k r ykg aq	0
-失子得势	rw bb tj rvyl	0
-失子失势	rw bb rw rvyl	0
-数闲	ovt usi	0
-栓链	swg qlp	0
-拴链困敌	rwg qlp ls tdt	0
-双杯献酒	cc sgi fmud isgg	1
-双车献酒	cc lg fmud isgg	0
-双献酒	cc fmud isgg	1
-双车错	cc lg qaj	9
-双将	cc uqf	5
-双敬酒	cc aqk isgg	0
-双马饮泉	cc cn qnq riu	7
-双炮过河	cc oq fp isk	5
-双弃兵	cc yca rgw	0
-双闲酒杯	cc usi isgg sgi	0
-顺炮	kd oq	40
-顺炮横车对直车	kd oq sam lg cf fh lg	3
-顺炮直车边马对缓开车	kd oq fh lg lp cn cf xef ga lg	0
-顺炮直车对横车	kd oq fh lg cf sam lg	0
-顺炮直车对缓开车	kd oq fh lg cf xef ga lg	0
-顺炮直车进七兵对缓开车	kd oq fh lg fj ag rgw cf xef ga lg	0
-顺炮直车五六炮对横车	kd oq fh lg gg uy oq cf sam lg	0
-顺手炮	kd rt oq	6
-四车相见	lh lg sh mqb	1
-丝线牵牛	xxg xg dpr rhk	0
-送吃	udp ktn	0
-算度深远	tha ya ipw fqp	2
-孙勇征	bi cel tgh	0
-锁喉带箭	qim kwn gkp tue	0
-太监追皇帝	dy jtyl wnnp rgf up	2
-韬略元机	fnhv ltk fqb sm	1
-特级大师象棋实战布局	trf xe dd jgm qje sad pu hka dmh nnk	0
-特级国际大师	trf xe l bf dd jgm	0
-提吃	rj ktn	0
-天地炮	gd f oq	10
-铁门栓	qr uyh swg	15
-贴身车	mhkg tmd lg	1
-贴时竞叫	mhkg jf ukqb kn	3
-挺兵	rtfp rgw	7
-挺兵对还中炮	rtfp rgw cf gip k oq	0
-挺兵对金钩炮	rtfp rgw cf qqqq qqc oq	0
-挺兵对进马	rtfp rgw cf fj cn	0
-挺兵对起马	rtfp rgw cf fhn cn	0
-停着	wyp udh	285
-挺卒	rtfp ywwf	3
-同线车	m xg lg	0
-突破战术	pwd dhc hka sy	0
-退象	vep qje	0
-王孔兴	ggg bnn iw	0
-王跃飞	ggg khtd nui	0
-稳步缓攻	tqv hi xef at	0
-窝心炮	pwkw ny oq	2
-五八炮对屏风马	gg wty oq cf nua mq cn	0
-五八炮进三兵对屏风马	gg wty oq fj dg rgw cf nua mq cn	1
-五八炮进正马对屏风马	gg wty oq fj ghd cn cf nua mq cn	0
-无根子	fq sve bb	0
-武俊强	gah wcw xk	1
-五六炮	gg uy oq	3
-五六炮对反宫马	gg uy oq cf rc pk cn	0
-五七炮对反宫马	gg ag oq cf rc pk cn	0
-五七炮对屏风马	gg ag oq cf nua mq cn	1
-五七炮双弃兵对反宫马	gg ag oq cc yca rgw cf rc pk cn	0
-伍霞	wgg fnhc	0
-袭其不备	dxy adw i tlf	0
-厦门港务控股	ddh uyh iawn tl rpw emc	0
-先负	tfq qm	4
-先弃后取	tfq yca rg bc	8
-仙人指路对金钩炮	wm w rxj kht cf qqqq qqc oq	0
-仙人指路对卒底炮	wm w rxj kht cf ywwf yqa oq	1
-仙人指路对卒底炮飞左象	wm w rxj kht cf ywwf yqa oq nui da qje	0
-仙人指路对卒底炮上马	wm w rxj kht cf ywwf yqa oq h cn	0
-先胜	tfq etg	147
-闲着	usi udh	757
-象棋残局新论	qje sad gqg nnk usr ywx	2
-象棋棋例与待判局面的裁决	qje sad sad wgq gn tffy udjh nnk dm r fay un	0
-象棋史话	qje sad kq ytd	0
-象棋世家	qje sad an pe	0
-象棋十诀	qje sad fgh ynwy	1
-象棋实战精妙杀法例	qje sad pu hka oge vit qsu if wgq	0
-象棋形势判断	qje sad gae rvyl udjh on	0
-象棋业余贰级	qje sad og wtu afm xe	0
-象棋业余陆级	qje sad og wtu bfm xe	0
-象棋业余叁级	qje sad og wtu cdd xe	0
-象棋业余肆级	qje sad og wtu dv xe	0
-象棋业余伍级	qje sad og wtu wgg xe	0
-象棋业余壹级	qje sad og wtu fpg xe	0
-象棋中局杀势	qje sad k nnk qsu rvyl	0
-谢岿	ytm mjv	0
-谢思明	ytm ln je	0
-谢业枧	ytm og smqn	0
-心武残编	ny gah gqg xyna	1
-行棋处理	tf sad th gj	0
-胸有全局	eq e wg nnk	0
-徐健秒	twt wvf ti	0
-许银川中残局精华	ytf qve kthh k gqg nnk oge wxf	0
-选机突破	tfqp sm pwd dhc	0
-薛文强	awnu yygy xk	0
-颜成龙	utem dn dx	0
-言穆江	yyy tri ia	0
-羊肠九曲	udj enr vt ma	0
-杨德琪	sn tfl gad	0
-杨官璘	sn pn goqh	12
-羊角士	udj qe fghg	1
-一打一闲	g rs g usi	0
-以攻坏攻	c at fgi at	0
-已过河兵	nnnn fp isk rgw	0
-以缓制急	c xef rmhj qvn	0
-一级棋士	g xe sad fghg	8
-一将一杀	g uqf g qsu	1
-一将一捉	g uqf g rkh	0
-以快打慢	c nnw rs nj	7
-弈林精华	yoa ss oge wxf	0
-弈林新编	yoa ss usr xyna	1
-弈林雄狮	yoa ss dcw qtjh	0
-一杀一捉	g qsu g rkh	0
-一矢双雕	g tdu cc mfky	0
-以稳对稳	c tqv cf tqv	0
-一着两用	g udh gmww et	0
-因敌变化	ld tdt yo wx	4
-应着	yid udh	67
-用时制度	et jf rmhj ya	2
-有根子	e sve bb	3
-宇兵	pgf rgw	1
-寓守于攻	pjm pf gf at	0
-袁洪梁	fke iaw ivw	0
-渊深海阔	ito ipw itx uit	1
-原位卒	dr wug ywwf	0
-鸳鸯炮	qbq mdq oq	2
-运调	fcp ymf	3
-允许着法	cq ytf udh if	0
-运子得子	fcp bb tj bb	0
-运子夺先	fcp bb df tfq	0
-运子合击	fcp bb wgk fmk	0
-运子解困	fcp bb qev ls	0
-运子取势	fcp bb bc rvyl	2
-运子入局	fcp bb ty nnk	0
-运子战术	fcp bb hka sy	0
-占据要道	hk rnd s uthp	0
-占肋	hk el	4
-张申宏	xt jhk pdc	0
-张影富	xt jyie pgk	0
-照将	jvko uqf	0
-赵汝权	fhq ivg sc	0
-着中有数	udh k e ovt	0
-正头车	ghd udi lg	0
-郑一泓	udb g ixc	0
-智弈棋评	tdkj yoa sad ygu	0
-智弈象棋论坛	tdkj yoa qje sad ywx ffc	0
-中宫炮	k pk oq	0
-中国甘肃通信移动	k l afd vij cep wy tqq fcl	0
-中国象棋兵法种	k l qje sad rgw if tkh	0
-中国象棋教科书	k l qje sad ftbt tu nnh	0
-中国象棋入门与提高问答	k l qje sad ty uyh gn rj ym ukd tw	0
-中局成杀	k nnk dn qsu	0
-中局得子	k nnk tj bb	0
-中局夺先	k nnk df tfq	0
-中局谋和	k nnk yaf t	0
-中局占优	k nnk hk wdn	1
-中盘搏杀	k tel rgef qsu	0
-中炮对半途列炮	k oq cf uf wtp gq oq	0
-中炮对补士敛炮	k oq cf puh fghg wgit oq	0
-中炮对单提马	k oq cf ujfj rj cn	1
-中炮对叠炮	k oq cf cccg oq	0
-中炮对反宫马	k oq cf rc pk cn	2
-中炮对龟背炮	k oq cf qjn uxe oq	1
-中炮对横车敛炮	k oq cf sam lg wgit oq	0
-中炮对三步虎转列炮	k oq cf dg hi ha lfn gq oq	0
-中炮对右三步虎	k oq cf dk dg hi ha	0
-中炮对鸳鸯炮	k oq cf qbq mdq oq	0
-中炮对左中炮转列炮	k oq cf da k oq lfn gq oq	0
-中炮过河车边马对屏风马左马盘河	k oq fp isk lg lp cn cf nua mq cn da cn tel isk	0
-中炮过河车对屏风马高车保马	k oq fp isk lg cf nua mq cn ym lg wk cn	0
-中炮过和车对屏风马横车	k oq fp t lg cf nua mq cn sam lg	0
-中炮过河车对屏风马平炮兑车	k oq fp isk lg cf nua mq cn gu oq ukqb lg	0
-中炮过河车对屏风马上士象	k oq fp isk lg cf nua mq cn h fghg qje	0
-中炮过河车对屏风马左马盘河	k oq fp isk lg cf nua mq cn da cn tel isk	0
-中炮过河车急进中兵对屏风马平炮兑车	k oq fp isk lg qvn fj k rgw cf nua mq cn gu oq ukqb lg	0
-中炮过河车进中兵对屏风马两头蛇	k oq fp isk lg fj k rgw cf nua mq cn gmww udi jpx	0
-中炮过河车七路马对屏风马平炮兑车	k oq fp isk lg ag kht cn cf nua mq cn gu oq ukqb lg	1
-中炮过河车正马对屏风马两头蛇	k oq fp isk lg ghd cn cf nua mq cn gmww udi jpx	0
-中炮横车对反宫马	k oq sam lg cf rc pk cn	0
-中炮横车盘头马对屏风马	k oq sam lg tel udi cn cf nua mq cn	0
-中炮横车七路马对屏风马	k oq sam lg ag kht cn cf nua mq cn	0
-中炮进七兵过河车对反宫马	k oq fj ag rgw fp isk lg cf rc pk cn	0
-中炮七路马对三步虎转列炮	k oq ag kht cn cf dg hi ha lfn gq oq	0
-中炮巡河炮对反宫马	k oq vp isk oq cf rc pk cn	0
-中炮巡河炮对屏风马三步虎	k oq vp isk oq cf nua mq cn dg hi ha	0
-中炮直车对屏风马卒河口炮	k oq fh lg cf nua mq cn ywwf isk kkkk oq	0
-中炮直车对左炮封车转半途列炮	k oq fh lg cf da oq fffy lg lfn uf wtp gq oq	0
-中炮直车七路马对屏风马双炮过河	k oq fh lg ag kht cn cf nua mq cn cc oq fp isk	0
-中原五豹	k dr gg eeqy	0
-中卒	k ywwf	16
-朱琮思	ri gpf ln	0
-竹香斋	ttg tjf ydm	2
-自来出洞无敌手象棋古谱新编	thd go bm imgk fq tdt rt qje sad dgh yuo usr xyna	0
-子力价值	bb lt wwj wfhg	38
-阻碍敌军	begg djg tdt pl	2
-卒林线	ywwf ss xg	3
-做杀	wdt qsu	0
-左士角炮	da fghg qe oq	0
-左文静	da yygy geq	27
-左中炮	da k oq	3
-后车进九	rg lg fj vt	0
-后车退九	rg lg vep vt	0
-后砲退九	rg dqnn vep vt	0
-前车进九	ue lg fj vt	0
-前车退九	ue lg vep vt	0
-前砲进九	ue dqnn fj vt	0
-八平	wty gu	2
-八卒	wty ywwf	0
-白脸将	rrr ew uqf	11
-摆中炮	rlf k oq	2
-白赚一象	rrr muv g qje	0
-包抄入侵	qn rit ty wvp	0
-北京选手	ux yiu tfqp rt	1
-背士将	uxe fghg uqf	0
-本轮开始前	sg lwx ga vck ue	0
-逼黑	gklp lfo	3
-逼进红方帅府	gklp fj xa yy jmh ywf	0
-逼仕	gklp wfg	0
-避仕	nk wfg	0
-必须变着	nt ed yo udh	0
-变二	yo fg	1
-边卒	lp ywwf	11
-蹩马腿	umih cn eve	14
-兵八	rgw wty	0
-兵二	rgw fg	1
-兵二平四	rgw fg gu lh	0
-兵九	rgw vt	1
-兵九进一卒	rgw vt fj g ywwf	0
-并卡肋	ua hhu el	0
-兵六	rgw uy	2
-兵破	rgw dhc	1
-兵七	rgw ag	0
-兵三	rgw dg	1
-兵三平五	rgw dg gu gg	0
-兵四	rgw lh	14
-兵四进一士	rgw lh fj g fghg	0
-兵五	rgw gg	4
-兵五进一炮	rgw gg fj g oq	0
-兵一	rgw g	1
-兵一进一马	rgw g fj g cn	0
-并在下一着	ua d gh g udh	0
-兵之危	rgw pp qdb	0
-不吃子	i ktn bb	2
-不限步数	i bv hi ovt	0
-不准在同一直线上	i uwy d m g fh xg h	0
-踩掉红马	khes rhj xa cn	0
-踩黑边卒	khes lfo lp ywwf	0
-裁判员也	fay udjh km bn	4
-踩双	khes cc	2
-残局形势	gqg nnk gae rvyl	0
-残棋技艺	gqg sad rfc anb	0
-残棋炮归家	gqg sad oq jv pe	1
-残棋圣手	gqg sad cff rt	0
-缠角马	xyj qe cn	0
-车八进	lg wty fj	0
-车八平	lg wty gu	0
-车八退	lg wty vep	0
-车二进	lg fg fj	0
-车二平	lg fg gu	0
-车二退	lg fg vep	0
-车九进	lg vt fj	0
-车九平	lg vt gu	0
-车九退	lg vt vep	0
-车控	lg rpw	9
-车六进	lg uy fj	0
-车六平	lg uy gu	0
-车六退	lg uy vep	0
-车每一着	lg txg g udh	0
-撤炮	ryc oq	0
-车七进	lg ag fj	0
-车七平	lg ag gu	0
-车七退	lg ag vep	0
-车三进	lg dg fj	0
-车三平	lg dg gu	0
-车三退	lg dg vep	0
-车四进	lg lh fj	0
-车四平	lg lh gu	0
-车四退	lg lh vep	0
-车五进	lg gg fj	0
-车五平	lg gg gu	0
-车五退	lg gg vep	0
-车心马角	lg ny cn qe	0
-车一进	lg g fj	0
-车一平	lg g gu	0
-车一退	lg g vep	0
-沉底月	ipm yqa eee	1
-陈寒峰	ba pfj mtd	0
-程吉俊	tkgg fk wcw	0
-成名局	dn qk nnk	0
-称为铁门栓妙杀	tq o qr uyh swg vit qsu	0
-吃底象	ktn yqa qje	0
-吃马	ktn cn	0
-吃子	ktn bb	147
-冲卒	ukh ywwf	1
-抽将	rm uqf	0
-出帅	bm jmh	2
-除帅	bwt jmh	0
-出现循环反复	bm gm trfh ggi rc tjt	0
-此局由于	hx nnk mh gf	0
-此象	hx qje	1
-此着	hx udh	3
-从左路	ww da kht	0
-错着百例	qaj udh dj wgq	0
-打死黑卒	rs gqx lfo ywwf	0
-打死红仕	rs gqx xa wfg	0
-打相	rs sh	2
-打象	rs qje	0
-担竿炮	rjg tfj oq	1
-但黑方也有	wjg lfo yy bn e	0
-但黑有	wjg lfo e	0
-单缺相胜	ujfj rmn sh etg	0
-当田字中心	iv lll pb k ny	0
-的规定时	r fwm pg jf	0
-得仕	tj wfg	1
-得子得先各得子	tj bb tj tfq tk tj bb	0
-底炮	yqa oq	2
-底士	yqa fghg	10
-底线防守	yqa xg by pf	10
-叠叠炮	cccg cccg oq	0
-董旭彬	atg vj sse	0
-都没有提和	ftjb im e rj t	0
-斗炮局	ufk oq nnk	1
-对兵	cf rgw	2
-兑车	ukqb lg	12
-对方得胜	cf yy tj etg	0
-对黑方	cf lfo yy	0
-对局时	cf nnk jf	0
-兑马	ukqb cn	1
-对面笑	cf dm ttd	3
-兑炮	ukqb oq	0
-对屏风马	cf nua mq cn	17
-对子棋	cf bb sad	1
-扼控肋道	rdb rpw el uthp	0
-鄂象	kkfb qje	0
-遏制黑	jqwp rmhj lfo	0
-二车	fg lg	3
-二打一还打	fg rs g gip rs	0
-而径走	dmj tca fhu	0
-二退	fg vep	28
-而占领叉点	dmj hk wycm cyi hko	0
-二卒	fg ywwf	0
-反先	rc tfq	9
-方车	yy lg	0
-方的攻势	yy r at rvyl	2
-方多	yy qq	0
-方可按动	yy sk rpv fcl	0
-方欠行认负	yy qw tf yw qm	0
-方认负	yy yw qm	0
-方胜定	yy etg pg	1
-方实现了	yy pu gm b	1
-方士象残缺	yy fghg qje gqg rmn	0
-方无直	yy fq fh	0
-方终以	yy xtu c	0
-飞错了马	nui qaj b cn	0
-飞高象	nui ym qje	0
-非经对方提和一次	djd x cf yy rj t g uqw	0
-分为红	wv o xa	15
-封将门	fffy uqf uyh	0
-封棋着法有误	fffy sad udh if e ykg	0
-封死将门	fffy gqx uqf uyh	0
-否则红有	gik mj xa e	0
-伏沉	wdy ipm	1
-伏马	wdy cn	4
-伏杀	wdy qsu	9
-改走将	nty fhu uqf	0
-高头兵	ym udi rgw	0
-隔步成杀	bgk hi dn qsu	0
-各分七种	tk wv ag tkh	0
-格拉拉	st ru ru	0
-葛维蒲	ajq xwy aigy	0
-攻窝心马	at pwkw ny cn	0
-共有九十个交叉点	aw e vt fgh wh uq cyi hko	0
-挂盘讲解	rffg tel yfj qev	0
-寡士怯双车	pde fghg nfcy cc lg	0
-观秤	cm tgu	0
-官和	pn t	0
-广东惠州华轩象棋队	yygt ai gjh ytyh wxf lf qje sad bw	0
-广东吕钦	yygt ai kk qqw	0
-广东小将	yygt ai ih uqf	0
-归心炮	jv ny oq	1
-过河车	fp isk lg	12
-河界	isk lwj	14
-和十道横线	t fgh uthp sam xg	0
-河头马	isk udi cn	0
-黑必胜	lfo nt etg	20
-黑冲卒无奈	lfo ukh ywwf fq dfi	0
-黑出将	lfo bm uqf	0
-黑方必须	lfo yy nt ed	0
-黑方只有	lfo yy kw e	1
-黑两组	lfo gmww xeg	0
-黑马紧贴红马而行	lfo cn jc mhkg xa cn dmj tf	0
-黑炮	lfo oq	56
-黑如	lfo vk	2
-黑如改走	lfo vk nty fhu	0
-黑若	lfo adk	0
-黑胜定	lfo etg pg	0
-黑也	lfo bn	0
-黑亦	lfo you	1
-横车	sam lg	31
-横走	sam fhu	55
-横走都可以	sam fhu ftjb sk c	0
-红败局已定	xa mty nnk nnnn pg	0
-红兵	xa rgw	8
-红此着	xa hx udh	0
-红炮	xa oq	6
-红棋	xa sad	19
-红棋子	xa sad bb	0
-红如	xa vk	0
-轰卒照将	lcc ywwf jvko uqf	0
-后兵	rg rgw	4
-后兵平	rg rgw gu	0
-后马	rg cn	1
-后中先	rg k tfq	2
-后卒进一	rg ywwf fj g	0
-后卒平四	rg ywwf gu lh	0
-湖北队主帅	ide ux bw y jmh	0
-湖北宏宇队	ide ux pdc pgf bw	0
-湖北柳大华	ide ux sqt dd wxf	0
-护双卒	ryn cc ywwf	0
-华轩杯全国象棋甲级联赛	wxf lf sgi wg l qje sad lhnh xe bu pfjm	0
-划有交叉线	aj e uq cyi xg	0
-缓手	xef rt	12
-换双卒	rq cc ywwf	0
-回合的残局形势	lkd wgk r gqg nnk gae rvyl	0
-回合时	lkd wgk jf	0
-回合时的	lkd wgk jf r	1
-惠州华轩杯	gjh ytyh wxf lf sgi	0
-或一横	ak g sam	1
-或主动送吃	ak y fcl udp ktn	0
-或走成和棋为止	ak fhu dn t sad o hh	0
-及结局图棋局	ey xf nnk ltu sad nnk	0
-即使黑马	vcb wgkq lfo cn	0
-计时钟	yf jf qkhh	15
-将帅捕杀	uqf jmh rge qsu	0
-交叉组成	uq cyi xeg dn	2
-交流棋艺	uq iyc sad anb	0
-进八	fj wty	17
-紧凑老练	jc udw ftx xan	0
-进二	fj fg	1
-进九	fj vt	3
-紧靠一直	jc tfkd g fh	0
-进六	fj uy	6
-进七	fj ag	3
-进七兵	fj ag rgw	1
-进三	fj dg	2
-进三兵	fj dg rgw	1
-进四	fj lh	8
-进五	fj gg	7
-紧要之着	jc s pp udh	0
-进一	fj g	3
-进一马	fj g cn	0
-精警异常	oge aqky naj ipkh	1
-九道直线	vt uthp fh xg	0
-九炮	vt oq	4
-就算和棋	yi tha t sad	1
-就算输棋	yi tha lwg sad	0
-局面属实	nnk dm ntk pu	0
-具体对阵为	hw wsg cf bl o	0
-卷下	udbb gh	2
-均为拒绝	fqu o ran xqc	0
-均在马蹄之下	fqu d cn khuh pp gh	0
-可打死红兵	sk rs gqx xa rgw	0
-客队身份	pt bw tmd wwv	2
-可见黑第	sk mqb lfo tx	0
-可以直进	sk c fh fj	0
-控局	rpw nnk	20
-控局得胜	rpw nnk tj etg	0
-控局制胜	rpw nnk rmhj etg	0
-空心炮	pw ny oq	0
-困法	ls if	0
-拦炮	ruf oq	0
-老兵建功	ftx rgw vfhp al	0
-勒车马	afl lg cn	0
-李智屏	sb tdkj nua	0
-连环炮	lpk ggi oq	7
-连战两轮	lpk hka gmww lwx	0
-两款属于提和	gmww ffi ntk gf rj t	0
-列手炮	gq rt oq	1
-另一方必须回避	kl g yy nt ed lkd nk	0
-另一方已	kl g yy nnnn	0
-六士	uy fghg	1
-六十回合规则	uy fgh lkd wgk fwm mj	0
-路边卒	kht lp ywwf	0
-路车	kht lg	65
-路河头	kht isk udi	0
-路炮	kht oq	9
-掠黑	ryiy lfo	0
-掠仕获胜	ryiy wfg aqt etg	0
-掠相	ryiy sh	0
-轮到走棋的一方	lwx gc fhu sad r g yy	2
-轮走的	lwx fhu r	0
-落家老练之着	ait pe ftx xan pp udh	0
-马八	cn wty	9
-马八进七车	cn wty fj ag lg	0
-马长捉兵	cn ta rkh rgw	0
-马出路	cn bm kht	1
-马后炮杀	cn rg oq qsu	0
-马九	cn vt	14
-马九进七车	cn vt fj ag lg	0
-马六进五车	cn uy fj gg lg	0
-马每着走	cn txg udh fhu	0
-马炮	cn oq	106
-马炮兵	cn oq rgw	6
-马炮双兵	cn oq cc rgw	0
-马炮双卒士象	cn oq cc ywwf fghg qje	0
-马七	cn ag	9
-马七进五车	cn ag fj gg lg	0
-马三进五车	cn dg fj gg lg	0
-马四进五车	cn lh fj gg lg	0
-马五	cn gg	15
-马五进六车	cn gg fj uy lg	0
-马象牵	cn qje dpr	0
-马亦难逃遁	cn you cw iqp rfhp	0
-马走日字	cn fhu jjjj pb	0
-马卒	cn ywwf	0
-每一着	txg g udh	0
-每着	txg udh	0
-每着可以	txg udh sk c	0
-每组十六个	txg xeg fgh uy wh	0
-闷宫	uni pk	20
-孟昭忠对	blf jvk khn cf	0
-瞄打	hal rs	2
-妙用马	vit et cn	0
-妙用炮	vit et oq	0
-妙用双马	vit et cc cn	0
-妙用双炮	vit et cc oq	0
-名为献马	qk o fmud cn	0
-末着	gs udh	0
-谋兵取胜	yaf rgw bc etg	0
-那需要大约	vfb fdm s dd xq	0
-男子组桂冠	ll bb xeg sff pfqf	0
-内蒙古选手	mw apg dgh tfqp rt	0
-逆相局	ubt sh nnk	0
-年全国个人赛	rh wg l wh w pfjm	1
-排局	rdj nnk	113
-判和	udjh t	0
-盘全和	tel wg t	0
-炮八	oq wty	0
-炮八进	oq wty fj	0
-炮八平	oq wty gu	0
-炮八退	oq wty vep	0
-炮打隔子	oq rs bgk bb	0
-炮二	oq fg	1
-炮二进	oq fg fj	0
-跑二平	khq fg gu	1
-炮二退	oq fg vep	0
-炮管制	oq tp rmhj	0
-炮九	oq vt	0
-炮九进	oq vt fj	0
-炮九平	oq vt gu	0
-炮九退	oq vt vep	0
-炮六	oq uy	0
-炮六进	oq uy fj	0
-炮六平	oq uy gu	0
-炮六退	oq uy vep	0
-炮七	oq ag	0
-炮七进	oq ag fj	0
-炮七平	oq ag gu	0
-炮七平四将	oq ag gu lh uqf	0
-炮七退	oq ag vep	0
-炮三	oq dg	13
-炮三进	oq dg fj	0
-炮三平	oq dg gu	0
-炮三退	oq dg vep	0
-炮四	oq lh	0
-炮四进	oq lh fj	0
-炮四平	oq lh gu	0
-炮四退	oq lh vep	0
-炮五	oq gg	0
-炮五进	oq gg fj	0
-炮五平	oq gg gu	0
-炮五退	oq gg vep	0
-炮一	oq g	3
-炮一进	oq g fj	1
-炮一平	oq g gu	0
-炮一退	oq g vep	0
-炮镇中路	oq qfhw k kht	0
-炮卒	oq ywwf	1
-偏马局	wyna cn nnk	0
-平八	gu wty	41
-平二	gu fg	4
-平九	gu vt	3
-平六	gu uy	2
-平炮	gu oq	9
-平炮打扫	gu oq rs rv	0
-平七	gu ag	32
-平七马	gu ag cn	0
-平三	gu dg	8
-平四	gu lh	8
-平五	gu gg	12
-平五卒	gu gg ywwf	0
-平中炮	gu k oq	0
-破仕	dhc wfg	0
-破仕夺关	dhc wfg df ud	0
-破仕掠相	dhc wfg ryiy sh	0
-浦东队	igey ai bw	0
-弃兵争先	yca rgw qv tfq	1
-棋例	sad wgq	10
-七马	ag cn	4
-棋盘中间	sad tel k uj	2
-棋谱来源	sad yuo go idr	0
-弃士打马	yca fghg rs cn	0
-其它棋子	adw px sad bb	4
-棋子吃掉	sad bb ktn rhj	2
-棋子能够	sad bb ce qkqq	1
-弃卒破仕	yca ywwf dhc wfg	0
-前兵	ue rgw	15
-前兵平	ue rgw gu	0
-前马	ue cn	0
-前炮	ue oq	5
-前卒进一	ue ywwf fj g	0
-去化解被	fcu wx qev puhc	1
-去炮	fcu oq	0
-取胜较难	bc etg lu cw	0
-取胜可能	bc etg sk ce	0
-去卒	fcu ywwf	0
-全国象棋甲级联赛	wg l qje sad lhnh xe bu pfjm	0
-全国象棋锦标赛	wg l qje sad qrm sfi pfjm	0
-全国象棋青年锦标赛	wg l qje sad gef rh qrm sfi pfjm	0
-然后亮帅助攻	qd rg ypm jmh egl at	0
-如改走	vk nty fhu	0
-如改走兵	vk nty fhu rgw	0
-如改走车	vk nty fhu lg	1
-如改走马	vk nty fhu cn	0
-如改走炮	vk nty fhu oq	0
-如黑	vk lfo	3
-如急于走	vk qvn gf fhu	0
-如一方	vk g yy	0
-软硬炮	lqw dgj oq	0
-赛吉林	pfjm fk ss	0
-塞相眼	pfjf sh hv	0
-三步虎	dg hi ha	5
-三进兵	dg fj rgw	3
-三子归边	dg bb jv lp	8
-杀势取胜	qsu rvyl bc etg	0
-山顶公	mmm sdm wc	0
-山东选手	mmm ai tfqp rt	1
-上海浦东花木广洋队	h itx igey ai awx ssss yygt iu bw	0
-上仕	h wfg	2
-深厚的功夫	ipw djb r al fw	1
-甚为巧妙	adwn o agnn vit	0
-升将三楼	tak uqf dg sov	0
-胜炮	etg oq	8
-升炮巡河	tak oq vp isk	1
-胜双	etg cc	11
-是残棋	j gqg sad	0
-士各两个	fghg tk gmww wh	0
-士六	fghg uy	1
-仕六进五车	wfg uy fj gg lg	0
-仕六退五车	wfg uy vep gg lg	0
-仕六退五卒	wfg uy vep gg ywwf	0
-实乃讹诈	pu etn ywxn yth	0
-士四	fghg lh	1
-仕四进五车	wfg lh fj gg lg	0
-仕四进五将	wfg lh fj gg uqf	0
-仕四进五炮	wfg lh fj gg oq	0
-仕四退五车	wfg lh vep gg lg	0
-仕四退五士	wfg lh vep gg fghg	0
-仕四退五卒	wfg lh vep gg ywwf	0
-士五	fghg gg	4
-仕五进六车	wfg gg fj uy lg	0
-仕五进六马	wfg gg fj uy cn	0
-仕五进六炮	wfg gg fj uy oq	0
-仕五进六士	wfg gg fj uy fghg	0
-仕五进六卒	wfg gg fj uy ywwf	0
-仕五进四炮	wfg gg fj lh oq	0
-仕五退四车	wfg gg vep lh lg	0
-仕五退四炮	wfg gg vep lh oq	0
-仕五退四士	wfg gg vep lh fghg	0
-仕相	wfg sh	7
-士象	fghg qje	89
-仕相全	wfg sh wg	0
-实则为亮帅	pu mj o ypm jmh	0
-实战着法是	pu hka udh if j	0
-帅和将	jmh t uqf	0
-帅六	jmh uy	1
-帅六进一将	jmh uy fj g uqf	0
-帅六平五车	jmh uy gu gg lg	0
-帅六平五将	jmh uy gu gg uqf	0
-帅六平五马	jmh uy gu gg cn	0
-帅六平五炮	jmh uy gu gg oq	0
-帅六平五士	jmh uy gu gg fghg	0
-帅六平五象	jmh uy gu gg qje	0
-帅六平五卒	jmh uy gu gg ywwf	0
-帅六退一车	jmh uy vep g lg	0
-帅六退一马	jmh uy vep g cn	0
-帅每一着	jmh txg g udh	0
-帅四	jmh lh	0
-帅四平五车	jmh lh gu gg lg	0
-帅四平五马	jmh lh gu gg cn	0
-帅四平五炮	jmh lh gu gg oq	0
-帅四平五象	jmh lh gu gg qje	0
-帅四平五卒	jmh lh gu gg ywwf	0
-帅五	jmh gg	0
-帅五进一车	jmh gg fj g lg	0
-帅五进一炮	jmh gg fj g oq	0
-帅五平六车	jmh gg gu uy lg	0
-帅五平六将	jmh gg gu uy uqf	0
-帅五平六马	jmh gg gu uy cn	0
-帅五平六炮	jmh gg gu uy oq	0
-帅五平六士	jmh gg gu uy fghg	0
-帅五平六象	jmh gg gu uy qje	0
-帅五平六卒	jmh gg gu uy ywwf	0
-帅五平四车	jmh gg gu lh lg	0
-帅五平四马	jmh gg gu lh cn	0
-帅五平四炮	jmh gg gu lh oq	0
-帅五退一车	jmh gg vep g lg	0
-帅五退一马	jmh gg vep g cn	0
-帅五退一炮	jmh gg vep g oq	0
-双兵	cc rgw	14
-双方各走了一着	cc yy tk fhu b g udh	0
-双方均无	cc yy fqu fq	22
-双方轮流各走一着	cc yy lwx iyc tk fhu g udh	1
-双方排阵	cc yy rdj bl	0
-双方走棋	cc yy fhu sad	1
-双关门	cc ud uyh	0
-双炮	cc oq	86
-双卒	cc ywwf	3
-四盘棋	lh tel sad	1
-四炮	lh oq	9
-四台比赛	lh ck xx pfjm	0
-算准入局	tha uwy ty nnk	0
-所走着法	rn fhu udh if	0
-特森	trf sss	12
-提和	rj t	0
-提和次数对等	rj t uqw ovt cf tffu	0
-提和的一方	rj t r g yy	0
-提议作和	rj yyq wt t	0
-跳吃	khi ktn	0
-贴将	mhkg uqf	0
-铁门栓妙杀	qr uyh swg vit qsu	0
-铁门栓妙杀例	qr uyh swg vit qsu wgq	0
-铁门栓杀法获胜	qr uyh swg qsu if aqt etg	0
-同对方将	m cf yy uqf	0
-同时己方其它棋子	m jf nng yy adw px sad bb	0
-投子认负	rmc bb yw qm	13
-退八	vep wty	1
-退二	vep fg	8
-退九	vep vt	0
-退六	vep uy	1
-退马反击	vep cn rc fmk	0
-退炮	vep oq	20
-退七	vep ag	1
-退三	vep dg	4
-退四	vep lh	0
-退五	vep gg	1
-退一	vep g	10
-未走满	fii fhu iagw	0
-卧槽马杀	ahnh sgmj cn qsu	2
-五八炮	gg wty oq	3
-无车棋	fq lg sad	0
-五进	gg fj	13
-五进四	gg fj lh	2
-五九炮	gg vt oq	0
-五平	gg gu	1
-五七炮对屏风马进七卒	gg ag oq cf nua mq cn fj ag ywwf	0
-误走	ykg fhu	9
-五卒	gg ywwf	7
-献车	fmud lg	1
-先锋马	tfq qtd cn	0
-献马妙极	fmud cn vit se	0
-先手逼和	tfq rt gklp t	0
-先手对阵	tfq rt cf bl	1
-先手求稳健	tfq rt fiy tqv wvf	0
-先手战	tfq rt hka	0
-象甲联赛	qje lhnh bu pfjm	5
-相九	sh vt	2
-相七	sh ag	0
-象棋盘	qje sad tel	4
-象棋特级大师	qje sad trf xe dd jgm	7
-相七退九车	sh ag vep vt lg	0
-相三	sh dg	5
-象头卒	qje udi ywwf	0
-相五	sh gg	2
-相五进三车	sh gg fj dg lg	0
-相五退三车	sh gg vep dg lg	0
-相五退三炮	sh gg vep dg oq	0
-相走田字	sh fhu lll pb	0
-消除黑方	iie bwt lfo yy	1
-胁帅	elw jmh	0
-斜线走一步	wtuf xg fhu g hi	2
-蟹眼炮	qevj hv oq	0
-斜走两步	wtuf fhu gmww hi	1
-袖手炮	pum rt oq	0
-压马	dfy cn	11
-掩护小卒	rdjn ryn ih ywwf	0
-掩护小卒过河	rdjn ryn ih ywwf fp isk	0
-杨汉民	sn ic n	0
-要去方向	s fcu yy tm	0
-也非跳不可了	bn djd khi i sk b	0
-也可以横走一步	bn sk c sam fhu g hi	0
-移车	tqq lg	7
-一方出现	g yy bm gm	0
-一方的棋子	g yy r sad bb	3
-一方提和	g yy rj t	0
-亦红优	you xa wdn	0
-以后黑炮	c rg lfo oq	0
-亦可改走	you sk nty fhu	0
-弈完第	yoa pfq tx	0
-以下黑	c gh lfo	0
-已先占据	nnnn tfq hk rnd	0
-一象	g qje	10
-一斜	g wtuf	24
-意欲大胆穿心	ujn wwkw dd ej pwat ny	0
-弈至第	yoa gcf tx	1
-一至九	g gcf vt	1
-一卒	g ywwf	32
-应当变着	yid iv yo udh	0
-应当变着而不变	yid iv yo udh dmj i yo	0
-应对不佳	yid cf i wffg	1
-应改	yid nty	2
-应使双方	yid wgkq cc yy	0
-应走着数	yid fhu udh ovt	0
-用炮	et oq	28
-用时太多	et jf dy qq	0
-用中文数字	et k yygy ovt pb	3
-有别的棋子挡住	e klj r sad bb riv wygg	1
-由此入局	mh hx ty nnk	0
-有对方棋子存在	e cf yy sad bb dhb d	0
-有权判为和棋	e sc udjh o t sad	0
-右帅	dk jmh	0
-由于黑方	mh gf lfo yy	1
-由执红棋	mh rvy xa sad	1
-约恩	xq ldn	19
-运马	fcp cn	3
-在布局后	d dmh nnk rg	0
-再次提和	gmf uqw rj t	0
-在对局时	d cf nnk jf	2
-再马	gmf cn	1
-在没有过	d im e fp	0
-再仕	gmf wfg	7
-则马	mj cn	0
-则马二	mj cn fg	0
-则仕	mj wfg	12
-则帅	mj jmh	7
-则帅五	mj jmh gg	0
-则相三	mj sh dg	0
-则卒	mj ywwf	2
-战略思维	hka ltk ln xwy	94
-战术技巧	hka sy rfc agnn	0
-张学潮	xt ip ifj	1
-着法红先	udh if xa tfq	0
-着法老练	udh if ftx xan	0
-赵子仪	fhq bb wyq	0
-着改走	udh nty fhu	0
-争夺对手	qv df cf rt	1
-直车	fh lg	13
-直横车	fh sam lg	0
-直接对面	fh ruv cf dm	0
-只能在提和后	kw ce d rj t rg	0
-制胜妙法	rmhj etg vit if	0
-直退	fh vep	4
-只许向前直走一步	kw ytf tm ue fh fhu g hi	0
-只许走一步	kw ytf fhu g hi	0
-只有炮吃子	kw e oq ktn bb	1
-制中	rmhj k	0
-中国象棋冠军	k l qje sad pfqf pl	1
-中国象棋锦标赛	k l qje sad qrm sfi pfjm	0
-中国象棋谱库	k l qje sad yuo ylk	0
-中国象棋世界锦标赛	k l qje sad an lwj qrm sfi pfjm	0
-中后局	k rg nnk	1
-中局混战	k nnk ijx hka	0
-中局阶段	k nnk bwj wdm	10
-中路取势	k kht bc rvyl	0
-重炮杀	tgj oq qsu	7
-主队身份	y bw tmd wwv	0
-转入中局	lfn ty k nnk	0
-准备赶走	uwy tlf fhfk fhu	0
-准备平中	uwy tlf gu k	0
-准备镇中	uwy tlf qfhw k	0
-子力位置	bb lt wug lfhf	14
-自然限着	thd qd bv udh	5
-走法同车一样	fhu if m lg g su	0
-走棋和吃子	fhu sad t ktn bb	0
-走一着棋时	fhu g udh sad jf	0
-卒分两翼	ywwf wv gmww nla	0
-组攻	xeg at	0
-卒五个	ywwf gg wh	0
+兵八进一	dfka kaa ikoc fii	0
+兵八平九	dfka kaa nqkg rjj	0
+兵八平七	dfka kaa nqkg xii	0
+兵二进一	dfka irr ikoc fii	0
+兵二平三	dfka irr nqkg laa	0
+兵二平一	dfka irr nqkg fii	0
+兵九进一	dfka rjj ikoc fii	7
+兵九平八	dfka rjj nqkg kaa	0
+兵六进一	dfka akat ikoc fii	1
+兵六平七	dfka akat nqkg xii	0
+兵六平五	dfka akat nqkg fbwi	0
+兵七进一	dfka xii ikoc fii	7
+兵七平八	dfka xii nqkg kaa	0
+兵七平六	dfka xii nqkg akat	0
+兵三进一	dfka laa ikoc fii	6
+兵三平二	dfka laa nqkg irr	0
+兵三平四	dfka laa nqkg wwrw	0
+兵四进一	dfka wwrw ikoc fii	0
+兵四平三	dfka wwrw nqkg laa	0
+兵四平五	dfka wwrw nqkg fbwi	0
+兵五进一	dfka fbwi ikoc fii	4
+兵五平六	dfka fbwi nqkg akat	1
+兵五平四	dfka fbwi nqkg wwrw	0
+兵一进一	dfka fii ikoc fii	0
+兵一平二	dfka fii nqkg irr	0
+车八进八	xjj kaa ikoc kaa	0
+车八进二	xjj kaa ikoc irr	0
+车八进九	xjj kaa ikoc rjj	0
+车八进六	xjj kaa ikoc akat	0
+车八进七	xjj kaa ikoc xii	0
+车八进三	xjj kaa ikoc laa	0
+车八进四	xjj kaa ikoc wwrw	0
+车八进五	xjj kaa ikoc fbwi	0
+车八进一	xjj kaa ikoc fii	0
+车八平二	xjj kaa nqkg irr	0
+车八平九	xjj kaa nqkg rjj	0
+车八平六	xjj kaa nqkg akat	0
+车八平七	xjj kaa nqkg xii	0
+车八平三	xjj kaa nqkg laa	0
+车八平四	xjj kaa nqkg wwrw	0
+车八平五	xjj kaa nqkg fbwi	0
+车八平一	xjj kaa nqkg fii	0
+车八退八	xjj kaa gocg kaa	0
+车八退二	xjj kaa gocg irr	0
+车八退九	xjj kaa gocg rjj	0
+车八退六	xjj kaa gocg akat	0
+车八退七	xjj kaa gocg xii	0
+车八退三	xjj kaa gocg laa	0
+车八退四	xjj kaa gocg wwrw	0
+车八退五	xjj kaa gocg fbwi	0
+车八退一	xjj kaa gocg fii	0
+车二进八	xjj irr ikoc kaa	0
+车二进二	xjj irr ikoc irr	0
+车二进九	xjj irr ikoc rjj	0
+车二进六	xjj irr ikoc akat	6
+车二进七	xjj irr ikoc xii	0
+车二进三	xjj irr ikoc laa	0
+车二进四	xjj irr ikoc wwrw	0
+车二进五	xjj irr ikoc fbwi	0
+车二进一	xjj irr ikoc fii	0
+车二平八	xjj irr nqkg kaa	0
+车二平九	xjj irr nqkg rjj	0
+车二平六	xjj irr nqkg akat	0
+车二平七	xjj irr nqkg xii	1
+车二平三	xjj irr nqkg laa	2
+车二平四	xjj irr nqkg wwrw	0
+车二平五	xjj irr nqkg fbwi	0
+车二平一	xjj irr nqkg fii	0
+车二退八	xjj irr gocg kaa	0
+车二退二	xjj irr gocg irr	0
+车二退九	xjj irr gocg rjj	0
+车二退六	xjj irr gocg akat	0
+车二退七	xjj irr gocg xii	0
+车二退三	xjj irr gocg laa	0
+车二退四	xjj irr gocg wwrw	0
+车二退五	xjj irr gocg fbwi	0
+车二退一	xjj irr gocg fii	0
+车进	xjj ikoc	11
+车九进八	xjj rjj ikoc kaa	0
+车九进二	xjj rjj ikoc irr	1
+车九进九	xjj rjj ikoc rjj	0
+车九进六	xjj rjj ikoc akat	0
+车九进七	xjj rjj ikoc xii	0
+车九进三	xjj rjj ikoc laa	0
+车九进四	xjj rjj ikoc wwrw	0
+车九进五	xjj rjj ikoc fbwi	0
+车九进一	xjj rjj ikoc fii	4
+车九平八	xjj rjj nqkg kaa	1
+车九平二	xjj rjj nqkg irr	1
+车九平六	xjj rjj nqkg akat	6
+车九平七	xjj rjj nqkg xii	0
+车九平三	xjj rjj nqkg laa	0
+车九平四	xjj rjj nqkg wwrw	0
+车九平五	xjj rjj nqkg fbwi	0
+车九平一	xjj rjj nqkg fii	0
+车九退八	xjj rjj gocg kaa	0
+车九退二	xjj rjj gocg irr	0
+车九退九	xjj rjj gocg rjj	0
+车九退六	xjj rjj gocg akat	0
+车九退七	xjj rjj gocg xii	0
+车九退三	xjj rjj gocg laa	0
+车九退四	xjj rjj gocg wwrw	0
+车九退五	xjj rjj gocg fbwi	0
+车九退一	xjj rjj gocg fii	0
+车六进八	xjj akat ikoc kaa	1
+车六进二	xjj akat ikoc irr	1
+车六进九	xjj akat ikoc rjj	0
+车六进六	xjj akat ikoc akat	1
+车六进七	xjj akat ikoc xii	6
+车六进三	xjj akat ikoc laa	0
+车六进四	xjj akat ikoc wwrw	3
+车六进五	xjj akat ikoc fbwi	0
+车六进一	xjj akat ikoc fii	0
+车六平八	xjj akat nqkg kaa	0
+车六平二	xjj akat nqkg irr	0
+车六平九	xjj akat nqkg rjj	0
+车六平七	xjj akat nqkg xii	1
+车六平三	xjj akat nqkg laa	1
+车六平四	xjj akat nqkg wwrw	5
+车六平五	xjj akat nqkg fbwi	1
+车六平一	xjj akat nqkg fii	1
+车六退八	xjj akat gocg kaa	0
+车六退二	xjj akat gocg irr	0
+车六退九	xjj akat gocg rjj	0
+车六退六	xjj akat gocg akat	0
+车六退七	xjj akat gocg xii	0
+车六退三	xjj akat gocg laa	0
+车六退四	xjj akat gocg wwrw	0
+车六退五	xjj akat gocg fbwi	0
+车六退一	xjj akat gocg fii	0
+车平	xjj nqkg	0
+车七进八	xjj xii ikoc kaa	0
+车七进二	xjj xii ikoc irr	0
+车七进九	xjj xii ikoc rjj	0
+车七进六	xjj xii ikoc akat	0
+车七进七	xjj xii ikoc xii	0
+车七进三	xjj xii ikoc laa	1
+车七进四	xjj xii ikoc wwrw	0
+车七进五	xjj xii ikoc fbwi	0
+车七进一	xjj xii ikoc fii	0
+车七平八	xjj xii nqkg kaa	0
+车七平二	xjj xii nqkg irr	0
+车七平九	xjj xii nqkg rjj	0
+车七平六	xjj xii nqkg akat	0
+车七平三	xjj xii nqkg laa	0
+车七平四	xjj xii nqkg wwrw	0
+车七平五	xjj xii nqkg fbwi	0
+车七平一	xjj xii nqkg fii	0
+车七退八	xjj xii gocg kaa	0
+车七退二	xjj xii gocg irr	0
+车七退九	xjj xii gocg rjj	0
+车七退六	xjj xii gocg akat	0
+车七退七	xjj xii gocg xii	0
+车七退三	xjj xii gocg laa	0
+车七退四	xjj xii gocg wwrw	0
+车七退五	xjj xii gocg fbwi	0
+车七退一	xjj xii gocg fii	1
+车三进八	xjj laa ikoc kaa	0
+车三进二	xjj laa ikoc irr	0
+车三进九	xjj laa ikoc rjj	0
+车三进六	xjj laa ikoc akat	0
+车三进七	xjj laa ikoc xii	0
+车三进三	xjj laa ikoc laa	0
+车三进四	xjj laa ikoc wwrw	0
+车三进五	xjj laa ikoc fbwi	0
+车三进一	xjj laa ikoc fii	0
+车三平八	xjj laa nqkg kaa	0
+车三平二	xjj laa nqkg irr	0
+车三平九	xjj laa nqkg rjj	0
+车三平六	xjj laa nqkg akat	1
+车三平七	xjj laa nqkg xii	0
+车三平四	xjj laa nqkg wwrw	0
+车三平五	xjj laa nqkg fbwi	0
+车三平一	xjj laa nqkg fii	0
+车三退八	xjj laa gocg kaa	0
+车三退二	xjj laa gocg irr	1
+车三退九	xjj laa gocg rjj	0
+车三退六	xjj laa gocg akat	0
+车三退七	xjj laa gocg xii	0
+车三退三	xjj laa gocg laa	0
+车三退四	xjj laa gocg wwrw	0
+车三退五	xjj laa gocg fbwi	0
+车三退一	xjj laa gocg fii	0
+车四进八	xjj wwrw ikoc kaa	0
+车四进二	xjj wwrw ikoc irr	0
+车四进九	xjj wwrw ikoc rjj	0
+车四进六	xjj wwrw ikoc akat	5
+车四进七	xjj wwrw ikoc xii	0
+车四进三	xjj wwrw ikoc laa	0
+车四进四	xjj wwrw ikoc wwrw	0
+车四进五	xjj wwrw ikoc fbwi	0
+车四进一	xjj wwrw ikoc fii	1
+车四平八	xjj wwrw nqkg kaa	0
+车四平二	xjj wwrw nqkg irr	0
+车四平九	xjj wwrw nqkg rjj	0
+车四平六	xjj wwrw nqkg akat	0
+车四平七	xjj wwrw nqkg xii	0
+车四平三	xjj wwrw nqkg laa	0
+车四平五	xjj wwrw nqkg fbwi	0
+车四平一	xjj wwrw nqkg fii	0
+车四退八	xjj wwrw gocg kaa	0
+车四退二	xjj wwrw gocg irr	1
+车四退九	xjj wwrw gocg rjj	0
+车四退六	xjj wwrw gocg akat	0
+车四退七	xjj wwrw gocg xii	0
+车四退三	xjj wwrw gocg laa	0
+车四退四	xjj wwrw gocg wwrw	0
+车四退五	xjj wwrw gocg fbwi	0
+车四退一	xjj wwrw gocg fii	0
+车退	xjj gocg	1
+车五进八	xjj fbwi ikoc kaa	0
+车五进二	xjj fbwi ikoc irr	0
+车五进九	xjj fbwi ikoc rjj	0
+车五进六	xjj fbwi ikoc akat	0
+车五进七	xjj fbwi ikoc xii	1
+车五进三	xjj fbwi ikoc laa	0
+车五进四	xjj fbwi ikoc wwrw	0
+车五进五	xjj fbwi ikoc fbwi	0
+车五进一	xjj fbwi ikoc fii	0
+车五平八	xjj fbwi nqkg kaa	0
+车五平二	xjj fbwi nqkg irr	0
+车五平九	xjj fbwi nqkg rjj	0
+车五平六	xjj fbwi nqkg akat	0
+车五平七	xjj fbwi nqkg xii	0
+车五平三	xjj fbwi nqkg laa	0
+车五平四	xjj fbwi nqkg wwrw	1
+车五平一	xjj fbwi nqkg fii	0
+车五退八	xjj fbwi gocg kaa	0
+车五退二	xjj fbwi gocg irr	0
+车五退九	xjj fbwi gocg rjj	0
+车五退六	xjj fbwi gocg akat	0
+车五退七	xjj fbwi gocg xii	0
+车五退三	xjj fbwi gocg laa	0
+车五退四	xjj fbwi gocg wwrw	0
+车五退五	xjj fbwi gocg fbwi	0
+车五退一	xjj fbwi gocg fii	0
+车一进八	xjj fii ikoc kaa	0
+车一进二	xjj fii ikoc irr	4
+车一进九	xjj fii ikoc rjj	0
+车一进六	xjj fii ikoc akat	0
+车一进七	xjj fii ikoc xii	0
+车一进三	xjj fii ikoc laa	2
+车一进四	xjj fii ikoc wwrw	0
+车一进五	xjj fii ikoc fbwi	0
+车一进一	xjj fii ikoc fii	9
+车一平八	xjj fii nqkg kaa	0
+车一平二	xjj fii nqkg irr	3
+车一平九	xjj fii nqkg rjj	0
+车一平六	xjj fii nqkg akat	7
+车一平七	xjj fii nqkg xii	0
+车一平三	xjj fii nqkg laa	1
+车一平四	xjj fii nqkg wwrw	0
+车一平五	xjj fii nqkg fbwi	0
+车一退八	xjj fii gocg kaa	0
+车一退二	xjj fii gocg irr	0
+车一退九	xjj fii gocg rjj	0
+车一退六	xjj fii gocg akat	0
+车一退七	xjj fii gocg xii	0
+车一退三	xjj fii gocg laa	0
+车一退四	xjj fii gocg wwrw	0
+车一退五	xjj fii gocg fbwi	0
+车一退一	xjj fii gocg fii	0
+二兵进一	irr dfka ikoc fii	0
+二兵平八	irr dfka nqkg kaa	0
+二兵平二	irr dfka nqkg irr	0
+二兵平九	irr dfka nqkg rjj	0
+二兵平六	irr dfka nqkg akat	0
+二兵平七	irr dfka nqkg xii	0
+二兵平三	irr dfka nqkg laa	0
+二兵平四	irr dfka nqkg wwrw	0
+二兵平五	irr dfka nqkg fbwi	0
+二兵平一	irr dfka nqkg fii	0
+二卒进	irr arrg ikoc	0
+二卒平	irr arrg nqkg	0
+后包进	dflv wosb ikoc	1
+后包进八	dflv wosb ikoc kaa	0
+后包进二	dflv wosb ikoc irr	0
+后包进九	dflv wosb ikoc rjj	0
+后包进六	dflv wosb ikoc akat	0
+后包进七	dflv wosb ikoc xii	0
+后包进三	dflv wosb ikoc laa	0
+后包进四	dflv wosb ikoc wwrw	0
+后包进五	dflv wosb ikoc fbwi	0
+后包进一	dflv wosb ikoc fii	0
+后包平	dflv wosb nqkg	0
+后包平八	dflv wosb nqkg kaa	0
+后包平二	dflv wosb nqkg irr	0
+后包平九	dflv wosb nqkg rjj	0
+后包平六	dflv wosb nqkg akat	0
+后包平七	dflv wosb nqkg xii	0
+后包平三	dflv wosb nqkg laa	0
+后包平四	dflv wosb nqkg wwrw	0
+后包平五	dflv wosb nqkg fbwi	0
+后包平一	dflv wosb nqkg fii	0
+后包退	dflv wosb gocg	0
+后包退八	dflv wosb gocg kaa	0
+后包退二	dflv wosb gocg irr	0
+后包退六	dflv wosb gocg akat	0
+后包退七	dflv wosb gocg xii	0
+后包退三	dflv wosb gocg laa	0
+后包退四	dflv wosb gocg wwrw	0
+后包退五	dflv wosb gocg fbwi	0
+后包退一	dflv wosb gocg fii	0
+后兵八进一	dflv dfka kaa ikoc fii	0
+后兵八平七	dflv dfka kaa nqkg xii	0
+后兵二进一	dflv dfka irr ikoc fii	0
+后兵二平三	dflv dfka irr nqkg laa	0
+后兵进一	dflv dfka ikoc fii	0
+后兵九进一	dflv dfka rjj ikoc fii	0
+后兵九平八	dflv dfka rjj nqkg kaa	0
+后兵六进一	dflv dfka akat ikoc fii	0
+后兵六平七	dflv dfka akat nqkg xii	0
+后兵六平五	dflv dfka akat nqkg fbwi	0
+后兵平八	dflv dfka nqkg kaa	0
+后兵平二	dflv dfka nqkg irr	0
+后兵平九	dflv dfka nqkg rjj	0
+后兵平六	dflv dfka nqkg akat	0
+后兵平七	dflv dfka nqkg xii	0
+后兵平三	dflv dfka nqkg laa	0
+后兵平四	dflv dfka nqkg wwrw	0
+后兵平五	dflv dfka nqkg fbwi	0
+后兵平一	dflv dfka nqkg fii	0
+后兵七进一	dflv dfka xii ikoc fii	0
+后兵七平八	dflv dfka xii nqkg kaa	0
+后兵七平六	dflv dfka xii nqkg akat	0
+后兵三进一	dflv dfka laa ikoc fii	0
+后兵三平二	dflv dfka laa nqkg irr	0
+后兵三平四	dflv dfka laa nqkg wwrw	0
+后兵四进一	dflv dfka wwrw ikoc fii	0
+后兵四平三	dflv dfka wwrw nqkg laa	0
+后兵四平五	dflv dfka wwrw nqkg fbwi	0
+后兵五进一	dflv dfka fbwi ikoc fii	0
+后兵五平六	dflv dfka fbwi nqkg akat	0
+后兵五平四	dflv dfka fbwi nqkg wwrw	0
+后兵一进一	dflv dfka fii ikoc fii	0
+后兵一平二	dflv dfka fii nqkg irr	0
+后车进	dflv xjj ikoc	0
+后车进八	dflv xjj ikoc kaa	0
+后车进二	dflv xjj ikoc irr	0
+后车进六	dflv xjj ikoc akat	0
+后车进七	dflv xjj ikoc xii	0
+后车进三	dflv xjj ikoc laa	0
+后车进四	dflv xjj ikoc wwrw	0
+后车进五	dflv xjj ikoc fbwi	0
+后车进一	dflv xjj ikoc fii	0
+后车平	dflv xjj nqkg	0
+后车平八	dflv xjj nqkg kaa	0
+后车平二	dflv xjj nqkg irr	0
+后车平九	dflv xjj nqkg rjj	0
+后车平六	dflv xjj nqkg akat	1
+后车平七	dflv xjj nqkg xii	0
+后车平三	dflv xjj nqkg laa	0
+后车平四	dflv xjj nqkg wwrw	1
+后车平五	dflv xjj nqkg fbwi	0
+后车平一	dflv xjj nqkg fii	0
+后车退	dflv xjj gocg	0
+后车退八	dflv xjj gocg kaa	0
+后车退二	dflv xjj gocg irr	0
+后车退六	dflv xjj gocg akat	0
+后车退七	dflv xjj gocg xii	0
+后车退三	dflv xjj gocg laa	0
+后车退四	dflv xjj gocg wwrw	0
+后车退五	dflv xjj gocg fbwi	0
+后车退一	dflv xjj gocg fii	0
+后車进	dflv dcc ikoc	0
+后俥进八	dflv edcr ikoc kaa	0
+后車进八	dflv dcc ikoc kaa	0
+后俥进二	dflv edcr ikoc irr	0
+后車进二	dflv dcc ikoc irr	0
+后俥进六	dflv edcr ikoc akat	0
+后車进六	dflv dcc ikoc akat	0
+后俥进七	dflv edcr ikoc xii	0
+后車进七	dflv dcc ikoc xii	0
+后俥进三	dflv edcr ikoc laa	0
+后車进三	dflv dcc ikoc laa	0
+后俥进四	dflv edcr ikoc wwrw	0
+后車进四	dflv dcc ikoc wwrw	0
+后俥进五	dflv edcr ikoc fbwi	0
+后車进五	dflv dcc ikoc fbwi	0
+后俥进一	dflv edcr ikoc fii	0
+后車进一	dflv dcc ikoc fii	0
+后車平	dflv dcc nqkg	0
+后俥平八	dflv edcr nqkg kaa	0
+后車平八	dflv dcc nqkg kaa	0
+后俥平二	dflv edcr nqkg irr	0
+后車平二	dflv dcc nqkg irr	0
+后俥平九	dflv edcr nqkg rjj	0
+后車平九	dflv dcc nqkg rjj	0
+后俥平六	dflv edcr nqkg akat	0
+后車平六	dflv dcc nqkg akat	0
+后俥平七	dflv edcr nqkg xii	0
+后車平七	dflv dcc nqkg xii	0
+后俥平三	dflv edcr nqkg laa	0
+后車平三	dflv dcc nqkg laa	0
+后俥平四	dflv edcr nqkg wwrw	0
+后車平四	dflv dcc nqkg wwrw	0
+后俥平五	dflv edcr nqkg fbwi	0
+后車平五	dflv dcc nqkg fbwi	0
+后俥平一	dflv edcr nqkg fii	0
+后車平一	dflv dcc nqkg fii	0
+后車退	dflv dcc gocg	0
+后俥退八	dflv edcr gocg kaa	0
+后車退八	dflv dcc gocg kaa	0
+后俥退二	dflv edcr gocg irr	0
+后車退二	dflv dcc gocg irr	0
+后俥退六	dflv edcr gocg akat	0
+后車退六	dflv dcc gocg akat	0
+后俥退七	dflv edcr gocg xii	0
+后車退七	dflv dcc gocg xii	0
+后俥退三	dflv edcr gocg laa	0
+后車退三	dflv dcc gocg laa	0
+后俥退四	dflv edcr gocg wwrw	0
+后車退四	dflv dcc gocg wwrw	0
+后俥退五	dflv edcr gocg fbwi	0
+后車退五	dflv dcc gocg fbwi	0
+后俥退一	dflv edcr gocg fii	0
+后車退一	dflv dcc gocg fii	0
+后馬进	dflv wmm ikoc	0
+后马进	dflv bmm ikoc	0
+后傌进八	dflv ewmr ikoc kaa	0
+后馬进八	dflv wmm ikoc kaa	0
+后马进八	dflv bmm ikoc kaa	0
+后傌进二	dflv ewmr ikoc irr	0
+后馬进二	dflv wmm ikoc irr	0
+后马进二	dflv bmm ikoc irr	0
+后傌进九	dflv ewmr ikoc rjj	0
+后馬进九	dflv wmm ikoc rjj	0
+后马进九	dflv bmm ikoc rjj	0
+后傌进六	dflv ewmr ikoc akat	0
+后馬进六	dflv wmm ikoc akat	0
+后马进六	dflv bmm ikoc akat	0
+后傌进七	dflv ewmr ikoc xii	0
+后馬进七	dflv wmm ikoc xii	0
+后马进七	dflv bmm ikoc xii	0
+后傌进三	dflv ewmr ikoc laa	0
+后馬进三	dflv wmm ikoc laa	0
+后马进三	dflv bmm ikoc laa	0
+后傌进四	dflv ewmr ikoc wwrw	0
+后馬进四	dflv wmm ikoc wwrw	0
+后马进四	dflv bmm ikoc wwrw	0
+后傌进五	dflv ewmr ikoc fbwi	0
+后馬进五	dflv wmm ikoc fbwi	0
+后马进五	dflv bmm ikoc fbwi	0
+后傌进一	dflv ewmr ikoc fii	0
+后馬进一	dflv wmm ikoc fii	0
+后马进一	dflv bmm ikoc fii	0
+后馬退	dflv wmm gocg	0
+后马退	dflv bmm gocg	0
+后傌退八	dflv ewmr gocg kaa	0
+后馬退八	dflv wmm gocg kaa	0
+后马退八	dflv bmm gocg kaa	0
+后傌退二	dflv ewmr gocg irr	0
+后馬退二	dflv wmm gocg irr	0
+后马退二	dflv bmm gocg irr	0
+后傌退九	dflv ewmr gocg rjj	0
+后馬退九	dflv wmm gocg rjj	0
+后马退九	dflv bmm gocg rjj	0
+后傌退六	dflv ewmr gocg akat	0
+后馬退六	dflv wmm gocg akat	0
+后马退六	dflv bmm gocg akat	0
+后傌退七	dflv ewmr gocg xii	0
+后馬退七	dflv wmm gocg xii	0
+后马退七	dflv bmm gocg xii	0
+后傌退三	dflv ewmr gocg laa	0
+后馬退三	dflv wmm gocg laa	0
+后马退三	dflv bmm gocg laa	0
+后傌退四	dflv ewmr gocg wwrw	0
+后馬退四	dflv wmm gocg wwrw	0
+后马退四	dflv bmm gocg wwrw	0
+后傌退五	dflv ewmr gocg fbwi	0
+后馬退五	dflv wmm gocg fbwi	0
+后马退五	dflv bmm gocg fbwi	0
+后傌退一	dflv ewmr gocg fii	0
+后馬退一	dflv wmm gocg fii	0
+后马退一	dflv bmm gocg fii	0
+后炮进	dflv iwos ikoc	0
+后砲进	dflv vwos ikoc	0
+后炮进八	dflv iwos ikoc kaa	0
+后砲进八	dflv vwos ikoc kaa	0
+后炮进二	dflv iwos ikoc irr	0
+后砲进二	dflv vwos ikoc irr	0
+后炮进九	dflv iwos ikoc rjj	0
+后砲进九	dflv vwos ikoc rjj	0
+后炮进六	dflv iwos ikoc akat	0
+后砲进六	dflv vwos ikoc akat	0
+后炮进七	dflv iwos ikoc xii	0
+后砲进七	dflv vwos ikoc xii	0
+后炮进三	dflv iwos ikoc laa	0
+后砲进三	dflv vwos ikoc laa	0
+后炮进四	dflv iwos ikoc wwrw	0
+后砲进四	dflv vwos ikoc wwrw	0
+后炮进五	dflv iwos ikoc fbwi	0
+后砲进五	dflv vwos ikoc fbwi	0
+后炮进一	dflv iwos ikoc fii	0
+后砲进一	dflv vwos ikoc fii	0
+后炮平	dflv iwos nqkg	0
+后砲平	dflv vwos nqkg	0
+后炮平八	dflv iwos nqkg kaa	0
+后砲平八	dflv vwos nqkg kaa	0
+后炮平二	dflv iwos nqkg irr	0
+后砲平二	dflv vwos nqkg irr	0
+后炮平九	dflv iwos nqkg rjj	0
+后砲平九	dflv vwos nqkg rjj	0
+后炮平六	dflv iwos nqkg akat	0
+后砲平六	dflv vwos nqkg akat	0
+后炮平七	dflv iwos nqkg xii	0
+后砲平七	dflv vwos nqkg xii	0
+后炮平三	dflv iwos nqkg laa	0
+后砲平三	dflv vwos nqkg laa	0
+后炮平四	dflv iwos nqkg wwrw	0
+后砲平四	dflv vwos nqkg wwrw	0
+后炮平五	dflv iwos nqkg fbwi	0
+后砲平五	dflv vwos nqkg fbwi	0
+后炮平一	dflv iwos nqkg fii	0
+后砲平一	dflv vwos nqkg fii	0
+后炮退	dflv iwos gocg	0
+后砲退	dflv vwos gocg	0
+后炮退八	dflv iwos gocg kaa	0
+后砲退八	dflv vwos gocg kaa	0
+后炮退二	dflv iwos gocg irr	0
+后砲退二	dflv vwos gocg irr	0
+后炮退六	dflv iwos gocg akat	0
+后砲退六	dflv vwos gocg akat	0
+后炮退七	dflv iwos gocg xii	0
+后砲退七	dflv vwos gocg xii	0
+后炮退三	dflv iwos gocg laa	0
+后砲退三	dflv vwos gocg laa	0
+后炮退四	dflv iwos gocg wwrw	0
+后砲退四	dflv vwos gocg wwrw	0
+后炮退五	dflv iwos gocg fbwi	0
+后砲退五	dflv vwos gocg fbwi	0
+后炮退一	dflv iwos gocg fii	0
+后砲退一	dflv vwos gocg fii	0
+后卒进	dflv arrg ikoc	0
+后卒平	dflv arrg nqkg	0
+将进	qxkc ikoc	0
+將进	dwkc ikoc	0
+将平	qxkc nqkg	1
+將平	dwkc nqkg	2
+将退	qxkc gocg	0
+將退	dwkc gocg	1
+俥八进八	edcr kaa ikoc kaa	0
+車八进八	dcc kaa ikoc kaa	0
+俥八进二	edcr kaa ikoc irr	0
+車八进二	dcc kaa ikoc irr	0
+俥八进九	edcr kaa ikoc rjj	0
+車八进九	dcc kaa ikoc rjj	0
+俥八进六	edcr kaa ikoc akat	0
+車八进六	dcc kaa ikoc akat	0
+俥八进七	edcr kaa ikoc xii	0
+車八进七	dcc kaa ikoc xii	0
+俥八进三	edcr kaa ikoc laa	0
+車八进三	dcc kaa ikoc laa	0
+俥八进四	edcr kaa ikoc wwrw	0
+車八进四	dcc kaa ikoc wwrw	0
+俥八进五	edcr kaa ikoc fbwi	0
+車八进五	dcc kaa ikoc fbwi	0
+俥八进一	edcr kaa ikoc fii	0
+車八进一	dcc kaa ikoc fii	0
+俥八平二	edcr kaa nqkg irr	0
+車八平二	dcc kaa nqkg irr	0
+俥八平九	edcr kaa nqkg rjj	0
+車八平九	dcc kaa nqkg rjj	0
+俥八平六	edcr kaa nqkg akat	0
+車八平六	dcc kaa nqkg akat	0
+俥八平七	edcr kaa nqkg xii	0
+車八平七	dcc kaa nqkg xii	0
+俥八平三	edcr kaa nqkg laa	0
+車八平三	dcc kaa nqkg laa	0
+俥八平四	edcr kaa nqkg wwrw	0
+車八平四	dcc kaa nqkg wwrw	0
+俥八平五	edcr kaa nqkg fbwi	0
+車八平五	dcc kaa nqkg fbwi	0
+俥八平一	edcr kaa nqkg fii	0
+車八平一	dcc kaa nqkg fii	0
+俥八退八	edcr kaa gocg kaa	0
+車八退八	dcc kaa gocg kaa	0
+俥八退二	edcr kaa gocg irr	0
+車八退二	dcc kaa gocg irr	0
+俥八退九	edcr kaa gocg rjj	0
+車八退九	dcc kaa gocg rjj	0
+俥八退六	edcr kaa gocg akat	0
+車八退六	dcc kaa gocg akat	0
+俥八退七	edcr kaa gocg xii	0
+車八退七	dcc kaa gocg xii	0
+俥八退三	edcr kaa gocg laa	0
+車八退三	dcc kaa gocg laa	0
+俥八退四	edcr kaa gocg wwrw	0
+車八退四	dcc kaa gocg wwrw	0
+俥八退五	edcr kaa gocg fbwi	0
+車八退五	dcc kaa gocg fbwi	0
+俥八退一	edcr kaa gocg fii	0
+車八退一	dcc kaa gocg fii	0
+俥二进八	edcr irr ikoc kaa	0
+車二进八	dcc irr ikoc kaa	0
+俥二进二	edcr irr ikoc irr	0
+車二进二	dcc irr ikoc irr	0
+俥二进九	edcr irr ikoc rjj	0
+車二进九	dcc irr ikoc rjj	0
+俥二进六	edcr irr ikoc akat	0
+車二进六	dcc irr ikoc akat	0
+俥二进七	edcr irr ikoc xii	0
+車二进七	dcc irr ikoc xii	0
+俥二进三	edcr irr ikoc laa	0
+車二进三	dcc irr ikoc laa	0
+俥二进四	edcr irr ikoc wwrw	0
+車二进四	dcc irr ikoc wwrw	0
+俥二进五	edcr irr ikoc fbwi	0
+車二进五	dcc irr ikoc fbwi	0
+俥二进一	edcr irr ikoc fii	0
+車二进一	dcc irr ikoc fii	0
+俥二平八	edcr irr nqkg kaa	0
+車二平八	dcc irr nqkg kaa	0
+俥二平九	edcr irr nqkg rjj	0
+車二平九	dcc irr nqkg rjj	0
+俥二平六	edcr irr nqkg akat	0
+車二平六	dcc irr nqkg akat	0
+俥二平七	edcr irr nqkg xii	0
+車二平七	dcc irr nqkg xii	0
+俥二平三	edcr irr nqkg laa	0
+車二平三	dcc irr nqkg laa	0
+俥二平四	edcr irr nqkg wwrw	0
+車二平四	dcc irr nqkg wwrw	0
+俥二平五	edcr irr nqkg fbwi	0
+車二平五	dcc irr nqkg fbwi	0
+俥二平一	edcr irr nqkg fii	0
+車二平一	dcc irr nqkg fii	0
+俥二退八	edcr irr gocg kaa	0
+車二退八	dcc irr gocg kaa	0
+俥二退二	edcr irr gocg irr	0
+車二退二	dcc irr gocg irr	0
+俥二退九	edcr irr gocg rjj	0
+車二退九	dcc irr gocg rjj	0
+俥二退六	edcr irr gocg akat	0
+車二退六	dcc irr gocg akat	0
+俥二退七	edcr irr gocg xii	0
+車二退七	dcc irr gocg xii	0
+俥二退三	edcr irr gocg laa	0
+車二退三	dcc irr gocg laa	0
+俥二退四	edcr irr gocg wwrw	0
+車二退四	dcc irr gocg wwrw	0
+俥二退五	edcr irr gocg fbwi	0
+車二退五	dcc irr gocg fbwi	0
+俥二退一	edcr irr gocg fii	0
+車二退一	dcc irr gocg fii	0
+車进	dcc ikoc	0
+俥九进八	edcr rjj ikoc kaa	0
+車九进八	dcc rjj ikoc kaa	0
+俥九进二	edcr rjj ikoc irr	0
+車九进二	dcc rjj ikoc irr	1
+俥九进九	edcr rjj ikoc rjj	0
+車九进九	dcc rjj ikoc rjj	0
+俥九进六	edcr rjj ikoc akat	0
+車九进六	dcc rjj ikoc akat	0
+俥九进七	edcr rjj ikoc xii	0
+車九进七	dcc rjj ikoc xii	0
+俥九进三	edcr rjj ikoc laa	0
+車九进三	dcc rjj ikoc laa	1
+俥九进四	edcr rjj ikoc wwrw	0
+車九进四	dcc rjj ikoc wwrw	0
+俥九进五	edcr rjj ikoc fbwi	0
+車九进五	dcc rjj ikoc fbwi	0
+俥九进一	edcr rjj ikoc fii	0
+車九进一	dcc rjj ikoc fii	1
+俥九平八	edcr rjj nqkg kaa	0
+車九平八	dcc rjj nqkg kaa	0
+俥九平二	edcr rjj nqkg irr	0
+車九平二	dcc rjj nqkg irr	0
+俥九平六	edcr rjj nqkg akat	0
+車九平六	dcc rjj nqkg akat	0
+俥九平七	edcr rjj nqkg xii	0
+車九平七	dcc rjj nqkg xii	0
+俥九平三	edcr rjj nqkg laa	0
+車九平三	dcc rjj nqkg laa	0
+俥九平四	edcr rjj nqkg wwrw	0
+車九平四	dcc rjj nqkg wwrw	0
+俥九平五	edcr rjj nqkg fbwi	0
+車九平五	dcc rjj nqkg fbwi	1
+俥九平一	edcr rjj nqkg fii	0
+車九平一	dcc rjj nqkg fii	0
+俥九退八	edcr rjj gocg kaa	0
+車九退八	dcc rjj gocg kaa	0
+俥九退二	edcr rjj gocg irr	0
+車九退二	dcc rjj gocg irr	0
+俥九退九	edcr rjj gocg rjj	0
+車九退九	dcc rjj gocg rjj	0
+俥九退六	edcr rjj gocg akat	0
+車九退六	dcc rjj gocg akat	0
+俥九退七	edcr rjj gocg xii	0
+車九退七	dcc rjj gocg xii	0
+俥九退三	edcr rjj gocg laa	0
+車九退三	dcc rjj gocg laa	0
+俥九退四	edcr rjj gocg wwrw	0
+車九退四	dcc rjj gocg wwrw	0
+俥九退五	edcr rjj gocg fbwi	0
+車九退五	dcc rjj gocg fbwi	0
+俥九退一	edcr rjj gocg fii	0
+車九退一	dcc rjj gocg fii	1
+俥六进八	edcr akat ikoc kaa	0
+車六进八	dcc akat ikoc kaa	0
+俥六进二	edcr akat ikoc irr	0
+車六进二	dcc akat ikoc irr	0
+俥六进九	edcr akat ikoc rjj	0
+車六进九	dcc akat ikoc rjj	0
+俥六进六	edcr akat ikoc akat	0
+車六进六	dcc akat ikoc akat	0
+俥六进七	edcr akat ikoc xii	0
+車六进七	dcc akat ikoc xii	0
+俥六进三	edcr akat ikoc laa	0
+車六进三	dcc akat ikoc laa	0
+俥六进四	edcr akat ikoc wwrw	0
+車六进四	dcc akat ikoc wwrw	0
+俥六进五	edcr akat ikoc fbwi	0
+車六进五	dcc akat ikoc fbwi	0
+俥六进一	edcr akat ikoc fii	0
+車六进一	dcc akat ikoc fii	0
+俥六平八	edcr akat nqkg kaa	0
+車六平八	dcc akat nqkg kaa	0
+俥六平二	edcr akat nqkg irr	0
+車六平二	dcc akat nqkg irr	0
+俥六平九	edcr akat nqkg rjj	0
+車六平九	dcc akat nqkg rjj	0
+俥六平七	edcr akat nqkg xii	0
+車六平七	dcc akat nqkg xii	0
+俥六平三	edcr akat nqkg laa	0
+車六平三	dcc akat nqkg laa	0
+俥六平四	edcr akat nqkg wwrw	0
+車六平四	dcc akat nqkg wwrw	0
+俥六平五	edcr akat nqkg fbwi	0
+車六平五	dcc akat nqkg fbwi	0
+俥六平一	edcr akat nqkg fii	0
+車六平一	dcc akat nqkg fii	0
+俥六退八	edcr akat gocg kaa	0
+車六退八	dcc akat gocg kaa	0
+俥六退二	edcr akat gocg irr	0
+車六退二	dcc akat gocg irr	0
+俥六退九	edcr akat gocg rjj	0
+車六退九	dcc akat gocg rjj	0
+俥六退六	edcr akat gocg akat	0
+車六退六	dcc akat gocg akat	0
+俥六退七	edcr akat gocg xii	0
+車六退七	dcc akat gocg xii	0
+俥六退三	edcr akat gocg laa	0
+車六退三	dcc akat gocg laa	0
+俥六退四	edcr akat gocg wwrw	0
+車六退四	dcc akat gocg wwrw	0
+俥六退五	edcr akat gocg fbwi	0
+車六退五	dcc akat gocg fbwi	0
+俥六退一	edcr akat gocg fii	0
+車六退一	dcc akat gocg fii	0
+車平	dcc nqkg	0
+俥七进八	edcr xii ikoc kaa	0
+車七进八	dcc xii ikoc kaa	0
+俥七进二	edcr xii ikoc irr	0
+車七进二	dcc xii ikoc irr	0
+俥七进九	edcr xii ikoc rjj	0
+車七进九	dcc xii ikoc rjj	0
+俥七进六	edcr xii ikoc akat	0
+車七进六	dcc xii ikoc akat	0
+俥七进七	edcr xii ikoc xii	0
+車七进七	dcc xii ikoc xii	0
+俥七进三	edcr xii ikoc laa	0
+車七进三	dcc xii ikoc laa	0
+俥七进四	edcr xii ikoc wwrw	0
+車七进四	dcc xii ikoc wwrw	0
+俥七进五	edcr xii ikoc fbwi	0
+車七进五	dcc xii ikoc fbwi	0
+俥七进一	edcr xii ikoc fii	0
+車七进一	dcc xii ikoc fii	0
+俥七平八	edcr xii nqkg kaa	0
+車七平八	dcc xii nqkg kaa	0
+俥七平二	edcr xii nqkg irr	0
+車七平二	dcc xii nqkg irr	0
+俥七平九	edcr xii nqkg rjj	0
+車七平九	dcc xii nqkg rjj	0
+俥七平六	edcr xii nqkg akat	0
+車七平六	dcc xii nqkg akat	0
+俥七平三	edcr xii nqkg laa	0
+車七平三	dcc xii nqkg laa	0
+俥七平四	edcr xii nqkg wwrw	0
+車七平四	dcc xii nqkg wwrw	0
+俥七平五	edcr xii nqkg fbwi	0
+車七平五	dcc xii nqkg fbwi	0
+俥七平一	edcr xii nqkg fii	0
+車七平一	dcc xii nqkg fii	0
+俥七退八	edcr xii gocg kaa	0
+車七退八	dcc xii gocg kaa	0
+俥七退二	edcr xii gocg irr	0
+車七退二	dcc xii gocg irr	0
+俥七退九	edcr xii gocg rjj	0
+車七退九	dcc xii gocg rjj	0
+俥七退六	edcr xii gocg akat	0
+車七退六	dcc xii gocg akat	0
+俥七退七	edcr xii gocg xii	0
+車七退七	dcc xii gocg xii	0
+俥七退三	edcr xii gocg laa	0
+車七退三	dcc xii gocg laa	0
+俥七退四	edcr xii gocg wwrw	0
+車七退四	dcc xii gocg wwrw	0
+俥七退五	edcr xii gocg fbwi	0
+車七退五	dcc xii gocg fbwi	0
+俥七退一	edcr xii gocg fii	0
+車七退一	dcc xii gocg fii	0
+俥三进八	edcr laa ikoc kaa	0
+車三进八	dcc laa ikoc kaa	0
+俥三进二	edcr laa ikoc irr	0
+車三进二	dcc laa ikoc irr	0
+俥三进九	edcr laa ikoc rjj	0
+車三进九	dcc laa ikoc rjj	0
+俥三进六	edcr laa ikoc akat	0
+車三进六	dcc laa ikoc akat	0
+俥三进七	edcr laa ikoc xii	0
+車三进七	dcc laa ikoc xii	0
+俥三进三	edcr laa ikoc laa	0
+車三进三	dcc laa ikoc laa	0
+俥三进四	edcr laa ikoc wwrw	0
+車三进四	dcc laa ikoc wwrw	0
+俥三进五	edcr laa ikoc fbwi	0
+車三进五	dcc laa ikoc fbwi	0
+俥三进一	edcr laa ikoc fii	0
+車三进一	dcc laa ikoc fii	0
+俥三平八	edcr laa nqkg kaa	0
+車三平八	dcc laa nqkg kaa	0
+俥三平二	edcr laa nqkg irr	0
+車三平二	dcc laa nqkg irr	0
+俥三平九	edcr laa nqkg rjj	0
+車三平九	dcc laa nqkg rjj	0
+俥三平六	edcr laa nqkg akat	0
+車三平六	dcc laa nqkg akat	0
+俥三平七	edcr laa nqkg xii	0
+車三平七	dcc laa nqkg xii	0
+俥三平四	edcr laa nqkg wwrw	0
+車三平四	dcc laa nqkg wwrw	0
+俥三平五	edcr laa nqkg fbwi	0
+車三平五	dcc laa nqkg fbwi	0
+俥三平一	edcr laa nqkg fii	0
+車三平一	dcc laa nqkg fii	0
+俥三退八	edcr laa gocg kaa	0
+車三退八	dcc laa gocg kaa	0
+俥三退二	edcr laa gocg irr	0
+車三退二	dcc laa gocg irr	0
+俥三退九	edcr laa gocg rjj	0
+車三退九	dcc laa gocg rjj	0
+俥三退六	edcr laa gocg akat	0
+車三退六	dcc laa gocg akat	0
+俥三退七	edcr laa gocg xii	0
+車三退七	dcc laa gocg xii	0
+俥三退三	edcr laa gocg laa	0
+車三退三	dcc laa gocg laa	0
+俥三退四	edcr laa gocg wwrw	0
+車三退四	dcc laa gocg wwrw	0
+俥三退五	edcr laa gocg fbwi	0
+車三退五	dcc laa gocg fbwi	0
+俥三退一	edcr laa gocg fii	0
+車三退一	dcc laa gocg fii	0
+俥四进八	edcr wwrw ikoc kaa	0
+車四进八	dcc wwrw ikoc kaa	0
+俥四进二	edcr wwrw ikoc irr	0
+車四进二	dcc wwrw ikoc irr	0
+俥四进九	edcr wwrw ikoc rjj	0
+車四进九	dcc wwrw ikoc rjj	0
+俥四进六	edcr wwrw ikoc akat	0
+車四进六	dcc wwrw ikoc akat	0
+俥四进七	edcr wwrw ikoc xii	0
+車四进七	dcc wwrw ikoc xii	0
+俥四进三	edcr wwrw ikoc laa	0
+車四进三	dcc wwrw ikoc laa	0
+俥四进四	edcr wwrw ikoc wwrw	0
+車四进四	dcc wwrw ikoc wwrw	0
+俥四进五	edcr wwrw ikoc fbwi	0
+車四进五	dcc wwrw ikoc fbwi	0
+俥四进一	edcr wwrw ikoc fii	0
+車四进一	dcc wwrw ikoc fii	0
+俥四平八	edcr wwrw nqkg kaa	0
+車四平八	dcc wwrw nqkg kaa	0
+俥四平二	edcr wwrw nqkg irr	0
+車四平二	dcc wwrw nqkg irr	0
+俥四平九	edcr wwrw nqkg rjj	0
+車四平九	dcc wwrw nqkg rjj	0
+俥四平六	edcr wwrw nqkg akat	0
+車四平六	dcc wwrw nqkg akat	0
+俥四平七	edcr wwrw nqkg xii	0
+車四平七	dcc wwrw nqkg xii	0
+俥四平三	edcr wwrw nqkg laa	0
+車四平三	dcc wwrw nqkg laa	0
+俥四平五	edcr wwrw nqkg fbwi	0
+車四平五	dcc wwrw nqkg fbwi	0
+俥四平一	edcr wwrw nqkg fii	0
+車四平一	dcc wwrw nqkg fii	0
+俥四退八	edcr wwrw gocg kaa	0
+車四退八	dcc wwrw gocg kaa	0
+俥四退二	edcr wwrw gocg irr	0
+車四退二	dcc wwrw gocg irr	0
+俥四退九	edcr wwrw gocg rjj	0
+車四退九	dcc wwrw gocg rjj	0
+俥四退六	edcr wwrw gocg akat	0
+車四退六	dcc wwrw gocg akat	0
+俥四退七	edcr wwrw gocg xii	0
+車四退七	dcc wwrw gocg xii	0
+俥四退三	edcr wwrw gocg laa	0
+車四退三	dcc wwrw gocg laa	0
+俥四退四	edcr wwrw gocg wwrw	0
+車四退四	dcc wwrw gocg wwrw	0
+俥四退五	edcr wwrw gocg fbwi	0
+車四退五	dcc wwrw gocg fbwi	0
+俥四退一	edcr wwrw gocg fii	0
+車四退一	dcc wwrw gocg fii	0
+車退	dcc gocg	0
+俥五进八	edcr fbwi ikoc kaa	0
+車五进八	dcc fbwi ikoc kaa	0
+俥五进二	edcr fbwi ikoc irr	0
+車五进二	dcc fbwi ikoc irr	0
+俥五进九	edcr fbwi ikoc rjj	0
+車五进九	dcc fbwi ikoc rjj	0
+俥五进六	edcr fbwi ikoc akat	0
+車五进六	dcc fbwi ikoc akat	0
+俥五进七	edcr fbwi ikoc xii	0
+車五进七	dcc fbwi ikoc xii	0
+俥五进三	edcr fbwi ikoc laa	0
+車五进三	dcc fbwi ikoc laa	0
+俥五进四	edcr fbwi ikoc wwrw	0
+車五进四	dcc fbwi ikoc wwrw	0
+俥五进五	edcr fbwi ikoc fbwi	0
+車五进五	dcc fbwi ikoc fbwi	0
+俥五进一	edcr fbwi ikoc fii	0
+車五进一	dcc fbwi ikoc fii	0
+俥五平八	edcr fbwi nqkg kaa	0
+車五平八	dcc fbwi nqkg kaa	0
+俥五平二	edcr fbwi nqkg irr	0
+車五平二	dcc fbwi nqkg irr	0
+俥五平九	edcr fbwi nqkg rjj	0
+車五平九	dcc fbwi nqkg rjj	0
+俥五平六	edcr fbwi nqkg akat	0
+車五平六	dcc fbwi nqkg akat	0
+俥五平七	edcr fbwi nqkg xii	0
+車五平七	dcc fbwi nqkg xii	0
+俥五平三	edcr fbwi nqkg laa	0
+車五平三	dcc fbwi nqkg laa	0
+俥五平四	edcr fbwi nqkg wwrw	0
+車五平四	dcc fbwi nqkg wwrw	0
+俥五平一	edcr fbwi nqkg fii	0
+車五平一	dcc fbwi nqkg fii	0
+俥五退八	edcr fbwi gocg kaa	0
+車五退八	dcc fbwi gocg kaa	0
+俥五退二	edcr fbwi gocg irr	0
+車五退二	dcc fbwi gocg irr	0
+俥五退九	edcr fbwi gocg rjj	0
+車五退九	dcc fbwi gocg rjj	0
+俥五退六	edcr fbwi gocg akat	0
+車五退六	dcc fbwi gocg akat	0
+俥五退七	edcr fbwi gocg xii	0
+車五退七	dcc fbwi gocg xii	0
+俥五退三	edcr fbwi gocg laa	0
+車五退三	dcc fbwi gocg laa	0
+俥五退四	edcr fbwi gocg wwrw	0
+車五退四	dcc fbwi gocg wwrw	0
+俥五退五	edcr fbwi gocg fbwi	0
+車五退五	dcc fbwi gocg fbwi	0
+俥五退一	edcr fbwi gocg fii	0
+車五退一	dcc fbwi gocg fii	0
+俥一进八	edcr fii ikoc kaa	0
+車一进八	dcc fii ikoc kaa	0
+俥一进二	edcr fii ikoc irr	0
+車一进二	dcc fii ikoc irr	0
+俥一进九	edcr fii ikoc rjj	0
+車一进九	dcc fii ikoc rjj	0
+俥一进六	edcr fii ikoc akat	0
+車一进六	dcc fii ikoc akat	0
+俥一进七	edcr fii ikoc xii	0
+車一进七	dcc fii ikoc xii	0
+俥一进三	edcr fii ikoc laa	0
+車一进三	dcc fii ikoc laa	0
+俥一进四	edcr fii ikoc wwrw	0
+車一进四	dcc fii ikoc wwrw	0
+俥一进五	edcr fii ikoc fbwi	0
+車一进五	dcc fii ikoc fbwi	0
+俥一进一	edcr fii ikoc fii	0
+車一进一	dcc fii ikoc fii	0
+俥一平八	edcr fii nqkg kaa	0
+車一平八	dcc fii nqkg kaa	0
+俥一平二	edcr fii nqkg irr	0
+車一平二	dcc fii nqkg irr	0
+俥一平九	edcr fii nqkg rjj	0
+車一平九	dcc fii nqkg rjj	0
+俥一平六	edcr fii nqkg akat	0
+車一平六	dcc fii nqkg akat	0
+俥一平七	edcr fii nqkg xii	0
+車一平七	dcc fii nqkg xii	0
+俥一平三	edcr fii nqkg laa	0
+車一平三	dcc fii nqkg laa	0
+俥一平四	edcr fii nqkg wwrw	0
+車一平四	dcc fii nqkg wwrw	0
+俥一平五	edcr fii nqkg fbwi	0
+車一平五	dcc fii nqkg fbwi	0
+俥一退八	edcr fii gocg kaa	0
+車一退八	dcc fii gocg kaa	0
+俥一退二	edcr fii gocg irr	0
+車一退二	dcc fii gocg irr	0
+俥一退九	edcr fii gocg rjj	0
+車一退九	dcc fii gocg rjj	0
+俥一退六	edcr fii gocg akat	0
+車一退六	dcc fii gocg akat	0
+俥一退七	edcr fii gocg xii	0
+車一退七	dcc fii gocg xii	0
+俥一退三	edcr fii gocg laa	0
+車一退三	dcc fii gocg laa	0
+俥一退四	edcr fii gocg wwrw	0
+車一退四	dcc fii gocg wwrw	0
+俥一退五	edcr fii gocg fbwi	0
+車一退五	dcc fii gocg fbwi	0
+俥一退一	edcr fii gocg fii	0
+車一退一	dcc fii gocg fii	0
+傌八进九	ewmr kaa ikoc rjj	0
+馬八进九	wmm kaa ikoc rjj	0
+马八进九	bmm kaa ikoc rjj	3
+傌八进六	ewmr kaa ikoc akat	0
+馬八进六	wmm kaa ikoc akat	0
+马八进六	bmm kaa ikoc akat	0
+傌八进七	ewmr kaa ikoc xii	0
+馬八进七	wmm kaa ikoc xii	0
+马八进七	bmm kaa ikoc xii	6
+傌八退九	ewmr kaa gocg rjj	0
+馬八退九	wmm kaa gocg rjj	0
+马八退九	bmm kaa gocg rjj	0
+傌八退六	ewmr kaa gocg akat	0
+馬八退六	wmm kaa gocg akat	0
+马八退六	bmm kaa gocg akat	0
+傌八退七	ewmr kaa gocg xii	0
+馬八退七	wmm kaa gocg xii	0
+马八退七	bmm kaa gocg xii	0
+傌二进三	ewmr irr ikoc laa	0
+馬二进三	wmm irr ikoc laa	0
+马二进三	bmm irr ikoc laa	12
+傌二进四	ewmr irr ikoc wwrw	0
+馬二进四	wmm irr ikoc wwrw	0
+马二进四	bmm irr ikoc wwrw	0
+傌二进一	ewmr irr ikoc fii	0
+馬二进一	wmm irr ikoc fii	0
+马二进一	bmm irr ikoc fii	5
+傌二退三	ewmr irr gocg laa	0
+馬二退三	wmm irr gocg laa	0
+马二退三	bmm irr gocg laa	2
+傌二退四	ewmr irr gocg wwrw	0
+馬二退四	wmm irr gocg wwrw	0
+马二退四	bmm irr gocg wwrw	1
+傌二退一	ewmr irr gocg fii	0
+馬二退一	wmm irr gocg fii	0
+马二退一	bmm irr gocg fii	1
+馬进	wmm ikoc	0
+马进	bmm ikoc	9
+傌九进八	ewmr rjj ikoc kaa	0
+馬九进八	wmm rjj ikoc kaa	0
+马九进八	bmm rjj ikoc kaa	0
+傌九进七	ewmr rjj ikoc xii	0
+馬九进七	wmm rjj ikoc xii	0
+马九进七	bmm rjj ikoc xii	0
+傌九退八	ewmr rjj gocg kaa	0
+馬九退八	wmm rjj gocg kaa	0
+马九退八	bmm rjj gocg kaa	0
+傌九退七	ewmr rjj gocg xii	0
+馬九退七	wmm rjj gocg xii	0
+马九退七	bmm rjj gocg xii	0
+傌六进八	ewmr akat ikoc kaa	0
+馬六进八	wmm akat ikoc kaa	0
+马六进八	bmm akat ikoc kaa	0
+傌六进七	ewmr akat ikoc xii	0
+馬六进七	wmm akat ikoc xii	0
+马六进七	bmm akat ikoc xii	0
+傌六进四	ewmr akat ikoc wwrw	0
+馬六进四	wmm akat ikoc wwrw	0
+马六进四	bmm akat ikoc wwrw	0
+傌六进五	ewmr akat ikoc fbwi	0
+馬六进五	wmm akat ikoc fbwi	0
+马六进五	bmm akat ikoc fbwi	0
+傌六退八	ewmr akat gocg kaa	0
+馬六退八	wmm akat gocg kaa	0
+马六退八	bmm akat gocg kaa	0
+傌六退七	ewmr akat gocg xii	0
+馬六退七	wmm akat gocg xii	0
+马六退七	bmm akat gocg xii	0
+傌六退四	ewmr akat gocg wwrw	0
+馬六退四	wmm akat gocg wwrw	0
+马六退四	bmm akat gocg wwrw	0
+傌六退五	ewmr akat gocg fbwi	0
+馬六退五	wmm akat gocg fbwi	0
+马六退五	bmm akat gocg fbwi	1
+傌七进八	ewmr xii ikoc kaa	0
+馬七进八	wmm xii ikoc kaa	0
+马七进八	bmm xii ikoc kaa	0
+傌七进九	ewmr xii ikoc rjj	0
+馬七进九	wmm xii ikoc rjj	0
+马七进九	bmm xii ikoc rjj	0
+傌七进六	ewmr xii ikoc akat	0
+馬七进六	wmm xii ikoc akat	0
+马七进六	bmm xii ikoc akat	0
+傌七进五	ewmr xii ikoc fbwi	0
+馬七进五	wmm xii ikoc fbwi	0
+马七进五	bmm xii ikoc fbwi	5
+傌七退八	ewmr xii gocg kaa	0
+馬七退八	wmm xii gocg kaa	0
+马七退八	bmm xii gocg kaa	0
+傌七退九	ewmr xii gocg rjj	0
+馬七退九	wmm xii gocg rjj	0
+马七退九	bmm xii gocg rjj	0
+傌七退六	ewmr xii gocg akat	0
+馬七退六	wmm xii gocg akat	0
+马七退六	bmm xii gocg akat	0
+傌七退五	ewmr xii gocg fbwi	0
+馬七退五	wmm xii gocg fbwi	0
+马七退五	bmm xii gocg fbwi	0
+傌三进二	ewmr laa ikoc irr	0
+馬三进二	wmm laa ikoc irr	0
+马三进二	bmm laa ikoc irr	2
+傌三进四	ewmr laa ikoc wwrw	0
+馬三进四	wmm laa ikoc wwrw	0
+马三进四	bmm laa ikoc wwrw	3
+傌三进五	ewmr laa ikoc fbwi	0
+馬三进五	wmm laa ikoc fbwi	0
+马三进五	bmm laa ikoc fbwi	0
+傌三进一	ewmr laa ikoc fii	0
+馬三进一	wmm laa ikoc fii	0
+马三进一	bmm laa ikoc fii	3
+傌三退二	ewmr laa gocg irr	0
+馬三退二	wmm laa gocg irr	0
+马三退二	bmm laa gocg irr	0
+傌三退四	ewmr laa gocg wwrw	0
+馬三退四	wmm laa gocg wwrw	0
+马三退四	bmm laa gocg wwrw	0
+傌三退五	ewmr laa gocg fbwi	0
+馬三退五	wmm laa gocg fbwi	0
+马三退五	bmm laa gocg fbwi	0
+傌三退一	ewmr laa gocg fii	0
+馬三退一	wmm laa gocg fii	0
+马三退一	bmm laa gocg fii	0
+傌四进二	ewmr wwrw ikoc irr	0
+馬四进二	wmm wwrw ikoc irr	0
+马四进二	bmm wwrw ikoc irr	1
+傌四进六	ewmr wwrw ikoc akat	0
+馬四进六	wmm wwrw ikoc akat	0
+马四进六	bmm wwrw ikoc akat	0
+傌四进三	ewmr wwrw ikoc laa	0
+馬四进三	wmm wwrw ikoc laa	0
+马四进三	bmm wwrw ikoc laa	0
+傌四进五	ewmr wwrw ikoc fbwi	0
+馬四进五	wmm wwrw ikoc fbwi	0
+马四进五	bmm wwrw ikoc fbwi	0
+傌四退二	ewmr wwrw gocg irr	0
+馬四退二	wmm wwrw gocg irr	0
+马四退二	bmm wwrw gocg irr	1
+傌四退六	ewmr wwrw gocg akat	0
+馬四退六	wmm wwrw gocg akat	0
+马四退六	bmm wwrw gocg akat	1
+傌四退三	ewmr wwrw gocg laa	0
+馬四退三	wmm wwrw gocg laa	0
+马四退三	bmm wwrw gocg laa	1
+傌四退五	ewmr wwrw gocg fbwi	0
+馬四退五	wmm wwrw gocg fbwi	0
+马四退五	bmm wwrw gocg fbwi	0
+馬退	wmm gocg	0
+马退	bmm gocg	0
+傌五进六	ewmr fbwi ikoc akat	0
+馬五进六	wmm fbwi ikoc akat	0
+马五进六	bmm fbwi ikoc akat	0
+傌五进七	ewmr fbwi ikoc xii	0
+馬五进七	wmm fbwi ikoc xii	0
+马五进七	bmm fbwi ikoc xii	0
+傌五进三	ewmr fbwi ikoc laa	0
+馬五进三	wmm fbwi ikoc laa	0
+马五进三	bmm fbwi ikoc laa	0
+傌五进四	ewmr fbwi ikoc wwrw	0
+馬五进四	wmm fbwi ikoc wwrw	0
+马五进四	bmm fbwi ikoc wwrw	0
+傌五退六	ewmr fbwi gocg akat	0
+馬五退六	wmm fbwi gocg akat	0
+马五退六	bmm fbwi gocg akat	0
+傌五退七	ewmr fbwi gocg xii	0
+馬五退七	wmm fbwi gocg xii	0
+马五退七	bmm fbwi gocg xii	0
+傌五退三	ewmr fbwi gocg laa	0
+馬五退三	wmm fbwi gocg laa	0
+马五退三	bmm fbwi gocg laa	0
+傌五退四	ewmr fbwi gocg wwrw	0
+馬五退四	wmm fbwi gocg wwrw	0
+马五退四	bmm fbwi gocg wwrw	0
+傌一进二	ewmr fii ikoc irr	0
+馬一进二	wmm fii ikoc irr	0
+马一进二	bmm fii ikoc irr	0
+傌一进三	ewmr fii ikoc laa	0
+馬一进三	wmm fii ikoc laa	0
+马一进三	bmm fii ikoc laa	2
+傌一退二	ewmr fii gocg irr	0
+馬一退二	wmm fii gocg irr	0
+马一退二	bmm fii gocg irr	0
+傌一退三	ewmr fii gocg laa	0
+馬一退三	wmm fii gocg laa	0
+马一退三	bmm fii gocg laa	1
+炮八进八	iwos kaa ikoc kaa	0
+砲八进八	vwos kaa ikoc kaa	0
+炮八进二	iwos kaa ikoc irr	1
+砲八进二	vwos kaa ikoc irr	0
+炮八进九	iwos kaa ikoc rjj	0
+砲八进九	vwos kaa ikoc rjj	0
+炮八进六	iwos kaa ikoc akat	0
+砲八进六	vwos kaa ikoc akat	0
+炮八进七	iwos kaa ikoc xii	0
+砲八进七	vwos kaa ikoc xii	0
+炮八进三	iwos kaa ikoc laa	1
+砲八进三	vwos kaa ikoc laa	0
+炮八进四	iwos kaa ikoc wwrw	0
+砲八进四	vwos kaa ikoc wwrw	0
+炮八进五	iwos kaa ikoc fbwi	6
+砲八进五	vwos kaa ikoc fbwi	0
+炮八进一	iwos kaa ikoc fii	1
+砲八进一	vwos kaa ikoc fii	0
+炮八平二	iwos kaa nqkg irr	1
+砲八平二	vwos kaa nqkg irr	0
+炮八平九	iwos kaa nqkg rjj	0
+砲八平九	vwos kaa nqkg rjj	0
+炮八平六	iwos kaa nqkg akat	2
+砲八平六	vwos kaa nqkg akat	0
+炮八平七	iwos kaa nqkg xii	0
+砲八平七	vwos kaa nqkg xii	0
+炮八平三	iwos kaa nqkg laa	2
+砲八平三	vwos kaa nqkg laa	0
+炮八平四	iwos kaa nqkg wwrw	2
+砲八平四	vwos kaa nqkg wwrw	0
+炮八平五	iwos kaa nqkg fbwi	12
+砲八平五	vwos kaa nqkg fbwi	0
+炮八平一	iwos kaa nqkg fii	0
+砲八平一	vwos kaa nqkg fii	0
+炮八退八	iwos kaa gocg kaa	0
+砲八退八	vwos kaa gocg kaa	0
+炮八退二	iwos kaa gocg irr	0
+砲八退二	vwos kaa gocg irr	0
+炮八退九	iwos kaa gocg rjj	0
+砲八退九	vwos kaa gocg rjj	0
+炮八退六	iwos kaa gocg akat	0
+砲八退六	vwos kaa gocg akat	0
+炮八退七	iwos kaa gocg xii	0
+砲八退七	vwos kaa gocg xii	0
+炮八退三	iwos kaa gocg laa	0
+砲八退三	vwos kaa gocg laa	0
+炮八退四	iwos kaa gocg wwrw	0
+砲八退四	vwos kaa gocg wwrw	0
+炮八退五	iwos kaa gocg fbwi	0
+砲八退五	vwos kaa gocg fbwi	0
+炮八退一	iwos kaa gocg fii	3
+砲八退一	vwos kaa gocg fii	0
+炮二进八	iwos irr ikoc kaa	0
+砲二进八	vwos irr ikoc kaa	0
+炮二进二	iwos irr ikoc irr	2
+砲二进二	vwos irr ikoc irr	0
+炮二进九	iwos irr ikoc rjj	0
+砲二进九	vwos irr ikoc rjj	0
+炮二进六	iwos irr ikoc akat	1
+砲二进六	vwos irr ikoc akat	0
+炮二进七	iwos irr ikoc xii	4
+砲二进七	vwos irr ikoc xii	0
+炮二进三	iwos irr ikoc laa	3
+砲二进三	vwos irr ikoc laa	0
+炮二进四	iwos irr ikoc wwrw	2
+砲二进四	vwos irr ikoc wwrw	0
+炮二进五	iwos irr ikoc fbwi	2
+砲二进五	vwos irr ikoc fbwi	0
+炮二进一	iwos irr ikoc fii	2
+砲二进一	vwos irr ikoc fii	0
+炮二平八	iwos irr nqkg kaa	0
+砲二平八	vwos irr nqkg kaa	0
+炮二平九	iwos irr nqkg rjj	0
+砲二平九	vwos irr nqkg rjj	0
+炮二平六	iwos irr nqkg akat	3
+砲二平六	vwos irr nqkg akat	0
+炮二平七	iwos irr nqkg xii	2
+砲二平七	vwos irr nqkg xii	0
+炮二平三	iwos irr nqkg laa	3
+砲二平三	vwos irr nqkg laa	0
+炮二平四	iwos irr nqkg wwrw	4
+砲二平四	vwos irr nqkg wwrw	0
+炮二平五	iwos irr nqkg fbwi	18
+砲二平五	vwos irr nqkg fbwi	0
+炮二平一	iwos irr nqkg fii	4
+砲二平一	vwos irr nqkg fii	0
+炮二退八	iwos irr gocg kaa	0
+砲二退八	vwos irr gocg kaa	0
+炮二退二	iwos irr gocg irr	0
+砲二退二	vwos irr gocg irr	0
+炮二退九	iwos irr gocg rjj	0
+砲二退九	vwos irr gocg rjj	0
+炮二退六	iwos irr gocg akat	0
+砲二退六	vwos irr gocg akat	0
+炮二退七	iwos irr gocg xii	0
+砲二退七	vwos irr gocg xii	0
+炮二退三	iwos irr gocg laa	0
+砲二退三	vwos irr gocg laa	0
+炮二退四	iwos irr gocg wwrw	0
+砲二退四	vwos irr gocg wwrw	0
+炮二退五	iwos irr gocg fbwi	0
+砲二退五	vwos irr gocg fbwi	0
+炮二退一	iwos irr gocg fii	0
+砲二退一	vwos irr gocg fii	0
+炮进	iwos ikoc	3
+砲进	vwos ikoc	0
+炮九进八	iwos rjj ikoc kaa	0
+砲九进八	vwos rjj ikoc kaa	0
+炮九进二	iwos rjj ikoc irr	0
+砲九进二	vwos rjj ikoc irr	0
+炮九进九	iwos rjj ikoc rjj	0
+砲九进九	vwos rjj ikoc rjj	0
+炮九进六	iwos rjj ikoc akat	0
+砲九进六	vwos rjj ikoc akat	0
+炮九进七	iwos rjj ikoc xii	0
+砲九进七	vwos rjj ikoc xii	0
+炮九进三	iwos rjj ikoc laa	0
+砲九进三	vwos rjj ikoc laa	0
+炮九进四	iwos rjj ikoc wwrw	0
+砲九进四	vwos rjj ikoc wwrw	0
+炮九进五	iwos rjj ikoc fbwi	0
+砲九进五	vwos rjj ikoc fbwi	0
+炮九进一	iwos rjj ikoc fii	0
+砲九进一	vwos rjj ikoc fii	0
+炮九平八	iwos rjj nqkg kaa	0
+砲九平八	vwos rjj nqkg kaa	0
+炮九平二	iwos rjj nqkg irr	0
+砲九平二	vwos rjj nqkg irr	0
+炮九平六	iwos rjj nqkg akat	0
+砲九平六	vwos rjj nqkg akat	0
+炮九平七	iwos rjj nqkg xii	0
+砲九平七	vwos rjj nqkg xii	0
+炮九平三	iwos rjj nqkg laa	1
+砲九平三	vwos rjj nqkg laa	0
+炮九平四	iwos rjj nqkg wwrw	0
+砲九平四	vwos rjj nqkg wwrw	0
+炮九平五	iwos rjj nqkg fbwi	0
+砲九平五	vwos rjj nqkg fbwi	0
+炮九平一	iwos rjj nqkg fii	0
+砲九平一	vwos rjj nqkg fii	0
+炮九退八	iwos rjj gocg kaa	0
+砲九退八	vwos rjj gocg kaa	0
+炮九退二	iwos rjj gocg irr	0
+砲九退二	vwos rjj gocg irr	0
+炮九退九	iwos rjj gocg rjj	0
+砲九退九	vwos rjj gocg rjj	0
+炮九退六	iwos rjj gocg akat	0
+砲九退六	vwos rjj gocg akat	0
+炮九退七	iwos rjj gocg xii	0
+砲九退七	vwos rjj gocg xii	0
+炮九退三	iwos rjj gocg laa	0
+砲九退三	vwos rjj gocg laa	0
+炮九退四	iwos rjj gocg wwrw	0
+砲九退四	vwos rjj gocg wwrw	0
+炮九退五	iwos rjj gocg fbwi	0
+砲九退五	vwos rjj gocg fbwi	0
+炮九退一	iwos rjj gocg fii	0
+砲九退一	vwos rjj gocg fii	0
+炮六进八	iwos akat ikoc kaa	0
+砲六进八	vwos akat ikoc kaa	0
+炮六进二	iwos akat ikoc irr	0
+砲六进二	vwos akat ikoc irr	0
+炮六进九	iwos akat ikoc rjj	0
+砲六进九	vwos akat ikoc rjj	0
+炮六进六	iwos akat ikoc akat	0
+砲六进六	vwos akat ikoc akat	0
+炮六进七	iwos akat ikoc xii	0
+砲六进七	vwos akat ikoc xii	0
+炮六进三	iwos akat ikoc laa	0
+砲六进三	vwos akat ikoc laa	0
+炮六进四	iwos akat ikoc wwrw	0
+砲六进四	vwos akat ikoc wwrw	0
+炮六进五	iwos akat ikoc fbwi	0
+砲六进五	vwos akat ikoc fbwi	0
+炮六进一	iwos akat ikoc fii	0
+砲六进一	vwos akat ikoc fii	0
+炮六平八	iwos akat nqkg kaa	0
+砲六平八	vwos akat nqkg kaa	0
+炮六平二	iwos akat nqkg irr	0
+砲六平二	vwos akat nqkg irr	0
+炮六平九	iwos akat nqkg rjj	0
+砲六平九	vwos akat nqkg rjj	0
+炮六平七	iwos akat nqkg xii	0
+砲六平七	vwos akat nqkg xii	0
+炮六平三	iwos akat nqkg laa	0
+砲六平三	vwos akat nqkg laa	0
+炮六平四	iwos akat nqkg wwrw	0
+砲六平四	vwos akat nqkg wwrw	0
+炮六平五	iwos akat nqkg fbwi	0
+砲六平五	vwos akat nqkg fbwi	0
+炮六平一	iwos akat nqkg fii	0
+砲六平一	vwos akat nqkg fii	0
+炮六退八	iwos akat gocg kaa	0
+砲六退八	vwos akat gocg kaa	0
+炮六退二	iwos akat gocg irr	0
+砲六退二	vwos akat gocg irr	0
+炮六退九	iwos akat gocg rjj	0
+砲六退九	vwos akat gocg rjj	0
+炮六退六	iwos akat gocg akat	0
+砲六退六	vwos akat gocg akat	0
+炮六退七	iwos akat gocg xii	0
+砲六退七	vwos akat gocg xii	0
+炮六退三	iwos akat gocg laa	0
+砲六退三	vwos akat gocg laa	0
+炮六退四	iwos akat gocg wwrw	0
+砲六退四	vwos akat gocg wwrw	0
+炮六退五	iwos akat gocg fbwi	0
+砲六退五	vwos akat gocg fbwi	0
+炮六退一	iwos akat gocg fii	0
+砲六退一	vwos akat gocg fii	0
+炮平	iwos nqkg	3
+砲平	vwos nqkg	0
+炮七进八	iwos xii ikoc kaa	0
+砲七进八	vwos xii ikoc kaa	0
+炮七进二	iwos xii ikoc irr	0
+砲七进二	vwos xii ikoc irr	0
+炮七进九	iwos xii ikoc rjj	0
+砲七进九	vwos xii ikoc rjj	0
+炮七进六	iwos xii ikoc akat	0
+砲七进六	vwos xii ikoc akat	0
+炮七进七	iwos xii ikoc xii	0
+砲七进七	vwos xii ikoc xii	0
+炮七进三	iwos xii ikoc laa	0
+砲七进三	vwos xii ikoc laa	0
+炮七进四	iwos xii ikoc wwrw	0
+砲七进四	vwos xii ikoc wwrw	0
+炮七进五	iwos xii ikoc fbwi	0
+砲七进五	vwos xii ikoc fbwi	0
+炮七进一	iwos xii ikoc fii	0
+砲七进一	vwos xii ikoc fii	0
+炮七平八	iwos xii nqkg kaa	0
+砲七平八	vwos xii nqkg kaa	0
+炮七平二	iwos xii nqkg irr	0
+砲七平二	vwos xii nqkg irr	0
+炮七平九	iwos xii nqkg rjj	0
+砲七平九	vwos xii nqkg rjj	0
+炮七平六	iwos xii nqkg akat	0
+砲七平六	vwos xii nqkg akat	0
+炮七平三	iwos xii nqkg laa	0
+砲七平三	vwos xii nqkg laa	0
+炮七平四	iwos xii nqkg wwrw	0
+砲七平四	vwos xii nqkg wwrw	0
+炮七平五	iwos xii nqkg fbwi	1
+砲七平五	vwos xii nqkg fbwi	0
+炮七平一	iwos xii nqkg fii	0
+砲七平一	vwos xii nqkg fii	0
+炮七退八	iwos xii gocg kaa	0
+砲七退八	vwos xii gocg kaa	0
+炮七退二	iwos xii gocg irr	0
+砲七退二	vwos xii gocg irr	0
+炮七退九	iwos xii gocg rjj	0
+砲七退九	vwos xii gocg rjj	0
+炮七退六	iwos xii gocg akat	0
+砲七退六	vwos xii gocg akat	0
+炮七退七	iwos xii gocg xii	0
+砲七退七	vwos xii gocg xii	0
+炮七退三	iwos xii gocg laa	0
+砲七退三	vwos xii gocg laa	0
+炮七退四	iwos xii gocg wwrw	0
+砲七退四	vwos xii gocg wwrw	0
+炮七退五	iwos xii gocg fbwi	0
+砲七退五	vwos xii gocg fbwi	0
+炮七退一	iwos xii gocg fii	1
+砲七退一	vwos xii gocg fii	0
+炮三进八	iwos laa ikoc kaa	0
+砲三进八	vwos laa ikoc kaa	0
+炮三进二	iwos laa ikoc irr	0
+砲三进二	vwos laa ikoc irr	0
+炮三进九	iwos laa ikoc rjj	0
+砲三进九	vwos laa ikoc rjj	0
+炮三进六	iwos laa ikoc akat	0
+砲三进六	vwos laa ikoc akat	0
+炮三进七	iwos laa ikoc xii	0
+砲三进七	vwos laa ikoc xii	0
+炮三进三	iwos laa ikoc laa	0
+砲三进三	vwos laa ikoc laa	0
+炮三进四	iwos laa ikoc wwrw	0
+砲三进四	vwos laa ikoc wwrw	0
+炮三进五	iwos laa ikoc fbwi	0
+砲三进五	vwos laa ikoc fbwi	0
+炮三进一	iwos laa ikoc fii	0
+砲三进一	vwos laa ikoc fii	0
+炮三平八	iwos laa nqkg kaa	0
+砲三平八	vwos laa nqkg kaa	0
+炮三平二	iwos laa nqkg irr	0
+砲三平二	vwos laa nqkg irr	0
+炮三平九	iwos laa nqkg rjj	1
+砲三平九	vwos laa nqkg rjj	0
+炮三平六	iwos laa nqkg akat	0
+砲三平六	vwos laa nqkg akat	0
+炮三平七	iwos laa nqkg xii	0
+砲三平七	vwos laa nqkg xii	0
+炮三平四	iwos laa nqkg wwrw	0
+砲三平四	vwos laa nqkg wwrw	0
+炮三平五	iwos laa nqkg fbwi	2
+砲三平五	vwos laa nqkg fbwi	0
+炮三平一	iwos laa nqkg fii	3
+砲三平一	vwos laa nqkg fii	0
+炮三退八	iwos laa gocg kaa	0
+砲三退八	vwos laa gocg kaa	0
+炮三退二	iwos laa gocg irr	0
+砲三退二	vwos laa gocg irr	0
+炮三退九	iwos laa gocg rjj	0
+砲三退九	vwos laa gocg rjj	0
+炮三退六	iwos laa gocg akat	0
+砲三退六	vwos laa gocg akat	0
+炮三退七	iwos laa gocg xii	0
+砲三退七	vwos laa gocg xii	0
+炮三退三	iwos laa gocg laa	0
+砲三退三	vwos laa gocg laa	0
+炮三退四	iwos laa gocg wwrw	0
+砲三退四	vwos laa gocg wwrw	0
+炮三退五	iwos laa gocg fbwi	0
+砲三退五	vwos laa gocg fbwi	0
+炮三退一	iwos laa gocg fii	2
+砲三退一	vwos laa gocg fii	0
+炮四进八	iwos wwrw ikoc kaa	0
+砲四进八	vwos wwrw ikoc kaa	0
+炮四进二	iwos wwrw ikoc irr	0
+砲四进二	vwos wwrw ikoc irr	0
+炮四进九	iwos wwrw ikoc rjj	0
+砲四进九	vwos wwrw ikoc rjj	0
+炮四进六	iwos wwrw ikoc akat	0
+砲四进六	vwos wwrw ikoc akat	0
+炮四进七	iwos wwrw ikoc xii	0
+砲四进七	vwos wwrw ikoc xii	0
+炮四进三	iwos wwrw ikoc laa	0
+砲四进三	vwos wwrw ikoc laa	0
+炮四进四	iwos wwrw ikoc wwrw	0
+砲四进四	vwos wwrw ikoc wwrw	0
+炮四进五	iwos wwrw ikoc fbwi	0
+砲四进五	vwos wwrw ikoc fbwi	0
+炮四进一	iwos wwrw ikoc fii	0
+砲四进一	vwos wwrw ikoc fii	0
+炮四平八	iwos wwrw nqkg kaa	0
+砲四平八	vwos wwrw nqkg kaa	0
+炮四平二	iwos wwrw nqkg irr	0
+砲四平二	vwos wwrw nqkg irr	0
+炮四平九	iwos wwrw nqkg rjj	0
+砲四平九	vwos wwrw nqkg rjj	0
+炮四平六	iwos wwrw nqkg akat	0
+砲四平六	vwos wwrw nqkg akat	0
+炮四平七	iwos wwrw nqkg xii	0
+砲四平七	vwos wwrw nqkg xii	0
+炮四平三	iwos wwrw nqkg laa	1
+砲四平三	vwos wwrw nqkg laa	0
+炮四平五	iwos wwrw nqkg fbwi	0
+砲四平五	vwos wwrw nqkg fbwi	0
+炮四平一	iwos wwrw nqkg fii	0
+砲四平一	vwos wwrw nqkg fii	0
+炮四退八	iwos wwrw gocg kaa	0
+砲四退八	vwos wwrw gocg kaa	0
+炮四退二	iwos wwrw gocg irr	0
+砲四退二	vwos wwrw gocg irr	0
+炮四退九	iwos wwrw gocg rjj	0
+砲四退九	vwos wwrw gocg rjj	0
+炮四退六	iwos wwrw gocg akat	0
+砲四退六	vwos wwrw gocg akat	0
+炮四退七	iwos wwrw gocg xii	0
+砲四退七	vwos wwrw gocg xii	0
+炮四退三	iwos wwrw gocg laa	0
+砲四退三	vwos wwrw gocg laa	0
+炮四退四	iwos wwrw gocg wwrw	0
+砲四退四	vwos wwrw gocg wwrw	0
+炮四退五	iwos wwrw gocg fbwi	0
+砲四退五	vwos wwrw gocg fbwi	0
+炮四退一	iwos wwrw gocg fii	0
+砲四退一	vwos wwrw gocg fii	0
+炮退	iwos gocg	0
+砲退	vwos gocg	0
+炮五进八	iwos fbwi ikoc kaa	0
+砲五进八	vwos fbwi ikoc kaa	0
+炮五进二	iwos fbwi ikoc irr	0
+砲五进二	vwos fbwi ikoc irr	0
+炮五进九	iwos fbwi ikoc rjj	0
+砲五进九	vwos fbwi ikoc rjj	0
+炮五进六	iwos fbwi ikoc akat	0
+砲五进六	vwos fbwi ikoc akat	0
+炮五进七	iwos fbwi ikoc xii	1
+砲五进七	vwos fbwi ikoc xii	0
+炮五进三	iwos fbwi ikoc laa	0
+砲五进三	vwos fbwi ikoc laa	0
+炮五进四	iwos fbwi ikoc wwrw	11
+砲五进四	vwos fbwi ikoc wwrw	0
+炮五进五	iwos fbwi ikoc fbwi	0
+砲五进五	vwos fbwi ikoc fbwi	0
+炮五进一	iwos fbwi ikoc fii	0
+砲五进一	vwos fbwi ikoc fii	0
+炮五平八	iwos fbwi nqkg kaa	0
+砲五平八	vwos fbwi nqkg kaa	0
+炮五平二	iwos fbwi nqkg irr	0
+砲五平二	vwos fbwi nqkg irr	0
+炮五平九	iwos fbwi nqkg rjj	0
+砲五平九	vwos fbwi nqkg rjj	0
+炮五平六	iwos fbwi nqkg akat	0
+砲五平六	vwos fbwi nqkg akat	0
+炮五平七	iwos fbwi nqkg xii	0
+砲五平七	vwos fbwi nqkg xii	0
+炮五平三	iwos fbwi nqkg laa	0
+砲五平三	vwos fbwi nqkg laa	0
+炮五平四	iwos fbwi nqkg wwrw	1
+砲五平四	vwos fbwi nqkg wwrw	0
+炮五平一	iwos fbwi nqkg fii	0
+砲五平一	vwos fbwi nqkg fii	0
+炮五退八	iwos fbwi gocg kaa	0
+砲五退八	vwos fbwi gocg kaa	0
+炮五退二	iwos fbwi gocg irr	1
+砲五退二	vwos fbwi gocg irr	0
+炮五退九	iwos fbwi gocg rjj	0
+砲五退九	vwos fbwi gocg rjj	0
+炮五退六	iwos fbwi gocg akat	0
+砲五退六	vwos fbwi gocg akat	0
+炮五退七	iwos fbwi gocg xii	0
+砲五退七	vwos fbwi gocg xii	0
+炮五退三	iwos fbwi gocg laa	0
+砲五退三	vwos fbwi gocg laa	0
+炮五退四	iwos fbwi gocg wwrw	0
+砲五退四	vwos fbwi gocg wwrw	0
+炮五退五	iwos fbwi gocg fbwi	0
+砲五退五	vwos fbwi gocg fbwi	0
+炮五退一	iwos fbwi gocg fii	1
+砲五退一	vwos fbwi gocg fii	0
+炮一进八	iwos fii ikoc kaa	0
+砲一进八	vwos fii ikoc kaa	0
+炮一进二	iwos fii ikoc irr	0
+砲一进二	vwos fii ikoc irr	0
+炮一进九	iwos fii ikoc rjj	0
+砲一进九	vwos fii ikoc rjj	0
+炮一进六	iwos fii ikoc akat	1
+砲一进六	vwos fii ikoc akat	0
+炮一进七	iwos fii ikoc xii	0
+砲一进七	vwos fii ikoc xii	0
+炮一进三	iwos fii ikoc laa	0
+砲一进三	vwos fii ikoc laa	0
+炮一进四	iwos fii ikoc wwrw	0
+砲一进四	vwos fii ikoc wwrw	0
+炮一进五	iwos fii ikoc fbwi	0
+砲一进五	vwos fii ikoc fbwi	0
+炮一进一	iwos fii ikoc fii	0
+砲一进一	vwos fii ikoc fii	0
+炮一平八	iwos fii nqkg kaa	0
+砲一平八	vwos fii nqkg kaa	0
+炮一平二	iwos fii nqkg irr	0
+砲一平二	vwos fii nqkg irr	0
+炮一平九	iwos fii nqkg rjj	0
+砲一平九	vwos fii nqkg rjj	0
+炮一平六	iwos fii nqkg akat	1
+砲一平六	vwos fii nqkg akat	0
+炮一平七	iwos fii nqkg xii	0
+砲一平七	vwos fii nqkg xii	0
+炮一平三	iwos fii nqkg laa	0
+砲一平三	vwos fii nqkg laa	0
+炮一平四	iwos fii nqkg wwrw	0
+砲一平四	vwos fii nqkg wwrw	0
+炮一平五	iwos fii nqkg fbwi	0
+砲一平五	vwos fii nqkg fbwi	0
+炮一退八	iwos fii gocg kaa	0
+砲一退八	vwos fii gocg kaa	0
+炮一退二	iwos fii gocg irr	0
+砲一退二	vwos fii gocg irr	0
+炮一退九	iwos fii gocg rjj	0
+砲一退九	vwos fii gocg rjj	0
+炮一退六	iwos fii gocg akat	0
+砲一退六	vwos fii gocg akat	0
+炮一退七	iwos fii gocg xii	0
+砲一退七	vwos fii gocg xii	0
+炮一退三	iwos fii gocg laa	0
+砲一退三	vwos fii gocg laa	0
+炮一退四	iwos fii gocg wwrw	0
+砲一退四	vwos fii gocg wwrw	0
+炮一退五	iwos fii gocg fbwi	0
+砲一退五	vwos fii gocg fbwi	0
+炮一退一	iwos fii gocg fii	0
+砲一退一	vwos fii gocg fii	0
+前包进	qwmd wosb ikoc	0
+前包进八	qwmd wosb ikoc kaa	0
+前包进二	qwmd wosb ikoc irr	0
+前包进六	qwmd wosb ikoc akat	0
+前包进七	qwmd wosb ikoc xii	0
+前包进三	qwmd wosb ikoc laa	0
+前包进四	qwmd wosb ikoc wwrw	0
+前包进五	qwmd wosb ikoc fbwi	0
+前包进一	qwmd wosb ikoc fii	0
+前包平	qwmd wosb nqkg	0
+前包平八	qwmd wosb nqkg kaa	0
+前包平二	qwmd wosb nqkg irr	0
+前包平九	qwmd wosb nqkg rjj	0
+前包平六	qwmd wosb nqkg akat	0
+前包平七	qwmd wosb nqkg xii	0
+前包平三	qwmd wosb nqkg laa	0
+前包平四	qwmd wosb nqkg wwrw	0
+前包平五	qwmd wosb nqkg fbwi	0
+前包平一	qwmd wosb nqkg fii	0
+前包退	qwmd wosb gocg	0
+前包退八	qwmd wosb gocg kaa	0
+前包退二	qwmd wosb gocg irr	0
+前包退九	qwmd wosb gocg rjj	0
+前包退六	qwmd wosb gocg akat	0
+前包退七	qwmd wosb gocg xii	0
+前包退三	qwmd wosb gocg laa	0
+前包退四	qwmd wosb gocg wwrw	0
+前包退五	qwmd wosb gocg fbwi	0
+前包退一	qwmd wosb gocg fii	0
+前兵八进一	qwmd dfka kaa ikoc fii	0
+前兵八平七	qwmd dfka kaa nqkg xii	0
+前兵二进一	qwmd dfka irr ikoc fii	0
+前兵二平三	qwmd dfka irr nqkg laa	0
+前兵进一	qwmd dfka ikoc fii	0
+前兵九进一	qwmd dfka rjj ikoc fii	0
+前兵九平八	qwmd dfka rjj nqkg kaa	0
+前兵六进一	qwmd dfka akat ikoc fii	0
+前兵六平七	qwmd dfka akat nqkg xii	0
+前兵六平五	qwmd dfka akat nqkg fbwi	0
+前兵平八	qwmd dfka nqkg kaa	0
+前兵平二	qwmd dfka nqkg irr	0
+前兵平九	qwmd dfka nqkg rjj	0
+前兵平六	qwmd dfka nqkg akat	0
+前兵平七	qwmd dfka nqkg xii	0
+前兵平三	qwmd dfka nqkg laa	0
+前兵平四	qwmd dfka nqkg wwrw	0
+前兵平五	qwmd dfka nqkg fbwi	0
+前兵平一	qwmd dfka nqkg fii	0
+前兵七进一	qwmd dfka xii ikoc fii	0
+前兵七平八	qwmd dfka xii nqkg kaa	0
+前兵七平六	qwmd dfka xii nqkg akat	0
+前兵三进一	qwmd dfka laa ikoc fii	0
+前兵三平二	qwmd dfka laa nqkg irr	0
+前兵三平四	qwmd dfka laa nqkg wwrw	0
+前兵四进一	qwmd dfka wwrw ikoc fii	0
+前兵四平三	qwmd dfka wwrw nqkg laa	0
+前兵四平五	qwmd dfka wwrw nqkg fbwi	0
+前兵五进一	qwmd dfka fbwi ikoc fii	0
+前兵五平六	qwmd dfka fbwi nqkg akat	0
+前兵五平四	qwmd dfka fbwi nqkg wwrw	0
+前兵一进一	qwmd dfka fii ikoc fii	0
+前兵一平二	qwmd dfka fii nqkg irr	0
+前车进	qwmd xjj ikoc	0
+前车进八	qwmd xjj ikoc kaa	0
+前车进二	qwmd xjj ikoc irr	0
+前车进六	qwmd xjj ikoc akat	0
+前车进七	qwmd xjj ikoc xii	0
+前车进三	qwmd xjj ikoc laa	0
+前车进四	qwmd xjj ikoc wwrw	0
+前车进五	qwmd xjj ikoc fbwi	0
+前车进一	qwmd xjj ikoc fii	5
+前车平	qwmd xjj nqkg	0
+前车平八	qwmd xjj nqkg kaa	0
+前车平二	qwmd xjj nqkg irr	0
+前车平九	qwmd xjj nqkg rjj	0
+前车平六	qwmd xjj nqkg akat	0
+前车平七	qwmd xjj nqkg xii	0
+前车平三	qwmd xjj nqkg laa	0
+前车平四	qwmd xjj nqkg wwrw	0
+前车平五	qwmd xjj nqkg fbwi	0
+前车平一	qwmd xjj nqkg fii	0
+前车退	qwmd xjj gocg	0
+前车退八	qwmd xjj gocg kaa	0
+前车退二	qwmd xjj gocg irr	0
+前车退六	qwmd xjj gocg akat	0
+前车退七	qwmd xjj gocg xii	0
+前车退三	qwmd xjj gocg laa	0
+前车退四	qwmd xjj gocg wwrw	0
+前车退五	qwmd xjj gocg fbwi	0
+前车退一	qwmd xjj gocg fii	1
+前車进	qwmd dcc ikoc	0
+前俥进八	qwmd edcr ikoc kaa	0
+前車进八	qwmd dcc ikoc kaa	0
+前俥进二	qwmd edcr ikoc irr	0
+前車进二	qwmd dcc ikoc irr	0
+前俥进六	qwmd edcr ikoc akat	0
+前車进六	qwmd dcc ikoc akat	0
+前俥进七	qwmd edcr ikoc xii	0
+前車进七	qwmd dcc ikoc xii	0
+前俥进三	qwmd edcr ikoc laa	0
+前車进三	qwmd dcc ikoc laa	0
+前俥进四	qwmd edcr ikoc wwrw	0
+前車进四	qwmd dcc ikoc wwrw	0
+前俥进五	qwmd edcr ikoc fbwi	0
+前車进五	qwmd dcc ikoc fbwi	0
+前俥进一	qwmd edcr ikoc fii	0
+前車进一	qwmd dcc ikoc fii	0
+前車平	qwmd dcc nqkg	0
+前俥平八	qwmd edcr nqkg kaa	0
+前車平八	qwmd dcc nqkg kaa	0
+前俥平二	qwmd edcr nqkg irr	0
+前車平二	qwmd dcc nqkg irr	0
+前俥平九	qwmd edcr nqkg rjj	0
+前車平九	qwmd dcc nqkg rjj	0
+前俥平六	qwmd edcr nqkg akat	0
+前車平六	qwmd dcc nqkg akat	0
+前俥平七	qwmd edcr nqkg xii	0
+前車平七	qwmd dcc nqkg xii	0
+前俥平三	qwmd edcr nqkg laa	0
+前車平三	qwmd dcc nqkg laa	0
+前俥平四	qwmd edcr nqkg wwrw	0
+前車平四	qwmd dcc nqkg wwrw	0
+前俥平五	qwmd edcr nqkg fbwi	0
+前車平五	qwmd dcc nqkg fbwi	0
+前俥平一	qwmd edcr nqkg fii	0
+前車平一	qwmd dcc nqkg fii	0
+前車退	qwmd dcc gocg	0
+前俥退八	qwmd edcr gocg kaa	0
+前車退八	qwmd dcc gocg kaa	0
+前俥退二	qwmd edcr gocg irr	0
+前車退二	qwmd dcc gocg irr	0
+前俥退六	qwmd edcr gocg akat	0
+前車退六	qwmd dcc gocg akat	0
+前俥退七	qwmd edcr gocg xii	0
+前車退七	qwmd dcc gocg xii	0
+前俥退三	qwmd edcr gocg laa	0
+前車退三	qwmd dcc gocg laa	0
+前俥退四	qwmd edcr gocg wwrw	0
+前車退四	qwmd dcc gocg wwrw	0
+前俥退五	qwmd edcr gocg fbwi	0
+前車退五	qwmd dcc gocg fbwi	0
+前俥退一	qwmd edcr gocg fii	0
+前車退一	qwmd dcc gocg fii	0
+前馬进	qwmd wmm ikoc	0
+前马进	qwmd bmm ikoc	0
+前傌进八	qwmd ewmr ikoc kaa	0
+前馬进八	qwmd wmm ikoc kaa	0
+前马进八	qwmd bmm ikoc kaa	0
+前傌进二	qwmd ewmr ikoc irr	0
+前馬进二	qwmd wmm ikoc irr	0
+前马进二	qwmd bmm ikoc irr	0
+前傌进九	qwmd ewmr ikoc rjj	0
+前馬进九	qwmd wmm ikoc rjj	0
+前马进九	qwmd bmm ikoc rjj	0
+前傌进六	qwmd ewmr ikoc akat	0
+前馬进六	qwmd wmm ikoc akat	0
+前马进六	qwmd bmm ikoc akat	0
+前傌进七	qwmd ewmr ikoc xii	0
+前馬进七	qwmd wmm ikoc xii	0
+前马进七	qwmd bmm ikoc xii	0
+前傌进三	qwmd ewmr ikoc laa	0
+前馬进三	qwmd wmm ikoc laa	0
+前马进三	qwmd bmm ikoc laa	0
+前傌进四	qwmd ewmr ikoc wwrw	0
+前馬进四	qwmd wmm ikoc wwrw	0
+前马进四	qwmd bmm ikoc wwrw	1
+前傌进五	qwmd ewmr ikoc fbwi	0
+前馬进五	qwmd wmm ikoc fbwi	0
+前马进五	qwmd bmm ikoc fbwi	0
+前傌进一	qwmd ewmr ikoc fii	0
+前馬进一	qwmd wmm ikoc fii	0
+前马进一	qwmd bmm ikoc fii	0
+前馬退	qwmd wmm gocg	0
+前马退	qwmd bmm gocg	0
+前傌退八	qwmd ewmr gocg kaa	0
+前馬退八	qwmd wmm gocg kaa	0
+前马退八	qwmd bmm gocg kaa	0
+前傌退二	qwmd ewmr gocg irr	0
+前馬退二	qwmd wmm gocg irr	0
+前马退二	qwmd bmm gocg irr	0
+前傌退九	qwmd ewmr gocg rjj	0
+前馬退九	qwmd wmm gocg rjj	0
+前马退九	qwmd bmm gocg rjj	0
+前傌退六	qwmd ewmr gocg akat	0
+前馬退六	qwmd wmm gocg akat	0
+前马退六	qwmd bmm gocg akat	0
+前傌退七	qwmd ewmr gocg xii	0
+前馬退七	qwmd wmm gocg xii	0
+前马退七	qwmd bmm gocg xii	0
+前傌退三	qwmd ewmr gocg laa	0
+前馬退三	qwmd wmm gocg laa	0
+前马退三	qwmd bmm gocg laa	0
+前傌退四	qwmd ewmr gocg wwrw	0
+前馬退四	qwmd wmm gocg wwrw	0
+前马退四	qwmd bmm gocg wwrw	0
+前傌退五	qwmd ewmr gocg fbwi	0
+前馬退五	qwmd wmm gocg fbwi	0
+前马退五	qwmd bmm gocg fbwi	0
+前傌退一	qwmd ewmr gocg fii	0
+前馬退一	qwmd wmm gocg fii	0
+前马退一	qwmd bmm gocg fii	0
+前炮进	qwmd iwos ikoc	0
+前砲进	qwmd vwos ikoc	0
+前炮进八	qwmd iwos ikoc kaa	0
+前砲进八	qwmd vwos ikoc kaa	0
+前炮进二	qwmd iwos ikoc irr	0
+前砲进二	qwmd vwos ikoc irr	0
+前炮进六	qwmd iwos ikoc akat	0
+前砲进六	qwmd vwos ikoc akat	0
+前炮进七	qwmd iwos ikoc xii	0
+前砲进七	qwmd vwos ikoc xii	0
+前炮进三	qwmd iwos ikoc laa	0
+前砲进三	qwmd vwos ikoc laa	0
+前炮进四	qwmd iwos ikoc wwrw	0
+前砲进四	qwmd vwos ikoc wwrw	0
+前炮进五	qwmd iwos ikoc fbwi	0
+前砲进五	qwmd vwos ikoc fbwi	0
+前炮进一	qwmd iwos ikoc fii	0
+前砲进一	qwmd vwos ikoc fii	0
+前炮平	qwmd iwos nqkg	0
+前砲平	qwmd vwos nqkg	0
+前炮平八	qwmd iwos nqkg kaa	0
+前砲平八	qwmd vwos nqkg kaa	0
+前炮平二	qwmd iwos nqkg irr	0
+前砲平二	qwmd vwos nqkg irr	0
+前炮平九	qwmd iwos nqkg rjj	0
+前砲平九	qwmd vwos nqkg rjj	0
+前炮平六	qwmd iwos nqkg akat	0
+前砲平六	qwmd vwos nqkg akat	0
+前炮平七	qwmd iwos nqkg xii	0
+前砲平七	qwmd vwos nqkg xii	0
+前炮平三	qwmd iwos nqkg laa	0
+前砲平三	qwmd vwos nqkg laa	0
+前炮平四	qwmd iwos nqkg wwrw	0
+前砲平四	qwmd vwos nqkg wwrw	0
+前炮平五	qwmd iwos nqkg fbwi	1
+前砲平五	qwmd vwos nqkg fbwi	0
+前炮平一	qwmd iwos nqkg fii	0
+前砲平一	qwmd vwos nqkg fii	0
+前炮退	qwmd iwos gocg	0
+前砲退	qwmd vwos gocg	0
+前炮退八	qwmd iwos gocg kaa	0
+前砲退八	qwmd vwos gocg kaa	0
+前炮退二	qwmd iwos gocg irr	0
+前砲退二	qwmd vwos gocg irr	0
+前炮退九	qwmd iwos gocg rjj	0
+前砲退九	qwmd vwos gocg rjj	0
+前炮退六	qwmd iwos gocg akat	0
+前砲退六	qwmd vwos gocg akat	0
+前炮退七	qwmd iwos gocg xii	0
+前砲退七	qwmd vwos gocg xii	0
+前炮退三	qwmd iwos gocg laa	0
+前砲退三	qwmd vwos gocg laa	0
+前炮退四	qwmd iwos gocg wwrw	0
+前砲退四	qwmd vwos gocg wwrw	0
+前炮退五	qwmd iwos gocg fbwi	0
+前砲退五	qwmd vwos gocg fbwi	0
+前炮退一	qwmd iwos gocg fii	0
+前砲退一	qwmd vwos gocg fii	0
+前卒进	qwmd arrg ikoc	0
+前卒平	qwmd arrg nqkg	0
+三兵进一	laa dfka ikoc fii	0
+三兵平八	laa dfka nqkg kaa	0
+三兵平二	laa dfka nqkg irr	0
+三兵平九	laa dfka nqkg rjj	0
+三兵平六	laa dfka nqkg akat	0
+三兵平七	laa dfka nqkg xii	0
+三兵平三	laa dfka nqkg laa	0
+三兵平四	laa dfka nqkg wwrw	0
+三兵平五	laa dfka nqkg fbwi	0
+三兵平一	laa dfka nqkg fii	0
+三卒进	laa arrg ikoc	0
+三卒平	laa arrg nqkg	0
+士进	hss ikoc	0
+仕六进五	ehsr akat ikoc fbwi	0
+士六进五	hss akat ikoc fbwi	2
+仕六退五	ehsr akat gocg fbwi	0
+士六退五	hss akat gocg fbwi	0
+仕四进五	ehsr wwrw ikoc fbwi	1
+士四进五	hss wwrw ikoc fbwi	0
+仕四退五	ehsr wwrw gocg fbwi	0
+士四退五	hss wwrw gocg fbwi	0
+士退	hss gocg	0
+仕五进六	ehsr fbwi ikoc akat	0
+士五进六	hss fbwi ikoc akat	0
+仕五进四	ehsr fbwi ikoc wwrw	0
+士五进四	hss fbwi ikoc wwrw	0
+仕五退六	ehsr fbwi gocg akat	0
+士五退六	hss fbwi gocg akat	0
+仕五退四	ehsr fbwi gocg wwrw	0
+士五退四	hss fbwi gocg wwrw	0
+帅六进一	qujk akat ikoc fii	0
+帥六进一	dujd akat ikoc fii	0
+帅六平五	qujk akat nqkg fbwi	1
+帥六平五	dujd akat nqkg fbwi	0
+帅六退一	qujk akat gocg fii	0
+帥六退一	dujd akat gocg fii	0
+帅四进一	qujk wwrw ikoc fii	0
+帥四进一	dujd wwrw ikoc fii	0
+帅四平五	qujk wwrw nqkg fbwi	0
+帥四平五	dujd wwrw nqkg fbwi	0
+帅四退一	qujk wwrw gocg fii	0
+帥四退一	dujd wwrw gocg fii	0
+帅五进一	qujk fbwi ikoc fii	10
+帥五进一	dujd fbwi ikoc fii	0
+帅五平六	qujk fbwi nqkg akat	0
+帥五平六	dujd fbwi nqkg akat	0
+帅五平四	qujk fbwi nqkg wwrw	1
+帥五平四	dujd fbwi nqkg wwrw	0
+帅五退一	qujk fbwi gocg fii	1
+帥五退一	dujd fbwi gocg fii	0
+四兵进一	wwrw dfka ikoc fii	0
+四兵平八	wwrw dfka nqkg kaa	0
+四兵平二	wwrw dfka nqkg irr	0
+四兵平九	wwrw dfka nqkg rjj	0
+四兵平六	wwrw dfka nqkg akat	0
+四兵平七	wwrw dfka nqkg xii	0
+四兵平三	wwrw dfka nqkg laa	0
+四兵平四	wwrw dfka nqkg wwrw	0
+四兵平五	wwrw dfka nqkg fbwi	0
+四兵平一	wwrw dfka nqkg fii	0
+四卒进	wwrw arrg ikoc	0
+四卒平	wwrw arrg nqkg	0
+象进	xlts ikoc	4
+相九进七	ajmm rjj ikoc xii	0
+相九退七	ajmm rjj gocg xii	0
+相七进九	ajmm xii ikoc rjj	0
+相七进五	ajmm xii ikoc fbwi	1
+相七退九	ajmm xii gocg rjj	0
+相七退五	ajmm xii gocg fbwi	0
+相三进五	ajmm laa ikoc fbwi	3
+相三进一	ajmm laa ikoc fii	2
+相三退五	ajmm laa gocg fbwi	2
+相三退一	ajmm laa gocg fii	1
+象退	xlts gocg	0
+相五进七	ajmm fbwi ikoc xii	0
+相五进三	ajmm fbwi ikoc laa	0
+相五退七	ajmm fbwi gocg xii	0
+相五退三	ajmm fbwi gocg laa	0
+相一进三	ajmm fii ikoc laa	0
+相一退三	ajmm fii gocg laa	1
+中兵进一	lusv dfka ikoc fii	1
+中兵平八	lusv dfka nqkg kaa	0
+中兵平二	lusv dfka nqkg irr	0
+中兵平九	lusv dfka nqkg rjj	0
+中兵平六	lusv dfka nqkg akat	0
+中兵平七	lusv dfka nqkg xii	0
+中兵平三	lusv dfka nqkg laa	0
+中兵平四	lusv dfka nqkg wwrw	0
+中兵平五	lusv dfka nqkg fbwi	0
+中兵平一	lusv dfka nqkg fii	0
+中卒进	lusv arrg ikoc	0
+中卒平	lusv arrg nqkg	0
+卒进	arrg ikoc	0
+卒平	arrg nqkg	0
+暗根子	jkjr aggm kzz	0
+按规行棋	ficn ocjf cicc auqm	0
+按时拨钟	ficn jkcr fwbk olus	0
+按时加钟	ficn jkcr slvl olus	0
+暗捉	jkjr fpzs	1
+拔簧马	febk gsdk bmm	5
+八角马	kaa xsym bmm	8
+百局象棋谱	vjrh bylv xlts auqm dquj	1
+白马卧槽	dbb bmm hubc acjr	0
+败势	ctub frks	19
+半途列炮	qakk rfao fxmd iwos	3
+半途顺炮	qakk rfao lvcb iwos	0
+保全精兵	elam rjwe qhwy dfka	0
+北斗棋苑选粹	qnbq igir auqm sxaj pwoc qarg	0
+北京中加	qnbq aivg lusv slvl	0
+边马	socl bmm	22
+边马对还中炮	socl bmm bkco vocu lusv iwos	0
+兵行线	dfka cicc kfkg	0
+卜凤波	ubb eboj nbps	0
+不变作负	vuu tboi egub xcbm	1
+不变作和	vuu tboi egub mlvh	5
+布局骗着与对策	eujz bylv bhce qjmy hfik bkco gack	1
+布局研究	eujz bylv vfso irjx	0
+才溢	kgpc nqku	1
+蔡忠诚	swjs luri dkyi	0
+曹岩磊	cjrv uvss vvvs	6
+侧面虎	ecmd smm uhh	5
+长打	ncc fjds	44
+长兑	ncc qlwr	0
+长跟	ncc pggz	0
+长将	ncc qxkc	0
+长拦	ncc fqir	1
+长杀	ncc sami	2
+长献	ncc gcqh	0
+长捉	ncc fpzs	6
+撤车将	fant xjj qxkc	0
+车炮抽杀	xjj iwos fdos sami	1
+车前马后须相应	xjj qwmd bmm dflv cvcb ajmm mnsg	1
+车入花心	xjj krr senb rii	0
+陈翀	yxiv vvlu	0
+陈富杰	yxiv iflv aibm	0
+陈海华	yxiv ngem engi	2
+陈罗平	yxiv uxxw nqkg	0
+陈启明	yxiv hlvh jwyr	2
+程进超	mljw ikoc hmlv	0
+程鸣	mljw lmnv	2
+楚汉六凤	aayp nbos akat eboj	0
+从没捉到捉	rree ness fpzs dmdz fpzs	0
+大胆穿心	odd wjfi ihax rii	1
+大连益春堂	odd xocj qkum ojrd ihts	0
+大占优势	odd ulvb efor frks	6
+待过河兵	chkc kocc njlv dfka	0
+待判局面	chkc qamd bylv smm	1
+单兵擒王	qjgi dfka frtn jww	1
+单缺仕	qjgi jbre ehsr	0
+单缺相	qjgi jbre ajmm	1
+单提马	qjgi fjfp bmm	12
+单霞丽	qjgi cbib fcck	0
+党斐	iwrs utef	0
+得子得势	cjfk kzz cjfk frks	0
+得子得先各得子	cjfk kzz cjfk pwrn tlvu cjfk kzz	0
+得子失势	cjfk kzz gofp frks	0
+得子失先却是输	cjfk kzz gofp pwrn hnaj jfpi xrfm	1
+等着困敌	ghkc qjmy wamw ltus	0
+低兵	ekxk dfka	4
+底兵	mkxk dfka	12
+地方棋协大师	hoet tff auqm gska odd qfuj	0
+调动子力	dwhl insl kzz sll	0
+叠炮	bbbj iwos	2
+东北三虎	xivi qnbq laa uhh	0
+对兵局	bkco dfka bylv	3
+兑其主力	qlwr uqq kjwd sll	0
+对头兵	bkco iodr dfka	2
+兑子夺先	qlwr kzz okcd pwrn	0
+兑子夺子	qlwr kzz okcd kzz	0
+兑子解困	qlwr kzz xsmp wamw	0
+兑子取胜	qlwr kzz lboe wpsy	0
+兑子取势	qlwr kzz lboe frks	0
+兑子战术	qlwr kzz ulkg akdm	6
+多打对多打	xxxx fjds bkco xxxx fjds	0
+二打对二闲	irr fjds bkco irr tamm	0
+二打二还打	irr fjds irr vocu fjds	0
+二打一还打	irr fjds fii vocu fjds	0
+二级棋士	irr kgkd auqm hss	2
+二将对二闲	irr qxkc bkco irr tamm	0
+二将二还将	irr qxkc irr vocu qxkc	0
+二闲对一打一闲	irr tamm bkco fii fjds fii tamm	0
+二捉	irr fpzs	1
+二字车	irr ikzm xjj	0
+反宫马	dboj illv bmm	15
+反宫马专集	dboj illv bmm iekd eamh	1
+范思远	snaj vrit floc	0
+飞相	yiri ajmm	15
+飞相对金钩炮	yiri ajmm bkco tjj owna iwos	0
+飞相对起马	yiri ajmm bkco hojz bmm	0
+飞相对挺卒	yiri ajmm bkco fmgy arrg	0
+飞相局	yiri ajmm bylv	15
+飞相局对右过宫炮	yiri ajmm bylv bkco elvz kocc illv iwos	0
+飞相局对左士角炮	yiri ajmm bylv bkco epgz hss xsym iwos	0
+飞相局对左中炮	yiri ajmm bylv bkco epgz lusv iwos	0
+飞左象	yiri epgz xlts	1
+封锁敌路	hhkc oicb ltus ptlv	0
+封锁战术	hhkc oicb ulkg akdm	1
+傅信仁	enkc ebyr eirr	0
+高兵	agg dfka	0
+葛维浦	sjwe kehj nnfs	0
+隔一步杀	yflu fii pivi sami	0
+宫顶线	illv jvcb kfkg	5
+固己乱敌	wjgw ojj leis ltus	0
+古谱	jgg dquj	34
+拐角马	flsl xsym bmm	4
+广东东莞长安	mgg xivi xivi sifl ncc icnm	0
+龟背炮	xddm qnwy iwos	1
+归心马	qbjk rii bmm	1
+过宫敛炮	kocc illv rfnt iwos	0
+过宫马	kocc illv bmm	0
+过宫炮对还中炮	kocc illv iwos bkco vocu lusv iwos	0
+过肋	kocc wsly	0
+郭丽萍	akyf fcck snnq	2
+还中炮	vocu lusv iwos	1
+河北金环钢构	njlv qnbq tjj jvuw ocsi awna	0
+河边无青草不用多嘴牛	njlv socl ffoi hwys sjzo vuu syy xxxx lpns pnn	0
+何刚	ejlv csmd	11
+合击战术	rhh awkk ulkg akdm	0
+河界线	njlv vrka kfkg	1
+和势	mlvh frks	0
+河头兵	njlv iodr dfka	0
+河头车	njlv iodr xjj	0
+黑方变着	ghh tff tboi qjmy	0
+黑负	ghh xcbm	3
+黑高右横车	ghh agg elvz asdk xjj	0
+黑进路卒转中炮对屏风马	ghh ikoc ptlv arrg xiek lusv iwos bkco bqso esij bmm	0
+黑进炮压马	ghh ikoc iwos vhkd bmm	0
+黑进卒	ghh ikoc arrg	0
+黑进卒右炮巡河	ghh ikoc arrg elvz iwos locc njlv	0
+黑进卒右炮压马	ghh ikoc arrg elvz iwos vhkd bmm	0
+黑进卒左炮封车	ghh ikoc arrg epgz iwos hhkc xjj	0
+黑径冲卒	ghh cbpg ilus arrg	0
+黑龙江大庆市红岗	ghh fgpo npgs odd modg aujt kpgj ucsi	0
+黑平右炮亮车	ghh nqkg elvz iwos aejg xjj	0
+黑弃路卒	ghh anso ptlv arrg	0
+黑上右士	ghh jvv elvz hss	0
+黑上右象	ghh jvv elvz xlts	0
+黑上左象	ghh jvv epgz xlts	0
+黑胜	ghh wpsy	62
+黑双横车	ghh bboo asdk xjj	0
+黑右车巡河	ghh elvz xjj locc njlv	0
+黑右士角炮	ghh elvz hss xsym iwos	0
+黑右中炮	ghh elvz lusv iwos	0
+黑左车巡河	ghh epgz xjj locc njlv	0
+黑左过宫炮	ghh epgz kocc illv iwos	0
+红兵底炮	kpgj dfka mkxk iwos	0
+红兑三路兵	kpgj qlwr laa ptlv dfka	0
+红方变着	kpgj tff tboi qjmy	0
+红负	kpgj xcbm	1
+红高左横车	kpgj agg epgz asdk xjj	0
+红横车占左肋	kpgj asdk xjj ulvb epgz wsly	0
+红急进中兵	kpgj xbri ikoc lusv dfka	0
+红进七兵	kpgj ikoc xii dfka	0
+红进七兵边马	kpgj ikoc xii dfka socl bmm	0
+红进左炮捉马	kpgj ikoc epgz iwos fpzs bmm	0
+红两头蛇	kpgj fcrr iodr qinb	0
+红两头蛇左车过河	kpgj fcrr iodr qinb epgz xjj kocc njlv	0
+红两头蛇左相飞边	kpgj fcrr iodr qinb epgz ajmm yiri socl	0
+红平六路炮	kpgj nqkg akat ptlv iwos	0
+红平炮压马	kpgj nqkg iwos vhkd bmm	0
+红平七路炮	kpgj nqkg xii ptlv iwos	0
+红七路马盘河	kpgj xii ptlv bmm uumo njlv	0
+红上右正马	kpgj jvv elvz fpii bmm	0
+红胜	kpgj wpsy	16
+红双横车正马	kpgj bboo asdk xjj fpii bmm	0
+红双弃兵	kpgj bboo anso dfka	0
+红五九炮	kpgj fbwi rjj iwos	0
+红卸中炮	kpgj gfpa lusv iwos	0
+红邀兑三路兵	kpgj dtto qlwr laa ptlv dfka	0
+红右车过河	kpgj elvz xjj kocc njlv	0
+红右中炮	kpgj elvz lusv iwos	0
+红正马	kpgj fpii bmm	0
+洪智	nska jljr	12
+红直车正马	kpgj gjqi xjj fpii bmm	0
+红直横车	kpgj gjqi asdk xjj	0
+红左马屯边	kpgj epgz bmm xwki socl	0
+红左炮过河	kpgj epgz iwos kocc njlv	0
+湖北中盐宏博队	njwy qnbq lusv huum iena gnkc yref	0
+互进拐角马	femi ikoc flsl xsym bmm	0
+互进三兵	femi ikoc laa dfka	1
+互有顾忌	femi ewyz vavc orij	0
+胡远茂	jwyg floc skwo	0
+虎坐中堂	uhh rrht lusv ihts	1
+花士象	senb hss xlts	3
+华夏七鹰	engi vjtu xii meem	0
+花心车	senb rii xjj	0
+花心卒	senb rii arrg	0
+缓开车	kunb fsoi xjj	2
+黄海林	sdka ngem aamm	0
+黄政	sdka fptu	0
+计时方案	dgiy jkcr tff icam	2
+吉翔	hlvs qvvx	21
+夹车炮	oqkf xjj iwos	8
+蒋川	sqxk lcc	22
+蒋凤山	sqxk eboj uss	0
+江湖残局	npgs njwy fxfk bylv	15
+江南四燕	npgs gcqg wwrw sfli	0
+江苏金陵人酒店	npgs sska tjj yhkt ree npys mulv	0
+蒋志梁	sqxk hris nmka	1
+借车使炮	esjr xjj efls iwos	1
+借炮使马	esjr iwos efls bmm	1
+金波	tjj nbps	129
+金钩炮	tjj owna iwos	6
+金钩炮对起马	tjj owna iwos bkco hojz bmm	0
+金海英	tjj ngem scod	0
+进炮应须要辅车	ikoc iwos mnsg cvcb pcnx xnfj xjj	0
+靳玉砚	sdjg jkdw vcjs	1
+禁止着法	aajs pii qjmy nhna	1
+精选着法	qhwy pwoc qjmy nhna	0
+景学义	jaiv nxkz ksid	0
+橘中秘	akgl lusv mrgp	16
+开滦煤矿股份	fsoi ntam isia vmgs wesy ekmd	0
+开通子力	fsoi bsoc kzz sll	0
+空头炮	ipgx iodr iwos	8
+落子无悔	sntl kzz ffoi rgem	68
+肋车	wsly xjj	2
+肋道	wsly qqoc	17
+冷巷炮	irkb skos iwos	0
+黎德志	mwgn cgur hris	0
+李鸿嘉	akzm npmn hslv	0
+李家华	akzm itsm engi	0
+立马车	kll bmm xjj	0
+李群	akzm bglq	243
+李少庚	akzm igpv mbre	1
+李望祥	akzm twjw jqys	0
+敛炮	rfnt iwos	1
+联子配合	lqod kzz pojy rhh	0
+两鬼拍门	fcrr dgg fdbs tmm	0
+廖二平	mvvc irr nqkg	0
+列炮	fxmd iwos	17
+岭南双龙	urkb gcqg bboo fgpo	0
+流行布局新变探索	nanw cicc eujz bylv kadj tboi fxka gxos	0
+刘宗泽	tmde ijsm nbak	1
+马炮仕相全	bmm iwos ehsr ajmm rjwe	0
+马士象全	bmm hss xlts rjwe	5
+马头炮	bmm iodr iwos	0
+梅花谱	agem senb dquj	3
+梅花三六	agem senb laa akat	0
+梅娜	agem cyay	0
+闷杀	trim sami	34
+苗利明	svto mmdh jwyr	0
+苗永鹏	svto knsd wwmn	0
+明捉	jwyr fpzs	0
+摸子走子	fsjo kzz hzz kzz	1
+谋而后行	dsia srr dflv cicc	0
+牟海勤	npna ngem sisl	0
+谋子战术	dsia kzz ulkg akdm	1
+尼姑打伞	bnbs cjgn fjds rqgi	0
+倪敏	edwr getu	0
+逆手炮	qwoc fss iwos	0
+藕断丝牵	sdkv qedj kkfi oxpn	0
+欧阳琦琳	hsxq yjrf jojl jaam	0
+排局研究	fufs bylv vfso irjx	1
+盘河马探秘	uumo njlv bmm fxka mrgp	0
+炮碾丹砂	iwos vbsm watb vigp	5
+匹马单刀	hwrf bmm qjgi mdd	0
+七兵	xii dfka	7
+七斗星杯象甲联赛	xii igir jpsr avum xlts vjj lqod iskc	0
+棋规	auqm ocjf	25
+棋规交流	auqm ocjf aksi nanw	0
+骑河	bojl njlv	8
+棋理	auqm jvlw	99
+棋例裁决	auqm efxm gkag ibre	0
+棋联大师	auqm lqod odd qfuj	0
+起马	hojz bmm	11
+起马对挺卒	hojz bmm bkco fmgy arrg	0
+起马局	hojz bmm bylv	9
+弃马十三着	anso bmm gii laa qjmy	11
+棋评	auqm dnqk	2
+奇趣象棋排局谱	ojlv hlbo xlts auqm fufs bylv dquj	0
+棋书	auqm yyuk	16
+弃象陷车	anso xlts yxdi xjj	0
+棋协大师	auqm gska odd qfuj	13
+启新高尔夫杯全国象棋甲级联赛	hlvh kadj agg xivm off avum rjwe wjkd xlts auqm vjj kgkd lqod iskc	0
+起着	hojz qjmy	1132
+弃子成和	anso kzz kyiw mlvh	0
+弃子解困	anso kzz xsmp wamw	0
+弃子谋子	anso kzz dsia kzz	0
+弃子取势	anso kzz lboe frks	6
+弃子入局	anso kzz krr bylv	0
+弃子陷子	anso kzz yxdi kzz	0
+弃子战术	anso kzz ulkg akdm	1
+七卒	xii arrg	0
+千里照面	mqq vll jmli smm	0
+牵制战术	oxpn pcmd ulkg akdm	4
+巧连成局	phkg xocj kyiw bylv	0
+屈头屏风马	bwwk iodr bqso esij bmm	0
+权衡缓急	abom cxri kunb xbri	0
+三兵	laa dfka	17
+三车闹士	laa xjj tauj hss	4
+三级棋士	laa kgkd auqm hss	3
+三仙炼丹	laa eusr ixyk watb	1
+三卒	laa arrg	0
+杀法	sami nhna	229
+杀棋	sami auqm	54
+杀着	sami qjmy	35
+上海金外滩	jvv ngem tjj xubx nbeh	0
+舍小救大	rlse ivv fnkt odd	0
+审局	idsm bylv	5
+审局度势	idsm bylv msfb frks	1
+审势	idsm frks	4
+神州八骏	jdss nlcs kaa bnkt	0
+审子	idsm kzz	0
+胜定	wpsy ifpi	2
+士角炮对起马局	hss xsym iwos bkco hojz bmm bylv	0
+士角炮对挺卒	hss xsym iwos bkco fmgy arrg	0
+事林广记	klbj aamm mgg dojy	5
+适情雅趣	locs rhwy heha hlbo	16
+适情雅趣象棋古谱新编	locs rhwy heha hlbo xlts auqm jgg dquj kadj khce	0
+实用残局	iiod syy fxfk bylv	12
+实战中的误区	iiod ulkg lusv dwkd dlfo hsif	0
+失子得势	gofp kzz cjfk frks	0
+失子失势	gofp kzz gofp frks	0
+数闲	qctu tamm	0
+栓链	arjw oxoc	0
+拴链困敌	frjw oxoc wamw ltus	0
+双杯献酒	bboo avum gcqh npys	1
+双车献酒	bboo xjj gcqh npys	0
+双献酒	bboo gcqh npys	1
+双车错	bboo xjj osjr	9
+双将	bboo qxkc	5
+双敬酒	bboo swlt npys	0
+双马饮泉	bboo bmm xxqs dnsb	7
+双炮过河	bboo iwos kocc njlv	5
+双弃兵	bboo anso dfka	0
+双闲酒杯	bboo tamm npys avum	0
+顺炮	lvcb iwos	40
+顺炮横车对直车	lvcb iwos asdk xjj bkco gjqi xjj	3
+顺炮直车边马对缓开车	lvcb iwos gjqi xjj socl bmm bkco kunb fsoi xjj	0
+顺炮直车对横车	lvcb iwos gjqi xjj bkco asdk xjj	0
+顺炮直车对缓开车	lvcb iwos gjqi xjj bkco kunb fsoi xjj	0
+顺炮直车进七兵对缓开车	lvcb iwos gjqi xjj ikoc xii dfka bkco kunb fsoi xjj	0
+顺炮直车五六炮对横车	lvcb iwos gjqi xjj fbwi akat iwos bkco asdk xjj	0
+顺手炮	lvcb fss iwos	6
+四车相见	wwrw xjj ajmm cjj	1
+丝线牵牛	kkfi kfkg oxpn pnn	0
+送吃	qooc lgyi	0
+算度深远	gjso msfb nxka floc	2
+孙勇征	kivz bssl cfpi	0
+锁喉带箭	oicb lebj sxuj gqwm	0
+太监追皇帝	okdd ugum docd djwb aqxu	2
+韬略元机	ayud vtlv flwi aejm	1
+特级大师象棋实战布局	phkc kgkd odd qfuj xlts auqm iiod ulkg eujz bylv	0
+特级国际大师	phkc kgkd wjkd yjsf odd qfuj	0
+提吃	fjfp lgyi	0
+天地炮	fodi hoet iwos	10
+铁门栓	ogof tmm arjw	15
+贴身车	culv qss xjj	1
+贴时竞叫	culv jkcr klwr lwjv	3
+挺兵	fmgy dfka	7
+挺兵对还中炮	fmgy dfka bkco vocu lusv iwos	0
+挺兵对金钩炮	fmgy dfka bkco tjj owna iwos	0
+挺兵对进马	fmgy dfka bkco ikoc bmm	0
+挺兵对起马	fmgy dfka bkco hojz bmm	0
+停着	eajd qjmy	285
+挺卒	fmgy arrg	3
+同线车	cflv kfkg xjj	0
+突破战术	ihqx vbps ulkg akdm	0
+退象	gocg xlts	0
+王孔兴	jww keiz nkas	0
+王跃飞	jww pmyz yiri	0
+稳步缓攻	mxbr pivi kunb ptug	0
+窝心炮	ilcr rii iwos	2
+五八炮对屏风马	fbwi kaa iwos bkco bqso esij bmm	0
+五八炮进三兵对屏风马	fbwi kaa iwos ikoc laa dfka bkco bqso esij bmm	1
+五八炮进正马对屏风马	fbwi kaa iwos ikoc fpii bmm bkco bqso esij bmm	0
+无根子	ffoi aggm kzz	0
+武俊强	fkpi enkt blqc	1
+五六炮	fbwi akat iwos	3
+五六炮对反宫马	fbwi akat iwos bkco dboj illv bmm	0
+五七炮对反宫马	fbwi xii iwos bkco dboj illv bmm	0
+五七炮对屏风马	fbwi xii iwos bkco bqso esij bmm	1
+五七炮双弃兵对反宫马	fbwi xii iwos bboo anso dfka bkco dboj illv bmm	0
+伍霞	efbw cbib	0
+袭其不备	fgag uqq vuu tvtu	0
+厦门港务控股	vvjt tmm nsko tslu fipg wesy	0
+先负	pwrn xcbm	4
+先弃后取	pwrn anso dflv lboe	8
+仙人指路对金钩炮	eusr ree fnjr ptlv bkco tjj owna iwos	0
+仙人指路对卒底炮	eusr ree fnjr ptlv bkco arrg mkxk iwos	1
+仙人指路对卒底炮飞左象	eusr ree fnjr ptlv bkco arrg mkxk iwos yiri epgz xlts	0
+仙人指路对卒底炮上马	eusr ree fnjr ptlv bkco arrg mkxk iwos jvv bmm	0
+先胜	pwrn wpsy	147
+闲着	tamm qjmy	757
+象棋残局新论	xlts auqm fxfk bylv kadj drnb	2
+象棋棋例与待判局面的裁决	xlts auqm auqm efxm hfik chkc qamd bylv smm dwkd gkag ibre	0
+象棋史话	xlts auqm lsiv dlsy	0
+象棋世家	xlts auqm sii itsm	0
+象棋十诀	xlts auqm gii dbre	1
+象棋实战精妙杀法例	xlts auqm iiod ulkg qhwy cigp sami nhna efxm	0
+象棋形势判断	xlts auqm fscp frks qamd qedj	0
+象棋业余贰级	xlts auqm uee rfam kicb kgkd	0
+象棋业余陆级	xlts auqm uee rfam yawk kgkd	0
+象棋业余叁级	xlts auqm uee rfam nola kgkd	0
+象棋业余肆级	xlts auqm uee rfam ubak kgkd	0
+象棋业余伍级	xlts auqm uee rfam efbw kgkd	0
+象棋业余壹级	xlts auqm uee rfam hxfq kgkd	0
+象棋中局杀势	xlts auqm lusv bylv sami frks	0
+谢岿	dqkc uqbj	0
+谢思明	dqkc vrit jwyr	0
+谢业枧	dqkc uee acjm	0
+心武残编	rii fkpi fxfk khce	1
+行棋处理	cicc auqm tubu jvlw	0
+胸有全局	wwsw ewyz rjwe bylv	0
+徐健秒	crfa ebag migp	0
+许银川中残局精华	dggi oggj lcc lusv fxfk bylv qhwy engi	0
+选机突破	pwoc aejm ihqx vbps	0
+薛文强	sdkx tee blqc	0
+颜成龙	kgcc kyiw fgpo	0
+言穆江	byy mdic npgs	0
+羊肠九曲	qyy wycp rjj dqq	0
+杨德琪	aycp cgur juqw	0
+杨官璘	aycp ibbo jqxa	12
+羊角士	qyy xsym hss	1
+一打一闲	fii fjds fii tamm	0
+以攻坏攻	ekre ptug hvut ptug	0
+已过河兵	oii kocc njlv dfka	0
+以缓制急	ekre kunb pcmd xbri	0
+一级棋士	fii kgkd auqm hss	8
+一将一杀	fii qxkc fii sami	1
+一将一捉	fii qxkc fii fpzs	0
+以快打慢	ekre rbre fjds rjub	7
+弈林精华	tsoi aamm qhwy engi	0
+弈林新编	tsoi aamm kadj khce	1
+弈林雄狮	tsoi aamm eneh hqfu	0
+一杀一捉	fii sami fii fpzs	0
+一矢双雕	fii jii bboo whle	0
+以稳对稳	ekre mxbr bkco mxbr	0
+一着两用	fii qjmy fcrr syy	0
+因敌变化	wodw ltus tboi enbr	4
+应着	mnsg qjmy	67
+用时制度	syy jkcr pcmd msfb	2
+有根子	ewyz aggm kzz	3
+宇兵	ifkc dfka	1
+寓守于攻	ivvm ikcm fkci ptug	0
+袁洪梁	hlgy nska nmka	0
+渊深海阔	nkqm nxka ngem tnls	1
+原位卒	vdiv eklr arrg	0
+鸳鸯炮	xamn comn iwos	2
+运调	inoc dwhl	3
+允许着法	nwra dggi qjmy nhna	0
+运子得子	inoc kzz cjfk kzz	0
+运子夺先	inoc kzz okcd pwrn	0
+运子合击	inoc kzz rhh awkk	0
+运子解困	inoc kzz xsmp wamw	0
+运子取势	inoc kzz lboe frks	2
+运子入局	inoc kzz krr bylv	0
+运子战术	inoc kzz ulkg akdm	0
+占据要道	ulvb fbjg pcnx qqoc	0
+占肋	ulvb wsly	4
+张申宏	bncg dss iena	0
+张影富	bncg jaic iflv	0
+照将	jmli qxkc	0
+赵汝权	hsiz ncns abom	0
+着中有数	qjmy lusv ewyz qctu	0
+正头车	fpii iodr xjj	0
+郑一泓	qoyf fii nbna	0
+智弈棋评	jljr tsoi auqm dnqk	0
+智弈象棋论坛	jljr tsoi xlts auqm drnb hina	0
+中宫炮	lusv illv iwos	0
+中国甘肃通信移动	lusv wjkd siro bkka bsoc ebyr mxxx insl	0
+中国象棋兵法种	lusv wjkd xlts auqm dfka nhna mlus	0
+中国象棋教科书	lusv wjkd xlts auqm hktu migi yyuk	0
+中国象棋入门与提高问答	lusv wjkd xlts auqm krr tmm hfik fjfp agg tlvm grhz	0
+中局成杀	lusv bylv kyiw sami	0
+中局得子	lusv bylv cjfk kzz	0
+中局夺先	lusv bylv okcd pwrn	0
+中局谋和	lusv bylv dsia mlvh	0
+中局占优	lusv bylv ulvb efor	1
+中盘搏杀	lusv uumo fnkc sami	0
+中炮对半途列炮	lusv iwos bkco qakk rfao fxmd iwos	0
+中炮对补士敛炮	lusv iwos bkco xuby hss rfnt iwos	0
+中炮对单提马	lusv iwos bkco qjgi fjfp bmm	1
+中炮对叠炮	lusv iwos bkco bbbj iwos	0
+中炮对反宫马	lusv iwos bkco dboj illv bmm	2
+中炮对龟背炮	lusv iwos bkco xddm qnwy iwos	1
+中炮对横车敛炮	lusv iwos bkco asdk xjj rfnt iwos	0
+中炮对三步虎转列炮	lusv iwos bkco laa pivi uhh xiek fxmd iwos	0
+中炮对右三步虎	lusv iwos bkco elvz laa pivi uhh	0
+中炮对鸳鸯炮	lusv iwos bkco xamn comn iwos	0
+中炮对左中炮转列炮	lusv iwos bkco epgz lusv iwos xiek fxmd iwos	0
+中炮过河车边马对屏风马左马盘河	lusv iwos kocc njlv xjj socl bmm bkco bqso esij bmm epgz bmm uumo njlv	0
+中炮过河车对屏风马高车保马	lusv iwos kocc njlv xjj bkco bqso esij bmm agg xjj elam bmm	0
+中炮过和车对屏风马横车	lusv iwos kocc mlvh xjj bkco bqso esij bmm asdk xjj	0
+中炮过河车对屏风马平炮兑车	lusv iwos kocc njlv xjj bkco bqso esij bmm nqkg iwos qlwr xjj	0
+中炮过河车对屏风马上士象	lusv iwos kocc njlv xjj bkco bqso esij bmm jvv hss xlts	0
+中炮过河车对屏风马左马盘河	lusv iwos kocc njlv xjj bkco bqso esij bmm epgz bmm uumo njlv	0
+中炮过河车急进中兵对屏风马平炮兑车	lusv iwos kocc njlv xjj xbri ikoc lusv dfka bkco bqso esij bmm nqkg iwos qlwr xjj	0
+中炮过河车进中兵对屏风马两头蛇	lusv iwos kocc njlv xjj ikoc lusv dfka bkco bqso esij bmm fcrr iodr qinb	0
+中炮过河车七路马对屏风马平炮兑车	lusv iwos kocc njlv xjj xii ptlv bmm bkco bqso esij bmm nqkg iwos qlwr xjj	1
+中炮过河车正马对屏风马两头蛇	lusv iwos kocc njlv xjj fpii bmm bkco bqso esij bmm fcrr iodr qinb	0
+中炮横车对反宫马	lusv iwos asdk xjj bkco dboj illv bmm	0
+中炮横车盘头马对屏风马	lusv iwos asdk xjj uumo iodr bmm bkco bqso esij bmm	0
+中炮横车七路马对屏风马	lusv iwos asdk xjj xii ptlv bmm bkco bqso esij bmm	0
+中炮进七兵过河车对反宫马	lusv iwos ikoc xii dfka kocc njlv xjj bkco dboj illv bmm	0
+中炮七路马对三步虎转列炮	lusv iwos xii ptlv bmm bkco laa pivi uhh xiek fxmd iwos	0
+中炮巡河炮对反宫马	lusv iwos locc njlv iwos bkco dboj illv bmm	0
+中炮巡河炮对屏风马三步虎	lusv iwos locc njlv iwos bkco bqso esij bmm laa pivi uhh	0
+中炮直车对屏风马卒河口炮	lusv iwos gjqi xjj bkco bqso esij bmm arrg njlv lvv iwos	0
+中炮直车对左炮封车转半途列炮	lusv iwos gjqi xjj bkco epgz iwos hhkc xjj xiek qakk rfao fxmd iwos	0
+中炮直车七路马对屏风马双炮过河	lusv iwos gjqi xjj xii ptlv bmm bkco bqso esij bmm bboo iwos kocc njlv	0
+中原五豹	lusv vdiv fbwi mwkd	0
+中卒	lusv arrg	16
+朱琮思	pkan jijs vrit	0
+竹香斋	gzz mjrh tsre	2
+自来出洞无敌手象棋古谱新编	qii fqmi wwkc ncfl ffoi ltus fss xlts auqm jgg dquj kadj khce	0
+子力价值	kzz sll erka egjq	38
+阻碍敌军	yjqf vjfk ltus xxjm	2
+卒林线	arrg aamm kfkg	3
+做杀	ejtu sami	0
+左士角炮	epgz hss xsym iwos	0
+左文静	epgz tee hwxy	27
+左中炮	epgz lusv iwos	3
+后车进九	dflv xjj ikoc rjj	0
+后车退九	dflv xjj gocg rjj	0
+后砲退九	dflv vwos gocg rjj	0
+前车进九	qwmd xjj ikoc rjj	0
+前车退九	qwmd xjj gocg rjj	0
+前砲进九	qwmd vwos ikoc rjj	0
+八平	kaa nqkg	2
+八卒	kaa arrg	0
+白脸将	dbb wrfn qxkc	11
+摆中炮	fuhn lusv iwos	2
+白赚一象	dbb cqbk fii xlts	0
+包抄入侵	wosb figp krr ebxb	0
+北京选手	qnbq aivg pwoc fss	1
+背士将	qnwy hss qxkc	0
+本轮开始前	afim xrnb fsoi cnlv qwmd	0
+逼黑	flvo ghh	3
+逼进红方帅府	flvo ikoc kpgj tff qujk mekc	0
+逼仕	flvo ehsr	0
+避仕	blko ehsr	0
+必须变着	rgpi cvcb tboi qjmy	0
+变二	tboi irr	1
+边卒	socl arrg	11
+蹩马腿	qukp bmm wgoc	14
+兵八	dfka kaa	0
+兵二	dfka irr	1
+兵二平四	dfka irr nqkg wwrw	0
+兵九	dfka rjj	1
+兵九进一卒	dfka rjj ikoc fii arrg	0
+并卡肋	qsok jubv wsly	0
+兵六	dfka akat	2
+兵破	dfka vbps	1
+兵七	dfka xii	0
+兵三	dfka laa	1
+兵三平五	dfka laa nqkg fbwi	0
+兵四	dfka wwrw	14
+兵四进一士	dfka wwrw ikoc fii hss	0
+兵五	dfka fbwi	4
+兵五进一炮	dfka fbwi ikoc fii iwos	0
+兵一	dfka fii	1
+兵一进一马	dfka fii ikoc fii bmm	0
+并在下一着	qsok euht jxx fii qjmy	0
+兵之危	dfka ozz xvaj	0
+不吃子	vuu lgyi kzz	2
+不限步数	vuu yggf pivi qctu	0
+不准在同一直线上	vuu iehr euht cflv fii gjqi kfkg jvv	0
+踩掉红马	puam fujz kpgj bmm	0
+踩黑边卒	puam ghh socl arrg	0
+裁判员也	gkag qamd lcbv oee	4
+踩双	puam bboo	2
+残局形势	fxfk bylv fscp frks	0
+残棋技艺	fxfk auqm fgbo syio	0
+残棋炮归家	fxfk auqm iwos qbjk itsm	1
+残棋圣手	fxfk auqm bhto fss	0
+缠角马	kmvl xsym bmm	0
+车八进	xjj kaa ikoc	0
+车八平	xjj kaa nqkg	0
+车八退	xjj kaa gocg	0
+车二进	xjj irr ikoc	0
+车二平	xjj irr nqkg	0
+车二退	xjj irr gocg	0
+车九进	xjj rjj ikoc	0
+车九平	xjj rjj nqkg	0
+车九退	xjj rjj gocg	0
+车控	xjj fipg	9
+车六进	xjj akat ikoc	0
+车六平	xjj akat nqkg	0
+车六退	xjj akat gocg	0
+车每一着	xjj gemz fii qjmy	0
+撤炮	fant iwos	0
+车七进	xjj xii ikoc	0
+车七平	xjj xii nqkg	0
+车七退	xjj xii gocg	0
+车三进	xjj laa ikoc	0
+车三平	xjj laa nqkg	0
+车三退	xjj laa gocg	0
+车四进	xjj wwrw ikoc	0
+车四平	xjj wwrw nqkg	0
+车四退	xjj wwrw gocg	0
+车五进	xjj fbwi ikoc	0
+车五平	xjj fbwi nqkg	0
+车五退	xjj fbwi gocg	0
+车心马角	xjj rii bmm xsym	0
+车一进	xjj fii ikoc	0
+车一平	xjj fii nqkg	0
+车一退	xjj fii gocg	0
+沉底月	nxej mkxk wyy	1
+陈寒峰	yxiv iski utdf	0
+程吉俊	mljw hlvs enkt	0
+成名局	kyiw xlvx bylv	0
+称为铁门栓妙杀	mxiv kskd ogof tmm arjw cigp sami	0
+吃底象	lgyi mkxk xlts	0
+吃马	lgyi bmm	0
+吃子	lgyi kzz	147
+冲卒	ilus arrg	1
+抽将	fdos qxkc	0
+出帅	wwkc qujk	2
+除帅	yrfa qujk	0
+出现循环反复	wwkc jcjw cdgj jvuw dboj gjtu	0
+此局由于	pnbi bylv doo fkci	0
+此象	pnbi xlts	1
+此着	pnbi qjmy	3
+从左路	rree epgz ptlv	0
+错着百例	osjr qjmy vjrh efxm	0
+打死黑卒	fjds fxnb ghh arrg	0
+打死红仕	fjds fxnb kpgj ehsr	0
+打相	fjds ajmm	2
+打象	fjds xlts	0
+担竿炮	fjfi gngz iwos	1
+但黑方也有	ejfi ghh tff oee ewyz	0
+但黑有	ejfi ghh ewyz	0
+单缺相胜	qjgi jbre ajmm wpsy	0
+当田字中心	ibjv vtt ikzm lusv rii	0
+的规定时	dwkd ocjf ifpi jkcr	0
+得仕	cjfk ehsr	1
+得子得先各得子	cjfk kzz cjfk pwrn tlvu cjfk kzz	0
+底炮	mkxk iwos	2
+底士	mkxk hss	10
+底线防守	mkxk kfkg ytff ikcm	10
+叠叠炮	bbbj bbbj iwos	0
+董旭彬	smvl rjrj aacp	0
+都没有提和	hjyf ness ewyz fjfp mlvh	0
+斗炮局	igir iwos bylv	1
+对兵	bkco dfka	2
+兑车	qlwr xjj	12
+对方得胜	bkco tff cjfk wpsy	0
+对黑方	bkco ghh tff	0
+对局时	bkco bylv jkcr	0
+兑马	qlwr bmm	1
+对面笑	bkco smm gmyz	3
+兑炮	qlwr iwos	0
+对屏风马	bkco bqso esij bmm	17
+对子棋	bkco kzz auqm	1
+扼控肋道	fvaj fipg wsly qqoc	0
+鄂象	llfy xlts	0
+遏制黑	jwro pcmd ghh	0
+二车	irr xjj	3
+二打一还打	irr fjds fii vocu fjds	0
+而径走	srr cbpg hzz	0
+二退	irr gocg	28
+而占领叉点	srr ulvb rkbc bkdo ulib	0
+二卒	irr arrg	0
+反先	dboj pwrn	9
+方车	tff xjj	0
+方的攻势	tff dwkd ptug frks	2
+方多	tff xxxx	0
+方可按动	tff jlvd ficn insl	0
+方欠行认负	tff xqq cicc drey xcbm	0
+方认负	tff drey xcbm	0
+方胜定	tff wpsy ifpi	1
+方实现了	tff iiod jcjw kee	1
+方士象残缺	tff hss xlts fxfk jbre	0
+方无直	tff ffoi gjqi	0
+方终以	tff ktir ekre	0
+飞错了马	yiri osjr kee bmm	0
+飞高象	yiri agg xlts	0
+非经对方提和一次	uff kbpg bkco tff fjfp mlvh fii ixqr	0
+分为红	kmda kskd kpgj	15
+封将门	hhkc qxkc tmm	0
+封棋着法有误	hhkc auqm qjmy nhna ewyz dlfo	0
+封死将门	hhkc fxnb qxkc tmm	0
+否则红有	vlvu cmdb kpgj ewyz	0
+伏沉	ehqr nxej	1
+伏马	ehqr bmm	4
+伏杀	ehqr sami	9
+改走将	otuj hzz qxkc	0
+高头兵	agg iodr dfka	0
+隔步成杀	yflu pivi kyiw sami	0
+各分七种	tlvu kmda xii mlus	0
+格拉拉	atlv fkls fkls	0
+葛维蒲	sjwe kehj snnf	0
+攻窝心马	ptug ilcr rii bmm	0
+共有九十个交叉点	skao ewyz rjj gii ruse aksi bkdo ulib	0
+挂盘讲解	fhht uumo dika xsmp	0
+寡士怯双车	ivjm hss rhna bboo xjj	0
+观秤	bcjo mnqk	0
+官和	ibbo mlvh	0
+广东惠州华轩象棋队	mgg xivi dric nlcs engi xngj xlts auqm yref	0
+广东吕钦	mgg xivi llvv oxqj	0
+广东小将	mgg xivi ivv qxkc	0
+归心炮	qbjk rii iwos	1
+过河车	kocc njlv xjj	12
+河界	njlv vrka	14
+和十道横线	mlvh gii qqoc asdk kfkg	0
+河头马	njlv iodr bmm	0
+黑必胜	ghh rgpi wpsy	20
+黑冲卒无奈	ghh ilus arrg ffoi ojsd	0
+黑出将	ghh wwkc qxkc	0
+黑方必须	ghh tff rgpi cvcb	0
+黑方只有	ghh tff lkav ewyz	1
+黑两组	ghh fcrr kjqj	0
+黑马紧贴红马而行	ghh bmm ubos culv kpgj bmm srr cicc	0
+黑炮	ghh iwos	56
+黑如	ghh clvn	2
+黑如改走	ghh clvn otuj hzz	0
+黑若	ghh selv	0
+黑胜定	ghh wpsy ifpi	0
+黑也	ghh oee	0
+黑亦	ghh tii	1
+横车	asdk xjj	31
+横走	asdk hzz	55
+横走都可以	asdk hzz hjyf jlvd ekre	0
+红败局已定	kpgj ctub bylv oii ifpi	0
+红兵	kpgj dfka	8
+红此着	kpgj pnbi qjmy	0
+红炮	kpgj iwos	6
+红棋	kpgj auqm	19
+红棋子	kpgj auqm kzz	0
+红如	kpgj clvn	0
+轰卒照将	xbbo arrg jmli qxkc	0
+后兵	dflv dfka	4
+后兵平	dflv dfka nqkg	0
+后马	dflv bmm	1
+后中先	dflv lusv pwrn	2
+后卒进一	dflv arrg ikoc fii	0
+后卒平四	dflv arrg nqkg wwrw	0
+湖北队主帅	njwy qnbq yref kjwd qujk	0
+湖北宏宇队	njwy qnbq iena ifkc yref	0
+湖北柳大华	njwy qnbq akmm odd engi	0
+护双卒	fhhs bboo arrg	0
+华轩杯全国象棋甲级联赛	engi xngj avum rjwe wjkd xlts auqm vjj kgkd lqod iskc	0
+划有交叉线	kmdg ewyz aksi bkdo kfkg	0
+缓手	kunb fss	12
+换双卒	fxco bboo arrg	0
+回合的残局形势	wlvw rhh dwkd fxfk bylv fscp frks	0
+回合时	wlvw rhh jkcr	0
+回合时的	wlvw rhh jkcr dwkd	1
+惠州华轩杯	dric nlcs engi xngj avum	0
+或一横	klfi fii asdk	1
+或主动送吃	klfi kjwd insl qooc lgyi	0
+或走成和棋为止	klfi hzz kyiw mlvh auqm kskd pii	0
+及结局图棋局	gkdn khlv bylv wtir auqm bylv	0
+即使黑马	bnaj efls ghh bmm	0
+计时钟	dgiy jkcr olus	15
+将帅捕杀	qxkc qujk fnfs sami	0
+交叉组成	aksi bkdo kjqj kyiw	2
+交流棋艺	aksi nanw auqm syio	0
+进八	ikoc kaa	17
+紧凑老练	ubos iofo hnbt kxyk	0
+进二	ikoc irr	1
+进九	ikoc rjj	3
+紧靠一直	ubos pluf fii gjqi	0
+进六	ikoc akat	6
+进七	ikoc xii	3
+进七兵	ikoc xii dfka	1
+进三	ikoc laa	2
+进三兵	ikoc laa dfka	1
+进四	ikoc wwrw	8
+进五	ikoc fbwi	7
+紧要之着	ubos pcnx ozz qjmy	0
+进一	ikoc fii	3
+进一马	ikoc fii bmm	0
+精警异常	qhwy swlb osos iujs	1
+九道直线	rjj qqoc gjqi kfkg	0
+九炮	rjj iwos	4
+就算和棋	aifo gjso mlvh auqm	1
+就算输棋	aifo gjso xrfm auqm	0
+局面属实	bylv smm bglj iiod	0
+具体对阵为	jkaq eafi bkco yxjf kskd	0
+卷下	qoaj jxx	2
+均为拒绝	hwir kskd fhbo kxob	0
+均在马蹄之下	hwir euht bmm paqu ozz jxx	0
+可打死红兵	jlvd fjds fxnb kpgj dfka	0
+客队身份	itlv yref qss ekmd	2
+可见黑第	jlvd cjj ghh gbug	0
+可以直进	jlvd ekre gjqi ikoc	0
+控局	fipg bylv	20
+控局得胜	fipg bylv cjfk wpsy	0
+控局制胜	fipg bylv pcmd wpsy	0
+空心炮	ipgx rii iwos	0
+困法	wamw nhna	0
+拦炮	fqir iwos	0
+老兵建功	hnbt dfka bagy pslg	0
+勒车马	sslg xjj bmm	0
+李智屏	akzm jljr bqso	0
+连环炮	xocj jvuw iwos	7
+连战两轮	xocj ulkg fcrr xrnb	0
+两款属于提和	fcrr hjxq bglj fkci fjfp mlvh	0
+列手炮	fxmd fss iwos	1
+另一方必须回避	lslv fii tff rgpi cvcb wlvw blko	0
+另一方已	lslv fii tff oii	0
+六士	akat hss	1
+六十回合规则	akat gii wlvw rhh ocjf cmdb	0
+路边卒	ptlv socl arrg	0
+路车	ptlv xjj	65
+路河头	ptlv njlv iodr	0
+路炮	ptlv iwos	9
+掠黑	faiv ghh	0
+掠仕获胜	faiv ehsr shhq wpsy	0
+掠相	faiv ajmm	0
+轮到走棋的一方	xrnb dmdz hzz auqm dwkd fii tff	2
+轮走的	xrnb hzz dwkd	0
+落家老练之着	sntl itsm hnbt kxyk ozz qjmy	0
+马八	bmm kaa	9
+马八进七车	bmm kaa ikoc xii xjj	0
+马长捉兵	bmm ncc fpzs dfka	0
+马出路	bmm wwkc ptlv	1
+马后炮杀	bmm dflv iwos sami	0
+马九	bmm rjj	14
+马九进七车	bmm rjj ikoc xii xjj	0
+马六进五车	bmm akat ikoc fbwi xjj	0
+马每着走	bmm gemz qjmy hzz	0
+马炮	bmm iwos	106
+马炮兵	bmm iwos dfka	6
+马炮双兵	bmm iwos bboo dfka	0
+马炮双卒士象	bmm iwos bboo arrg hss xlts	0
+马七	bmm xii	9
+马七进五车	bmm xii ikoc fbwi xjj	0
+马三进五车	bmm laa ikoc fbwi xjj	0
+马四进五车	bmm wwrw ikoc fbwi xjj	0
+马五	bmm fbwi	15
+马五进六车	bmm fbwi ikoc akat xjj	0
+马象牵	bmm xlts oxpn	0
+马亦难逃遁	bmm tii beho wiio dgjo	0
+马走日字	bmm hzz jrr ikzm	0
+马卒	bmm arrg	0
+每一着	gemz fii qjmy	0
+每着	gemz qjmy	0
+每着可以	gemz qjmy jlvd ekre	0
+每组十六个	gemz kjqj gii akat ruse	0
+闷宫	trim illv	20
+孟昭忠对	kumz jmlv luri bkco	0
+瞄打	jsvt fjds	2
+妙用马	cigp syy bmm	0
+妙用炮	cigp syy iwos	0
+妙用双马	cigp syy bboo bmm	0
+妙用双炮	cigp syy bboo iwos	0
+名为献马	xlvx kskd gcqh bmm	0
+末着	fmm qjmy	0
+谋兵取胜	dsia dfka lboe wpsy	0
+那需要大约	yayf csrv pcnx odd kwkd	0
+男子组桂冠	vslt kzz kjqj ahht xflk	0
+内蒙古选手	crek sxft jgg pwoc fss	0
+逆相局	qwoc ajmm bylv	0
+年全国个人赛	gakz rjwe wjkd ruse ree iskc	1
+排局	fufs bylv	113
+判和	qamd mlvh	0
+盘全和	uumo rjwe mlvh	0
+炮八	iwos kaa	0
+炮八进	iwos kaa ikoc	0
+炮八平	iwos kaa nqkg	0
+炮八退	iwos kaa gocg	0
+炮打隔子	iwos fjds yflu kzz	0
+炮二	iwos irr	1
+炮二进	iwos irr ikoc	0
+跑二平	pwos irr nqkg	1
+炮二退	iwos irr gocg	0
+炮管制	iwos gibb pcmd	0
+炮九	iwos rjj	0
+炮九进	iwos rjj ikoc	0
+炮九平	iwos rjj nqkg	0
+炮九退	iwos rjj gocg	0
+炮六	iwos akat	0
+炮六进	iwos akat ikoc	0
+炮六平	iwos akat nqkg	0
+炮六退	iwos akat gocg	0
+炮七	iwos xii	0
+炮七进	iwos xii ikoc	0
+炮七平	iwos xii nqkg	0
+炮七平四将	iwos xii nqkg wwrw qxkc	0
+炮七退	iwos xii gocg	0
+炮三	iwos laa	13
+炮三进	iwos laa ikoc	0
+炮三平	iwos laa nqkg	0
+炮三退	iwos laa gocg	0
+炮四	iwos wwrw	0
+炮四进	iwos wwrw ikoc	0
+炮四平	iwos wwrw nqkg	0
+炮四退	iwos wwrw gocg	0
+炮五	iwos fbwi	0
+炮五进	iwos fbwi ikoc	0
+炮五平	iwos fbwi nqkg	0
+炮五退	iwos fbwi gocg	0
+炮一	iwos fii	3
+炮一进	iwos fii ikoc	1
+炮一平	iwos fii nqkg	0
+炮一退	iwos fii gocg	0
+炮镇中路	iwos ogjk lusv ptlv	0
+炮卒	iwos arrg	1
+偏马局	ehce bmm bylv	0
+平八	nqkg kaa	41
+平二	nqkg irr	4
+平九	nqkg rjj	3
+平六	nqkg akat	2
+平炮	nqkg iwos	9
+平炮打扫	nqkg iwos fjds fbjs	0
+平七	nqkg xii	32
+平七马	nqkg xii bmm	0
+平三	nqkg laa	8
+平四	nqkg wwrw	8
+平五	nqkg fbwi	12
+平五卒	nqkg fbwi arrg	0
+平中炮	nqkg lusv iwos	0
+破仕	vbps ehsr	0
+破仕夺关	vbps ehsr okcd qodk	0
+破仕掠相	vbps ehsr faiv ajmm	0
+浦东队	nnfs xivi yref	0
+弃兵争先	anso dfka xbyi pwrn	1
+棋例	auqm efxm	10
+七马	xii bmm	4
+棋盘中间	auqm uumo lusv tjrm	2
+棋谱来源	auqm dquj fqmi nvdi	0
+弃士打马	anso hss fjds bmm	0
+其它棋子	uqq inbm auqm kzz	4
+棋子吃掉	auqm kzz lgyi fujz	2
+棋子能够	auqm kzz nwnn wlxx	1
+弃卒破仕	anso arrg vbps ehsr	0
+前兵	qwmd dfka	15
+前兵平	qwmd dfka nqkg	0
+前马	qwmd bmm	0
+前炮	qwmd iwos	5
+前卒进一	qwmd arrg ikoc fii	0
+去化解被	hnat enbr xsmp xbpy	1
+去炮	hnat iwos	0
+取胜较难	lboe wpsy xaks beho	0
+取胜可能	lboe wpsy jlvd nwnn	0
+去卒	hnat arrg	0
+全国象棋甲级联赛	rjwe wjkd xlts auqm vjj kgkd lqod iskc	0
+全国象棋锦标赛	rjwe wjkd xlts auqm oduj ajsm iskc	0
+全国象棋青年锦标赛	rjwe wjkd xlts auqm hwys gakz oduj ajsm iskc	0
+然后亮帅助攻	whib dflv aejg qujk jslq ptug	0
+如改走	clvn otuj hzz	0
+如改走兵	clvn otuj hzz dfka	0
+如改走车	clvn otuj hzz xjj	1
+如改走马	clvn otuj hzz bmm	0
+如改走炮	clvn otuj hzz iwos	0
+如黑	clvn ghh	3
+如急于走	clvn xbri fkci hzz	0
+如一方	clvn fii tff	0
+软硬炮	xxqj vfjs iwos	0
+赛吉林	iskc hlvs aamm	0
+塞相眼	iskh ajmm jggm	0
+三步虎	laa pivi uhh	5
+三进兵	laa ikoc dfka	3
+三子归边	laa kzz qbjk socl	8
+杀势取胜	sami frks lboe wpsy	0
+山顶公	uss jvcb knaa	0
+山东选手	uss xivi pwoc fss	1
+上海浦东花木广洋队	jvv ngem nnfs xivi senb amm mgg nqys yref	0
+上仕	jvv ehsr	2
+深厚的功夫	nxka vjkz dwkd pslg off	1
+甚为巧妙	ueiq kskd phkg cigp	0
+升将三楼	gsop qxkc laa aqcn	0
+胜炮	wpsy iwos	8
+升炮巡河	gsop iwos locc njlv	1
+胜双	wpsy bboo	11
+是残棋	jfpi fxfk auqm	0
+士各两个	hss tlvu fcrr ruse	0
+士六	hss akat	1
+仕六进五车	ehsr akat ikoc fbwi xjj	0
+仕六退五车	ehsr akat gocg fbwi xjj	0
+仕六退五卒	ehsr akat gocg fbwi arrg	0
+实乃讹诈	iiod gnn denb dgub	0
+士四	hss wwrw	1
+仕四进五车	ehsr wwrw ikoc fbwi xjj	0
+仕四进五将	ehsr wwrw ikoc fbwi qxkc	0
+仕四进五炮	ehsr wwrw ikoc fbwi iwos	0
+仕四退五车	ehsr wwrw gocg fbwi xjj	0
+仕四退五士	ehsr wwrw gocg fbwi hss	0
+仕四退五卒	ehsr wwrw gocg fbwi arrg	0
+士五	hss fbwi	4
+仕五进六车	ehsr fbwi ikoc akat xjj	0
+仕五进六马	ehsr fbwi ikoc akat bmm	0
+仕五进六炮	ehsr fbwi ikoc akat iwos	0
+仕五进六士	ehsr fbwi ikoc akat hss	0
+仕五进六卒	ehsr fbwi ikoc akat arrg	0
+仕五进四炮	ehsr fbwi ikoc wwrw iwos	0
+仕五退四车	ehsr fbwi gocg wwrw xjj	0
+仕五退四炮	ehsr fbwi gocg wwrw iwos	0
+仕五退四士	ehsr fbwi gocg wwrw hss	0
+仕相	ehsr ajmm	7
+士象	hss xlts	89
+仕相全	ehsr ajmm rjwe	0
+实则为亮帅	iiod cmdb kskd aejg qujk	0
+实战着法是	iiod ulkg qjmy nhna jfpi	0
+帅和将	qujk mlvh qxkc	0
+帅六	qujk akat	1
+帅六进一将	qujk akat ikoc fii qxkc	0
+帅六平五车	qujk akat nqkg fbwi xjj	0
+帅六平五将	qujk akat nqkg fbwi qxkc	0
+帅六平五马	qujk akat nqkg fbwi bmm	0
+帅六平五炮	qujk akat nqkg fbwi iwos	0
+帅六平五士	qujk akat nqkg fbwi hss	0
+帅六平五象	qujk akat nqkg fbwi xlts	0
+帅六平五卒	qujk akat nqkg fbwi arrg	0
+帅六退一车	qujk akat gocg fii xjj	0
+帅六退一马	qujk akat gocg fii bmm	0
+帅每一着	qujk gemz fii qjmy	0
+帅四	qujk wwrw	0
+帅四平五车	qujk wwrw nqkg fbwi xjj	0
+帅四平五马	qujk wwrw nqkg fbwi bmm	0
+帅四平五炮	qujk wwrw nqkg fbwi iwos	0
+帅四平五象	qujk wwrw nqkg fbwi xlts	0
+帅四平五卒	qujk wwrw nqkg fbwi arrg	0
+帅五	qujk fbwi	0
+帅五进一车	qujk fbwi ikoc fii xjj	0
+帅五进一炮	qujk fbwi ikoc fii iwos	0
+帅五平六车	qujk fbwi nqkg akat xjj	0
+帅五平六将	qujk fbwi nqkg akat qxkc	0
+帅五平六马	qujk fbwi nqkg akat bmm	0
+帅五平六炮	qujk fbwi nqkg akat iwos	0
+帅五平六士	qujk fbwi nqkg akat hss	0
+帅五平六象	qujk fbwi nqkg akat xlts	0
+帅五平六卒	qujk fbwi nqkg akat arrg	0
+帅五平四车	qujk fbwi nqkg wwrw xjj	0
+帅五平四马	qujk fbwi nqkg wwrw bmm	0
+帅五平四炮	qujk fbwi nqkg wwrw iwos	0
+帅五退一车	qujk fbwi gocg fii xjj	0
+帅五退一马	qujk fbwi gocg fii bmm	0
+帅五退一炮	qujk fbwi gocg fii iwos	0
+双兵	bboo dfka	14
+双方各走了一着	bboo tff tlvu hzz kee fii qjmy	0
+双方均无	bboo tff hwir ffoi	22
+双方轮流各走一着	bboo tff xrnb nanw tlvu hzz fii qjmy	1
+双方排阵	bboo tff fufs yxjf	0
+双方走棋	bboo tff hzz auqm	1
+双关门	bboo qodk tmm	0
+双炮	bboo iwos	86
+双卒	bboo arrg	3
+四盘棋	wwrw uumo auqm	1
+四炮	wwrw iwos	9
+四台比赛	wwrw nlva nnbb iskc	0
+算准入局	gjso iehr krr bylv	0
+所走着法	ddjh hzz qjmy nhna	0
+特森	phkc aaam	12
+提和	fjfp mlvh	0
+提和次数对等	fjfp mlvh ixqr qctu bkco ghkc	0
+提和的一方	fjfp mlvh dwkd fii tff	0
+提议作和	fjfp dksi egub mlvh	0
+跳吃	pwii lgyi	0
+贴将	culv qxkc	0
+铁门栓妙杀	ogof tmm arjw cigp sami	0
+铁门栓妙杀例	ogof tmm arjw cigp sami efxm	0
+铁门栓杀法获胜	ogof tmm arjw sami nhna shhq wpsy	0
+同对方将	cflv bkco tff qxkc	0
+同时己方其它棋子	cflv jkcr ojj tff uqq inbm auqm kzz	0
+投子认负	fess kzz drey xcbm	13
+退八	gocg kaa	1
+退二	gocg irr	8
+退九	gocg rjj	0
+退六	gocg akat	1
+退马反击	gocg bmm dboj awkk	0
+退炮	gocg iwos	20
+退七	gocg xii	1
+退三	gocg laa	4
+退四	gocg wwrw	0
+退五	gocg fbwi	1
+退一	gocg fii	10
+未走满	fww hzz nsfr	0
+卧槽马杀	hubc acjr bmm sami	2
+五八炮	fbwi kaa iwos	3
+无车棋	ffoi xjj auqm	0
+五进	fbwi ikoc	13
+五进四	fbwi ikoc wwrw	2
+五九炮	fbwi rjj iwos	0
+五平	fbwi nqkg	1
+五七炮对屏风马进七卒	fbwi xii iwos bkco bqso esij bmm ikoc xii arrg	0
+误走	dlfo hzz	9
+五卒	fbwi arrg	7
+献车	gcqh xjj	1
+先锋马	pwrn otdf bmm	0
+献马妙极	gcqh bmm cigp agkd	0
+先手逼和	pwrn fss flvo mlvh	0
+先手对阵	pwrn fss bkco yxjf	1
+先手求稳健	pwrn fss fnkd mxbr ebag	0
+先手战	pwrn fss ulkg	0
+象甲联赛	xlts vjj lqod iskc	5
+相九	ajmm rjj	2
+相七	ajmm xii	0
+象棋盘	xlts auqm uumo	4
+象棋特级大师	xlts auqm phkc kgkd odd qfuj	7
+相七退九车	ajmm xii gocg rjj xjj	0
+相三	ajmm laa	5
+象头卒	xlts iodr arrg	0
+相五	ajmm fbwi	2
+相五进三车	ajmm fbwi ikoc laa xjj	0
+相五退三车	ajmm fbwi gocg laa xjj	0
+相五退三炮	ajmm fbwi gocg laa iwos	0
+相走田字	ajmm hzz vtt ikzm	0
+消除黑方	niwy yrfa ghh tff	1
+胁帅	wska qujk	0
+斜线走一步	rfag kfkg hzz fii pivi	2
+蟹眼炮	xsmq jggm iwos	0
+斜走两步	rfag hzz fcrr pivi	1
+袖手炮	xdoy fss iwos	0
+压马	vhkd bmm	11
+掩护小卒	fodd fhhs ivv arrg	0
+掩护小卒过河	fodd fhhs ivv arrg kocc njlv	0
+杨汉民	aycp nbos oxis	0
+要去方向	pcnx hnat tff dxx	0
+也非跳不可了	oee uff pwii vuu jlvd kee	0
+也可以横走一步	oee jlvd ekre asdk hzz fii pivi	0
+移车	mxxx xjj	7
+一方出现	fii tff wwkc jcjw	0
+一方的棋子	fii tff dwkd auqm kzz	3
+一方提和	fii tff fjfp mlvh	0
+亦红优	tii kpgj efor	0
+以后黑炮	ekre dflv ghh iwos	0
+亦可改走	tii jlvd otuj hzz	0
+弈完第	tsoi iflw gbug	0
+以下黑	ekre jxx ghh	0
+已先占据	oii pwrn ulvb fbjg	0
+一象	fii xlts	10
+一斜	fii rfag	24
+意欲大胆穿心	kjri krlx odd wjfi ihax rii	0
+弈至第	tsoi dzz gbug	1
+一至九	fii dzz rjj	1
+一卒	fii arrg	32
+应当变着	mnsg ibjv tboi qjmy	0
+应当变着而不变	mnsg ibjv tboi qjmy srr vuu tboi	0
+应对不佳	mnsg bkco vuu ehht	1
+应改	mnsg otuj	2
+应使双方	mnsg efls bboo tff	0
+应走着数	mnsg hzz qjmy qctu	0
+用炮	syy iwos	28
+用时太多	syy jkcr okdd xxxx	0
+用中文数字	syy lusv tee qctu ikzm	3
+有别的棋子挡住	ewyz lsmd dwkd auqm kzz fibj ekjw	1
+由此入局	doo pnbi krr bylv	0
+有对方棋子存在	ewyz bkco tff auqm kzz eukz euht	0
+有权判为和棋	ewyz abom qamd kskd mlvh auqm	0
+右帅	elvz qujk	0
+由于黑方	doo fkci ghh tff	1
+由执红棋	doo frkd kpgj auqm	1
+约恩	kwkd wori	19
+运马	inoc bmm	3
+在布局后	euht eujz bylv dflv	0
+再次提和	fcht ixqr fjfp mlvh	0
+在对局时	euht bkco bylv jkcr	2
+再马	fcht bmm	1
+在没有过	euht ness ewyz kocc	0
+再仕	fcht ehsr	7
+则马	cmdb bmm	0
+则马二	cmdb bmm irr	0
+则仕	cmdb ehsr	12
+则帅	cmdb qujk	7
+则帅五	cmdb qujk fbwi	0
+则相三	cmdb ajmm laa	0
+则卒	cmdb arrg	2
+战略思维	ulkg vtlv vrit kehj	94
+战术技巧	ulkg akdm fgbo phkg	0
+张学潮	bncg nxkz ngjw	1
+着法红先	qjmy nhna kpgj pwrn	0
+着法老练	qjmy nhna hnbt kxyk	0
+赵子仪	hsiz kzz eksi	0
+着改走	qjmy otuj hzz	0
+争夺对手	xbyi okcd bkco fss	1
+直车	gjqi xjj	13
+直横车	gjqi asdk xjj	0
+直接对面	gjqi fkcn bkco smm	0
+只能在提和后	lkav nwnn euht fjfp mlvh dflv	0
+制胜妙法	pcmd wpsy cigp nhna	0
+直退	gjqi gocg	4
+只许向前直走一步	lkav dggi dxx qwmd gjqi hzz fii pivi	0
+只许走一步	lkav dggi hzz fii pivi	0
+只有炮吃子	lkav ewyz iwos lgyi kzz	1
+制中	pcmd lusv	0
+中国象棋冠军	lusv wjkd xlts auqm xflk xxjm	1
+中国象棋锦标赛	lusv wjkd xlts auqm oduj ajsm iskc	0
+中国象棋谱库	lusv wjkd xlts auqm dquj mxjg	0
+中国象棋世界锦标赛	lusv wjkd xlts auqm sii vrka oduj ajsm iskc	0
+中后局	lusv dflv bylv	1
+中局混战	lusv bylv njnn ulkg	0
+中局阶段	lusv bylv yrka eles	10
+中路取势	lusv ptlv lboe frks	0
+重炮杀	mvlq iwos sami	7
+主队身份	kjwd yref qss ekmd	0
+转入中局	xiek krr lusv bylv	0
+准备赶走	iehr tvtu hngz hzz	0
+准备平中	iehr tvtu nqkg lusv	0
+准备镇中	iehr tvtu ogjk lusv	0
+子力位置	kzz sll eklr ugjq	14
+自然限着	qii whib yggf qjmy	5
+走法同车一样	hzz nhna cflv xjj fii aqym	0
+走棋和吃子	hzz auqm mlvh lgyi kzz	0
+走一着棋时	hzz fii qjmy auqm jkcr	0
+卒分两翼	arrg kmda fcrr vvvk	0
+组攻	kjqj ptug	0
+卒五个	arrg fbwi ruse	0
