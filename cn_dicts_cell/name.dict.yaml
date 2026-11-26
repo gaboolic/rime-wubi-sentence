@@ -1362,3 +1362,380 @@ sort: by_weight
 老霉	ql tek	23
 蒋桃	lal epw	22
 梁文峰	kph vw vha	100
+
+# 2026-11-25 新增：MNBVC 知乎语料人名（96 词）
+乌玛瑟曼	xuu nnm nnht oyr	0
+霍恩海姆	tui rmh kek bkm	0
+乔伊波伊	tmp jbt krp jbt	0
+乌尔波扎	xuu xyx krp uae	0
+凯勒博恩	vvoj tsl nnk rmh	0
+杰森伯恩	ech eee jub rmh	0
+萨德侯爵	lt wn jno yyik	0
+吉姆雷诺	gdk bkm tqt sln	0
+蒂姆伯顿	liw bkm jub fsw	0
+冯诺伊曼	wnm sln jbt oyr	0
+梅罗维茨	eek yl iu lweq	0
+诺艾莉娅	sln lbi lxp bfcy	0
+黑田兵卫	ph qt thb zfi	0
+盖尔加朵	gam xyx sd oe	0
+韦恩夫妇	gw rmh hf bb	0
+阿良良木	tz ii ii em	0
+尼克弗瑞	cvb cp tf nvl	0
+彼得帕克	wrp w rub cp	0
+彼得林奇	wrp w ee mzk	0
+艾尔利克	lbi xyx xp cp	0
+乌弗瑞克	xuu tf nvl cp	0
+哈维丹特	dj iu mzt qg	0
+安田文彦	wb qt vw ixe	0
+克鲁夫妇	cp wor hf bb	0
+乔治马丁	tmp kk nm ad	0
+强尼银手	bd cvb zig us	0
+阿塔尼斯	tz glj cvb zht	0
+沃卓斯基	ktm yon zht zhg	0
+范斯沃斯	lkz zht ktm zht	0
+灵顿公爵	bch fsw hk yyik	0
+杜达梅尔	egt mu eek xyx	0
+塞拉利尼	wqhg ui xp cvb	0
+雅罗米尔	lu yl pm xyx	0
+米哈伊洛	pm dj jbt ksg	0
+库兹涅茨	xyc hii kog lweq	0
+卢布廖夫	ycs nrj xzje hf	0
+贝内德克	ob mj wn cp	0
+帕梅卡诺	rub eek yfy sln	0
+拉文尼娅	ui vw cvb bfcy	0
+克莱门扎	cp lah am uae	0
+麦克德夫	ahi cp wn hf	0
+奥兹曼迪	tmpm hii oyr duc	0
+努得尔斯	br w xyx zht	0
+杰森托德	ech eee utr wn	0
+阿尔莫林	tz xyx lom ee	0
+罗恩格林	yl rmh es ee	0
+埃尔梅罗	gko xyx eek yl	0
+宫崎老贼	wdd vmz ql opn	0
+富坚老贼	wfd prg ql opn	0
+宫部美雪	wdd id gm tb	0
+佐伯刚雄	jnu jub mbp nk	0
+鬼头真澄	ag wm nq khz	0
+御手洗洁	waz us kqp kgd	0
+塞尼斯托	wqhg cvb zht utr	0
+巴利斯坦	mb xp zht gof	0
+阿尔菲诺	tz xyx lr sln	0
+右方之火	nd lf ri ch	0
+亚西比德	fcy vx vv wn	0
+阿克洛夫	tz cp ksg hf	0
+贝肯斯坦	ob svy zht gof	0
+席德梅尔	xlrj wn eek xyx	0
+帕海贝尔	rub kek ob xyx	0
+巴纳巴斯	mb imj mb zht	0
+青田龙彦	avy qt tl ixe	0
+船越文夫	iod pn vw hf	0
+野牛比尔	div qn vv xyx	0
+海门罗斯	kek am yl zht	0
+南宫残花	nmg wdd gfp lj	0
+山际真晃	vs tfs nq omg	0
+谢熊猫君	sz kvv mlq btd	0
+野边将广	div su alk xg	0
+角田大帝	xty qt m iwr	0
+善宇妈妈	ghd wfn bnm bnm	0
+超级小桀	ppd icj yx lve	0
+鸟岛和彦	xn xv x ixe	0
+埃兰迪尔	gko hts duc xyx	0
+伊露维塔	jbt tps iu glj	0
+骨咄禄	fgg dsm fbk	0
+异牟寻	vl kqn bkc	0
+凑佳苗	wai jgg lqt	0
+猿田彦	mgdt qt ixe	0
+田朴珺	qt eyb nbt	0
+欧班农	nbe np wti	0
+白南准	ub nmg wui	0
+全泰壹	jn aik gwz	0
+黑部进	ph id qu	0
+泷泽朗	ktl kru iivy	0
+团时朗	rnt ok iivy	0
+良木健	ii em jbu	0
+室点密	wyi yd wht	0
+渊男建	kpp qsl bu	0
+巴迪欧	mb duc nbe	0
+伊内兹	jbt mj hii	0
+美夜子	gm zjv hi	0
+雪代巴	tb jp mb	0
+英瓦尔	lm rw xyx	0
+
+# 2026-11-25 迁移：others.dict.yaml 中的人名/角色名（277 条）
+曲彤	yq mze	0
+季洁	xhi kgd	0
+常威	srj nfb	0
+罗维	yl iu	0
+刘洵	vp knor	0
+王茜	nw lvx	0
+何铸	jz zak	0
+苏护	lsh umh	0
+梅伯	eek jub	0
+殷郊	zrs abt	0
+董路	lld psg	0
+庞颖	xtl vxw	0
+刘恋	vp zchx	0
+薛静	ltk avx	0
+方证	lf sf	0
+刘雯	vp tvw	0
+黄斌	nh vfps	0
+华杉	jvn ees	0
+苏群	lsh bt	0
+冯禧	wnm fhd	0
+谢欣	sz te	0
+毕赣	vvns xnh	0
+谌龙	szh tl	0
+陈梦	try eel	0
+陈念	try jah	0
+陈识	try sdh	0
+陈汤	try kae	0
+陈余	try jxh	0
+邓伦	rte jjl	0
+丁蟹	ad xtp	0
+丁修	ad jgh	0
+杜尚	egt ss	0
+樊登	ebbm hz	0
+范遥	lkz yau	0
+高迪	gg duc	0
+韩琛	non nwh	0
+胡万	cvy fp	0
+黄昆	nh ovv	0
+吉鲁	gdk wor	0
+蒋凡	lal oid	0
+柯本	ez ef	0
+寇森	wmph eee	0
+乐佩	byx jof	0
+黎笋	xpj rbt	0
+李现	ehi ne	0
+李想	ehi eqh	0
+龙且	tl fq	0
+卢尼	ycs cvb	0
+陆议	tum sib	0
+罗根	yl ei	0
+马兆	nm pww	0
+南烈	nmg gpc	0
+裴炎	rti cch	0
+彭磊	hes mmm	0
+苏东	lsh ryx	0
+田言	qt sy	0
+王弗	nw tf	0
+王进	nw qu	0
+谢怜	sz hjk	0
+谢林	sz ee	0
+薛绍	ltk ipdk	0
+颜路	ix psg	0
+杨雄	ea nk	0
+叶修	dns jgh	0
+叶芝	dns lri	0
+伊戈	jbt pg	0
+伊角	jbt xty	0
+殷离	zrs zb	0
+袁华	gdt jvn	0
+甄洛	vgr ksg	0
+郑娟	hmt bdv	0
+周洋	mgd kgy	0
+安溥	wb knkc	0
+边沁	su khx	0
+陈欧	try nbe	0
+程维	xdn iu	0
+褚赢	tqo fdv	0
+崔泽	vui kru	0
+董平	lld eh	0
+费马	to nm	0
+盖蒂	gam liw	0
+耿浩	qch kqd	0
+耿弇	qch jdlc	0
+蒋勋	lal dos	0
+蒋英	lal lm	0
+孔卡	hae yfy	0
+马奎	nm mggt	0
+齐衡	qq pwv	0
+乔托	tmp utr	0
+苏烈	lsh gpc	0
+苏颂	lsh hkw	0
+田荣	qt lwe	0
+卫宫	zfi wdd	0
+宣姜	wfo gbn	0
+伊姆	jbt bkm	0
+詹俊	xxhs jkh	0
+赵盾	pbi xnq	0
+赵雍	pbi ziu	0
+周源	mgd kxu	0
+卓伟	yon jgw	0
+李涯	ehi kxg	0
+殷洪	zrs klh	0
+余化	jxh jvb	0
+李艮	ehi ig	0
+敖光	aph mg	0
+李李	ehi ehi	0
+李琦	ehi nmzk	0
+肖奈	yvy mfs	0
+夏达	foh mu	0
+夏言	foh sy	0
+林昭	ee opdk	0
+郭登	ghte hz	0
+刘娥	vp btu	0
+李婧	ehi bav	0
+仇远	jkj mp	0
+李矛	ehi it	0
+郑刚	hmt mbp	0
+陈佳	try jgg	0
+王棋	nw ezh	0
+周铭	mgd zld	0
+王星	nw ol	0
+高叶	gg dns	0
+赵涛	pbi kak	0
+包丽	nvs fvv	0
+陆婷	tum bga	0
+师哲	pf utd	0
+范祥	lkz fgy	0
+卢拉	ycs ui	0
+解缙	xt ifc	0
+张彻	bp wr	0
+陈熠	try czu	0
+刘畅	vp oga	0
+王娡	nw bghx	0
+金俗	zj jhg	0
+牛耿	qn qch	0
+周军	mgd wyc	0
+付鹏	jk vvx	0
+程东	xdn ryx	0
+吴曦	dfm ogx	0
+李凤	ehi ory	0
+麦林	ahi ee	0
+卓定	yon wt	0
+成毅	na ijr	0
+祝炜	fdp cgw	0
+陈默	try pmq	0
+刘明远	vp ov mp	0
+王义为	nw ib i	0
+卢虹贝	ycs cug ob	0
+柳坤生	eb gog ls	0
+宋尔卫	wem xyx zfi	0
+穆丽尔	xuye fvv xyx	0
+赵松源	pbi ehk kxu	0
+李若朴	ehi lnd eyb	0
+徐景昌	wjx ogy oor	0
+林明杰	ee ov ech	0
+毛修之	vmm jgh ri	0
+韩庆川	non xmd oc	0
+杨瀚森	ea knoz eee	0
+徐湖平	wjx kcv eh	0
+朱跃军	ta pt wyc	0
+谢什科	sz jns xj	0
+张子勇	bp hi kts	0
+王仲方	nw jdg lf	0
+潘展乐	ktp cl byx	0
+王占金	nw ydk zj	0
+高继能	gg ip k	0
+卢特尼克	ycs qg cvb cp	0
+王朱悦	nw ta hhd	0
+卢美琳	ycs gm nee	0
+曾克理	hr cp ndl	0
+章亦君	xns zch btd	0
+边居寒	su ccg wq	0
+井有正	qj nv fsi	0
+吕宗方	ddk wfs lf	0
+杨角风	ea xty obi	0
+任少芬	jt yt lhp	0
+侯峒曾	jno vmfd hr	0
+侯岐曾	jno vci hr	0
+黄渊耀	nh kpp mzu	0
+季逸超	xhi wuc ppd	0
+罗福莉	yl ff lxp	0
+陈妤颉	try biv gdw	0
+周吉婕	mgd gdk bfb	0
+沈伯洋	kwp jub kgy	0
+牟倩文	kqn jav vw	0
+魏超仁	xba ppd jme	0
+魏清涛	xba kav kak	0
+明学昌	ov kw oor	0
+查拉耶娃	eof ui qte bgg	0
+姚令言	bpw jks sy	0
+段文楚	uf vw eet	0
+毕自肃	vvns oi bph	0
+骆明楷	nsg ov evvu	0
+欧律诺墨	nbe wbv sln pgt	0
+杜进忠	egt qu dgh	0
+宋进喜	wem qu hdk	0
+刘进喜	vp qu hdk	0
+王库儿	nw xyc pe	0
+魏进忠	xba qu dgh	0
+张孚敬	bp yhi lgh	0
+赵星棠	pbi ol sem	0
+黄媛介	nh byf jpd	0
+石昱莉	ms oil lxp	0
+马伊俐	nm jbt jxp	0
+田柯宇	qt ez wfn	0
+吴亚存	dfm fcy ng	0
+崔添翼	vui kfm zq	0
+梁文锋	kph vw zhaf	0
+丁奕可	ad zcm z	0
+丁善玺	ad ghd xyn	0
+史楚金	db eet zj	0
+姚继荣	bpw ip lwe	0
+李定保	ehi wt jde	0
+叶志铭	dns gh zld	0
+徐冰洁	wjx wks kgd	0
+徐若晗	wjx lnd oja	0
+马杜埃凯	nm egt gko vvoj	0
+巴尔代拉	mb xyx jp ui	0
+黄伯央	nh jub mm	0
+邱祺缘	tft fzh ibj	0
+卜庆启	ybb xmd md	0
+潘家铮	ktp wj zxb	0
+邓浩洪	rte kqd klh	0
+兰克尔泽	hts cp xyx kru	0
+曾艳芬	hr axm lhp	0
+曹晚植	fyo owp enq	0
+曾纪鸿	hr ivj kux	0
+钱乃荣	zf vn lwe	0
+杨植麟	ea enq xpl	0
+陈宇森	try wfn eee	0
+李孟贤	ehi ham prob	0
+邓连松	rte yu ehk	0
+吴正结	dfm fsi igd	0
+严柳晴	fcx eb oav	0
+钟淑如	zdg kyf b	0
+侯卓成	jno yon na	0
+杨汝晴	ea kbn oav	0
+周沁瑶	mgd khx nya	0
+任冲昊	jt wdg ofm	0
+胡荷韬	cvy ljzk gyp	0
+马马杜	nm nm egt	0
+吴奕博	dfm zcm nnk	0
+李绮红	ehi imz iug	0
+梁其伟	kph zh jgw	0
+宋年欢	wem ev re	0
+朱见泽	ta ej kru	0
+费登奎斯	to hz mggt zht	0
+贺炳炎	sdo cfm cch	0
+朱阔泉	ta aka uks	0
+黄佐临	nh jnu pro	0
+文吉儿	vw gdk pe	0
+蓝鸿春	lp kux aio	0
+郑长符	hmt pc rjk	0
+付义涵	jk ib kakm	0
+王钰栋	nw znid ery	0
+李行亮	ehi p go	0
+鲁提辖	wor uo ywad	0
+关肇直	hmd mhb nqf	0
+姚顺雨	bpw ow tv	0
+吴定缘	dfm wt ibj	0
+苏荆溪	lsh lfl kyi	0
+卞赫俊	zyb gcg jkh	0
+周晟安	mgd onae wb	0
+宋知节	wem od lz	0
+白清枚	ub kav ehp	0
+钱小卉	zf yx nlc	0
+宋欣桥	wem te etm	0
+邝兆雷	xte pww tqt	0
+庞众望	xtl jjj fv	0
+林小枫	ee yx eob	0
+闻会军	aq jb wyc	0
+高市早苗	gg zr on lqt	0
+浩锡	kqd zon	0
+艺珍	lai nje	0
+尚宇	ss wfn	0
+子乔	hi tmp	0
+舒默	jaiv pmq	0
