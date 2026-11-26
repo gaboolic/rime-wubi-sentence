@@ -441,32 +441,23 @@ sort: by_weight
 美伊	ws,me sf,yi	13
 # 2026-09-03 新增：热榜新词/专名/技术术语（来自 zhihu_missing_2026-09-03 分词缺失词）
 沙德尔	ci,sh gp,oj ai,er	0
-曲彤	kr,qu ul,ut	8
 阿西莫格鲁	io,ke;io,ka ex,i0 rn,sm xf,kg qn,lu	0
 狠活	wf,yh cl,kh	37
 上量	v0,00;vs,ha ny,wl	58
 偏强	sp,ur xk,eq;xk,ej	75
-刘明远	lz,li nm,mi qh,gy	0
 曜星社	nu,ey nh,xi vb,sh	0
-王义为	fw,an vr,yi vo,vw	0
 白牌	cb,ai tc,lp	48
 钝化工艺	zr,du sh,hu dg,on rd,yi	0
 # 2026-09-05 新增：热榜新词/角色名/专名（来自 zhihu_missing_2026-09-05 分词缺失词）
-季洁	oh,ji cb,kj	4
 敖白	ra,fa cb,ai	0
-常威	iy,ch za,we	61
 矿潮	fh,ku cp,nm	52
 仲树	sk,lz xf,fs	0
 九斤	oj,iu xj,in	29
 接尿	dg,aj hc,su;hc,ni	13
-罗维	on,lu ue,we	44
 花臂	rs,hh hk,gm	70
-刘洵	lz,li ca,nx	35
 宗生	pv,zo hs,he	1
-王茜	fw,an re,xi;re,qi	10
 矿卡	fh,ku vv,qi;vv,ka	104
 鸡仔	fe,ji sh,zi;sh,za	39
-卢虹贝	vh,lu ed,ji;ed,ho ab,ei	0
 步亭	gg,bu pu,ot	2
 猴侠	ws,it ss,gx	0
 # 2026-09-06 新增：热榜新词/专名/技术术语（来自 zhihu_missing_2026-09-06 分词缺失词）
@@ -483,7 +474,6 @@ sort: by_weight
 回破	kh,ui fu,po	12
 恋陪	lv,jl ig,kp	0
 林禄	xl,in vf,cl	0
-柳坤生	xh,mj bn,lk hs,he	0
 残涡	jz,ca ck,us	0
 泰思妥	es,ct bj,si ea,tu	0
 浙闽	cd,xz pe,mi	9
@@ -515,22 +505,17 @@ sort: by_weight
 卡塞姆	vv,qi;vv,ka pr,ib aa,mu	1
 中伦	k0,00;kl,zh ss,hl	31
 优青	sw,yo rm,qi	102
-宋尔卫	px,so ai,er jq,we	0
 李帅	xh,li iy,sh	34
 短临	to,du jt,kl	12
 硬切	fq,nr uz,qi	23
-穆丽尔	oc,iu qu,vv ai,er	4
 致同	qj,bf uk,to	19
 西木	ex,i0 xm,u0	61
 阿塔图尔克	io,ke;io,ka br,sk kf,nt ai,er mh,ke	0
 龙甲	wm,lo yj,ia	6
 # 2026-09-10 新增：热榜新词/专名/技术术语（来自 zhihu_missing_2026-09-10 分词缺失词）
-赵松源	gr,zh xi,js ch,ci	0
 刚峰	ur,zg if,el	3
-李若朴	xh,li rf,kr xv,pu;xv,po	1
 民机	id,um xx,ji	27
 沪爷	cp,hu ir,jy	6
-何铸	so,kh ze,mf	2
 军航	ug,ju gl,xh	17
 化债	sh,hu sr,az	6
 商飞	yu,ik ef,ei	63
@@ -548,8 +533,6 @@ sort: by_weight
 圪蹴	bt,dg gp,iw	0
 # 2026-09-11 新增：热榜新词/专名/技术术语（来自 zhihu_missing_2026-09-11 分词缺失词）
 瑞浦兰钧	fi,lr cb,pu gw,la za,nj	0
-徐景昌	gs,xx np,ij nn,ch	0
-苏护	ro,is dp,hu	1
 姜后	wa,ji hk,ho	3
 根因	xf,yg ks,yi	49
 带元	rl,uy qh,yu	9
@@ -560,27 +543,21 @@ sort: by_weight
 贝森特	ab,ei xx,se wb,ft	0
 沃什	cm,sw sp,sh	18
 金忠	zj,in kl,jz	0
-梅伯	xt,am sc,bo;sc,ba	4
 武阳	qu,gw in,ya	6
-殷郊	hf,df yr,ij	3
 走公账	gz,ou ij,go am,qv	5
 # 2026-09-12 新增：热榜新词/专名/技术术语（来自 zhihu_missing_2026-09-12 分词缺失词）
-董路	rl,nw gf,kl	47
 味型	kx,we qr,zb	139
 底味	hh,uv kx,we	32
-林明杰	xl,in nm,mi xv,ji	0
 穆瓦法格	oc,iu ow,a0 cb,jf xf,kg	0
 脸模	ms,li xr,ns	19
 振金	dn,zh zj,in	136
 # 2026-09-13 新增：热榜新词/专名/技术术语（来自 zhihu_missing_2026-09-13 分词缺失词）
 哈马	ks,kh wm,a0	53
 刷量	hy,zs ny,wl	97
-庞颖	hw,mp ho,fa	12
 感统	zk,jg ul,jh	97
 长剧	mq,dv hm,zj	15
 书测	dd,lv ca,zc	0
 函评	hc,ih ly,ip	0
-刘恋	lz,li lv,jl	7
 剧方	hm,zj lf,an	48
 双床	ff,sh hx,ch	4
 择主而仕	df,dz vf,zh le,r0 sb,sh	1
@@ -590,12 +567,10 @@ sort: by_weight
 断生	od,xd hs,he	54
 现偶	fu,hx sn,wo	3
 监视哨	jt,oj vu,hs ki,ms	0
-薛静	rm,ip rm,al	0
 设谋	lx,fs lr,wx	1
 # 2026-09-14 新增：热榜新词/专名/技术术语（来自 zhihu_missing_2026-09-14 分词缺失词）
 见性峰	uh,xi;uh,ji jh,xi if,el	0
 仪琳	sv,ry fx,li	61
-方证	lf,an lg,zh	116
 定静师太	pq,gd rm,al iq,ys sv,ta	0
 百厨	fn,ba ho,fc	1
 糟蛋	or,nn dg,ed	4
@@ -614,10 +589,7 @@ sort: by_weight
 盘末	go,pa xm,o0	16
 变湿	lv,fb cn,rs	29
 # 2026-09-15 新增：热榜新词/人名/历史官职/食品与化工术语（来自 zhihu_missing_2026-09-15 分词缺失词）
-刘雯	lz,li nl,we	54
 水饴	cs,hu oj,ky	11
-毛修之	um,ao sl,fu gz,hi	0
-韩庆川	pn,dd hs,qi cc,hu	0
 东传	ui,do su,zh;su,ch	1
 护色	dp,hu aw,sh;aw,se	19
 井宝	wi,ji pf,vb	1
@@ -638,10 +610,8 @@ sort: by_weight
 # 2026-09-16 新增：知乎热榜热词（葱类蔬菜/人名/鸟类解剖/术语，来自 zhihu_missing_2026-09-16 分词缺失词）
 胡葱	mm,hu ry,vj	15
 火葱	vh,uo ry,vj	2
-黄斌	rb,ih lq,ug	4
 氧望	nw,ya lm,fw	0
 肌胃	mx,ji bm,we	3
-华杉	sh,ph xu,sh	40
 葱根	ry,vj xf,yg	2
 鸡哥	fe,ji ok,ok	104
 星神	nh,xi vn,ls	21
@@ -667,10 +637,8 @@ sort: by_weight
 野葱	yw,fy ry,vj	8
 韭葱	eq,ji ry,vj	7
 # 2026-09-17 新增：知乎热榜热词（人名/金融/地质与技术术语，来自 zhihu_missing_2026-09-17 分词缺失词）
-苏群	ro,is fk,wq	30
 南博	pu,gp pb,fb	7
 备餐量	fb,be vn,fo ny,wl	0
-杨瀚森	xd,mm cp,nu xx,se	1
 达洛	sg,da cf,kl	13
 两工	qu,ss dg,on	2
 四税	rs,i0 oi,kh	0
@@ -681,16 +649,13 @@ sort: by_weight
 富碳	pk,bf fi,fv	4
 幅值	yk,bf sp,tz	198
 弱波	xn,xn cu,bo	0
-徐湖平	gs,xx cm,mh yi,pi	0
 晚修	na,kh sl,fu	73
-朱跃军	mx,zh gm,sy ug,ju	0
 机酒	xx,ji ce,qj	35
 机鼻	xx,ji jb,qi	23
 灾前	pv,za gm,zq	3
 留港	hv,zb cr,ij	113
 登味	go,de kx,we	0
 短端	to,du gi,ld	23
-谢什科	lj,fx sp,sh on,pk	0
 长端	mq,dv gi,ld	20
 卡表	vv,qi;vv,ka ry,bi	59
 # 2026-09-18 新增：知乎热榜热词（人名/新闻简称，来自 zhihu_missing_2026-09-18 分词缺失词）
@@ -698,11 +663,8 @@ sort: by_weight
 若琳	rf,kr fx,li	3
 菲方	re,fe lf,an	3
 # 2026-09-19 新增：知乎热榜热词（人名/术语，来自 zhihu_missing_2026-09-19 分词缺失词）
-张子勇	xm,qv hz,i0 jo,oy	1
 缩至	up,sn qj,bz	8
 # 2026-09-20 新增：知乎热榜热词（人名，来自 zhihu_missing_2026-09-20 分词缺失词）
-冯禧	nw,fe vo,kx	0
-谢欣	lj,fx xs,xi	5
 # 2026-09-21 新增：知乎热榜热词（人物名/术语/新闻与网络简称，来自 zhihu_missing_2026-09-21 分词缺失词）
 敬妃	ra,kf aj,fe	43
 留役	hv,zb gx,fy	0
@@ -740,7 +702,6 @@ sort: by_weight
 崇佛	ip,vc sx,if	8
 开季	qr,ka oh,ji	34
 根腐	xf,yg hs,fs	2
-王仲方	fw,an sk,lz lf,an	0
 直联	pt,zh jg,sl	26
 空饷	pd,ko om,uk	13
 竞合	gk,hj sk,he;sk,ge	74
@@ -789,7 +750,6 @@ sort: by_weight
 本调	xb,en lu,bk	128
 崩三	im,mb es,an	111
 比冲	hb,i0 nk,lc	198
-毕赣	hp,bi gn,fa	128
 边裁	og,bi pz,yc	124
 表活	ry,bi cl,kh	175
 表径	ry,bi gc,dj	107
@@ -829,12 +789,6 @@ sort: by_weight
 超纤	gz,kc ul,xi;ul,qi	133
 车评	gj,u0;gc,he ly,ip	186
 车万	gj,u0;gc,he lw,an;lm,o0	151
-谌龙	lt,dc wm,lo	109
-陈梦	iu,ic xn,me	163
-陈念	iu,ic mj,ni	283
-陈识	iu,ic lk,iz;lk,is	288
-陈汤	iu,ic cd,mm	123
-陈余	iu,ic sx,yu	113
 成帝	z0,00;zd,ch yu,yd	115
 成键	z0,00;zd,ch zf,dg	402
 成膜	z0,00;zd,ch mr,ns	111
@@ -870,7 +824,6 @@ sort: by_weight
 德皇	gp,oj cf,hu	130
 德日	gp,oj nr,i0	123
 登哥	go,de ok,ok	148
-邓伦	fi,de ss,hl	109
 帝舵	yu,yd gp,hd	166
 低杆	sh,uv xy,ga	111
 地景	b0,00;bl,di np,ij	205
@@ -881,8 +834,6 @@ sort: by_weight
 电通	nd,di jo,gt	100
 点校	vk,vd xy,rx;xy,rj	121
 电院	nd,di ip,qh	129
-丁蟹	od,in ao,ze	112
-丁修	od,in sl,fu	127
 冬堡	fn,do sk,xb	112
 动保	no,do sk,xb	133
 动捕	no,do db,bu	166
@@ -892,20 +843,17 @@ sort: by_weight
 肚财	mb,du aq,lm	171
 都乐	hn,id hi,yu;hi,le	106
 杜伦	xb,du ss,hl	117
-杜尚	xb,du is,ha	201
 毒唯	ra,du ke,we	132
 端侧	gi,ld sa,zc	28
 短融	to,du ku,ge	111
 二刺	we,r0 xu,zc	127
 二发	we,r0 df,vf	151
 二清	we,r0 cr,mq	148
-樊登	xr,rs go,de	186
 帆高	yx,fa pu,kg	203
 梵几	xx,fa xj,i0	189
 反键	hf,fa zf,dg	126
 帆软	yx,fa gs,ru	133
 翻硕	oi,bu ff,as	118
-范遥	rc,jf eo,gy	144
 方波	lf,an cu,bo	172
 放克	lf,fa mh,ke	180
 费纳	xi,af uu,sn	116
@@ -933,7 +881,6 @@ sort: by_weight
 冈伦	ur,ga ss,hl	140
 高代	pu,kg su,da	122
 高弹	pu,kg xi,ot;xi,od	125
-高迪	pu,kg bg,di	170
 高瓴	pu,kg mv,ol	121
 高魔	pu,kg hx,cj	229
 高杉	pu,kg xu,sh	177
@@ -968,7 +915,6 @@ sort: by_weight
 海本	ct,ah xb,en	149
 海拉	ct,ah dg,la	110
 韩餐	pn,dd vn,fo	127
-韩琛	pn,dd fu,ix	140
 喝法	kn,ad cb,jf	293
 黑腐	vh,ei hs,fs	115
 黑塞	vh,ei pr,ib	193
@@ -977,7 +923,6 @@ sort: by_weight
 后朋	hk,ho mm,pe	132
 后验	hk,ho ws,ya	141
 护戒	dp,hu zr,ji	125
-胡万	mm,hu lw,an;lm,o0	394
 华帝	sh,ph yu,yd	137
 花胶	rs,hh my,rj	155
 华米	sh,ph om,i0	102
@@ -985,7 +930,6 @@ sort: by_weight
 患方	kk,lj lf,an	132
 环量	fi,hu ny,wl	150
 荒川	rl,ch cc,hu	103
-黄昆	rb,ih nh,ku	156
 荒木	rl,ch xm,u0	144
 回坑	kh,ui bl,xk	118
 惠人	uj,hu sr,en	221
@@ -993,7 +937,6 @@ sort: by_weight
 继保	uo,dj sk,xb	140
 机盖	xx,ji wo,ge;wo,ga	144
 棘龙	xu,xu wm,lo	100
-吉鲁	bk,ji qn,lu	155
 基纽	tb,ji ud,bn	210
 基矢	tb,ji ts,hi	104
 机试	xx,ji lu,ds	110
@@ -1006,7 +949,6 @@ sort: by_weight
 健哥	sf,dg ok,ok	261
 肩键	pm,ji zf,dg	114
 肩袖	pm,ji yb,xi	126
-蒋凡	rt,nf xf,an	286
 角川	ao,ju;ao,ji cc,hu	151
 狡啮	wy,rj kj,ni	196
 校色	xy,rx;xy,rj aw,sh;aw,se	135
@@ -1042,14 +984,12 @@ sort: by_weight
 抗敏	dl,xk ta,fm	160
 考虫	hk,ka ec,ho	107
 考频	hk,ka gg,fa	156
-柯本	xo,kk xb,en	188
 刻滑	lz,ke cj,hu	132
 刻奇	lz,ke so,kq;so,kj	345
 课设	ln,xk lx,fs	111
 坑产	bl,xk gm,ch	128
 空净	pd,ko na,fl	102
 空性	pd,ko jh,xi	114
-寇森	pq,hf xx,se	190
 库卡	hg,ku vv,qi;vv,ka	128
 跨校	gs,qk xy,rx;xy,rj	125
 宽客	pr,uh pf,kk	106
@@ -1064,14 +1004,10 @@ sort: by_weight
 烂事	vg,wl kf,ls	110
 烂俗	vg,wl si,sk	139
 郎导	vf,ji jf,da	377
-乐佩	hi,yu;hi,le sx,qy	121
 雷点	nb,le vk,vd	149
 雷总	nb,le ik,jz	213
 离焦	li,wl ev,ji	135
-黎笋	oa,mc tf,su	122
 力线	ol,i0 uz,xi	124
-李现	xh,li fu,hx	135
-李想	xh,li xj,jx	136
 离域	li,wl bz,kq	131
 连段	gg,li rx,fd	188
 廉航	hg,fv gl,xh	175
@@ -1086,20 +1022,15 @@ sort: by_weight
 流媒	cl,jc ar,wx	180
 流心	cl,jc jx,in	112
 六学	yl,iu iu,hx	112
-龙且	wm,lo tq,ie	202
 路感	gf,kl zk,jg	131
-卢尼	vh,lu hh,ni	158
 陆权	id,il xf,qu	104
 路书	gf,kl dd,lv	104
-陆议	id,il lv,ry	126
-罗根	on,lu xf,yg	183
 罗总	on,lu ik,jz	123
 绿魔	uf,cl hx,cj	138
 绿幕	uf,cl rn,sy	172
 率土	lu,cp bt,u0	118
 略磨	bf,kl hx,fm	180
 马院	wm,a0 ip,qh	113
-马兆	wm,a0 hc,zh	125
 买人	dj,ma sr,en	168
 迈瑞	lg,ma fi,lr	109
 迈雅	lg,ma je,ya	204
@@ -1139,7 +1070,6 @@ sort: by_weight
 南法	pu,gp cb,jf	109
 南淮	pu,gp ce,hu	176
 南科	pu,gp on,pk	112
-南烈	pu,gp jz,vl	199
 南移	pu,gp on,ny	122
 南艺	pu,gp rd,yi	101
 内馅	us,ne oa,bx	126
@@ -1155,8 +1085,6 @@ sort: by_weight
 帕南	yc,pa pu,gp	168
 旁友	yu,lp ff,yo	151
 配土	eq,jp bt,u0	175
-裴炎	ey,pe vv,ya	192
-彭磊	ou,pe ff,fl	334
 朋也	mm,pe l0,00;ly,e0	173
 皮料	up,i0 on,pl	152
 僻义	sh,kp vr,yi	110
@@ -1261,7 +1189,6 @@ sort: by_weight
 水膜	cs,hu mr,ns	104
 水硕	cs,hu ff,as	158
 颂莲	ij,fa rg,gl	166
-苏东	ro,is ui,do	158
 苏牙	ro,is jy,a0	346
 肃宗	fi,is pv,zo	160
 碎星	fl,sp nh,xi	121
@@ -1285,7 +1212,6 @@ sort: by_weight
 田冈	bt,ia ur,ga	177
 天基	nt,ia tb,ji	144
 甜区	lk,rw ir,qu;ir,ou	192
-田言	bt,ia ly,an	401
 条索	fx,ti pu,us	123
 跳戏	gh,ct fz,xi	139
 头哥	jt,ou ok,ok	101
@@ -1301,9 +1227,7 @@ sort: by_weight
 陀氏	ip,ht hu,zh;hu,sh	111
 拖影	dt,lt np,iu	141
 外所	nv,wa hi,xs	108
-王弗	fw,an xi,fu	210
 网教	ur,rw hh,fj	185
-王进	fw,an wi,gj	110
 网龙	ur,rw wm,lo	114
 网配	ur,rw eq,jp	163
 网杀	ur,rw rx,sh	112
@@ -1352,8 +1276,6 @@ sort: by_weight
 晓说	nu,mh li,kh	135
 小斯	ix,ia tx,si	209
 小物	ix,ia wy,wu	148
-谢怜	lj,fx jm,vl	133
-谢林	lj,fx xl,in	122
 信创	sl,xi sj,zc	154
 新户	gx,xx ph,u0	119
 信野	sl,xi yw,fy	180
@@ -1371,7 +1293,6 @@ sort: by_weight
 学段	iu,hx rx,fd	141
 雪服	nf,xu mj,ff	109
 雪具	nf,xu ti,ju	129
-薛绍	rm,ip uz,ks	122
 雪友	nf,xu ff,yo	113
 压暗	hb,vy ng,na	100
 牙叔	jy,a0 vi,fs	119
@@ -1379,35 +1300,28 @@ sort: by_weight
 烟点	vk,sy vk,vd	176
 颜粉	gm,ua oi,zf	103
 验机	ws,ya xx,ji	127
-颜路	gm,ua gf,kl	101
 验配	ws,ya eq,jp	119
 岩田	if,ya bt,ia	120
 眼头	jf,yy jt,ou	131
 仰拍	sh,jy dc,pa	104
-杨雄	xd,mm fj,ex	116
 叶插	kp,ye;kp,xi dl,bc	134
 野吹	yw,fy ks,ch	104
 叶底	kp,ye;kp,xi hh,uv	204
 野格	yw,fy xf,kg	130
 夜王	ls,nv fw,an	169
-叶修	kp,ye;kp,xi sl,fu	151
-叶芝	kp,ye;kp,xi rg,zh	126
 壹伴	bu,oy si,db	173
 一财	q0,00;qy,i0 aq,lm	116
 衣长	yy,i0 mq,dv	137
 易车	ny,yi gj,u0;gc,he	148
-伊戈	sf,yi zg,e0	154
 医工	it,yi dg,on	168
 亿航	sd,yi gl,xh	149
 亿健	sd,yi sf,dg	216
 异尖	jr,yi is,ji	118
 翼尖	ub,ri is,ji	152
-伊角	sf,yi ao,ju;ao,ji	114
 依萍	sy,yi rc,yi	136
 遗式	kl,qg ud,sh	155
 宜信	pt,yi sl,xi	132
 一造	q0,00;qy,i0 wk,gz	125
-殷离	hf,df li,wl	151
 音墙	gn,yi bp,gk	132
 银桑	zf,yy ff,fx	321
 银手	zf,yy ds,ho	303
@@ -1432,7 +1346,6 @@ sort: by_weight
 御田	gt,qj bt,ia	168
 鱼柱	qy,u0 xv,fz	156
 院队	ip,qh is,du	103
-袁华	bk,yy sh,ph	292
 原贴	hc,iy av,kt	158
 月线	my,ue uz,xi	129
 运化	ng,yu sh,hu	152
@@ -1453,13 +1366,11 @@ sort: by_weight
 折跃	dx,zh;dx,sh gm,sy	116
 哲宗	dx,kz pv,zo	139
 真力	pt,iz ol,i0	114
-甄洛	eb,oz cf,kl	170
 真物	pt,iz wy,wu	176
 真宵	pt,iz pi,mx	175
 争顶	af,lz of,ad	102
 正峰	gz,he if,el	217
 正焕	gz,he va,us	285
-郑娟	gs,iz ak,mj	108
 治法	cj,kz cb,jf	200
 置景	op,tz np,ij	126
 智控	tk,nz dp,dk	122
@@ -1467,7 +1378,6 @@ sort: by_weight
 纸书	uh,uz dd,lv	130
 智爷	tk,nz ir,jy	109
 中特	k0,00;kl,zh wb,ft	158
-周洋	ub,kz cw,ya	191
 注电	cv,fz nd,di	175
 柱间	xv,fz pn,ji	144
 主美	vf,zh ws,me	142
@@ -1499,7 +1409,6 @@ sort: by_weight
 癌栓	hk,ki xs,fs	55
 癌痛	hk,ki hj,ot	80
 安胖	pa,an mi,dp	98
-安溥	pa,an cb,fp	97
 安史	pa,an kr,sh	82
 昂撒	nh,ja dr,mf	83
 奥恩	mu,os ks,je	52
@@ -1559,7 +1468,6 @@ sort: by_weight
 避战	hk,gg vk,zz	82
 蝙超	ep,ur gz,kc	63
 边柜	og,bi xi,ij;xi,ig	61
-边沁	og,bi cj,qi	54
 扁肉	pu,rp;pu,rb us,sr	69
 边形	og,bi qr,ux	50
 变砖	lv,fb fu,zh	58
@@ -1613,10 +1521,8 @@ sort: by_weight
 车品	gj,u0;gc,he kk,kp	59
 车托	gj,u0;gc,he dm,ut	50
 辰东	nc,he ui,do	82
-陈欧	iu,ic ir,so	95
 陈香	iu,ic on,xi	69
 趁夜	gs,uc ls,nv	50
-程维	ok,fc ue,we	86
 城限	bz,dc if,yx	99
 成株	z0,00;zd,ch xm,xz	67
 池袋	cl,ch su,yd	56
@@ -1632,7 +1538,6 @@ sort: by_weight
 出坑	r0,00;ri,ch bl,xk	80
 出汤	r0,00;ri,ch cd,mm	56
 出膛	r0,00;ri,ch mi,bt	55
-褚赢	yh,nc lm,ax	88
 川皇	cc,hu cf,hu	98
 传接	su,zh;su,ch dg,aj	89
 川农	cc,hu uy,no	64
@@ -1657,7 +1562,6 @@ sort: by_weight
 催单	si,ec io,sh;io,da	61
 催付	si,ec sf,fu	50
 崔克	ie,cu mh,ke	63
-崔泽	ie,cu cf,dz	96
 寸屏	fc,un hg,rp;hg,rb	98
 村小	xf,cu ix,ia	62
 打标	do,da xv,bi	57
@@ -1725,7 +1629,6 @@ sort: by_weight
 顶置	of,ad op,tz	63
 丢勒	lq,jd uo,le	59
 动科	no,do on,pk	63
-董平	rl,nw yi,pi	88
 东迁	ui,do lg,qi	90
 东师	ui,do iq,ys	94
 斗柜	np,do xi,ij;xi,ig	85
@@ -1784,7 +1687,6 @@ sort: by_weight
 飞单	ef,ei io,sh;io,da	55
 扉间	pe,fe pn,ji	68
 非晶	ef,ei nn,nj	85
-费马	xi,af wm,a0	70
 菲迷	re,fe og,mi	59
 废奴	hd,fv af,nu	63
 匪气	ie,fe nq,i0	68
@@ -1810,7 +1712,6 @@ sort: by_weight
 复映	tn,ff nu,sy	59
 服主	mj,ff vf,zh	52
 改车	jf,ga gj,u0;gc,he	57
-盖蒂	wo,ge;wo,ga ry,uy	89
 概统	xf,jh ul,jh	59
 改宗	jf,ga pv,zo	56
 干拌	yg,an di,db	53
@@ -1833,7 +1734,6 @@ sort: by_weight
 高坠	pu,kg is,bz	50
 个险	t0,00;tg,e0 is,xi	63
 跟防	gf,yg il,fa	59
-耿浩	jv,ge cw,kh	85
 耕战	ow,ig vk,zz	56
 弓臂	xg,on hk,gm	56
 共病	ri,go hq,us	89
@@ -1980,8 +1880,6 @@ sort: by_weight
 键型	zf,dg qr,zb	50
 减盐	nz,kj bv,oy	83
 桨频	tn,xj gg,fa	86
-蒋勋	rt,nf ka,ox	94
-蒋英	rt,nf ru,sy	89
 讲者	lw,ij hn,zh	56
 交强	yr,ji xk,eq;xk,ej	51
 脚贴	mb,jj av,kt	63
@@ -2044,7 +1942,6 @@ sort: by_weight
 客战	pf,kk vk,zz	50
 空窗	pd,ko pm,kn	85
 控价	dp,dk ss,ij	70
-孔卡	hd,ko vv,qi;vv,ka	99
 空天	pd,ko nt,ia	81
 空炸	pd,ko vt,lw	62
 跨店	gs,qk hv,kd	54
@@ -2253,7 +2150,6 @@ sort: by_weight
 朴朴	xv,pu;xv,po xv,pu;xv,po	80
 普心	gr,np jx,in	64
 气感	nq,i0 zk,jg	50
-齐衡	li,qi gq,sg	84
 棋界	xt,qi bs,ij	61
 弃猫	lj,rq wr,bm	69
 七普	uq,i0 gr,np	57
@@ -2283,7 +2179,6 @@ sort: by_weight
 抢课	ds,jq ln,xk	55
 枪迷	xs,jq og,mi	86
 抢食	ds,jq os,hi	81
-乔托	ms,iq dm,ut	81
 秦吏	es,oq kr,li	51
 琴箱	ff,mq tx,jx	82
 琴型	ff,mq qr,zb	68
@@ -2436,9 +2331,7 @@ sort: by_weight
 四专	rs,i0 uz,hu	87
 宿华	ps,fn sh,ph	90
 速览	xk,gs jt,uh	55
-苏烈	ro,is jz,vl	80
 速热	xk,gs do,vr	98
-苏颂	ro,is ij,fa	52
 速弹	xk,gs xi,ot;xi,od	90
 素体	ru,su sx,ti	63
 苏修	ro,is sl,fu	80
@@ -2469,7 +2362,6 @@ sort: by_weight
 甜白	lk,rw cb,ai	52
 天胡	nt,ia mm,hu	69
 天能	nt,ia j0,00;jm,hh	88
-田荣	bt,ia ru,xr	92
 天舟	nt,ia gz,ho	91
 条框	fx,ti xi,fk	56
 跳音	gh,ct gn,yi	59
@@ -2516,7 +2408,6 @@ sort: by_weight
 尾单	hu,yi;hu,we io,sh;io,da	50
 危废	ah,jw hd,fv	53
 位份	sg,we si,zf	57
-卫宫	jq,we pk,kg	54
 伪距	sv,ov gi,ij	59
 威朗	za,we vf,jm	62
 魏牌	oa,cj tc,lp	50
@@ -2601,7 +2492,6 @@ sort: by_weight
 秀策	ol,xi tx,uc	59
 续班	up,dj fi,fb	58
 续报	up,dj dj,fb	92
-宣姜	pq,nx wa,ji	69
 血包	mo,xu;mo,xi aj,ba	89
 雪宝	nf,xu pf,vb	89
 血钾	mo,xu;mo,xi zy,ji	61
@@ -2643,7 +2533,6 @@ sort: by_weight
 椅脚	xs,ok mb,jj	58
 意军	gn,jy ug,ju	50
 医考	it,yi hk,ka	58
-伊姆	sf,yi aa,mu	83
 遗鸥	kl,qg ir,eo	50
 易武	ny,yi qu,gw	62
 医械	it,yi xz,rx	56
@@ -2713,15 +2602,12 @@ sort: by_weight
 占点	vk,zh vk,vd	68
 詹黑	ah,il vh,ei	69
 站会	gv,kz sn,ku;sn,hu	83
-詹俊	ah,il sj,if	93
 詹眉	ah,il hl,jm	85
 战象	vk,zz ak,wx	50
-赵盾	gr,zh hp,jd	90
 招飞	dz,kz ef,ei	60
 找矿	dz,zh fh,ku	57
 找虐	dz,zh wi,qn	96
 照烧	nz,kv vu,mh	51
-赵雍	gr,zh lu,ey	86
 浙传	cd,xz su,zh;su,ch	69
 褶线	yu,cz uz,xi	60
 真粉	pt,iz oi,zf	56
@@ -2757,7 +2643,6 @@ sort: by_weight
 周测	ub,kz ca,zc	91
 轴体	gb,zh sx,ti	64
 舟游	gz,ho cl,th	81
-周源	ub,kz ch,ci	88
 驻村	wv,fz xf,cu	63
 主防	vf,zh il,fa	86
 主刊	vf,zh yz,ka	56
@@ -2774,7 +2659,6 @@ sort: by_weight
 转势	gu,zh do,os	82
 撞款	dg,yw bv,sk	54
 浊化	ce,zh sh,hu	50
-卓伟	vn,zh sd,dw	94
 自刀	jz,i0 zd,ao	80
 自渡	jz,i0 ch,rf	58
 自机	jz,i0 xx,ji	90
@@ -2809,7 +2693,6 @@ sort: by_weight
 多半儿	nn,du id,ba he,r0	3
 强运	xk,eq;xk,ej ng,yu	16
 洛奥	cf,kl mu,os	0
-潘展乐	co,ib hr,yz hi,yu;hi,le	0
 苏福省	ro,is vk,bf ij,xi;ij,sh	0
 钳产	zr,wq gm,ch	0
 顶锅	of,ad zk,us	26
@@ -2818,16 +2701,9 @@ sort: by_weight
 # 2026-09-22 补：漏屎（用户指定）
 漏屎	ch,nl ho,sh	1
 # 2026-09-23 新增：知乎热榜热词（人物名/封神演义与丹道术语/历史地名/品牌与技术简称，来自 zhihu_missing_2026-09-23 分词缺失词）
-王占金	fw,an vk,zh zj,in	0
-李涯	xh,li ch,bb	9
 鹿姐	wl,u0 at,ji	0
 翠平	ul,sp yi,pi	3
-敖光	ra,fa ih,gu	0
-李艮	xh,li fy,ge	0
 殷氏	hf,df hu,zh;hu,sh	13
-殷洪	hf,df cr,ih	0
-余化	sx,yu sh,hu	1
-高继能	pu,kg uo,dj j0,00;jm,hh	0
 丹道	ul,da gj,gd	19
 凡胎	xf,an mj,kt	35
 心猿	jx,in wb,ky	13
@@ -2857,9 +2733,7 @@ sort: by_weight
 # 2026-09-26 新增：知乎热榜热词（人物名/体育术语/教育术语/封神演义与西游记术语/饮食与网络用语，来自 zhihu_missing_2026-09-26 分词缺失词）
 台儿沟	jk,ta he,r0 ca,jg	0
 汶颂	cl,we ij,fa	0
-卢特尼克	vh,lu wb,ft hh,ni mh,ke	0
 凤娇	xf,fe am,si	0
-李李	xh,li xh,li	18
 综高派	up,vz pu,kg ch,my	0
 综高	up,vz pu,kg	0
 普职	gr,np jk,iz	2
@@ -2868,9 +2742,7 @@ sort: by_weight
 二单	we,r0 io,sh;io,da	50
 团赛	kq,lm pr,ia	1
 恶用	qr,jw;qr,je oy,on	3
-李琦	xh,li fs,ok	41
 普里查扬	gr,np y0,00;yw,li xn,zh;xn,ch dd,mm	0
-王朱悦	fw,an mx,zh ji,kh	0
 短保	to,du sk,xb	13
 纯咸	ur,ch zk,xi	0
 东厅	ui,do ho,ti	4
@@ -2880,20 +2752,16 @@ sort: by_weight
 冤愆	ua,kv gc,gj	0
 分功	iz,fe do,go	7
 华策	sh,ph tx,uc	31
-卢美琳	vh,lu ws,me fx,li	0
 咸党	zk,xi ih,da	21
 咸点	zk,xi vk,vd	4
 多枪制	nn,du xs,jq wu,zz	1
 夺牌	sf,du tc,lp	48
 台内	jk,ta us,ne	17
 提浆	dn,gt;dn,gd tn,cj	0
-曾克理	ik,in mh,ke fy,wl	0
 爱菊	eu,ff ra,oj	3
 玄功	lu,xu do,go	13
 现烤	fu,hx vh,kk	48
-章亦君	gn,zh lv,yi fk,ju	0
 美空	ws,me pd,ko	32
-肖奈	im,xi sv,na	5
 苔条	rj,kt fx,ti	5
 茶居	rs,xc hm,ju	2
 解化	ao,zw sh,hu	0
@@ -2908,8 +2776,6 @@ sort: by_weight
 硬坎	fq,nr bs,ka	0
 # 2026-09-27 新增：知乎热榜热词（影视人物与机构名/蹄类演化术语/生物与天文术语/饮食与网络用语，来自 zhihu_missing_2026-09-27 分词缺失词）
 明典	nm,mi ur,id	3
-边居寒	og,bi hm,ju pr,in	0
-井有正	wi,ji fm,yo gz,he	0
 蹄靴	gy,uy us,hx	0
 人蹄	sr,en gy,uy	0
 有蹄	fm,yo gy,uy	2
@@ -2951,9 +2817,7 @@ sort: by_weight
 装反	tb,yz hf,fa	11
 西康	ex,i0 hf,ck	19
 # 2026-09-28 新增：知乎热榜热词（影视人物与机构名/国际时事与网络用语/生物与天文术语/科技与饮食用语，来自 zhihu_missing_2026-09-28 分词缺失词）
-吕宗方	kk,lv pv,zo lf,an	0
 左蓝	fd,zu rj,to	3
-马奎	wm,a0 sb,bk	13
 冯剑	nw,fe sz,ji	1
 二保小	we,r0 sk,xb ix,ia	0
 归建	if,gu fd,gj	6
@@ -2999,7 +2863,6 @@ sort: by_weight
 耐饿	lf,na om,dv	15
 软乎	gs,ru mg,lh	20
 张雪	xm,qv nf,xu	24
-杨角风	xd,mm ao,ju;ao,ji xr,fe	1
 布东戈	fy,bu ui,do zg,e0	0
 边保	og,bi sk,xb	0
 跨代	gs,qk su,da	60
@@ -3011,10 +2874,8 @@ sort: by_weight
 舞见	tr,jg uh,xi;uh,ji	13
 乌角鲨	ad,qw ao,ju;ao,ji ci,qs	0
 # 2026-09-29 新增：知乎热榜热词（体育人物与教练名/网络昵称/金融监管与车务术语/历史军事与武术术语，来自 zhihu_missing_2026-09-29 分词缺失词）
-任少芬	sl,qr is,ha ri,zf	0
 队短	is,du to,du	16
 苟局	ra,kg hd,kj	10
-李矛	xh,li fm,ma	4
 白户	cb,ai ph,u0	28
 背户	th,mb ph,u0	8
 金监	zj,in jt,oj	0
@@ -3022,18 +2883,11 @@ sort: by_weight
 批贷	dh,pi su,ad	11
 泳队	cv,dc is,du	11
 身管	js,he tp,ig	31
-郑刚	gs,iz ur,zg	66
 闯禁	pw,ch xv,ji	1
 鞭锏	us,qr zp,nj	6
 # 2026-09-30 新增：知乎热榜热词（明末历史人物与科技人物名/古建访古与文史术语/网络航空与金融房产用语，来自 zhihu_missing_2026-09-30 分词缺失词）
-侯峒曾	si,th iu,kt;iu,kd ik,in	0
-侯岐曾	si,th ip,fq ik,in	0
-黄渊耀	rb,ih ci,oy ih,ue	0
-季逸超	oh,ji ak,hg gz,kc	1
-罗福莉	on,lu vk,bf ro,zl	0
 肖弘	im,xi xj,ho	1
 栾剑	lv,xl sz,ji	2
-陈妤颉	iu,ic af,yu bk,fa	0
 窟区	ph,ri ir,qu;ir,ou	4
 券门	gs,zx;gs,zq pm,en	7
 塔基	br,sk tb,ji	64
@@ -3054,13 +2908,11 @@ sort: by_weight
 去化	bj,qu sh,hu	46
 转盈	gu,zh lf,oy	4
 # 2026-10-01 新增：知乎热榜热词（文学人物名与媒体/网络博主名，来自 zhihu_missing_2026-10-01 分词缺失词）
-周吉婕	ub,kz bk,ji aq,fg	1
 文春	lw,en es,nc	21
 星无	nh,xi wh,wu;wh,mo	0
 # 2026-10-02 新增：知乎热榜热词（交通驾驶与新闻用语/漫画家名/文本用语，来自 zhihu_missing_2026-10-02 分词缺失词）
 别车	ko,zb gj,u0;gc,he	26
 压速	hb,vy xk,gs	1
-夏达	fj,fx sg,da	57
 外电报道	nv,wa nd,di dj,fb gj,gd	0
 文内	lw,en us,ne	56
 # 2026-10-03 新增：知乎热榜热词（新闻媒体名，来自 zhihu_missing_2026-10-03 分词缺失词）
@@ -3071,10 +2923,8 @@ sort: by_weight
 官帑	pi,gu af,yt	0
 幻刃	ud,hu zv,re	5
 正刊	gz,he yz,ka	73
-陈佳	iu,ic sb,bj	27
 # 2026-10-05 新增：知乎热榜热词（地名/人物名/经济与航运用语，来自 zhihu_missing_2026-10-05 分词缺失词）
 库皮扬斯克	hg,ku up,i0 dd,mm tx,si mh,ke	0
-沈伯洋	cu,hs sc,bo;sc,ba cw,ya	0
 油运	cb,yo ng,yu	10
 # 2026-10-07 新增：知乎热榜热词（科技术语/时政经济用语/人物名，来自 zhihu_missing_2026-10-07 分词缺失词）
 三值	es,an sp,tz	6
@@ -3090,7 +2940,6 @@ sort: by_weight
 嘴替	kg,ho ws,wn	10
 退意	fy,gt gn,jy	18
 长戟	mq,dv pn,zj	34
-牟倩文	jw,mu;jw,mo sr,mq lw,en	0
 此沙	gh,ci ci,sh	0
 代露娃	su,da ng,fk ab,bw	0
 卤汤	vk,rl cd,mm	27
@@ -3103,9 +2952,6 @@ sort: by_weight
 缅军	ul,em ug,ju	5
 缅方	ul,em lf,an	3
 缅中	ul,em k0,00;kl,zh	3
-魏超仁	oa,cj gz,kc sw,re	2
-魏清涛	oa,cj cr,mq ce,mf	0
-明学昌	nm,mi iu,hx nn,ch	0
 丹穗	ul,da ou,js	0
 莫乔图	rn,sm ms,iq kf,nt	0
 莫艾河	rn,sm rr,yi;rr,ai co,kh	0
@@ -3123,10 +2969,6 @@ sort: by_weight
 时间槽	nf,sh pn,ji xr,nn	0
 诊查	ls,uz xn,zh;xn,ch	17
 首责	gj,sh ra,ze	1
-查拉耶娃	xn,zh;xn,ch dg,la ji,ye ab,bw	0
-王棋	fw,an xt,qi	4
-周铭	ub,kz zn,km	2
-王星	fw,an nh,xi	38
 深柜	cu,ix xi,ij;xi,ig	34
 联排	jg,sl de,pa	51
 担事	dn,da kf,ls	7
@@ -3134,15 +2976,11 @@ sort: by_weight
 电显	nd,di nr,xi	2
 汪达尔人	cf,wa sg,da ai,er sr,en	19
 # 2026-10-09 新增：知乎热榜热词（唐末与民国军政人物/国际人物与民族/汉服与时尚术语/体育与网络用语/生活与生物医药用语，来自 zhihu_missing_2026-10-09 分词缺失词）
-姚令言	ah,cy mv,li ly,an	0
-段文楚	rx,fd lw,en xd,gc	0
 荔非元礼	ro,oo ef,ei qh,yu vd,li	3
-毕自肃	hp,bi jz,i0 fi,is	0
 刘峙	lz,li ib,fz;ib,fs	27
 黄维	rb,ih ue,we	66
 凯申	ij,xk nl,sh	26
 蒋宋孔陈	rt,nf px,so hd,ko iu,ic	0
-骆明楷	wf,kl nm,mi xh,ck;xh,cj	0
 田湖	bt,ia cm,mh	1
 赫雷罗	bv,bv nb,le on,lu	0
 纳马人	uu,sn wm,a0 sr,en	0
@@ -3189,13 +3027,7 @@ sort: by_weight
 欧律斯透斯	ir,so gf,dl tx,si ol,gt tx,si	0
 摩涅莫绪涅	hx,dm cn,bn rn,sm uh,nx cn,bn	0
 阿尔克墨涅	io,ke;io,ka ai,er mh,ke vb,mo cn,bn	0
-欧律诺墨	ir,so gf,dl lr,fk vb,mo	0
 得洛斯	g0,00;gn,fd cf,kl tx,si	0
-杜进忠	xb,du wi,gj kl,jz	0
-宋进喜	px,so wi,gj ok,xi	0
-刘进喜	lz,li wi,gj ok,xi	0
-王库儿	fw,an hg,ku he,r0	0
-魏进忠	oa,cj wi,gj kl,jz	0
 京营	pi,ji ru,kk	22
 宫婢	pk,kg ac,lb	4
 闯宫	pw,ch pk,kg	5
@@ -3215,26 +3047,19 @@ sort: by_weight
 篡取	tj,sj jf,qu	12
 # 2026-10-12 新增：知乎热榜热词（明代宫廷史人物与术语/两宋文史与谥号/国漫影视与体育网络用语/化工与医学术语，来自 zhihu_missing_2026-10-12 分词缺失词）
 壮缪侯	tb,zh uu,su si,th	3
-林昭	xl,in nz,kz	17
 芬顿	ri,zf rf,ad	3
 辛几何	gp,xi xj,i0 so,kh	57
 郭爱	ph,ig eu,ff	2
-郭登	ph,ig go,de	3
-刘娥	lz,li am,dv	55
 妻眷	pf,aq gs,jj	0
 无冠	wh,wu;wh,mo uq,hf	114
-李婧	xh,li ar,mj	4
 熹宗	ok,vx pv,zo	34
 邵妃	zk,is aj,fe	0
 陈素	iu,ic ru,su	19
-仇远	so,qi;so,ch qh,gy	13
 内壮功	us,ne tb,zh do,go	0
 千问	lq,ia pk,we	3
-夏言	fj,fx ly,an	23
 失独	ts,sh we,du	25
 女教	an,v0 hh,fj	4
 宋末	px,so xm,o0	65
-张孚敬	xm,qv eh,fu ra,kf	1
 慈安	gu,uj pa,an	19
 憨货	dj,fj sh,ah	7
 扩店	dh,ku hv,kd	32
@@ -3249,7 +3074,6 @@ sort: by_weight
 脂醇	mh,nz eq,ph	2
 西李	ex,i0 xh,li	1
 谭斌	le,nt lq,ug	3
-赵星棠	gr,zh nh,xi ix,ta	0
 邓皇后	fi,de cf,hu hk,ho	0
 邓绥	fi,de ue,as	7
 释意	oi,fd gn,jy	28
@@ -3257,7 +3081,6 @@ sort: by_weight
 骨量	jg,u0 ny,wl	65
 魔丸	hx,cj ow,an	25
 魔童	hx,cj gy,wt	20
-黄媛介	rb,ih ae,wf si,ji	0
 # 2026-10-13 新增：知乎热榜热词（游戏与游戏社区用语/网文用语/生物防治与建筑环境术语/睡眠类型术语/汽车科技品牌与人物名，来自 zhihu_missing_2026-10-13 分词缺失词）
 卵卡	hv,mv vv,qi;vv,ka	0
 魂游	nc,hj cl,th	9
@@ -3280,7 +3103,6 @@ sort: by_weight
 晨型	nn,ch qr,zb	0
 曼娘	no,fm av,fy	2
 杀虫药剂	rx,sh ec,ho ru,av li,zj	0
-石昱莉	fs,hi;fd,an ng,yu ro,zl	0
 类魂	os,le nc,hj	6
 爆量	vn,rc ny,wl	45
 邓煜	fi,de vn,gy	2
@@ -3297,7 +3119,6 @@ sort: by_weight
 书桓	dd,lv xq,nh	58
 尔泰	ai,er es,ct	10
 蒙丹	ru,qw ul,da	2
-马伊俐	wm,a0 sf,yi so,zl	4
 吴祯	kn,wu vv,az	2
 施晗	lt,ls nm,kh	0
 武网	qu,gw ur,rw	3
@@ -3308,7 +3129,6 @@ sort: by_weight
 祁驴	vi,qi wp,lv	0
 突脸	pw,tu ms,li	48
 软辅	gs,ru gb,fu	66
-田柯宇	bt,ia xo,kk pw,ly	0
 五源	tw,u0 ch,ci	2
 判测胜券本征	id,zp ca,zc mh,sh gs,zx;gs,zq xb,en gg,zh	0
 姆伯莫	aa,mu sc,bo;sc,ba rn,sm	0
@@ -3336,7 +3156,6 @@ sort: by_weight
 炕屏	vl,xk hg,rp;hg,rb	0
 罪臣	oe,zu jc,he	28
 赞诗	wh,wa lb,fs	9
-吴亚存	kn,wu qr,ya fl,hc	0
 吴简	kn,wu tp,nj	44
 周妃	ub,kz aj,fe	5
 周忠	ub,kz kl,jz	6
@@ -3387,7 +3206,6 @@ sort: by_weight
 米特	om,i0 wb,ft	67
 夜盘	ls,nv go,pa	74
 日盘	nr,i0 go,pa	10
-崔添翼	ie,cu cn,jt ub,ri	3
 汪顺	cf,wa cf,as	14
 马人	wm,a0 sr,en	6
 漆床	cx,sc hx,ch	1
@@ -3399,7 +3217,6 @@ sort: by_weight
 官设	pi,gu lx,fs	34
 带外	rl,uy nv,wa	29
 舵面	gp,hd le,mi	79
-梁文锋	cz,ix lw,en zf,el	3
 殖人	jp,tz;jp,ts sr,en	26
 跳脸	gh,ct ms,li	38
 限消	if,yx ci,mx	4
@@ -3408,22 +3225,17 @@ sort: by_weight
 牢尹	pw,la fy,in	0
 盛帆	zd,os;zd,oc yx,fa	0
 丁奕	od,in lv,sy	0
-丁奕可	od,in lv,sy ok,ke	0
 两蒋	qu,ss rt,nf	9
 临江楼	jt,kl cd,ji xo,al	0
 水证	cs,hu lg,zh	3
 汀江	co,ti cd,ji	0
-丁善玺	od,in wg,ks ai,fv	0
 凤鸟	xf,fe en,ia	42
 刘劲	lz,li cd,oj	0
-史楚金	kr,sh xd,gc zj,in	0
 叶帅	kp,ye;kp,xi iy,sh	15
 大冰	sd,ai nc,bi	101
 姐俩	at,ji sq,us	21
-姚继荣	ah,cy uo,dj ru,xr	0
 小申	ix,ia nl,sh	3
 尾须	hu,yi;hu,we uf,ax	6
-李定保	xh,li pq,gd sk,xb	0
 极越	xl,vj gd,zy	0
 残碑	jz,ca fc,lb	18
 福里曼	vk,bf y0,00;yw,li no,fm	0
@@ -3455,12 +3267,9 @@ sort: by_weight
 卡段	vv,qi;vv,ka rx,fd	3
 厂队	hc,ha is,du	76
 双赛	ff,sh pr,ia	9
-叶志铭	kp,ye;kp,xi bj,zh zn,km	0
 国马	kf,vg wm,a0	1
 岳爷爷	ii,yu ir,jy ir,jy	18
 弃车	lj,rq gj,u0;gc,he	35
-徐冰洁	gs,xx nc,bi cb,kj	0
-徐若晗	gs,xx rf,kr nm,kh	0
 惨样	jj,su xw,ya	23
 抗振	dl,xk dn,zh	2
 摔车	dl,up gj,u0;gc,he	46
@@ -3487,7 +3296,6 @@ sort: by_weight
 零薪	nm,vl rg,xx	4
 飞图	ef,ei kf,nt	5
 餐碟	vn,fo fr,dx	15
-马杜埃凯	wm,a0 xb,du bj,ta ij,xk	3
 # 2026-10-20 新增：知乎热榜热词（博主与网络主播/三国与文史人物术语/半导体存储与股市用语/装修与医学及生活术语/艺术与俄餐饮食用语，来自 zhihu_missing_2026-10-20 分词缺失词）
 王扁	fw,an pu,rp;pu,rb	0
 齐枫	li,qi xx,rf	0
@@ -3565,14 +3373,12 @@ sort: by_weight
 吴芝	kn,wu rg,zh	0
 霍某	ne,hu rw,xm	2
 莫某	rn,sm rw,xm	7
-巴尔代拉	wb,a0 ai,er su,da dg,la	0
 复氧	tn,ff nw,ya	1
 安子	pa,an hz,i0	17
 矫臭	tm,si jw,xi;jw,ch	1
 马真塔	wm,a0 pt,iz br,sk	0
 玛德莲	fw,ma gp,oj rg,gl	1
 利摩日	oz,li hx,dm nr,i0	1
-黄伯央	rb,ih sc,bo;sc,ba us,ya	0
 左刚	fd,zu ur,zg	0
 梁圣	cz,ix fb,sh	0
 老詹	hh,la ah,il	0
@@ -3633,11 +3439,6 @@ sort: by_weight
 尤烈尔	wy,ou jz,vl ai,er	0
 曼因	no,fm ks,yi	1
 奥米	mu,os om,i0	24
-高叶	pu,kg kp,ye;kp,xi	2
-赵涛	gr,zh ce,mf	138
-邱祺缘	ii,qi vt,qi uw,wy	0
-卜庆启	vb,u0;vb,o0 hs,qi pk,qi	0
-潘家铮	co,ib pw,ji za,fl	1
 斯泰内	tx,si es,ct us,ne	0
 西摩	ex,i0 hx,dm	207
 鲁布革	qn,lu fy,bu ug,e0	0
@@ -3692,7 +3493,6 @@ sort: by_weight
 花螺	rs,hh eb,ul	22
 补赛	yv,bu pr,ia	25
 西太	ex,i0 sv,ta	29
-邓浩洪	fi,de cw,kh cr,ih	0
 长痛	mq,dv hj,ot	10
 鸭脯	ye,ya mb,pu;mb,fu	17
 丝麻	us,i0 hx,ma	8
@@ -3748,13 +3548,11 @@ sort: by_weight
 馆方	op,ig lf,an	12
 红迪	ud,ho bg,di	7
 拉张	dg,la xm,qv	9
-兰克尔泽	gw,la mh,ke ai,er cf,dz	0
 户子	ph,u0 hz,i0	10
 # 2026-10-24 新增：知乎热榜热词（时政军事与科技术语/人物名与网络用语/体育竞技/饮食烹饪/生活与经济术语，来自 zhihu_missing_2026-10-24 分词缺失词）
 涨租	cx,mv ot,zu	7
 插问	dl,bc pk,we	1
 冯朵	nw,fe xx,du	0
-包丽	aj,ba qu,vv	14
 千球	lq,ia fq,cv	3
 巴奥	wb,a0 mu,os	3
 打卷	do,da gs,jj	12
@@ -3779,7 +3577,6 @@ sort: by_weight
 散味	rm,fs kx,we	33
 新包	gx,xx aj,ba	13
 日装	nr,i0 tb,yz	0
-曾艳芬	ik,in el,aw ri,zf	0
 标黄	xv,bi rb,ih	26
 泽音	cf,dz gn,yi	0
 画崩	qb,ih im,mb	14
@@ -3793,7 +3590,6 @@ sort: by_weight
 赫格塞思	bv,bv xf,kg pr,ib bj,si	0
 铁誓	zt,st dx,ls	0
 锅热	zk,us do,vr	15
-陆婷	id,il ap,uo	1
 一鱼三吃	q0,00;qy,i0 qy,u0 es,an kt,dc	0
 恩塔	ks,je br,sk	0
 鸽鸽	sk,eg sk,eg	36
@@ -3814,21 +3610,14 @@ sort: by_weight
 碧潼	fc,fb cg,yw	17
 瓮津	ij,ow cf,dj	0
 驻朝	wv,fz pn,mz;pn,mc	9
-曹晚植	rn,nc na,kh xp,tz	0
-师哲	iq,ys dx,kz	4
-范祥	rc,jf vw,xi	2
 陶母	ia,ot am,u0	0
 湛氏	ct,dz hu,zh;hu,sh	1
-曾纪鸿	ik,in uj,ji cd,eh	4
-钱乃荣	zz,qi ln,ai ru,xr	3
 三电	es,an nd,di	83
 长协	mq,dv po,ix	4
 含锂	mk,ha zy,wl	4
 托位	dm,ut sg,we	0
 涉诈	cg,gs lt,lw	12
 成飞	z0,00;zd,ch ef,ei	35
-杨植麟	xd,mm xp,tz wo,ng	0
-陈宇森	iu,ic pw,ly xx,se	0
 东润	ui,do cp,fr	49
 东润杯	ui,do cp,fr xi,be	0
 三球	es,an fq,cv	185
@@ -3860,16 +3649,11 @@ sort: by_weight
 菲翔	re,fe wu,xi	5
 # 2026-10-26 新增：知乎热榜热词（时政选举/电影票房/游戏与电竞/篮球与足球/嗅觉科学/生活与消费，来自 zhihu_missing_2026-10-26 分词缺失词）
 武铁	qu,gw zt,st	1
-卢拉	vh,lu dg,la	13
 菜鹅	re,xc md,de	4
 库库	hg,ku hg,ku	20
 芸璐	rn,yu fg,fk	0
 卡烈	vv,qi;vv,ka jz,vl	0
 狼母	wv,fy am,u0	2
-解缙	ao,zw uq,rn	23
-张彻	xm,qv gu,zc	119
-李孟贤	xh,li ho,me jf,ax	0
-邓连松	fi,de gg,li xi,js	0
 甄家班	eb,oz pw,ji fi,fb	8
 两波	qu,ss cu,bo	250
 为质	vo,vw hp,az	59
@@ -3914,9 +3698,6 @@ sort: by_weight
 刘忍	lz,li zv,jr	0
 独撑	we,du di,dc	30
 # 2026-10-28 新增：知乎热榜热词（人物名/外交用语/科技热词，来自 zhihu_missing_2026-10-28 分词缺失词）
-吴正结	kn,wu gz,he ub,kj	0
-严柳晴	qr,my xh,mj nr,mq	0
-钟淑如	zk,lz cv,if ak,ru	0
 以媒	d0,00;dv,sy ar,wx	0
 欧方	ir,so lf,an	5
 玄戒	lu,xu zr,ji	0
@@ -3939,9 +3720,6 @@ sort: by_weight
 同乘	uk,to ot,hc	40
 评教	ly,ip hh,fj	33
 # 2026-11-03 新增：知乎热榜热词（人物名「侯卓成」「杨汝晴」「周沁瑶」，品牌名「鸿蒙智行」，常用词「开谈」，来自 zhihu_missing_2026-11-03 分词缺失词）
-侯卓成	si,th vn,zh z0,00;zd,ch	0
-杨汝晴	xd,mm ca,ru nr,mq	0
-周沁瑶	ub,kz cj,qi fe,oy	0
 鸿蒙智行	cd,eh ru,qw tk,nz gg,xi;gg,he	0
 开谈	qr,ka lv,vt	5
 # 2026-11-04 新增：知乎热榜热词（医学术语「心脏压塞」、团队名「永达智诚」、院校简称「鲁艺」、常用词「多省」「疑因」「预载」，来自 zhihu_missing_2026-11-04 分词缺失词）
@@ -3955,7 +3733,6 @@ sort: by_weight
 亚萨明	qr,ya ri,gm nm,mi	0
 # 2026-11-07 补录热词（时政安全「暴恐」、人物名「任冲昊」、通信常用词「来显」）
 暴恐	nr,ic dx,jk	37
-任冲昊	sl,qr nk,lc nn,ha	3
 来显	x0,00;xi,la nr,xi	5
 # 2026-11-08 新增：知乎热榜热词（原神与《影之刃零》角色/电竞与体育/军事枪械/超冷原子与生物/影视综艺人物/历史与网络用语，来自 zhihu_missing_2026-11-08 分词缺失词）
 达妮卡	sg,da ah,hn vv,qi;vv,ka	0
@@ -3976,12 +3753,7 @@ sort: by_weight
 闷平	pj,me yi,pi	14
 零冠	nm,vl uq,hf	2
 退排	fy,gt de,pa	0
-陈熠	iu,ic vu,cy	10
-胡荷韬	mm,hu rs,ok dd,eb	0
-马马杜	wm,a0 wm,a0 xb,du	0
 唐田	hf,lk bt,ia	0
-吴奕博	kn,wu lv,sy pb,fb	0
-刘畅	lz,li nl,dm	65
 备弹	fb,be xi,ot;xi,od	18
 突防	pw,tu il,fa	44
 节套	rj,ji su,ta	1
@@ -3996,15 +3768,11 @@ sort: by_weight
 剩谷	ot,hz is,kg	0
 灭雀	qv,mi ie,qu;ie,qi	0
 藏冰	rt,zj nc,bi	10
-李绮红	xh,li us,ok ud,ho	1
-梁其伟	cz,ix tq,i0 sd,dw	8
-宋年欢	px,so tg,ni fs,hu	0
 魏娆	oa,cj au,mh	0
 剧粉	hm,zj oi,zf	79
 组讯	ut,zu ld,px	0
 餐损	vn,fo dk,as	4
 七鲜	uq,i0 qw,xi	1
-金俗	zj,in si,sk	0
 老印	hh,la hq,jy	31
 老钟	hh,la zk,lz	144
 普帝	gr,np yu,yd	6
@@ -4033,11 +3801,9 @@ sort: by_weight
 石太线	fs,hi;fd,an sv,ta uz,xi	1
 张垣	xm,qv bq,ny	1
 崇简王	ip,vc tp,nj fw,an	0
-朱见泽	mx,zh uh,xi;uh,ji cf,dz	0
 村碑	xf,cu fc,lb	0
 竹匠	tz,hu ix,ji	1
 扇凉	pu,sh np,il	5
-牛耿	wn,iu jv,ge	6
 唐贵	hf,lk kl,qa	0
 花音	rs,hh gn,yi	12
 # 2026-11-10 新增：知乎热榜热词（秦陵考古与丧葬制度/儿童营养/畜牧养殖/网络用语/人物名，来自 zhihu_missing_2026-11-10 分词缺失词）
@@ -4053,12 +3819,9 @@ sort: by_weight
 爬跨台	ew,pa gs,qk jk,ta	0
 欧裔	ir,so yu,ik	41
 梅斯蒂索	xt,am tx,si ry,uy pu,us	0
-费登奎斯	xi,af go,de sb,bk tx,si	0
 降本增笑	if,gx;if,gj xb,en bi,kn tm,sx	0
 阿越	io,ke;io,ka gd,zy	2
 吴博	kn,wu pb,fb	0
-周军	ub,kz ug,ju	50
-付鹏	sf,fu mm,ep	63
 # 2026-11-11 新增：知乎热榜热词（企业/人口/粤语/影视人物/网络用语，来自 zhihu_missing_2026-11-11 分词缺失词）
 闻泰	pj,we es,ct	10
 达峰	sg,da if,el	40
@@ -4069,20 +3832,16 @@ sort: by_weight
 微焦	gi,qf ev,ji	38
 三低	es,an sh,uv	50
 改戏	jf,ga fz,xi	19
-程东	ok,fc ui,do	1
-贺炳炎	ok,ah vq,us vv,ya	0
 野核	yw,fy xl,hu;xl,he	46
 青稚	rm,qi oe,zh	24
 圈米	kg,sj om,i0	0
 硬造	fq,nr wk,gz	17
 # 2026-11-12 新增：知乎热榜热词（足球人物/手作玩具/食品工业/制造工艺/相声人物/神话角色/游戏角色/企业，来自 zhihu_missing_2026-11-12 分词缺失词）
-吴曦	kn,wu nw,ov	89
 拼豆	dg,rp od,ou	2
 拼豆店	dg,rp od,ou hv,kd	0
 菌数	rk,oj oa,fs	2
 劣变	io,li lv,fb	4
 错装	zr,nc tb,yz	3
-朱阔泉	mx,zh pc,lk cc,qu	2
 深沙神	cu,ix ci,sh vn,ls	1
 蛊鹤	eo,gu ue,eh	0
 恩喜村	ks,je ok,xi xf,cu	0
@@ -4091,7 +3850,6 @@ sort: by_weight
 墓群	rn,sb fk,wq	23
 维州	ue,we ic,zh	117
 范家庄	rc,jf pw,ji hb,zh	0
-黄佐临	rb,ih sf,dz jt,kl	3
 洛丽	cf,kl qu,vv	2
 曼伦	no,fm ss,hl	0
 瞬视	je,ug vu,hs	0
@@ -4110,13 +3868,9 @@ sort: by_weight
 百万漕工	fn,ba lw,an;lm,o0 cr,nn dg,on	0
 衣食所系	yy,i0 os,hi hi,xs mu,xi;mu,ji	0
 # 2026-11-14 新增：知乎热榜热词（影视人物/企业历史/金融航空/工艺文化/医疗口语，来自 zhihu_missing_2026-11-14 分词缺失词）
-文吉儿	lw,en bk,ji he,r0	5
 潘樾	co,ib xg,dz	0
-李凤	xh,li xf,fe	2
 基尔比	tb,ji ai,er hb,i0	11
-蓝鸿春	rj,to cd,eh es,nc	0
 维嘉	ue,we oo,kj	151
-麦林	rf,ma xl,in	13
 豆姐	od,ou at,ji	3
 世大	rd,sh sd,ai	6
 世大半导体	rd,sh sd,ai id,ba jf,da sx,ti	0
@@ -4143,10 +3897,8 @@ sort: by_weight
 推活	de,tu cl,kh	8
 # 2026-11-15 新增：知乎热榜热词（英雄联盟/影视人物/遗传统计/法律金融/游戏文化，来自 zhihu_missing_2026-11-15 分词缺失词）
 珀尔	fc,po ai,er	75
-卓定	vn,zh pq,gd	2
 尺帝	hv,ch yu,yd	10
 世一上	rd,sh q0,00;qy,i0 v0,00;vs,ha	0
-郑长符	gs,iz mq,dv ts,ff	0
 母鼠	am,u0 ws,hu	23
 幼鼠	uo,yo ws,hu	47
 年际	tg,ni iv,ji	5
@@ -4183,7 +3935,6 @@ sort: by_weight
 硬光	fq,nr ih,gu	48
 落幅	rc,fk yk,bf	20
 起幅	gj,qi yk,bf	18
-付义涵	sf,fu vr,yi ch,ci	0
 宫檐	pk,kg xa,hl	0
 尼子	hh,ni hz,i0	5
 暮风	rn,sn xr,fe	0
@@ -4208,12 +3959,10 @@ sort: by_weight
 墨珠	vb,mo fm,xz	0
 逮人	fc,gd sr,en	5
 # 2026-11-18 新增：知乎热榜热词（国足/Doggo 抢女友事件/LOL 主播/再见爱人/三国，来自 zhihu_missing_2026-11-18 分词缺失词）
-王钰栋	fw,an zf,vy xu,id	0
 庭米	hl,qg om,i0	0
 冠纬	uq,hf ud,dw	0
 咖哥	ko,kk;ko,kg ok,ok	7
 我勒个	m0,00;md,dv uo,le t0,00;tg,e0	28
-李行亮	xh,li gg,xi;gg,he pu,xl	8
 移宠	on,ny pw,mc	0
 # 2026-11-18 补充热词（董督/治孤/乳首）
 董督	rl,nw vi,fj	8
@@ -4283,7 +4032,6 @@ sort: by_weight
 坦博尔	bn,ta pb,fb ai,er	0
 # 水浒与佛学
 提辖	dn,gt;dn,gd gp,ek	25
-鲁提辖	qn,lu dn,gt;dn,gd gp,ek	22
 颂子	ij,fa hz,i0	0
 金绳	zj,in uk,nd	7
 玉锁	fv,yu zi,as	11
@@ -4303,7 +4051,6 @@ sort: by_weight
 非常设	ef,ei iy,ch lx,fs	1
 平独镇露	yi,pi we,du zp,ti ng,fk	16
 # 人物
-祝炜	vk,hz vd,dw	0
 # 2026-11-19 补充网络热词（破壁机梗）
 日的一声	nr,i0 c0,00;ca,vd q0,00;qy,i0 bh,ls	0
 打成糊糊	do,da z0,00;zd,ch om,mh om,mh	0
@@ -4334,9 +4081,7 @@ sort: by_weight
 西传	ex,i0 su,zh;su,ch	17
 # 人物
 傅仁昀	sb,ff sw,re na,ny	0
-关肇直	gs,gu pf,fd pt,zh	4
 王大令	fw,an sd,ai mv,li	2
-姚顺雨	ah,cy cf,as ny,u0	2
 韩援	pn,dd de,wf	13
 # 采暖与热泵
 热惰性	do,vr jf,dm jh,xi	2
@@ -4368,9 +4113,6 @@ sort: by_weight
 护肠	dp,hu md,mm	1
 掺毒	dj,su ra,du	4
 # 影视与人物
-成毅	z0,00;zd,ch gw,xf	25
-吴定缘	kn,wu pq,gd uw,wy	0
-苏荆溪	ro,is rq,rz ce,us	0
 # 地名
 尾道	hu,yi;hu,we gj,gd	21
 # 2026-11-21 补充：口语与数码用语
@@ -4378,20 +4120,12 @@ sort: by_weight
 软解	gs,ru ao,zw	26
 # 2026-11-22 新增：知乎热榜热词（影视与人物/饮食品牌/常用与网络用语，来自 zhihu_missing_2026-11-22 分词缺失词）
 # 影视与人物
-卞赫俊	vv,bi bv,bv sj,if	0
 京烁	pi,ji vh,is	0
-周晟安	ub,kz nz,dc pa,an	0
-宋知节	px,so tk,zh rj,ji	0
 徐牧	gs,xx wf,mu	0
 时穗	nf,sh ou,js	0
 智允	tk,nz jh,yu	1
-白清枚	cb,ai cr,mq xf,me	0
-钱小卉	zz,qi ix,ia pr,hu	0
-陈默	iu,ic vw,mo	59
 棍夫	xn,hg ws,fu	0
 # 人物
-宋欣桥	px,so xs,xi xm,si	0
-邝兆雷	hi,ku hc,zh nb,le	1
 # 饮食与品牌
 冰煮鲜羊	nc,bi hn,vz qw,xi wy,an	0
 天边羊多	nt,ia og,bi wy,an nn,du	0
@@ -4439,9 +4173,7 @@ sort: by_weight
 副绳	kb,zf uk,nd	0
 验错	ws,ya zr,nc	4
 博二	pb,fb we,r0	40
-庞众望	hw,mp ss,sz lm,fw	0
 王波	fw,an cu,bo	44
-林小枫	xl,in ix,ia xx,rf	0
 凝动	nh,tg no,do	0
 # 地名
 青岗岭	rm,qi iu,rg im,vl	0
@@ -4531,7 +4263,6 @@ sort: by_weight
 # 2026-11-24 新增：知乎热榜热词（时政与人物/科技与交通/金融/体育/影视/地名/社会与教育/常用与网络用语，来自 zhihu_missing_2026-11-24 分词缺失词）
 # 时政与人物
 麻某	hx,ma rw,xm	2
-闻会军	pj,we sn,ku;sn,hu ug,ju	0
 # 科技与交通
 供风	sr,ig xr,fe	9
 # 金融
@@ -4896,4 +4627,263 @@ sort: by_weight
 扭了扭	dd,bn h0,00;hl,ia dd,bn	0
 铍和硼	zu,pi o0,00;ok,hu fm,mp	0
 碳和氮	fi,fv o0,00;ok,hu nv,vd	0
+
+# 2026-11-25 新增：知乎热榜补充热词与容错读音
+# 时政与人物
+# 网络与游戏
+磊哥游戏	ff,fl ok,ok cl,th fz,xi	0
+磊哥	ff,fl ok,ok	43
+又是类魂	fy,ou n0,00;ng,sh os,le nc,hj	0
+双厨	ff,sh ho,fc	23
+# 开发与工具
+合入	sk,he;sk,ge mv,ru	14
+# 宗教与常用
+告解室	wk,ga ao,zw pq,jb	6
+告解	wk,ga ao,zw	30
+# 容错读音
+迫击炮	cg,po;cg,pa di,ji va,jp;va,jb	358
+
+# 2026-11-25 补充热词
+高市	pu,kg ly,sh	5
+
+# 2026-11-25 新增：MNBVC 知乎语料四字词（219 词，3 个人名移至 name.dict.yaml，4 个地名移至 place.dict.yaml）
+# 科技与数码
+翼尖小翼	ub,ri is,ji ix,ia ub,ri	0
+碳板跑鞋	fi,fv xh,fb ga,jp ub,bx	0
+摇杆漂移	de,oy xy,ga ce,vp on,ny	0
+飞梭旋钮	ef,ei xj,if lt,dg zd,bn	0
+倒易点阵	sq,jz ny,yi vk,vd ig,zh	0
+密度泛函	pj,mi hr,fd cm,gf hc,ih	0
+液氧煤油	cl,sv nw,ya vr,wx cb,yo	0
+曲率引擎	kr,qu lu,cp xl,yi ra,kd	0
+离线渲染	li,wl uz,xi cp,qn co,xr	0
+独显直连	we,du nr,xi pt,zh gg,li	0
+离线数仓	li,wl uz,xi oa,fs sj,ca	0
+光学取景	ih,gu iu,hx jf,qu np,ij	0
+眼控对焦	jf,yy dp,dk ff,du ev,ji	0
+峰值对焦	if,el sp,tz ff,du ev,ji	0
+黄斑对焦	rb,ih fl,fb ff,du ev,ji	0
+联动测距	jg,sl no,do ca,zc gi,ij	0
+双塔模型	ff,sh br,sk xr,ns qr,zb	0
+泛化误差	cm,gf sh,hu lk,nw wd,ci;wd,ch	0
+排序数组	de,pa hf,xu oa,fs ut,zu	0
+冗余字段	ux,ro sx,yu ph,zi rx,fd	0
+读出噪声	lp,dj r0,00;ri,ch kk,kx bh,ls	0
+拓扑超导	df,tu;df,ta dv,pu gz,kc jf,da	0
+聚变电站	jf,sj lv,fb nd,di gv,kz	0
+超导线圈	gz,kc jf,da uz,xi kg,sj	0
+残差网络	jz,ca wd,ci;wd,ch ur,rw uf,kl	0
+均值方差	ba,nj sp,tz lf,an wd,ci;wd,ch	0
+激光封边	cc,lf ih,gu bb,ff og,bi	0
+温感变频	cn,ow zk,jg lv,fb gg,fa	0
+挥手智控	du,gh ds,ho tk,nz dp,dk	0
+底盘加热	hh,uv go,pa ok,ji do,vr	0
+涂层内胆	cs,xt hn,ce us,ne mn,da	0
+塑钢框架	gm,bs zu,rg xi,fk ok,xj	0
+贴皮家具	av,kt up,i0 pw,ji ti,ju	0
+建筑隔声	fd,gj td,xz ik,ul bh,ls	0
+跑带面积	ga,jp rl,uy le,mi ok,ij	0
+坡度调节	bu,po hr,fd lu,bk rj,ji	0
+智能调阻	tk,nz j0,00;jm,hh lu,bk it,zu	0
+热力学熵	do,vr ol,i0 iu,hx vy,uk	0
+引力红移	xl,yi ol,i0 ud,ho on,ny	0
+氦原子核	nl,ha hc,iy hz,i0 xl,hu;xl,he	0
+黑洞吸积	vh,ei cu,kt;cu,kd kl,vx ok,ij	0
+磷酸基团	fo,ng eq,jf tb,ji kq,lm	0
+双盲对照	ff,sh lj,ma ff,du nz,kv	0
+# 医学与生物
+麸质过敏	rf,ws hp,az fg,gu ta,fm	0
+鼻头鼻翼	jb,qi jt,ou jb,qi ub,ri	0
+异尖线虫	jr,yi is,ji uz,xi ec,ho	0
+鼻腔粘膜	jb,qi mp,dq ov,kz;ov,kn mr,ns	0
+垂体分泌	lr,wc sx,ti iz,fe cj,mm;cj,mb	0
+晚期骨癌	na,kh tm,qi;tm,ji jg,u0 hk,ki	0
+胃癌筛查	bm,we hk,ki ti,qy xn,zh;xn,ch	0
+髌骨软骨	jp,ii jg,u0 gs,ru jg,u0	0
+枕下肌群	xu,hz vx,ia mx,ji fk,wq	0
+胸肌内侧	ma,ri mx,ji us,ne sa,zc	0
+双眼皮褶	ff,sh jf,yy up,i0 yu,cz	0
+角膜散光	ao,ju;ao,ji mr,ns rm,fs ih,gu	0
+层流病房	hn,ce cl,jc hq,us pl,fa	0
+病理会诊	hq,us fy,wl sn,ku;sn,hu ls,uz	0
+封存病历	bb,ff fl,hc hq,us ho,li	0
+颈后大包	cd,fa hk,ho sd,ai aj,ba	0
+造口形态	wk,gz kk,ou qr,ux sv,jt	0
+诊室美白	ls,uz pq,jb ws,me cb,ai	0
+鼻喷激素	jb,qi kp,ra cc,lf ru,su	0
+肠道粘膜	md,mm gj,gd ov,kz;ov,kn mr,ns	0
+省级三甲	ij,xi;ij,sh ul,vj es,an yj,ia	0
+思维反刍	bj,si ue,we hf,fa af,ch	0
+反刍思维	hf,fa af,ch bj,si ue,we	0
+阿尼姆斯	io,ke;io,ka hh,ni aa,mu tx,si	0
+荣格八维	ru,xr xf,kg ib,a0 ue,we	0
+# 学术与教育
+清北华五	cr,mq th,be sh,ph tw,u0	0
+北大软微	th,be sd,ai gs,ru gi,qf	0
+央财上财	us,ya aq,lm v0,00;vs,ha aq,lm	0
+北清复交	th,be cr,mq tn,ff yr,ji	0
+复旦经院	tn,ff nd,an uc,dj ip,qh	0
+协和北医	po,ix o0,00;ok,hu th,be it,yi	0
+首都经贸	gj,sh hn,id uc,dj hv,za	0
+剑桥学派	sz,ji xm,si iu,hx ch,my	0
+官话方言	pi,gu ll,kh lf,an ly,an	0
+南通方言	pu,gp jo,gt lf,an ly,an	0
+连读弱读	gg,li lp,dj xn,xn lp,dj	0
+熟词僻义	ph,ov ld,kc sh,kp vr,yi	0
+标日初级	xv,bi nr,i0 yz,ch ul,vj	0
+简答论述	tp,nj ts,kd ls,hl xv,gs	0
+毕设答辩	hp,bi lx,fs ts,kd gf,lp	0
+招收调剂	dz,kz dl,fs lu,bk li,zj	0
+低分高录	sh,uv iz,fe pu,kg fc,lu	0
+竞赛保送	gk,hj pr,ia sk,xb gs,gs	0
+押题讲义	dy,ya ng,fa lw,ij vr,yi	0
+核心考案	xl,hu;xl,he jx,in hk,ka pa,xa	0
+读博深造	lp,dj pb,fb cu,ix wk,gz	0
+顶会顶刊	of,ad sn,ku;sn,hu of,ad yz,ka	0
+央美造型	us,ya ws,me wk,gz qr,zb	0
+职业九段	jk,iz ry,e0 oj,iu rx,fd	0
+恋练有词	lv,jl uu,di fm,yo ld,kc	0
+# 金融与保险
+激进加息	cc,lf wi,gj ok,ji jj,xi	0
+抄底摸顶	di,ch hh,uv dr,ns of,ad	0
+潜在卖盘	cw,sn f0,00;fl,bz pd,jm go,pa	0
+潜在买盘	cw,sn f0,00;fl,bz dj,ma go,pa	0
+吸筹建仓	kl,vx te,mf fd,gj sj,ca	0
+临近交割	jt,kl xg,ji yr,ji pe,lz	0
+股债平衡	mx,fg sr,az yi,pi gq,sg	0
+股债利差	mx,fg sr,az oz,li wd,ci;wd,ch	0
+浦发转债	cb,pu df,vf gu,zh sr,az	0
+季度营收	oh,ji hr,fd ru,kk dl,fs	0
+券商直投	gs,zx;gs,zq yu,ik pt,zh dx,ft	0
+股东配售	mx,fg ui,do eq,jp ek,sh	0
+晨星评级	nn,ch nh,xi ly,ip ul,vj	0
+固收自营	km,gu dl,fs jz,i0 ru,kk	0
+食利阶层	os,hi oz,li is,ij hn,ce	0
+盐业专营	bv,oy ry,e0 uz,hu ru,kk	0
+盐业改革	bv,oy ry,e0 jf,ga ug,e0	0
+减保规则	nz,kj sk,xb ws,uh az,ze	0
+寿险保额	em,fs is,xi sk,xb pf,ka	0
+票据质押	ev,pi dh,mj hp,az dy,ya	0
+独家版权	we,du pw,ji th,fb xf,qu	0
+霸王条款	nu,mb fw,an fx,ti bv,sk	0
+# 游戏与动漫
+波克布林	cu,bo mh,ke fy,bu xl,in	0
+怨恨之鬼	nj,jy jf,yh gz,hi ch,jg	0
+亚顿之矛	qr,ya rf,ad gz,hi fm,ma	0
+虚空大君	wr,xu pd,ko sd,ai fk,ju	0
+启灵元神	pk,qi fv,li qh,yu vn,ls	0
+奈拉齐姆	sv,na dg,la li,qi aa,mu	0
+伊甸碎片	sf,yi ab,di fl,sp tp,ia	0
+风暴斗篷	xr,fe nr,ic np,do tf,eg	0
+精灵三戒	or,mj fv,li es,an zr,ji	0
+辛达精灵	gp,xi sg,da or,mj fv,li	0
+护送魔戒	dp,hu gs,gs hx,cj zr,ji	0
+御林铁卫	gt,qj xl,in zt,st jq,we	0
+神界原罪	vn,ls bs,ij hc,iy oe,zu	0
+神罗皇帝	vn,ls on,lu cf,hu yu,yd	0
+未元物质	xw,ei qh,yu wy,wu hp,az	0
+超兽战队	gz,kc ib,ks vk,zz is,du	0
+恰图兰卡	js,kq kf,nt gw,la vv,qi;vv,ka	0
+火红叶绿	vh,uo ud,ho kp,ye;kp,xi uf,cl	0
+湘北五虎	cx,jx th,be tw,u0 wx,hu	0
+双手大剑	ff,sh ds,ho sd,ai sz,ji	0
+希卡之石	rf,yx vv,qi;vv,ka gz,hi fs,hi;fd,an	0
+泰坦之灵	es,ct bn,ta gz,hi fv,li	0
+荒野女巫	rl,ch yw,fy an,v0 ds,sw	0
+荒地魔女	rl,ch b0,00;bl,di hx,cj an,v0	0
+免罪体质	ak,hm oe,zu sx,ti hp,az	0
+# 历史与人文
+隋末大乱	if,dm xm,o0 sd,ai lk,dl	0
+江南士绅	cd,ji pu,gp bs,hi un,ls	0
+楚系外戚	xd,gc mu,xi;mu,ji nv,wa zv,iq	0
+江东大族	cd,ji ui,do sd,ai lt,tz	0
+军功集团	ug,ju do,go ex,ji kq,lm	0
+灭东突厥	qv,mi ui,do pw,tu hg,sj	0
+波斯骑兵	cu,bo tx,si ws,ok ii,bi	0
+波黑塞族	cu,bo vh,ei pr,ib lt,tz	0
+旧式军队	ln,ji ud,sh ug,ju is,du	0
+住吉长屋	sv,fz bk,ji mq,dv hq,jb	0
+光之教堂	ih,gu gz,hi hh,fj ib,ta	0
+# 生活与网络
+翘二郎腿	um,hu we,r0 vf,ji mf,yg	0
+堆砌辞藻	be,du fu,zq lk,gp rc,kx	0
+吹牛打屁	ks,ch wn,iu do,da hh,pi	0
+厨房湿巾	ho,fc pl,fa cn,rs yj,in	0
+硬式壶铃	fq,nr ud,sh bu,rh zm,vl	0
+壶铃摆荡	bu,rh zm,vl do,bj rc,dm	0
+抖个机灵	dn,pd t0,00;tg,e0 xx,ji fv,li	0
+深蹲硬拉	cu,ix gi,ef fq,nr dg,la	0
+硬拉深蹲	fq,nr dg,la cu,ix gi,ef	0
+哑铃深蹲	kq,ry zm,vl cu,ix gi,ef	0
+双倍燃脂	ff,sh sg,kb vm,wv mh,nz	0
+燃脂心率	vm,wv mh,nz jx,in lu,cp	0
+拳击拳套	gs,dq di,ji gs,dq su,ta	0
+竞技反曲	gk,hj dp,fj hf,fa kr,qu	0
+板头板尾	xh,fb jt,ou xh,fb hu,yi;hu,we	0
+赛道圈速	pr,ia gj,gd kg,sj xk,gs	0
+泰山原浆	es,ct is,ha hc,iy tn,cj	0
+帝国世涛	yu,yd kf,vg rd,sh ce,mf	0
+淡色艾尔	cv,vd aw,sh;aw,se rr,yi;rr,ai ai,er	0
+德式小麦	gp,oj ud,sh ix,ia rf,ma	0
+德国黑啤	gp,oj kf,vg vh,ei kc,lp	0
+坤沙工艺	bn,lk ci,sh dg,on rd,yi	0
+纯粮固态	ur,ch ov,fy km,gu sv,jt	0
+六大基酒	yl,iu sd,ai tb,ji ce,qj	0
+精酿酒馆	or,mj eq,vy ce,qj op,ig	0
+滴滤咖啡	cy,um cw,jl ko,kk;ko,kg ke,fe	0
+冻干咖啡	nu,id yg,an ko,kk;ko,kg ke,fe	0
+低因咖啡	sh,uv ks,yi ko,kk;ko,kg ke,fe	0
+浅度烘焙	cz,qi hr,fd vr,ih vg,kb	0
+牛肉盖饭	wn,iu us,sr wo,ge;wo,ga oh,ff	0
+调理牛排	lu,bk fy,wl wn,iu de,pa	0
+熟铁炒锅	ph,ov zt,st vi,ch zk,us	0
+桃花芯木	xh,ct rs,hh rj,xi xm,u0	0
+豌豆颠儿	op,nj od,ou pt,ia he,r0	0
+蓝调口琴	rj,to lu,bk kk,ou ff,mq	0
+柱式和弦	xv,fz ud,sh o0,00;ok,hu xl,ux	0
+调式音阶	lu,bk ud,sh gn,yi is,ij	0
+右手拨弦	fk,yo ds,ho dd,fv xl,ux	0
+吉他指板	bk,ji sl,ta dh,nz xh,fb	0
+吉他扫弦	bk,ji sl,ta df,sa xl,ux	0
+哥特金属	ok,ok wb,ft zj,in hm,kw	0
+厄运金属	hj,e0 ng,yu zj,in hm,kw	0
+激流金属	cc,lf cl,jc zj,in hm,kw	0
+硬核朋克	fq,nr xl,hu;xl,he mm,pe mh,ke	0
+柴油朋克	gh,xc cb,yo mm,pe mh,ke	0
+芭乐情歌	rw,ba hi,yu;hi,le jr,mq ok,os	0
+抒情慢歌	df,sh jr,mq jn,of ok,os	0
+拉格泰姆	dg,la xf,kg es,ct aa,mu	0
+鼓和贝斯	op,fg o0,00;ok,hu ab,ei tx,si	0
+懒人花盆	jx,ka sr,en rs,hh iz,op	0
+海绵坐垫	ct,ah uc,ym ss,bz do,bd	0
+超轻粘土	gz,kc gc,dq ov,kz;ov,kn bt,u0	0
+固体水彩	km,gu sx,ti cs,hu ex,uc	0
+抗敏牙膏	dl,xk ta,fm jy,a0 pu,km	0
+画册排版	qb,ih uu,qc de,pa th,fb	0
+简体横排	tp,nj sx,ti xr,bi de,pa	0
+竖屏影视	jf,gs hg,rp;hg,rb np,iu vu,hs	0
+英剧美剧	ru,sy hm,zj ws,me hm,zj	0
+苏南浙北	ro,is pu,gp cd,xz th,be	0
+氪金抽卡	nm,hk zj,in db,ch vv,qi;vv,ka	0
+删评拉黑	uu,qz ly,ip dg,la vh,ei	0
+付费入圈	sf,fu xi,af mv,ru kg,sj	0
+带薪拉屎	rl,uy rg,xx dg,la ho,sh	0
+逼逼叨叨	kb,gb kb,gb kz,ta;kz,da kz,ta;kz,da	0
+神神叨叨	vn,ls vn,ls kz,ta;kz,da kz,ta;kz,da	0
+盐选会员	bv,oy wh,gx sn,ku;sn,hu ka,yu	0
+盐选专栏	bv,oy wh,gx uz,hu xg,wl	0
+
+# 2026-11-25 新增：知乎热榜缺词补录（人名已移至 name.dict.yaml）
+# 网络与热词
+丑狐	db,ch wo,hu	0
+老特	hh,la wb,ft	13
+战恐局	vk,zz dx,jk hd,kj	0
+干废	yg,an hd,fv	14
+# 常用与术语
+偏帮	sp,ur em,iy	17
+徒耗	gg,tu ou,ha	8
+镜映	zg,nh nu,sy	8
+
+# 2026-11-25 补：用户指定
+工作树	dg,on st,lw xf,fs	0
 

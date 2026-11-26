@@ -1347,3 +1347,377 @@ sort: by_weight
 老霉	hhla ntam	23
 蒋桃	rtnf xhct	22
 梁文峰	czix lwen ifel	100
+
+# 2026-11-25 新增：MNBVC 知乎语料人名（96 词）
+乌玛瑟曼	adqw fwma ffjm nofm	0
+霍恩海姆	nehu ksje ctah aamu	0
+乔伊波伊	msiq sfyi cubo sfyi	0
+乌尔波扎	adqw aier cubo ddza	0
+凯勒博恩	ijxk uole pbfb ksje	0
+杰森伯恩	xvji xxse scba ksje	0
+萨德侯爵	rigm gpoj sith eoff	0
+吉姆雷诺	bkji aamu nble lrfk	0
+蒂姆伯顿	ryuy aamu scba rfad	0
+冯诺伊曼	nwfe lrfk sfyi nofm	0
+梅罗维茨	xtam onlu uewe rnsc	0
+诺艾莉娅	lrfk rrai rozl aqry	0
+黑田兵卫	vhei btia iibi jqwe	0
+盖尔加朵	woga aier okji xxdu	0
+韦恩夫妇	ddwe ksje wsfu affu	0
+阿良良木	ioka vfyl vfyl xmu	0
+尼克弗瑞	hhni mhke xifu filr	0
+彼得帕克	gubi g ycpa mhke	0
+彼得林奇	gubi g xlin sokj	0
+艾尔利克	rrai aier ozli mhke	0
+乌弗瑞克	adqw xifu filr mhke	0
+哈维丹特	kskh uewe ulda wbft	0
+安田文彦	paan btia lwen gmuy	0
+克鲁夫妇	mhke qnlu wsfu affu	0
+乔治马丁	msiq cjkz wma odin	0
+强尼银手	xkej hhni zfyy dsho	0
+阿塔尼斯	ioka brsk hhni txsi	0
+沃卓斯基	cmsw vnzh txsi tbji	0
+范斯沃斯	rcjf txsi cmsw txsi	0
+灵顿公爵	fvli rfad ijgo eoff	0
+杜达梅尔	xbdu sgda xtam aier	0
+塞拉利尼	prib dgla ozli hhni	0
+雅罗米尔	jeya onlu omi aier	0
+米哈伊洛	omi kskh sfyi cfkl	0
+库兹涅茨	hgku guuc cnbn rnsc	0
+卢布廖夫	vhlu fybu husu wsfu	0
+贝内德克	abei usne gpoj mhke	0
+帕梅卡诺	ycpa xtam vvka lrfk	0
+拉文尼娅	dgla lwen hhni aqry	0
+克莱门扎	mhke rxil pmen ddza	0
+麦克德夫	rfma mhke gpoj wsfu	0
+奥兹曼迪	muos guuc nofm bgdi	0
+努得尔斯	afon g aier txsi	0
+杰森托德	xvji xxse dmut gpoj	0
+阿尔莫林	ioka aier rnsm xlin	0
+罗恩格林	onlu ksje xfkg xlin	0
+埃尔梅罗	bjta aier xtam onlu	0
+宫崎老贼	pkkg isok hhla azfz	0
+富坚老贼	pkbf jfbj hhla azfz	0
+宫部美雪	pkkg gkib wsme nfxu	0
+佐伯刚雄	sfdz scba urzg fjex	0
+鬼头真澄	chjg jtou ptiz cgoc	0
+御手洗洁	gtqj dsho cwhx cbkj	0
+塞尼斯托	prib hhni txsi dmut	0
+巴利斯坦	wba ozli txsi bnta	0
+阿尔菲诺	ioka aier refe lrfk	0
+右方之火	fkyo lfan gzhi vhuo	0
+亚西比德	qrya exi hbi gpoj	0
+阿克洛夫	ioka mhke cfkl wsfu	0
+贝肯斯坦	abei gmke txsi bnta	0
+席德梅尔	hryx gpoj xtam aier	0
+帕海贝尔	ycpa ctah abei aier	0
+巴纳巴斯	wba uusn wba txsi	0
+青田龙彦	rmqi btia wmlo gmuy	0
+船越文夫	gxkc gdzy lwen wsfu	0
+野牛比尔	ywfy wniu hbi aier	0
+海门罗斯	ctah pmen onlu txsi	0
+南宫残花	pugp pkkg jzca rshh	0
+山际真晃	isha ivji ptiz nihh	0
+谢熊猫君	ljfx jmhv wrbm fkju	0
+野边将广	ywfy ogbi tnfj hgua	0
+角田大帝	aoji btia sda yuyd	0
+善宇妈妈	wgks pwly awma awma	0
+超级小桀	gzkc ulvj ixia ngxj	0
+鸟岛和彦	enia eida o gmuy	0
+埃兰迪尔	bjta gwla bgdi aier	0
+伊露维塔	sfyi ngfk uewe brsk	0
+骨咄禄	jgu krid vfcl	0
+异牟寻	jryi jwmo ffxu	0
+凑佳苗	nesn sbbj rbmi	0
+猿田彦	wbky btia gmuy	0
+欧班农	irso fifb uyno	0
+白南准	cbai pugp nezh	0
+全泰壹	sfqu esct buoy	0
+黑部进	vhei gkib wigj	0
+泷泽朗	cwml cfdz vfjm	0
+团时朗	kqlm nfsh vfjm	0
+良木健	vfyl xmu sfdg	0
+室点密	pqjb vkvd pjmi	0
+渊男建	cioy bona fdgj	0
+巴迪欧	wba bgdi irso	0
+伊内兹	sfyi usne guuc	0
+美夜子	wsme lsnv hzi	0
+雪代巴	nfxu suda wba	0
+英瓦尔	rusy owa aier	0
+
+# 2026-11-25 迁移：others.dict.yaml 中的人名/角色名（277 条）
+曲彤	krqu ulut	0
+季洁	ohji cbkj	0
+常威	iych zawe	0
+罗维	onlu uewe	0
+刘洵	lzli canx	0
+王茜	fwan reqi	0
+何铸	sokh zemf	0
+苏护	rois dphu	0
+梅伯	xtam scba	0
+殷郊	hfdf yrij	0
+董路	rlnw gfkl	0
+庞颖	hwmp hofa	0
+刘恋	lzli lvjl	0
+薛静	rmip rmal	0
+方证	lfan lgzh	0
+刘雯	lzli nlwe	0
+黄斌	rbih lqug	0
+华杉	shph xush	0
+苏群	rois fkwq	0
+冯禧	nwfe vokx	0
+谢欣	ljfx xsxi	0
+毕赣	hpbi gnfa	0
+谌龙	ltdc wmlo	0
+陈梦	iuic xnme	0
+陈念	iuic mjni	0
+陈识	iuic lkis	0
+陈汤	iuic cdmm	0
+陈余	iuic sxyu	0
+邓伦	fide sshl	0
+丁蟹	odin aoze	0
+丁修	odin slfu	0
+杜尚	xbdu isha	0
+樊登	xrrs gode	0
+范遥	rcjf eogy	0
+高迪	pukg bgdi	0
+韩琛	pndd fuix	0
+胡万	mmhu lmo	0
+黄昆	rbih nhku	0
+吉鲁	bkji qnlu	0
+蒋凡	rtnf xfan	0
+柯本	xokk xben	0
+寇森	pqhf xxse	0
+乐佩	hile sxqy	0
+黎笋	oamc tfsu	0
+李现	xhli fuhx	0
+李想	xhli xjjx	0
+龙且	wmlo tqie	0
+卢尼	vhlu hhni	0
+陆议	idil lvry	0
+罗根	onlu xfyg	0
+马兆	wma hczh	0
+南烈	pugp jzvl	0
+裴炎	eype vvya	0
+彭磊	oupe fffl	0
+苏东	rois uido	0
+田言	btia lyan	0
+王弗	fwan xifu	0
+王进	fwan wigj	0
+谢怜	ljfx jmvl	0
+谢林	ljfx xlin	0
+薛绍	rmip uzks	0
+颜路	gmua gfkl	0
+杨雄	xdmm fjex	0
+叶修	kpxi slfu	0
+叶芝	kpxi rgzh	0
+伊戈	sfyi zge	0
+伊角	sfyi aoji	0
+殷离	hfdf liwl	0
+袁华	bkyy shph	0
+甄洛	eboz cfkl	0
+郑娟	gsiz akmj	0
+周洋	ubkz cwya	0
+安溥	paan cbfp	0
+边沁	ogbi cjqi	0
+陈欧	iuic irso	0
+程维	okfc uewe	0
+褚赢	yhnc lmax	0
+崔泽	iecu cfdz	0
+董平	rlnw yipi	0
+费马	xiaf wma	0
+盖蒂	woga ryuy	0
+耿浩	jvge cwkh	0
+蒋勋	rtnf kaox	0
+蒋英	rtnf rusy	0
+孔卡	hdko vvka	0
+马奎	wma sbbk	0
+齐衡	liqi gqsg	0
+乔托	msiq dmut	0
+苏烈	rois jzvl	0
+苏颂	rois ijfa	0
+田荣	btia ruxr	0
+卫宫	jqwe pkkg	0
+宣姜	pqnx waji	0
+伊姆	sfyi aamu	0
+詹俊	ahil sjif	0
+赵盾	grzh hpjd	0
+赵雍	grzh luey	0
+周源	ubkz chci	0
+卓伟	vnzh sddw	0
+李涯	xhli chbb	0
+殷洪	hfdf crih	0
+余化	sxyu shhu	0
+李艮	xhli fyge	0
+敖光	rafa ihgu	0
+李李	xhli xhli	0
+李琦	xhli fsok	0
+肖奈	imxi svna	0
+夏达	fjfx sgda	0
+夏言	fjfx lyan	0
+林昭	xlin nzkz	0
+郭登	phig gode	0
+刘娥	lzli amdv	0
+李婧	xhli armj	0
+仇远	soch qhgy	0
+李矛	xhli fmma	0
+郑刚	gsiz urzg	0
+陈佳	iuic sbbj	0
+王棋	fwan xtqi	0
+周铭	ubkz znkm	0
+王星	fwan nhxi	0
+高叶	pukg kpxi	0
+赵涛	grzh cemf	0
+包丽	ajba quvv	0
+陆婷	idil apuo	0
+师哲	iqys dxkz	0
+范祥	rcjf vwxi	0
+卢拉	vhlu dgla	0
+解缙	aozw uqrn	0
+张彻	xmqv guzc	0
+陈熠	iuic vucy	0
+刘畅	lzli nldm	0
+金俗	zjin sisk	0
+牛耿	wniu jvge	0
+周军	ubkz ugju	0
+付鹏	sffu mmep	0
+程东	okfc uido	0
+吴曦	knwu nwov	0
+李凤	xhli xffe	0
+麦林	rfma xlin	0
+卓定	vnzh pqgd	0
+成毅	z gwxf	0
+祝炜	vkhz vddw	0
+陈默	iuic vwmo	0
+刘明远	lzli nmmi qhgy	0
+王义为	fwan vryi vovw	0
+卢虹贝	vhlu edho abei	0
+柳坤生	xhmj bnlk hshe	0
+宋尔卫	pxso aier jqwe	0
+穆丽尔	ociu quvv aier	0
+赵松源	grzh xijs chci	0
+李若朴	xhli rfkr xvpi	0
+徐景昌	gsxx npij nnch	0
+林明杰	xlin nmmi xvji	0
+毛修之	umao slfu gzhi	0
+韩庆川	pndd hsqi cchu	0
+杨瀚森	xdmm cpnu xxse	0
+徐湖平	gsxx cmmh yipi	0
+朱跃军	mxzh gmsy ugju	0
+谢什科	ljfx spsh onpk	0
+张子勇	xmqv hzi jooy	0
+王仲方	fwan sklz lfan	0
+潘展乐	coib hryz hile	0
+王占金	fwan vkzh zjin	0
+高继能	pukg uodj j	0
+卢特尼克	vhlu wbft hhni mhke	0
+王朱悦	fwan mxzh jikh	0
+卢美琳	vhlu wsme fxli	0
+曾克理	ikin mhke fywl	0
+章亦君	gnzh lvyi fkju	0
+边居寒	ogbi hmju prin	0
+井有正	wiji fmyo gzhe	0
+吕宗方	kklv pvzo lfan	0
+杨角风	xdmm aoji xrfe	0
+任少芬	slqr isha rizf	0
+侯峒曾	sith iukd ikin	0
+侯岐曾	sith ipfq ikin	0
+黄渊耀	rbih cioy ihue	0
+季逸超	ohji akhg gzkc	0
+罗福莉	onlu vkbf rozl	0
+陈妤颉	iuic afyu bkfa	0
+周吉婕	ubkz bkji aqfg	0
+沈伯洋	cuhs scba cwya	0
+牟倩文	jwmo srmq lwen	0
+魏超仁	oacj gzkc swre	0
+魏清涛	oacj crmq cemf	0
+明学昌	nmmi iuhx nnch	0
+查拉耶娃	xnch dgla jiye abbw	0
+姚令言	ahcy mvli lyan	0
+段文楚	rxfd lwen xdgc	0
+毕自肃	hpbi jzi fiis	0
+骆明楷	wfkl nmmi xhcj	0
+欧律诺墨	irso gfdl lrfk vbmo	0
+杜进忠	xbdu wigj kljz	0
+宋进喜	pxso wigj okxi	0
+刘进喜	lzli wigj okxi	0
+王库儿	fwan hgku her	0
+魏进忠	oacj wigj kljz	0
+张孚敬	xmqv ehfu rakf	0
+赵星棠	grzh nhxi ixta	0
+黄媛介	rbih aewf siji	0
+石昱莉	fdan ngyu rozl	0
+马伊俐	wma sfyi sozl	0
+田柯宇	btia xokk pwly	0
+吴亚存	knwu qrya flhc	0
+崔添翼	iecu cnjt ubri	0
+梁文锋	czix lwen zfel	0
+丁奕可	odin lvsy okke	0
+丁善玺	odin wgks aifv	0
+史楚金	krsh xdgc zjin	0
+姚继荣	ahcy uodj ruxr	0
+李定保	xhli pqgd skxb	0
+叶志铭	kpxi bjzh znkm	0
+徐冰洁	gsxx ncbi cbkj	0
+徐若晗	gsxx rfkr nmkh	0
+马杜埃凯	wma xbdu bjta ijxk	0
+巴尔代拉	wba aier suda dgla	0
+黄伯央	rbih scba usya	0
+邱祺缘	iiqi vtqi uwwy	0
+卜庆启	vbo hsqi pkqi	0
+潘家铮	coib pwji zafl	0
+邓浩洪	fide cwkh crih	0
+兰克尔泽	gwla mhke aier cfdz	0
+曾艳芬	ikin elaw rizf	0
+曹晚植	rnnc nakh xptz	0
+曾纪鸿	ikin ujji cdeh	0
+钱乃荣	zzqi lnai ruxr	0
+杨植麟	xdmm xptz wong	0
+陈宇森	iuic pwly xxse	0
+李孟贤	xhli home jfax	0
+邓连松	fide ggli xijs	0
+吴正结	knwu gzhe ubkj	0
+严柳晴	qrmy xhmj nrmq	0
+钟淑如	zklz cvif akru	0
+侯卓成	sith vnzh z	0
+杨汝晴	xdmm caru nrmq	0
+周沁瑶	ubkz cjqi feoy	0
+任冲昊	slqr nklc nnha	0
+胡荷韬	mmhu rsok ddeb	0
+马马杜	wma wma xbdu	0
+吴奕博	knwu lvsy pbfb	0
+李绮红	xhli usok udho	0
+梁其伟	czix tqi sddw	0
+宋年欢	pxso tgni fshu	0
+朱见泽	mxzh uhji cfdz	0
+费登奎斯	xiaf gode sbbk txsi	0
+贺炳炎	okah vqus vvya	0
+朱阔泉	mxzh pclk ccqu	0
+黄佐临	rbih sfdz jtkl	0
+文吉儿	lwen bkji her	0
+蓝鸿春	rjto cdeh esnc	0
+郑长符	gsiz mqdv tsff	0
+付义涵	sffu vryi chci	0
+王钰栋	fwan zfvy xuid	0
+李行亮	xhli ggha puxl	0
+鲁提辖	qnlu dngd gpek	0
+关肇直	gsgu pffd ptzh	0
+姚顺雨	ahcy cfas nyu	0
+吴定缘	knwu pqgd uwwy	0
+苏荆溪	rois rqrz ceus	0
+卞赫俊	vvbi bvbv sjif	0
+周晟安	ubkz nzdc paan	0
+宋知节	pxso tkzh rjji	0
+白清枚	cbai crmq xfme	0
+钱小卉	zzqi ixia prhu	0
+宋欣桥	pxso xsxi xmsi	0
+邝兆雷	hiku hczh nble	0
+庞众望	hwmp sssz lmfw	0
+林小枫	xlin ixia xxrf	0
+闻会军	pjwe snhu ugju	0
+高市早苗	pukg lysh nzao rbmi	0
+浩锡	cwkh znyx	0
+艺珍	rdyi fsuz	0
+尚宇	isha pwly	0
+子乔	hzi msiq	0
+舒默	smfs vwmo	0
