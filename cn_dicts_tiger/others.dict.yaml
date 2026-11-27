@@ -4973,3 +4973,9 @@ sort: by_weight
 鱼灯	wv,00;wv,v0 ca,d0;ca,00	2
 回以	rd,k0;rd,00 vj,r0;vj,00	40
 
+# 2026-11-27 新增：知乎热榜缺词（4 词）
+神七	fo,gs rq,00	25
+登子	hz,d0;hz,00 hi,00	39
+简文	ra,or;ra,00 vw,00	74
+蜡牌	cl,or au,tn	0
+
