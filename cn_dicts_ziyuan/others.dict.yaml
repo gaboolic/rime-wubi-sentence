@@ -4887,3 +4887,9 @@ sort: by_weight
 # 2026-11-25 补：用户指定
 工作树	dg,on st,lw xf,fs	0
 
+# 2026-11-26 新增：知乎热榜缺词（4 词）
+拉爆	dg,la vn,rc	49
+日娱	nr,i0 ak,ny	10
+鱼灯	qy,u0 vo,de	2
+回以	kh,ui d0,00;dv,sy	40
+
