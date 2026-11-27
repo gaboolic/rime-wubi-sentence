@@ -4967,3 +4967,9 @@ sort: by_weight
 # 2026-11-25 补：用户指定
 工作树	ug,00 jw,a0;jw,00 er,kc	0
 
+# 2026-11-26 新增：知乎热榜缺词（4 词）
+拉爆	ui,l0;ui,00 co,lk	49
+日娱	or,00 bd,fm	10
+鱼灯	wv,00;wv,v0 ca,d0;ca,00	2
+回以	rd,k0;rd,00 vj,r0;vj,00	40
+
